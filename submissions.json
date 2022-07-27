@@ -1,4 +1,20 @@
 {
+  "AC33547446": {
+    "contest_id": "abc260",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc260/A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "A Unique Letter",
+    "problem_url": "https://atcoder.jp/contests/abc260/tasks/abc260_a",
+    "submission_id": "AC33547446",
+    "submission_url": "https://atcoder.jp/contests/abc260/submissions/33547446",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/27/2022 11:34"
+  },
   "AC33560350": {
     "contest_id": "abc260",
     "language": "Python (3.8.2)",
