@@ -1,4 +1,20 @@
 {
+  "AC33546173": {
+    "contest_id": "abc259",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc259/A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Growth Record",
+    "problem_url": "https://atcoder.jp/contests/abc259/tasks/abc259_a",
+    "submission_id": "AC33546173",
+    "submission_url": "https://atcoder.jp/contests/abc259/submissions/33546173",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/27/2022 10:18"
+  },
   "AC33546562": {
     "contest_id": "abc259",
     "language": "Python (3.8.2)",
