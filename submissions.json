@@ -1,4 +1,20 @@
 {
+  "AC33546562": {
+    "contest_id": "abc259",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc259/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Counterclockwise Rotation",
+    "problem_url": "https://atcoder.jp/contests/abc259/tasks/abc259_b",
+    "submission_id": "AC33546562",
+    "submission_url": "https://atcoder.jp/contests/abc259/submissions/33546562",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/27/2022 10:44"
+  },
   "AC33547446": {
     "contest_id": "abc260",
     "language": "Python (3.8.2)",
