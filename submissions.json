@@ -1,4 +1,20 @@
 {
+  "AC33560350": {
+    "contest_id": "abc260",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc260/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Better Students Are Needed!",
+    "problem_url": "https://atcoder.jp/contests/abc260/tasks/abc260_b",
+    "submission_id": "AC33560350",
+    "submission_url": "https://atcoder.jp/contests/abc260/submissions/33560350",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/28/2022 01:29"
+  },
   "AC33571147": {
     "contest_id": "abc260",
     "language": "Python (3.8.2)",
