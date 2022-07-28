@@ -1,4 +1,20 @@
 {
+  "AC33571147": {
+    "contest_id": "abc260",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc260/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Changing Jewels",
+    "problem_url": "https://atcoder.jp/contests/abc260/tasks/abc260_c",
+    "submission_id": "AC33571147",
+    "submission_url": "https://atcoder.jp/contests/abc260/submissions/33571147",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/28/2022 16:04"
+  },
   "AC33663715": {
     "contest_id": "abc262",
     "language": "Python (3.8.2)",
