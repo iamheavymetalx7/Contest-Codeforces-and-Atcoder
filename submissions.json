@@ -1,4 +1,20 @@
 {
+  "AC33663715": {
+    "contest_id": "abc262",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc262/A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "World Cup",
+    "problem_url": "https://atcoder.jp/contests/abc262/tasks/abc262_a",
+    "submission_id": "AC33663715",
+    "submission_url": "https://atcoder.jp/contests/abc262/submissions/33663715",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/31/2022 17:36"
+  },
   "AC36602237": {
     "contest_id": "abc278",
     "language": "Python (3.8.2)",
