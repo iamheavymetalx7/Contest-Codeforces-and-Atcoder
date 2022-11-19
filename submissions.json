@@ -1,4 +1,20 @@
 {
+  "AC36602237": {
+    "contest_id": "abc278",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc278/A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Shift",
+    "problem_url": "https://atcoder.jp/contests/abc278/tasks/abc278_a",
+    "submission_id": "AC36602237",
+    "submission_url": "https://atcoder.jp/contests/abc278/submissions/36602237",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/19/2022 17:34"
+  },
   "AC36645520": {
     "contest_id": "abc278",
     "language": "Python (3.8.2)",
