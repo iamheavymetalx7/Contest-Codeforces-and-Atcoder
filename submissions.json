@@ -1,4 +1,20 @@
 {
+  "AC36653988": {
+    "contest_id": "abc278",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc278/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "All Assign Point Add",
+    "problem_url": "https://atcoder.jp/contests/abc278/tasks/abc278_d",
+    "submission_id": "AC36653988",
+    "submission_url": "https://atcoder.jp/contests/abc278/submissions/36653988",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/20/2022 01:52"
+  },
   "AC36682758": {
     "contest_id": "arc152",
     "language": "Python (3.8.2)",
