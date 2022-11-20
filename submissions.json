@@ -1,4 +1,20 @@
 {
+  "AC36682758": {
+    "contest_id": "arc152",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/arc152/A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Seat Occupation",
+    "problem_url": "https://atcoder.jp/contests/arc152/tasks/arc152_a",
+    "submission_id": "AC36682758",
+    "submission_url": "https://atcoder.jp/contests/arc152/submissions/36682758",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/20/2022 19:24"
+  },
   "AC36953198": {
     "contest_id": "abc280",
     "language": "Python (3.8.2)",
