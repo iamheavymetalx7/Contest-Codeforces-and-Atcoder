@@ -1,4 +1,22 @@
 {
+  "CF182286832": {
+    "contest_id": 1744,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1744/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Traffic Light",
+    "problem_url": "https://codeforces.com/contest/1744/problem/C",
+    "submission_id": "CF182286832",
+    "submission_url": "https://codeforces.com/contest/1744/submission/182286832",
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "Nov/24/2022 00:30"
+  },
   "CF182323589": {
     "contest_id": 1761,
     "language": "PyPy 3-64",
