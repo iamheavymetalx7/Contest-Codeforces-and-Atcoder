@@ -1,4 +1,23 @@
 {
+  "CF182323589": {
+    "contest_id": 1761,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1761/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Set Construction",
+    "problem_url": "https://codeforces.com/contest/1761/problem/C",
+    "submission_id": "CF182323589",
+    "submission_url": "https://codeforces.com/contest/1761/submission/182323589",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Nov/24/2022 12:49"
+  },
   "CF182359273": {
     "contest_id": 1744,
     "language": "PyPy 3-64",
