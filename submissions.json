@@ -1,4 +1,22 @@
 {
+  "CF182390349": {
+    "contest_id": 1699,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1699/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Third Problem",
+    "problem_url": "https://codeforces.com/contest/1699/problem/C",
+    "submission_id": "CF182390349",
+    "submission_url": "https://codeforces.com/contest/1699/submission/182390349",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Nov/24/2022 23:27"
+  },
   "CF182393021": {
     "contest_id": 1692,
     "language": "PyPy 3-64",
