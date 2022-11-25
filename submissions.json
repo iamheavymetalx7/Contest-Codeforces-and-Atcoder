@@ -1,4 +1,22 @@
 {
+  "CF182432271": {
+    "contest_id": 1709,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1709/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Also Try Minecraft",
+    "problem_url": "https://codeforces.com/contest/1709/problem/B",
+    "submission_id": "CF182432271",
+    "submission_url": "https://codeforces.com/contest/1709/submission/182432271",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Nov/25/2022 12:57"
+  },
   "CF182448456": {
     "contest_id": 1743,
     "language": "PyPy 3-64",
