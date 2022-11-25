@@ -1,4 +1,20 @@
 {
+  "CF182557635": {
+    "contest_id": 1758,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1758/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "XOR = Average",
+    "problem_url": "https://codeforces.com/contest/1758/problem/B",
+    "submission_id": "CF182557635",
+    "submission_url": "https://codeforces.com/contest/1758/submission/182557635",
+    "tags": [
+      "constructive algorithms",
+      "*900"
+    ],
+    "timestamp": "Nov/26/2022 00:43"
+  },
   "CF182558357": {
     "contest_id": 1758,
     "language": "PyPy 3-64",
