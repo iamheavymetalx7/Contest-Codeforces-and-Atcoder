@@ -1,4 +1,21 @@
 {
+  "CF182558357": {
+    "contest_id": 1758,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1758/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "SSeeeeiinngg DDoouubbllee",
+    "problem_url": "https://codeforces.com/contest/1758/problem/A",
+    "submission_id": "CF182558357",
+    "submission_url": "https://codeforces.com/contest/1758/submission/182558357",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/26/2022 00:49"
+  },
   "CF182589592": {
     "contest_id": 1742,
     "language": "PyPy 3-64",
