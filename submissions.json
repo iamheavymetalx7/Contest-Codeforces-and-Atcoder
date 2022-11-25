@@ -1,4 +1,21 @@
 {
+  "CF182423836": {
+    "contest_id": 1735,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1735/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tea with Tangerines",
+    "problem_url": "https://codeforces.com/contest/1735/problem/B",
+    "submission_id": "CF182423836",
+    "submission_url": "https://codeforces.com/contest/1735/submission/182423836",
+    "tags": [
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/25/2022 10:53"
+  },
   "CF182426416": {
     "contest_id": 1705,
     "language": "PyPy 3-64",
