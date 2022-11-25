@@ -10,8 +10,9 @@ import heapq
 def lcm(a, b):
     return (a*b)//(math.gcd(a,b))
  
+##      implementation     # #
+# # # # # # # # # # # # # # # #
 
-''' Approach 1:
 def solve(t):
     n=int(input())
     s = list(input())+["2"]
@@ -35,45 +36,9 @@ def solve(t):
             to_ret+=a[i]
         i+=1
     print(to_ret)
-'''
 
-## approach 2:
 
     
-def solve(t):
-    n=int(input())
-    s = input()
-    a=list(map(int, input().split()))
-    to_ret=0
-    stack = []
-
-    for i,c in enumerate(s):
-
-        if c=="1":
-            if not stack:
-                to_ret+=a[i]
-            else:
-                stack.append(a[i])
-        else:
-            if not stack:
-                stack.append(a[i])
-            elif len(stack)==1:
-                stack[0]=a[i]
-            else:
-                to_ret+=sum(stack)-min(stack)
-                stack=[a[i]]
-    if stack:
-        to_ret+=sum(stack)-min(stack)
-
-    print(to_ret)
-        
-
-
-
-
-
- 
-
 
 
  
