@@ -1,4 +1,21 @@
 {
+  "CF182419037": {
+    "contest_id": 1692,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1692/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "All Distinct",
+    "problem_url": "https://codeforces.com/contest/1692/problem/B",
+    "submission_id": "CF182419037",
+    "submission_url": "https://codeforces.com/contest/1692/submission/182419037",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/25/2022 09:09"
+  },
   "CF182423836": {
     "contest_id": 1735,
     "language": "PyPy 3-64",
