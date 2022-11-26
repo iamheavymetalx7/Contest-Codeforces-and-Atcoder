@@ -1,5 +1,4 @@
-## using cumulative sum / prefix sum approach
-## https://codeforces.com/contest/1760/submission/181992973
+##
 import sys, threading
 import math
 import time
@@ -19,29 +18,38 @@ import heapq
 def lcm(a, b):
     return (a*b)//(math.gcd(a,b))
  
-def findmaxk(l,r,a,c,d,cummul):
-    ans=0
+def findmaxk(l,r,a,c,d):
     while l<=r:
         mid=(r+l)//2
 
-        if check(a,mid,c,d,cummul):
+        if check(a,mid,c,d):
             ans=mid
             l=mid+1
         else:
             r=mid-1
     return ans
 
-def check(a,k,c,d,cummul):
+def check(a,k,c,d):
     n=len(a)
     k=k+1
-    times=d//k
-    total = times*cummul[min(k-1,n-1)]
+    if k<=n:
+        sub=a[:k]
+    else:
+        sub=list(a)
+        for i in range(k-n):
+            sub.append(0)
 
-    if d%k>0:
-        q=min((d%k)-1 , n-1)
-        total+=cummul[q]
+    time=d//k
+    cur_sum = time*sum(sub)
 
-    return total>=c
+    d%=k
+
+    for i in range(d):
+        cur_sum+=sub[i]
+
+    return cur_sum>=c
+
+
 
 
 def solve(t):
@@ -58,7 +66,7 @@ def solve(t):
     if a[0]*d < c:
         print('Impossible')
         return
-    print(findmaxk(0,d+10,a,c,d,cummul))
+    print(findmaxk(0,d+10,a,c,d))
 
 
 
