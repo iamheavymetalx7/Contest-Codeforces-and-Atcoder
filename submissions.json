@@ -1,4 +1,20 @@
 {
+  "CF182681466": {
+    "contest_id": 1764,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1764/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Doremy's Paint",
+    "problem_url": "https://codeforces.com/contest/1764/problem/A",
+    "submission_id": "CF182681466",
+    "submission_url": "https://codeforces.com/contest/1764/submission/182681466",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Nov/26/2022 20:44"
+  },
   "CF182735853": {
     "contest_id": 1764,
     "language": "PyPy 3-64",
