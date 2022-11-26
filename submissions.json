@@ -1,4 +1,21 @@
 {
+  "CF182674485": {
+    "contest_id": 1764,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1764/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Doremy's Perfect Math Class",
+    "problem_url": "https://codeforces.com/contest/1764/problem/B",
+    "submission_id": "CF182674485",
+    "submission_url": "https://codeforces.com/contest/1764/submission/182674485",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Nov/26/2022 20:21"
+  },
   "CF182681466": {
     "contest_id": 1764,
     "language": "PyPy 3-64",
