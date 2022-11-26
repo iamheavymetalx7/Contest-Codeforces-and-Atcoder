@@ -1,5 +1,5 @@
-## original slon:
-
+## using cumulative sum / prefix sum approach
+## https://codeforces.com/contest/1760/submission/181992973
 import sys, threading
 import math
 import time
@@ -19,53 +19,48 @@ import heapq
 def lcm(a, b):
     return (a*b)//(math.gcd(a,b))
  
-def findmaxk(l,r,a,c,d):
+def findmaxk(l,r,a,c,d,cummul):
+    ans=0
     while l<=r:
         mid=(r+l)//2
-        if check(a,mid,c,d):
+
+        if check(a,mid,c,d,cummul):
             ans=mid
             l=mid+1
         else:
             r=mid-1
     return ans
 
-def check(a,k,c,d):
-    k=k+1
+def check(a,k,c,d,cummul):
     n=len(a)
-    if k<=n:
-        sub=a[:k]
-    else:
-        sub=list(a)
-        for i in range(k-n):
-            sub.append(0)
+    k=k+1
+    times=d//k
+    total = times*cummul[min(k-1,n-1)]
 
-    time=d//k
-    cur_sum = time*sum(sub)
+    if d%k>0:
+        q=min((d%k)-1 , n-1)
+        total+=cummul[q]
 
-    d%=k
-
-    for i in range(d):
-        cur_sum+=sub[i]
-
-    return cur_sum>=c
-
-
+    return total>=c
 
 
 def solve(t):
-    n,c,d=map(int, input().split())
-    a_i = list(map(int, input().split()))
+    n, c, d = (int(i) for i in input().split())
+    a = [int(i) for i in input().split()]
+    a.sort(reverse=True)
+    cummul = [0]*n
+    cummul[0] = a[0]
+    for i in range(1, n):
+        cummul[i] = cummul[i-1] + a[i]
+    if sum(a[:d]) >= c:
+        print('Infinity')
+        return
+    if a[0]*d < c:
+        print('Impossible')
+        return
+    print(findmaxk(0,d+10,a,c,d,cummul))
 
-    a_i.sort(reverse=True)  ##greedily picking the coins
-    sub_a=a_i[:d]
 
-    if sum(sub_a)>=c:
-        print ("Infinity")
-    else:
-        if  a_i[0]*d<c:
-            print("Impossible")
-        else:
-            print(findmaxk(0,d+10,a_i,c,d))
 
 
 def main():

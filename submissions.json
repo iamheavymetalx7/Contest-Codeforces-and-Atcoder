@@ -1,4 +1,22 @@
 {
+  "CF182621270": {
+    "contest_id": 1760,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1760/F.py",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Quests",
+    "problem_url": "https://codeforces.com/contest/1760/problem/F",
+    "submission_id": "CF182621270",
+    "submission_url": "https://codeforces.com/contest/1760/submission/182621270",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Nov/26/2022 14:47"
+  },
   "CF182621564": {
     "contest_id": 1760,
     "language": "PyPy 3-64",
