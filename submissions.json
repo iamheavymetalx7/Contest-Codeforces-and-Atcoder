@@ -1,4 +1,25 @@
 {
+  "CF182913838": {
+    "contest_id": 1730,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1730/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Meeting on the Line",
+    "problem_url": "https://codeforces.com/contest/1730/problem/B",
+    "submission_id": "CF182913838",
+    "submission_url": "https://codeforces.com/contest/1730/submission/182913838",
+    "tags": [
+      "binary search",
+      "geometry",
+      "greedy",
+      "implementation",
+      "math",
+      "ternary search",
+      "*1600"
+    ],
+    "timestamp": "Nov/27/2022 19:32"
+  },
   "CF182934265": {
     "contest_id": 1758,
     "language": "PyPy 3-64",
