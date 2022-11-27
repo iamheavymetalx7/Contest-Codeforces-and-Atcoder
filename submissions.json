@@ -1,4 +1,22 @@
 {
+  "CF182760218": {
+    "contest_id": 1753,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1753/A1.py",
+    "platform": "Codeforces",
+    "problem_index": "A1",
+    "problem_name": "Make Nonzero Sum (easy version)",
+    "problem_url": "https://codeforces.com/contest/1753/problem/A1",
+    "submission_id": "CF182760218",
+    "submission_url": "https://codeforces.com/contest/1753/submission/182760218",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Nov/27/2022 15:08"
+  },
   "CF182772759": {
     "contest_id": 1729,
     "language": "PyPy 3-64",
