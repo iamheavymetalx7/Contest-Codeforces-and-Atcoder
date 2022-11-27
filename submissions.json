@@ -1,4 +1,22 @@
 {
+  "CF182736622": {
+    "contest_id": 347,
+    "language": "PyPy 3-64",
+    "path": "codeforces/347/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Alice and Bob",
+    "problem_url": "https://codeforces.com/contest/347/problem/C",
+    "submission_id": "CF182736622",
+    "submission_url": "https://codeforces.com/contest/347/submission/182736622",
+    "tags": [
+      "games",
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Nov/27/2022 09:06"
+  },
   "CF182739506": {
     "contest_id": 492,
     "language": "PyPy 3-64",
