@@ -1,4 +1,21 @@
 {
+  "CF182934265": {
+    "contest_id": 1758,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1758/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Almost All Multiples",
+    "problem_url": "https://codeforces.com/contest/1758/problem/C",
+    "submission_id": "CF182934265",
+    "submission_url": "https://codeforces.com/contest/1758/submission/182934265",
+    "tags": [
+      "greedy",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Nov/27/2022 22:40"
+  },
   "CF182966714": {
     "contest_id": 1749,
     "language": "PyPy 3-64",
