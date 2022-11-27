@@ -1,4 +1,23 @@
 {
+  "CF182739683": {
+    "contest_id": 492,
+    "language": "PyPy 3-64",
+    "path": "codeforces/492/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vanya and Lanterns",
+    "problem_url": "https://codeforces.com/contest/492/problem/B",
+    "submission_id": "CF182739683",
+    "submission_url": "https://codeforces.com/contest/492/submission/182739683",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Nov/27/2022 10:18"
+  },
   "CF182760218": {
     "contest_id": 1753,
     "language": "PyPy 3-64",
