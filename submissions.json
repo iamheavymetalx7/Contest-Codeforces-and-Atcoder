@@ -1,4 +1,24 @@
 {
+  "CF182971376": {
+    "contest_id": 1324,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1324/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Frog Jumps",
+    "problem_url": "https://codeforces.com/contest/1324/problem/C",
+    "submission_id": "CF182971376",
+    "submission_url": "https://codeforces.com/contest/1324/submission/182971376",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/28/2022 11:23"
+  },
   "CF183001210": {
     "contest_id": 1726,
     "language": "PyPy 3-64",
