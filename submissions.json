@@ -1,4 +1,21 @@
 {
+  "CF183001210": {
+    "contest_id": 1726,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1726/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mainak and Array",
+    "problem_url": "https://codeforces.com/contest/1726/problem/A",
+    "submission_id": "CF183001210",
+    "submission_url": "https://codeforces.com/contest/1726/submission/183001210",
+    "tags": [
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/28/2022 16:17"
+  },
   "CF183026227": {
     "contest_id": 1726,
     "language": "PyPy 3-64",
