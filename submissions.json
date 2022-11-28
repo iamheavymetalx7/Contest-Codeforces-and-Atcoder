@@ -1,4 +1,24 @@
 {
+  "CF182966714": {
+    "contest_id": 1749,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1749/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Number Game",
+    "problem_url": "https://codeforces.com/contest/1749/problem/C",
+    "submission_id": "CF182966714",
+    "submission_url": "https://codeforces.com/contest/1749/submission/182966714",
+    "tags": [
+      "binary search",
+      "data structures",
+      "games",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/28/2022 09:46"
+  },
   "CF182971376": {
     "contest_id": 1324,
     "language": "PyPy 3-64",
