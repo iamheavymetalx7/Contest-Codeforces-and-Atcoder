@@ -1,4 +1,22 @@
 {
+  "CF183026227": {
+    "contest_id": 1726,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1726/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mainak and Interesting Sequence",
+    "problem_url": "https://codeforces.com/contest/1726/problem/B",
+    "submission_id": "CF183026227",
+    "submission_url": "https://codeforces.com/contest/1726/submission/183026227",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Nov/28/2022 19:13"
+  },
   "CF183039334": {
     "contest_id": 1748,
     "language": "PyPy 3-64",
