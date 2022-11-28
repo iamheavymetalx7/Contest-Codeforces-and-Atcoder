@@ -1,4 +1,23 @@
 {
+  "CF183052345": {
+    "contest_id": 1732,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1732/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ugu",
+    "problem_url": "https://codeforces.com/contest/1732/problem/B",
+    "submission_id": "CF183052345",
+    "submission_url": "https://codeforces.com/contest/1732/submission/183052345",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Nov/28/2022 23:18"
+  },
   "CF183141779": {
     "contest_id": 1736,
     "language": "PyPy 3-64",
