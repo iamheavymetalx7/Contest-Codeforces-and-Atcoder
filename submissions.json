@@ -1,4 +1,22 @@
 {
+  "CF183200833": {
+    "contest_id": 1704,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1704/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Virus",
+    "problem_url": "https://codeforces.com/contest/1704/problem/C",
+    "submission_id": "CF183200833",
+    "submission_url": "https://codeforces.com/contest/1704/submission/183200833",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Nov/29/2022 17:05"
+  },
   "CF183344905": {
     "contest_id": 1744,
     "language": "PyPy 3-64",
