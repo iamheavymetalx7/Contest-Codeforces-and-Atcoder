@@ -1,4 +1,25 @@
 {
+  "CF183464998": {
+    "contest_id": 1535,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1535/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Unstable String",
+    "problem_url": "https://codeforces.com/contest/1535/problem/C",
+    "submission_id": "CF183464998",
+    "submission_url": "https://codeforces.com/contest/1535/submission/183464998",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "strings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Dec/01/2022 16:22"
+  },
   "CF183467991": {
     "contest_id": 1519,
     "language": "PyPy 3-64",
