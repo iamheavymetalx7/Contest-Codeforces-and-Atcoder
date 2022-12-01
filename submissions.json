@@ -1,4 +1,24 @@
 {
+  "CF183467991": {
+    "contest_id": 1519,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1519/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Maximum Sum of Products",
+    "problem_url": "https://codeforces.com/contest/1519/problem/D",
+    "submission_id": "CF183467991",
+    "submission_url": "https://codeforces.com/contest/1519/submission/183467991",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "Dec/01/2022 16:50"
+  },
   "CF183489825": {
     "contest_id": 1741,
     "language": "PyPy 3-64",
