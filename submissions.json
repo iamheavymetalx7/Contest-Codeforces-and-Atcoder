@@ -1,4 +1,20 @@
 {
+  "AC36958477": {
+    "contest_id": "abc280",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc280/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Inverse Prefix Sum",
+    "problem_url": "https://atcoder.jp/contests/abc280/tasks/abc280_b",
+    "submission_id": "AC36958477",
+    "submission_url": "https://atcoder.jp/contests/abc280/submissions/36958477",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/03/2022 17:37"
+  },
   "AC36964801": {
     "contest_id": "abc280",
     "language": "Python (3.8.2)",
