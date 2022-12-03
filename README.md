@@ -13,17 +13,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-55 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `math` `number theory` | Dec/15/2022 19:39 | 
-54 | [D - Lucky Chains](https://codeforces.com/contest/1766/problem/D) | [PyPy 3-64](./codeforces/1766/D.py) | `brute force` `greedy` `math` `number theory` | Dec/15/2022 19:10 | 
-53 | [C - Hamiltonian Wall](https://codeforces.com/contest/1766/problem/C) | [PyPy 3-64](./codeforces/1766/C.py) | `dp` `greedy` `implementation` | Dec/15/2022 18:22 | 
-52 | [B - Notepad#](https://codeforces.com/contest/1766/problem/B) | [PyPy 3-64](./codeforces/1766/B.py) | `brute force` `greedy` `implementation` | Dec/13/2022 00:01 | 
-51 | [A - Extremely Round](https://codeforces.com/contest/1766/problem/A) | [PyPy 3-64](./codeforces/1766/A.py) | `greedy` `implementation` `math` | Dec/12/2022 23:48 | 
-50 | [D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d) | [Python (3.8.2)](./atcoder/abc281/D.py) | `AtCoder` `*400` | Dec/12/2022 16:23 | 
-49 | [E - Least Elements](https://atcoder.jp/contests/abc281/tasks/abc281_e) | [Python (3.8.2)](./atcoder/abc281/E.py) | `AtCoder` `*500` | Dec/12/2022 12:10 | 
-48 | [A - Hossam and Combinatorics](https://codeforces.com/contest/1771/problem/A) | [PyPy 3-64](./codeforces/1771/A.py) | `combinatorics` `math` `sortings` | Dec/11/2022 21:17 | 
-47 | [C - Circular Playlist](https://atcoder.jp/contests/abc281/tasks/abc281_c) | [Python (3.8.2)](./atcoder/abc281/C.py) | `AtCoder` `*300` | Dec/10/2022 17:45 | 
-46 | [B - Sandwich Number](https://atcoder.jp/contests/abc281/tasks/abc281_b) | [Python (3.8.2)](./atcoder/abc281/B.py) | `AtCoder` `*200` | Dec/10/2022 17:39 | 
-45 | [A - Count Down](https://atcoder.jp/contests/abc281/tasks/abc281_a) | [Python (3.8.2)](./atcoder/abc281/A.py) | `AtCoder` `*100` | Dec/10/2022 17:31 | 
+56 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `math` `number theory` | Dec/15/2022 19:39 | 
+55 | [D - Lucky Chains](https://codeforces.com/contest/1766/problem/D) | [PyPy 3-64](./codeforces/1766/D.py) | `brute force` `greedy` `math` `number theory` | Dec/15/2022 19:10 | 
+54 | [C - Hamiltonian Wall](https://codeforces.com/contest/1766/problem/C) | [PyPy 3-64](./codeforces/1766/C.py) | `dp` `greedy` `implementation` | Dec/15/2022 18:22 | 
+53 | [B - Notepad#](https://codeforces.com/contest/1766/problem/B) | [PyPy 3-64](./codeforces/1766/B.py) | `brute force` `greedy` `implementation` | Dec/13/2022 00:01 | 
+52 | [A - Extremely Round](https://codeforces.com/contest/1766/problem/A) | [PyPy 3-64](./codeforces/1766/A.py) | `greedy` `implementation` `math` | Dec/12/2022 23:48 | 
+51 | [D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d) | [Python (3.8.2)](./atcoder/abc281/D.py) | `AtCoder` `*400` | Dec/12/2022 16:23 | 
+50 | [E - Least Elements](https://atcoder.jp/contests/abc281/tasks/abc281_e) | [Python (3.8.2)](./atcoder/abc281/E.py) | `AtCoder` `*500` | Dec/12/2022 12:10 | 
+49 | [A - Hossam and Combinatorics](https://codeforces.com/contest/1771/problem/A) | [PyPy 3-64](./codeforces/1771/A.py) | `combinatorics` `math` `sortings` | Dec/11/2022 21:17 | 
+48 | [C - Circular Playlist](https://atcoder.jp/contests/abc281/tasks/abc281_c) | [Python (3.8.2)](./atcoder/abc281/C.py) | `AtCoder` `*300` | Dec/10/2022 17:45 | 
+47 | [B - Sandwich Number](https://atcoder.jp/contests/abc281/tasks/abc281_b) | [Python (3.8.2)](./atcoder/abc281/B.py) | `AtCoder` `*200` | Dec/10/2022 17:39 | 
+46 | [A - Count Down](https://atcoder.jp/contests/abc281/tasks/abc281_a) | [Python (3.8.2)](./atcoder/abc281/A.py) | `AtCoder` `*100` | Dec/10/2022 17:31 | 
+45 | [D - Factorial and Multiple](https://atcoder.jp/contests/abc280/tasks/abc280_d) | [Python (3.8.2)](./atcoder/abc280/D.py) | `AtCoder` `*400` | Dec/03/2022 20:38 | 
 44 | [B - Madoka and Underground Competitions](https://codeforces.com/contest/1717/problem/B) | [PyPy 3-64](./codeforces/1717/B.py) | `constructive algorithms` `implementation` `*1100` | Dec/01/2022 22:03 | 
 43 | [C - Minimize the Thickness](https://codeforces.com/contest/1741/problem/C) | [PyPy 3-64](./codeforces/1741/C.py) | `brute force` `greedy` `math` `two pointers` `*1100` | Dec/01/2022 19:53 | 
 42 | [D - Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | [PyPy 3-64](./codeforces/1519/D.py) | `brute force` `dp` `implementation` `math` `two pointers` `*1600` | Dec/01/2022 16:50 | 
