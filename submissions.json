@@ -1,4 +1,21 @@
 {
+  "CF184731271": {
+    "contest_id": 1771,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1771/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hossam and Combinatorics",
+    "problem_url": "https://codeforces.com/contest/1771/problem/A",
+    "submission_id": "CF184731271",
+    "submission_url": "https://codeforces.com/contest/1771/submission/184731271",
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings"
+    ],
+    "timestamp": "Dec/11/2022 21:17"
+  },
   "CF184905315": {
     "contest_id": 1771,
     "language": "GNU C++17",
