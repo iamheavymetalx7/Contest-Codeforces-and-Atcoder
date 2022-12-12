@@ -28,20 +28,26 @@ c2i = lambda c: ord(c) - ord('a')
     
 def solve(t):
     n=ii()
-    i=1
-    v=[]
     cnt=0
-    while i<=pow(10,6):
-        for j in range(1,10):
-            v.append(i*j)
-        i*=10
+    flag=1
+    if n>9:
+        cnt+=9
+    else:
+        cnt=n
+        flag=0
     
-    for ele in v:
-        if ele<=n:
-            cnt+=1
-    
-    return  (cnt)
+    c=10
 
+    if flag:
+        while n/c:
+            if(n//(c*10)==0):
+                cnt+=n//c
+            else:
+                cnt+=9
+            c=c*10
+    return cnt
+
+    
 
 
 def main():
