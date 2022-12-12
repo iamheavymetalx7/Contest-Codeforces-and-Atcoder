@@ -1,4 +1,21 @@
 {
+  "CF184997217": {
+    "contest_id": 1766,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1766/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Notepad#",
+    "problem_url": "https://codeforces.com/contest/1766/problem/B",
+    "submission_id": "CF184997217",
+    "submission_url": "https://codeforces.com/contest/1766/submission/184997217",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Dec/13/2022 00:01"
+  },
   "CF185287739": {
     "contest_id": 1766,
     "language": "PyPy 3-64",
