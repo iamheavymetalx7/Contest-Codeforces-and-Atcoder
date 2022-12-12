@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-4 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `math` `number theory` | Dec/15/2022 19:39 | 
-3 | [D - Lucky Chains](https://codeforces.com/contest/1766/problem/D) | [PyPy 3-64](./codeforces/1766/D.py) | `brute force` `greedy` `math` `number theory` | Dec/15/2022 19:10 | 
-2 | [C - Hamiltonian Wall](https://codeforces.com/contest/1766/problem/C) | [PyPy 3-64](./codeforces/1766/C.py) | `dp` `greedy` `implementation` | Dec/15/2022 18:22 | 
-1 | [B - Notepad#](https://codeforces.com/contest/1766/problem/B) | [PyPy 3-64](./codeforces/1766/B.py) | `brute force` `greedy` `implementation` | Dec/13/2022 00:01 | 
+5 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `math` `number theory` | Dec/15/2022 19:39 | 
+4 | [D - Lucky Chains](https://codeforces.com/contest/1766/problem/D) | [PyPy 3-64](./codeforces/1766/D.py) | `brute force` `greedy` `math` `number theory` | Dec/15/2022 19:10 | 
+3 | [C - Hamiltonian Wall](https://codeforces.com/contest/1766/problem/C) | [PyPy 3-64](./codeforces/1766/C.py) | `dp` `greedy` `implementation` | Dec/15/2022 18:22 | 
+2 | [B - Notepad#](https://codeforces.com/contest/1766/problem/B) | [PyPy 3-64](./codeforces/1766/B.py) | `brute force` `greedy` `implementation` | Dec/13/2022 00:01 | 
+1 | [A - Extremely Round](https://codeforces.com/contest/1766/problem/A) | [PyPy 3-64](./codeforces/1766/A.py) | `greedy` `implementation` `math` | Dec/12/2022 23:48 | 
