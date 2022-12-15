@@ -1,4 +1,21 @@
 {
+  "CF185287739": {
+    "contest_id": 1766,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1766/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hamiltonian Wall",
+    "problem_url": "https://codeforces.com/contest/1766/problem/C",
+    "submission_id": "CF185287739",
+    "submission_url": "https://codeforces.com/contest/1766/submission/185287739",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Dec/15/2022 18:22"
+  },
   "CF185294212": {
     "contest_id": 1766,
     "language": "PyPy 3-64",
