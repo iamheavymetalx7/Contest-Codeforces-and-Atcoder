@@ -1,4 +1,22 @@
 {
+  "CF185294212": {
+    "contest_id": 1766,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1766/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lucky Chains",
+    "problem_url": "https://codeforces.com/contest/1766/problem/D",
+    "submission_id": "CF185294212",
+    "submission_url": "https://codeforces.com/contest/1766/submission/185294212",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Dec/15/2022 19:10"
+  },
   "CF185297422": {
     "contest_id": 1771,
     "language": "PyPy 3-64",
