@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-74 | [B - Make Array Good](https://codeforces.com/contest/1762/problem/B) | [PyPy 3-64](./codeforces/1762/B.py) | `constructive algorithms` `implementation` `number theory` `sortings` | Dec/17/2022 20:23 | 
-73 | [A - Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | [PyPy 3-64](./codeforces/1762/A.py) | `greedy` `math` `number theory` | Dec/17/2022 19:52 | 
-72 | [B - Let's Get a Perfect Score](https://atcoder.jp/contests/abc282/tasks/abc282_b) | [Python (3.8.2)](./atcoder/abc282/B.py) | `AtCoder` `*200` | Dec/17/2022 18:05 | 
+75 | [B - Make Array Good](https://codeforces.com/contest/1762/problem/B) | [PyPy 3-64](./codeforces/1762/B.py) | `constructive algorithms` `implementation` `number theory` `sortings` | Dec/17/2022 20:23 | 
+74 | [A - Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | [PyPy 3-64](./codeforces/1762/A.py) | `greedy` `math` `number theory` | Dec/17/2022 19:52 | 
+73 | [B - Let's Get a Perfect Score](https://atcoder.jp/contests/abc282/tasks/abc282_b) | [Python (3.8.2)](./atcoder/abc282/B.py) | `AtCoder` `*200` | Dec/17/2022 18:05 | 
+72 | [C - String Delimiter](https://atcoder.jp/contests/abc282/tasks/abc282_c) | [Python (3.8.2)](./atcoder/abc282/C.py) | `AtCoder` `*300` | Dec/17/2022 17:40 | 
 71 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `math` `number theory` | Dec/15/2022 19:39 | 
 70 | [D - Lucky Chains](https://codeforces.com/contest/1766/problem/D) | [PyPy 3-64](./codeforces/1766/D.py) | `brute force` `greedy` `math` `number theory` | Dec/15/2022 19:10 | 
 69 | [C - Hamiltonian Wall](https://codeforces.com/contest/1766/problem/C) | [PyPy 3-64](./codeforces/1766/C.py) | `dp` `greedy` `implementation` | Dec/15/2022 18:22 | 

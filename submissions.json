@@ -351,6 +351,22 @@
     ],
     "timestamp": "Dec/12/2022 16:23"
   },
+  "AC37332393": {
+    "contest_id": "abc282",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc282/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "String Delimiter",
+    "problem_url": "https://atcoder.jp/contests/abc282/tasks/abc282_c",
+    "submission_id": "AC37332393",
+    "submission_url": "https://atcoder.jp/contests/abc282/submissions/37332393",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/17/2022 17:40"
+  },
   "AC37342559": {
     "contest_id": "abc282",
     "language": "Python (3.8.2)",
