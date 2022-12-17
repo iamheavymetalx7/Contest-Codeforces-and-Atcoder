@@ -1454,6 +1454,21 @@
     ],
     "timestamp": "Dec/17/2022 20:23"
   },
+  "CF185726104": {
+    "contest_id": 1774,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1774/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Add Plus Minus Sign",
+    "problem_url": "https://codeforces.com/contest/1774/problem/A",
+    "submission_id": "CF185726104",
+    "submission_url": "https://codeforces.com/contest/1774/submission/185726104",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Dec/18/2022 01:37"
+  },
   "CF185728125": {
     "contest_id": 1774,
     "language": "PyPy 3-64",
