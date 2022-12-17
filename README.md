@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+77 | [B - Coloring](https://codeforces.com/contest/1774/problem/B) | [PyPy 3-64](./codeforces/1774/B.py) | `constructive algorithms` `greedy` | Dec/18/2022 02:06 | 
 76 | [B - Make Array Good](https://codeforces.com/contest/1762/problem/B) | [PyPy 3-64](./codeforces/1762/B.py) | `constructive algorithms` `implementation` `number theory` `sortings` | Dec/17/2022 20:23 | 
 75 | [A - Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | [PyPy 3-64](./codeforces/1762/A.py) | `greedy` `math` `number theory` | Dec/17/2022 19:52 | 
 74 | [B - Let's Get a Perfect Score](https://atcoder.jp/contests/abc282/tasks/abc282_b) | [Python (3.8.2)](./atcoder/abc282/B.py) | `AtCoder` `*200` | Dec/17/2022 18:05 | 

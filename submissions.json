@@ -1453,5 +1453,21 @@
       "sortings"
     ],
     "timestamp": "Dec/17/2022 20:23"
+  },
+  "CF185728125": {
+    "contest_id": 1774,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1774/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Coloring",
+    "problem_url": "https://codeforces.com/contest/1774/problem/B",
+    "submission_id": "CF185728125",
+    "submission_url": "https://codeforces.com/contest/1774/submission/185728125",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "Dec/18/2022 02:06"
   }
 }
