@@ -1485,6 +1485,21 @@
     ],
     "timestamp": "Dec/18/2022 02:06"
   },
+  "CF185800589": {
+    "contest_id": 1772,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1772/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A+B?",
+    "problem_url": "https://codeforces.com/contest/1772/problem/A",
+    "submission_id": "CF185800589",
+    "submission_url": "https://codeforces.com/contest/1772/submission/185800589",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Dec/18/2022 20:06"
+  },
   "CF185910917": {
     "contest_id": 1771,
     "language": "PyPy 3-64",

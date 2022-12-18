@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-78 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `greedy` `math` `number theory` `*1600` | Dec/19/2022 11:00 | 
+79 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `greedy` `math` `number theory` `*1600` | Dec/19/2022 11:00 | 
+78 | [A - A+B?](https://codeforces.com/contest/1772/problem/A) | [PyPy 3-64](./codeforces/1772/A.py) | `implementation` | Dec/18/2022 20:06 | 
 77 | [B - Coloring](https://codeforces.com/contest/1774/problem/B) | [PyPy 3-64](./codeforces/1774/B.py) | `constructive algorithms` `greedy` | Dec/18/2022 02:06 | 
 76 | [A - Add Plus Minus Sign](https://codeforces.com/contest/1774/problem/A) | [PyPy 3-64](./codeforces/1774/A.py) | `constructive algorithms` | Dec/18/2022 01:37 | 
 75 | [B - Make Array Good](https://codeforces.com/contest/1762/problem/B) | [PyPy 3-64](./codeforces/1762/B.py) | `constructive algorithms` `implementation` `number theory` `sortings` | Dec/17/2022 20:23 | 
