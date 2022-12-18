@@ -1485,6 +1485,24 @@
     ],
     "timestamp": "Dec/18/2022 02:06"
   },
+  "CF185796852": {
+    "contest_id": 1721,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1721/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Min-Max Array Transformation",
+    "problem_url": "https://codeforces.com/contest/1721/problem/C",
+    "submission_id": "CF185796852",
+    "submission_url": "https://codeforces.com/contest/1721/submission/185796852",
+    "tags": [
+      "binary search",
+      "greedy",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Dec/18/2022 19:50"
+  },
   "CF185800589": {
     "contest_id": 1772,
     "language": "PyPy 3-64",
