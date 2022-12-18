@@ -1485,6 +1485,22 @@
     ],
     "timestamp": "Dec/18/2022 02:06"
   },
+  "CF185772812": {
+    "contest_id": 1721,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1721/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Deadly Laser",
+    "problem_url": "https://codeforces.com/contest/1721/problem/B",
+    "submission_id": "CF185772812",
+    "submission_url": "https://codeforces.com/contest/1721/submission/185772812",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/18/2022 15:26"
+  },
   "CF185774447": {
     "contest_id": 1720,
     "language": "PyPy 3-64",
