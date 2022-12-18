@@ -1485,6 +1485,26 @@
     ],
     "timestamp": "Dec/18/2022 02:06"
   },
+  "CF185777148": {
+    "contest_id": 1720,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1720/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Interesting Sum",
+    "problem_url": "https://codeforces.com/contest/1720/problem/B",
+    "submission_id": "CF185777148",
+    "submission_url": "https://codeforces.com/contest/1720/submission/185777148",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Dec/18/2022 16:17"
+  },
   "CF185791053": {
     "contest_id": 1717,
     "language": "PyPy 3-64",
