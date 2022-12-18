@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-88 | [B - Incinerate](https://codeforces.com/contest/1763/problem/B) | [PyPy 3-64](./codeforces/1763/B.py) | `binary search` `brute force` `sortings` | Dec/19/2022 23:19 | 
-87 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `greedy` `math` `number theory` `*1600` | Dec/19/2022 11:00 | 
-86 | [D - Absolute Sorting](https://codeforces.com/contest/1772/problem/D) | [PyPy 3-64](./codeforces/1772/D.py) | `math` | Dec/19/2022 09:31 | 
-85 | [C - Different Differences](https://codeforces.com/contest/1772/problem/C) | [PyPy 3-64](./codeforces/1772/C.py) | `greedy` `math` | Dec/18/2022 20:45 | 
+89 | [B - Incinerate](https://codeforces.com/contest/1763/problem/B) | [PyPy 3-64](./codeforces/1763/B.py) | `binary search` `brute force` `sortings` | Dec/19/2022 23:19 | 
+88 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `greedy` `math` `number theory` `*1600` | Dec/19/2022 11:00 | 
+87 | [D - Absolute Sorting](https://codeforces.com/contest/1772/problem/D) | [PyPy 3-64](./codeforces/1772/D.py) | `math` | Dec/19/2022 09:31 | 
+86 | [C - Different Differences](https://codeforces.com/contest/1772/problem/C) | [PyPy 3-64](./codeforces/1772/C.py) | `greedy` `math` | Dec/18/2022 20:45 | 
+85 | [B - Matrix Rotation](https://codeforces.com/contest/1772/problem/B) | [PyPy 3-64](./codeforces/1772/B.py) | `brute force` | Dec/18/2022 20:36 | 
 84 | [A - A+B?](https://codeforces.com/contest/1772/problem/A) | [PyPy 3-64](./codeforces/1772/A.py) | `implementation` | Dec/18/2022 20:06 | 
 83 | [C - Min-Max Array Transformation](https://codeforces.com/contest/1721/problem/C) | [PyPy 3-64](./codeforces/1721/C.py) | `binary search` `greedy` `two pointers` `*1400` | Dec/18/2022 19:50 | 
 82 | [C - Madoka and Formal Statement](https://codeforces.com/contest/1717/problem/C) | [PyPy 3-64](./codeforces/1717/C.py) | `greedy` `*1300` | Dec/18/2022 18:48 | 

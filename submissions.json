@@ -1605,6 +1605,21 @@
     ],
     "timestamp": "Dec/18/2022 20:06"
   },
+  "CF185831696": {
+    "contest_id": 1772,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1772/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Matrix Rotation",
+    "problem_url": "https://codeforces.com/contest/1772/problem/B",
+    "submission_id": "CF185831696",
+    "submission_url": "https://codeforces.com/contest/1772/submission/185831696",
+    "tags": [
+      "brute force"
+    ],
+    "timestamp": "Dec/18/2022 20:36"
+  },
   "CF185836893": {
     "contest_id": 1772,
     "language": "PyPy 3-64",
