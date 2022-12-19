@@ -1605,6 +1605,21 @@
     ],
     "timestamp": "Dec/18/2022 20:06"
   },
+  "CF185906182": {
+    "contest_id": 1772,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1772/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Absolute Sorting",
+    "problem_url": "https://codeforces.com/contest/1772/problem/D",
+    "submission_id": "CF185906182",
+    "submission_url": "https://codeforces.com/contest/1772/submission/185906182",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Dec/19/2022 09:31"
+  },
   "CF185910917": {
     "contest_id": 1771,
     "language": "PyPy 3-64",
