@@ -1640,5 +1640,22 @@
       "*1600"
     ],
     "timestamp": "Dec/19/2022 11:00"
+  },
+  "CF186023838": {
+    "contest_id": 1763,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1763/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Incinerate",
+    "problem_url": "https://codeforces.com/contest/1763/problem/B",
+    "submission_id": "CF186023838",
+    "submission_url": "https://codeforces.com/contest/1763/submission/186023838",
+    "tags": [
+      "binary search",
+      "brute force",
+      "sortings"
+    ],
+    "timestamp": "Dec/19/2022 23:19"
   }
 }

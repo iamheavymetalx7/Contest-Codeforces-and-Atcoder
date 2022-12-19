@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+86 | [B - Incinerate](https://codeforces.com/contest/1763/problem/B) | [PyPy 3-64](./codeforces/1763/B.py) | `binary search` `brute force` `sortings` | Dec/19/2022 23:19 | 
 85 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `greedy` `math` `number theory` `*1600` | Dec/19/2022 11:00 | 
 84 | [A - A+B?](https://codeforces.com/contest/1772/problem/A) | [PyPy 3-64](./codeforces/1772/A.py) | `implementation` | Dec/18/2022 20:06 | 
 83 | [C - Min-Max Array Transformation](https://codeforces.com/contest/1721/problem/C) | [PyPy 3-64](./codeforces/1721/C.py) | `binary search` `greedy` `two pointers` `*1400` | Dec/18/2022 19:50 | 
