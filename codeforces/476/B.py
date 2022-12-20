@@ -36,7 +36,7 @@ i2c = lambda n: chr(ord('a') + n)
 c2i = lambda c: ord(c) - ord('a')
 
 def factorial(n):
-    if n==0:
+    if n==1:
         return 1
     else:
         return n*factorial(n-1)
@@ -65,7 +65,7 @@ def solve():
     if t>q or (q-t)%2:
         print(0.000000000000)
     else:
-        numerator = factorial(q)/(factorial((q-t)//2) * factorial(t+((q-t)//2)))
+        numerator = math.comb(q,t+((q-t)//2))
         denominator = pow(2,q)
 
         ans = (numerator*1.0)/denominator
