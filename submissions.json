@@ -1703,5 +1703,26 @@
       "sortings"
     ],
     "timestamp": "Dec/19/2022 23:19"
+  },
+  "CF186155379": {
+    "contest_id": 476,
+    "language": "PyPy 3-64",
+    "path": "codeforces/476/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dreamoon and WiFi",
+    "problem_url": "https://codeforces.com/contest/476/problem/B",
+    "submission_id": "CF186155379",
+    "submission_url": "https://codeforces.com/contest/476/submission/186155379",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*1300"
+    ],
+    "timestamp": "Dec/21/2022 02:46"
   }
 }

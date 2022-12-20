@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+90 | [B - Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | [PyPy 3-64](./codeforces/476/B.py) | `bitmasks` `brute force` `combinatorics` `dp` `math` `probabilities` `*1300` | Dec/21/2022 02:46 | 
 89 | [B - Incinerate](https://codeforces.com/contest/1763/problem/B) | [PyPy 3-64](./codeforces/1763/B.py) | `binary search` `brute force` `sortings` | Dec/19/2022 23:19 | 
 88 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [PyPy 3-64](./codeforces/1771/C.py) | `greedy` `math` `number theory` `*1600` | Dec/19/2022 11:00 | 
 87 | [D - Absolute Sorting](https://codeforces.com/contest/1772/problem/D) | [PyPy 3-64](./codeforces/1772/D.py) | `math` | Dec/19/2022 09:31 | 
