@@ -1704,6 +1704,23 @@
     ],
     "timestamp": "Dec/19/2022 23:19"
   },
+  "CF186142453": {
+    "contest_id": 1236,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1236/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Alice and the List of Presents",
+    "problem_url": "https://codeforces.com/contest/1236/problem/B",
+    "submission_id": "CF186142453",
+    "submission_url": "https://codeforces.com/contest/1236/submission/186142453",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Dec/20/2022 23:55"
+  },
   "CF186155167": {
     "contest_id": 476,
     "language": "PyPy 3-64",
