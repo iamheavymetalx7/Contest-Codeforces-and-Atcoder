@@ -1762,5 +1762,22 @@
       "*1300"
     ],
     "timestamp": "Dec/21/2022 02:46"
+  },
+  "CF186235348": {
+    "contest_id": 842,
+    "language": "PyPy 3-64",
+    "path": "codeforces/842/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Kirill And The Game",
+    "problem_url": "https://codeforces.com/contest/842/problem/A",
+    "submission_id": "CF186235348",
+    "submission_url": "https://codeforces.com/contest/842/submission/186235348",
+    "tags": [
+      "brute force",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Dec/21/2022 20:00"
   }
 }

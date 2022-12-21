@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+92 | [A - Kirill And The Game](https://codeforces.com/contest/842/problem/A) | [PyPy 3-64](./codeforces/842/A.py) | `brute force` `two pointers` `*1200` | Dec/21/2022 20:00 | 
 91 | [B - Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | [PyPy 3-64](./codeforces/476/B.py) | `bitmasks` `brute force` `combinatorics` `dp` `math` `probabilities` `*1300` | Dec/21/2022 02:46 | 
 90 | [B - Alice and the List of Presents](https://codeforces.com/contest/1236/problem/B) | [PyPy 3-64](./codeforces/1236/B.py) | `combinatorics` `math` `*1500` | Dec/20/2022 23:55 | 
 89 | [B - Incinerate](https://codeforces.com/contest/1763/problem/B) | [PyPy 3-64](./codeforces/1763/B.py) | `binary search` `brute force` `sortings` | Dec/19/2022 23:19 | 
