@@ -1828,6 +1828,24 @@
     ],
     "timestamp": "Dec/21/2022 20:00"
   },
+  "CF186355695": {
+    "contest_id": 580,
+    "language": "PyPy 3-64",
+    "path": "codeforces/580/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Kefa and Park",
+    "problem_url": "https://codeforces.com/contest/580/problem/C",
+    "submission_id": "CF186355695",
+    "submission_url": "https://codeforces.com/contest/580/submission/186355695",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Dec/22/2022 18:43"
+  },
   "CF186355834": {
     "contest_id": 580,
     "language": "PyPy 3-64",
