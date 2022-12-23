@@ -1827,5 +1827,21 @@
       "*1200"
     ],
     "timestamp": "Dec/21/2022 20:00"
+  },
+  "CF186508828": {
+    "contest_id": 1204,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1204/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "BowWow and the Timetable",
+    "problem_url": "https://codeforces.com/contest/1204/problem/A",
+    "submission_id": "CF186508828",
+    "submission_url": "https://codeforces.com/contest/1204/submission/186508828",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/24/2022 01:36"
   }
 }
