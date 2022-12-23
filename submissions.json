@@ -1828,6 +1828,22 @@
     ],
     "timestamp": "Dec/21/2022 20:00"
   },
+  "CF186508000": {
+    "contest_id": 365,
+    "language": "PyPy 3-64",
+    "path": "codeforces/365/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Good Number",
+    "problem_url": "https://codeforces.com/contest/365/problem/A",
+    "submission_id": "CF186508000",
+    "submission_url": "https://codeforces.com/contest/365/submission/186508000",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Dec/24/2022 01:23"
+  },
   "CF186508828": {
     "contest_id": 1204,
     "language": "PyPy 3-64",
