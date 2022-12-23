@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-97 | [C - Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c) | [Python (3.8.2)](./atcoder/abc283/C.py) | `AtCoder` `*300` | Dec/24/2022 17:53 | 
-96 | [B - First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b) | [Python (3.8.2)](./atcoder/abc283/B.py) | `AtCoder` `*200` | Dec/24/2022 17:45 | 
-95 | [A - Power](https://atcoder.jp/contests/abc283/tasks/abc283_a) | [Python (3.8.2)](./atcoder/abc283/A.py) | `AtCoder` `*100` | Dec/24/2022 17:32 | 
-94 | [A - BowWow and the Timetable](https://codeforces.com/contest/1204/problem/A) | [PyPy 3-64](./codeforces/1204/A.py) | `math` `*1000` | Dec/24/2022 01:36 | 
-93 | [A - Good Number](https://codeforces.com/contest/365/problem/A) | [PyPy 3-64](./codeforces/365/A.py) | `implementation` `*1100` | Dec/24/2022 01:23 | 
+98 | [C - Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c) | [Python (3.8.2)](./atcoder/abc283/C.py) | `AtCoder` `*300` | Dec/24/2022 17:53 | 
+97 | [B - First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b) | [Python (3.8.2)](./atcoder/abc283/B.py) | `AtCoder` `*200` | Dec/24/2022 17:45 | 
+96 | [A - Power](https://atcoder.jp/contests/abc283/tasks/abc283_a) | [Python (3.8.2)](./atcoder/abc283/A.py) | `AtCoder` `*100` | Dec/24/2022 17:32 | 
+95 | [A - BowWow and the Timetable](https://codeforces.com/contest/1204/problem/A) | [PyPy 3-64](./codeforces/1204/A.py) | `math` `*1000` | Dec/24/2022 01:36 | 
+94 | [A - Good Number](https://codeforces.com/contest/365/problem/A) | [PyPy 3-64](./codeforces/365/A.py) | `implementation` `*1100` | Dec/24/2022 01:23 | 
+93 | [A - Raising Bacteria](https://codeforces.com/contest/579/problem/A) | [PyPy 3-64](./codeforces/579/A.py) | `bitmasks` `*1000` | Dec/23/2022 22:21 | 
 92 | [A - Kirill And The Game](https://codeforces.com/contest/842/problem/A) | [PyPy 3-64](./codeforces/842/A.py) | `brute force` `two pointers` `*1200` | Dec/21/2022 20:00 | 
 91 | [B - Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | [PyPy 3-64](./codeforces/476/B.py) | `bitmasks` `brute force` `combinatorics` `dp` `math` `probabilities` `*1300` | Dec/21/2022 02:46 | 
 90 | [B - Alice and the List of Presents](https://codeforces.com/contest/1236/problem/B) | [PyPy 3-64](./codeforces/1236/B.py) | `combinatorics` `math` `*1500` | Dec/20/2022 23:55 | 
