@@ -447,6 +447,22 @@
     ],
     "timestamp": "Dec/24/2022 17:53"
   },
+  "AC37569394": {
+    "contest_id": "abc283",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc283/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Scope",
+    "problem_url": "https://atcoder.jp/contests/abc283/tasks/abc283_d",
+    "submission_id": "AC37569394",
+    "submission_url": "https://atcoder.jp/contests/abc283/submissions/37569394",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/26/2022 22:54"
+  },
   "CF182286832": {
     "contest_id": 1744,
     "language": "PyPy 3-64",

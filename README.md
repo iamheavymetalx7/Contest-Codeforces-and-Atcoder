@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+106 | [D - Scope](https://atcoder.jp/contests/abc283/tasks/abc283_d) | [Python (3.8.2)](./atcoder/abc283/D.py) | `AtCoder` `*400` | Dec/26/2022 22:54 | 
 105 | [C - Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c) | [Python (3.8.2)](./atcoder/abc283/C.py) | `AtCoder` `*300` | Dec/24/2022 17:53 | 
 104 | [B - First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b) | [Python (3.8.2)](./atcoder/abc283/B.py) | `AtCoder` `*200` | Dec/24/2022 17:45 | 
 103 | [A - Power](https://atcoder.jp/contests/abc283/tasks/abc283_a) | [Python (3.8.2)](./atcoder/abc283/A.py) | `AtCoder` `*100` | Dec/24/2022 17:32 | 
