@@ -2048,6 +2048,22 @@
     ],
     "timestamp": "Dec/24/2022 01:36"
   },
+  "CF186847705": {
+    "contest_id": 144,
+    "language": "PyPy 3-64",
+    "path": "codeforces/144/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Meeting",
+    "problem_url": "https://codeforces.com/contest/144/problem/B",
+    "submission_id": "CF186847705",
+    "submission_url": "https://codeforces.com/contest/144/submission/186847705",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/27/2022 13:38"
+  },
   "CF186860410": {
     "contest_id": 148,
     "language": "PyPy 3-64",
