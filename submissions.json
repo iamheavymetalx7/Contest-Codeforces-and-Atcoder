@@ -2048,6 +2048,22 @@
     ],
     "timestamp": "Dec/24/2022 01:36"
   },
+  "CF186877027": {
+    "contest_id": 584,
+    "language": "PyPy 3-64",
+    "path": "codeforces/584/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kolya and Tanya ",
+    "problem_url": "https://codeforces.com/contest/584/problem/B",
+    "submission_id": "CF186877027",
+    "submission_url": "https://codeforces.com/contest/584/submission/186877027",
+    "tags": [
+      "combinatorics",
+      "*1500"
+    ],
+    "timestamp": "Dec/27/2022 18:51"
+  },
   "CF186881484": {
     "contest_id": 369,
     "language": "PyPy 3-64",
