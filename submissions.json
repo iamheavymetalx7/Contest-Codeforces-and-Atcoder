@@ -2048,6 +2048,22 @@
     ],
     "timestamp": "Dec/24/2022 01:36"
   },
+  "CF186840974": {
+    "contest_id": 617,
+    "language": "PyPy 3-64",
+    "path": "codeforces/617/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chocolate",
+    "problem_url": "https://codeforces.com/contest/617/problem/B",
+    "submission_id": "CF186840974",
+    "submission_url": "https://codeforces.com/contest/617/submission/186840974",
+    "tags": [
+      "combinatorics",
+      "*1300"
+    ],
+    "timestamp": "Dec/27/2022 12:11"
+  },
   "CF186842113": {
     "contest_id": 766,
     "language": "PyPy 3-64",
