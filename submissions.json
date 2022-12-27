@@ -2048,6 +2048,22 @@
     ],
     "timestamp": "Dec/24/2022 01:36"
   },
+  "CF186826763": {
+    "contest_id": 102,
+    "language": "PyPy 3-64",
+    "path": "codeforces/102/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sum of Digits",
+    "problem_url": "https://codeforces.com/contest/102/problem/B",
+    "submission_id": "CF186826763",
+    "submission_url": "https://codeforces.com/contest/102/submission/186826763",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/27/2022 08:17"
+  },
   "CF186827469": {
     "contest_id": 451,
     "language": "PyPy 3-64",
