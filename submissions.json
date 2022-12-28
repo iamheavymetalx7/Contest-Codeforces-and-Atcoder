@@ -2048,6 +2048,25 @@
     ],
     "timestamp": "Dec/24/2022 01:36"
   },
+  "CF187078535": {
+    "contest_id": 1731,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1731/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Valiant's New Map",
+    "problem_url": "https://codeforces.com/contest/1731/problem/D",
+    "submission_id": "CF187078535",
+    "submission_url": "https://codeforces.com/contest/1731/submission/187078535",
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "dp",
+      "two pointers"
+    ],
+    "timestamp": "Dec/29/2022 01:52"
+  },
   "CF187190405": {
     "contest_id": 1345,
     "language": "PyPy 3-64",
