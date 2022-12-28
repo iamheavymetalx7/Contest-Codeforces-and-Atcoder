@@ -2048,6 +2048,25 @@
     ],
     "timestamp": "Dec/24/2022 01:36"
   },
+  "CF187063939": {
+    "contest_id": 1731,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1731/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Even Subarrays",
+    "problem_url": "https://codeforces.com/contest/1731/problem/C",
+    "submission_id": "CF187063939",
+    "submission_url": "https://codeforces.com/contest/1731/submission/187063939",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "hashing",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Dec/28/2022 23:00"
+  },
   "CF187078535": {
     "contest_id": 1731,
     "language": "PyPy 3-64",
