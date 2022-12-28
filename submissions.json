@@ -2048,6 +2048,22 @@
     ],
     "timestamp": "Dec/24/2022 01:36"
   },
+  "CF187062236": {
+    "contest_id": 1731,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1731/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kill Demodogs",
+    "problem_url": "https://codeforces.com/contest/1731/problem/B",
+    "submission_id": "CF187062236",
+    "submission_url": "https://codeforces.com/contest/1731/submission/187062236",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Dec/28/2022 22:44"
+  },
   "CF187063939": {
     "contest_id": 1731,
     "language": "PyPy 3-64",

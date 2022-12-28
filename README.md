@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-112 | [B - Easter Eggs](https://codeforces.com/contest/78/problem/B) | [PyPy 3-64](./codeforces/78/B.py) | `constructive algorithms` `implementation` `*1200` | Dec/30/2022 05:14 | 
-111 | [B - Bear and Strings](https://codeforces.com/contest/385/problem/B) | [PyPy 3-64](./codeforces/385/B.py) | `brute force` `greedy` `implementation` `math` `strings` `*1200` | Dec/30/2022 04:34 | 
-110 | [B - Lovely Palindromes](https://codeforces.com/contest/688/problem/B) | [PyPy 3-64](./codeforces/688/B.py) | `constructive algorithms` `math` `*1000` | Dec/30/2022 04:00 | 
-109 | [B - Card Constructions](https://codeforces.com/contest/1345/problem/B) | [PyPy 3-64](./codeforces/1345/B.py) | `binary search` `brute force` `dp` `math` `*1100` | Dec/30/2022 03:39 | 
-108 | [D - Valiant's New Map](https://codeforces.com/contest/1731/problem/D) | [PyPy 3-64](./codeforces/1731/D.py) | `binary search` `brute force` `combinatorics` `dp` `two pointers` | Dec/29/2022 01:52 | 
-107 | [C - Even Subarrays](https://codeforces.com/contest/1731/problem/C) | [PyPy 3-64](./codeforces/1731/C.py) | `bitmasks` `brute force` `hashing` `math` `number theory` | Dec/28/2022 23:00 | 
+113 | [B - Easter Eggs](https://codeforces.com/contest/78/problem/B) | [PyPy 3-64](./codeforces/78/B.py) | `constructive algorithms` `implementation` `*1200` | Dec/30/2022 05:14 | 
+112 | [B - Bear and Strings](https://codeforces.com/contest/385/problem/B) | [PyPy 3-64](./codeforces/385/B.py) | `brute force` `greedy` `implementation` `math` `strings` `*1200` | Dec/30/2022 04:34 | 
+111 | [B - Lovely Palindromes](https://codeforces.com/contest/688/problem/B) | [PyPy 3-64](./codeforces/688/B.py) | `constructive algorithms` `math` `*1000` | Dec/30/2022 04:00 | 
+110 | [B - Card Constructions](https://codeforces.com/contest/1345/problem/B) | [PyPy 3-64](./codeforces/1345/B.py) | `binary search` `brute force` `dp` `math` `*1100` | Dec/30/2022 03:39 | 
+109 | [D - Valiant's New Map](https://codeforces.com/contest/1731/problem/D) | [PyPy 3-64](./codeforces/1731/D.py) | `binary search` `brute force` `combinatorics` `dp` `two pointers` | Dec/29/2022 01:52 | 
+108 | [C - Even Subarrays](https://codeforces.com/contest/1731/problem/C) | [PyPy 3-64](./codeforces/1731/C.py) | `bitmasks` `brute force` `hashing` `math` `number theory` | Dec/28/2022 23:00 | 
+107 | [B - Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | [PyPy 3-64](./codeforces/1731/B.py) | `greedy` `math` | Dec/28/2022 22:44 | 
 106 | [D - Scope](https://atcoder.jp/contests/abc283/tasks/abc283_d) | [Python (3.8.2)](./atcoder/abc283/D.py) | `AtCoder` `*400` | Dec/26/2022 22:54 | 
 105 | [C - Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c) | [Python (3.8.2)](./atcoder/abc283/C.py) | `AtCoder` `*300` | Dec/24/2022 17:53 | 
 104 | [B - First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b) | [Python (3.8.2)](./atcoder/abc283/B.py) | `AtCoder` `*200` | Dec/24/2022 17:45 | 
