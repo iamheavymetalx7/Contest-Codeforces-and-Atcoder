@@ -2048,6 +2048,26 @@
     ],
     "timestamp": "Dec/24/2022 01:36"
   },
+  "CF187192393": {
+    "contest_id": 385,
+    "language": "PyPy 3-64",
+    "path": "codeforces/385/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bear and Strings",
+    "problem_url": "https://codeforces.com/contest/385/problem/B",
+    "submission_id": "CF187192393",
+    "submission_url": "https://codeforces.com/contest/385/submission/187192393",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Dec/30/2022 04:34"
+  },
   "CF187193334": {
     "contest_id": 78,
     "language": "PyPy 3-64",

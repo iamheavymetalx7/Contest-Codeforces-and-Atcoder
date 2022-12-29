@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-107 | [B - Easter Eggs](https://codeforces.com/contest/78/problem/B) | [PyPy 3-64](./codeforces/78/B.py) | `constructive algorithms` `implementation` `*1200` | Dec/30/2022 05:14 | 
+108 | [B - Easter Eggs](https://codeforces.com/contest/78/problem/B) | [PyPy 3-64](./codeforces/78/B.py) | `constructive algorithms` `implementation` `*1200` | Dec/30/2022 05:14 | 
+107 | [B - Bear and Strings](https://codeforces.com/contest/385/problem/B) | [PyPy 3-64](./codeforces/385/B.py) | `brute force` `greedy` `implementation` `math` `strings` `*1200` | Dec/30/2022 04:34 | 
 106 | [D - Scope](https://atcoder.jp/contests/abc283/tasks/abc283_d) | [Python (3.8.2)](./atcoder/abc283/D.py) | `AtCoder` `*400` | Dec/26/2022 22:54 | 
 105 | [C - Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c) | [Python (3.8.2)](./atcoder/abc283/C.py) | `AtCoder` `*300` | Dec/24/2022 17:53 | 
 104 | [B - First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b) | [Python (3.8.2)](./atcoder/abc283/B.py) | `AtCoder` `*200` | Dec/24/2022 17:45 | 
