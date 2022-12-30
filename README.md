@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+126 | [A - Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [PyPy 3-64](./codeforces/1770/A.py) | `brute force` `greedy` | Dec/31/2022 01:17 | 
 125 | [B - Easter Eggs](https://codeforces.com/contest/78/problem/B) | [PyPy 3-64](./codeforces/78/B.py) | `constructive algorithms` `implementation` `*1200` | Dec/30/2022 05:14 | 
 124 | [B - Bear and Strings](https://codeforces.com/contest/385/problem/B) | [PyPy 3-64](./codeforces/385/B.py) | `brute force` `greedy` `implementation` `math` `strings` `*1200` | Dec/30/2022 04:34 | 
 123 | [B - Lovely Palindromes](https://codeforces.com/contest/688/problem/B) | [PyPy 3-64](./codeforces/688/B.py) | `constructive algorithms` `math` `*1000` | Dec/30/2022 04:00 | 
