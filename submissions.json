@@ -2374,6 +2374,22 @@
     ],
     "timestamp": "Dec/30/2022 05:14"
   },
+  "CF187303553": {
+    "contest_id": 1770,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1770/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Koxia and Whiteboards",
+    "problem_url": "https://codeforces.com/contest/1770/problem/A",
+    "submission_id": "CF187303553",
+    "submission_url": "https://codeforces.com/contest/1770/submission/187303553",
+    "tags": [
+      "brute force",
+      "greedy"
+    ],
+    "timestamp": "Dec/30/2022 20:47"
+  },
   "CF187385263": {
     "contest_id": 1770,
     "language": "PyPy 3-64",

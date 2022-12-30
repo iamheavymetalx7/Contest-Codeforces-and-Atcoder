@@ -42,12 +42,18 @@ def solve(t):
     n,m=mii()
     a=lmii()
     b=lmii()
-    ans=b[-1]
-    arr=a[:]+b[:-1]
-    arr.sort(reverse=True)
-    ans+=sum(arr[:n-1])
+    a.sort()
+    for ele in b:
+        flag=False
+        for index in range(n):
+            if ele>a[index]: a[index]=ele; flag=True; break
+        if not flag:
+            a[0]=ele; a.sort()
+        else:
+            flag=False; a.sort()
+    print(sum(a))
 
-    print(ans)
+
 
 
     
