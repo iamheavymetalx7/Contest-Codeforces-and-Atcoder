@@ -53,7 +53,7 @@ def solve(t):
 
     # now we check if any number % (2,n+1) is present 2 times or more
 
-    for j in range(2,51):
+    for j in range(2,n+1):
         count =[0]*j
         for i in range(n):
             count[a[i]%j]+=1

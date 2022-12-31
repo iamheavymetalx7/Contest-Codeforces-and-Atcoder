@@ -2406,6 +2406,23 @@
     ],
     "timestamp": "Dec/31/2022 01:17"
   },
+  "CF187486085": {
+    "contest_id": 1770,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1770/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Koxia and Number Theory",
+    "problem_url": "https://codeforces.com/contest/1770/problem/C",
+    "submission_id": "CF187486085",
+    "submission_url": "https://codeforces.com/contest/1770/submission/187486085",
+    "tags": [
+      "chinese remainder theorem",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jan/01/2023 05:29"
+  },
   "CF187486094": {
     "contest_id": 1770,
     "language": "PyPy 3-64",
