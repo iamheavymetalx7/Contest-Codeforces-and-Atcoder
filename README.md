@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-131 | [B - Steps](https://codeforces.com/contest/152/problem/B) | [PyPy 3-64](./codeforces/152/B.py) | `binary search` `implementation` `*1300` | Jan/02/2023 21:27 | 
-130 | [B - Caisa and Pylons](https://codeforces.com/contest/463/problem/B) | [PyPy 3-64](./codeforces/463/B.py) | `brute force` `implementation` `math` `*1100` | Jan/02/2023 20:58 | 
-129 | [B - Growing Mushrooms](https://codeforces.com/contest/186/problem/B) | [PyPy 3-64](./codeforces/186/B.py) | `greedy` `sortings` `*1200` | Jan/02/2023 20:37 | 
-128 | [B - Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B) | [PyPy 3-64](./codeforces/680/B.py) | `constructive algorithms` `implementation` `*1000` | Jan/02/2023 16:27 | 
-127 | [B - Koxia and Permutation](https://codeforces.com/contest/1770/problem/B) | [PyPy 3-64](./codeforces/1770/B.py) | `constructive algorithms` | Jan/01/2023 06:52 | 
+132 | [B - Steps](https://codeforces.com/contest/152/problem/B) | [PyPy 3-64](./codeforces/152/B.py) | `binary search` `implementation` `*1300` | Jan/02/2023 21:27 | 
+131 | [B - Caisa and Pylons](https://codeforces.com/contest/463/problem/B) | [PyPy 3-64](./codeforces/463/B.py) | `brute force` `implementation` `math` `*1100` | Jan/02/2023 20:58 | 
+130 | [B - Growing Mushrooms](https://codeforces.com/contest/186/problem/B) | [PyPy 3-64](./codeforces/186/B.py) | `greedy` `sortings` `*1200` | Jan/02/2023 20:37 | 
+129 | [B - Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B) | [PyPy 3-64](./codeforces/680/B.py) | `constructive algorithms` `implementation` `*1000` | Jan/02/2023 16:27 | 
+128 | [B - Koxia and Permutation](https://codeforces.com/contest/1770/problem/B) | [PyPy 3-64](./codeforces/1770/B.py) | `constructive algorithms` | Jan/01/2023 06:52 | 
+127 | [C - Koxia and Number Theory](https://codeforces.com/contest/1770/problem/C) | [PyPy 3-64](./codeforces/1770/C.py) | `chinese remainder theorem` `math` `number theory` | Jan/01/2023 05:30 | 
 126 | [A - Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [PyPy 3-64](./codeforces/1770/A.py) | `brute force` `greedy` | Dec/31/2022 01:17 | 
 125 | [B - Easter Eggs](https://codeforces.com/contest/78/problem/B) | [PyPy 3-64](./codeforces/78/B.py) | `constructive algorithms` `implementation` `*1200` | Dec/30/2022 05:14 | 
 124 | [B - Bear and Strings](https://codeforces.com/contest/385/problem/B) | [PyPy 3-64](./codeforces/385/B.py) | `brute force` `greedy` `implementation` `math` `strings` `*1200` | Dec/30/2022 04:34 | 
