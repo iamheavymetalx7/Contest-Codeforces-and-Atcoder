@@ -2406,6 +2406,21 @@
     ],
     "timestamp": "Dec/31/2022 01:17"
   },
+  "CF187487552": {
+    "contest_id": 1770,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1770/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Koxia and Permutation",
+    "problem_url": "https://codeforces.com/contest/1770/problem/B",
+    "submission_id": "CF187487552",
+    "submission_url": "https://codeforces.com/contest/1770/submission/187487552",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Jan/01/2023 06:50"
+  },
   "CF187487596": {
     "contest_id": 1770,
     "language": "PyPy 3-64",

@@ -44,13 +44,16 @@ def solve(t):
         print(n-i,i+1,end=" ")
     if n%2:
         print(n//2+1)
-    else:
-        print()
     
     
 def main():
     t = 1
-
+    if path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt"):
+        sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt", 'r')
+        sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w')
+        start_time = time.time()
+        print("--- %s seconds ---" % (time.time() - start_time))
+ 
  
     sys.setrecursionlimit(10**5)
  
