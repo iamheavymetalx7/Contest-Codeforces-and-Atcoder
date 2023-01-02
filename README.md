@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-127 | [B - Steps](https://codeforces.com/contest/152/problem/B) | [PyPy 3-64](./codeforces/152/B.py) | `binary search` `implementation` `*1300` | Jan/02/2023 21:27 | 
+128 | [B - Steps](https://codeforces.com/contest/152/problem/B) | [PyPy 3-64](./codeforces/152/B.py) | `binary search` `implementation` `*1300` | Jan/02/2023 21:27 | 
+127 | [B - Caisa and Pylons](https://codeforces.com/contest/463/problem/B) | [PyPy 3-64](./codeforces/463/B.py) | `brute force` `implementation` `math` `*1100` | Jan/02/2023 20:58 | 
 126 | [A - Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [PyPy 3-64](./codeforces/1770/A.py) | `brute force` `greedy` | Dec/31/2022 01:17 | 
 125 | [B - Easter Eggs](https://codeforces.com/contest/78/problem/B) | [PyPy 3-64](./codeforces/78/B.py) | `constructive algorithms` `implementation` `*1200` | Dec/30/2022 05:14 | 
 124 | [B - Bear and Strings](https://codeforces.com/contest/385/problem/B) | [PyPy 3-64](./codeforces/385/B.py) | `brute force` `greedy` `implementation` `math` `strings` `*1200` | Dec/30/2022 04:34 | 
