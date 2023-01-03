@@ -2539,6 +2539,23 @@
     ],
     "timestamp": "Jan/02/2023 21:27"
   },
+  "CF187712100": {
+    "contest_id": 352,
+    "language": "PyPy 3-64",
+    "path": "codeforces/352/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Jeff and Periods",
+    "problem_url": "https://codeforces.com/contest/352/problem/B",
+    "submission_id": "CF187712100",
+    "submission_url": "https://codeforces.com/contest/352/submission/187712100",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jan/03/2023 17:25"
+  },
   "CF187720096": {
     "contest_id": 1237,
     "language": "PyPy 3-64",
