@@ -2539,6 +2539,22 @@
     ],
     "timestamp": "Jan/02/2023 21:27"
   },
+  "CF187790441": {
+    "contest_id": 1779,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1779/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "MKnez's ConstructiveForces Task",
+    "problem_url": "https://codeforces.com/contest/1779/problem/B",
+    "submission_id": "CF187790441",
+    "submission_url": "https://codeforces.com/contest/1779/submission/187790441",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Jan/03/2023 21:07"
+  },
   "CF187908411": {
     "contest_id": 1779,
     "language": "PyPy 3-64",
