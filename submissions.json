@@ -2641,6 +2641,23 @@
     ],
     "timestamp": "Jan/04/2023 17:02"
   },
+  "CF187920979": {
+    "contest_id": 61,
+    "language": "PyPy 3-64",
+    "path": "codeforces/61/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Enemy is weak",
+    "problem_url": "https://codeforces.com/contest/61/problem/E",
+    "submission_id": "CF187920979",
+    "submission_url": "https://codeforces.com/contest/61/submission/187920979",
+    "tags": [
+      "data structures",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Jan/04/2023 18:10"
+  },
   "CF188051109": {
     "contest_id": 1768,
     "language": "PyPy 3-64",

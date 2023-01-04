@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-142 | [D - Lucky Permutation](https://codeforces.com/contest/1768/problem/D) | [PyPy 3-64](./codeforces/1768/D.py) | `dfs and similar` `dsu` `graphs` `greedy` | Jan/06/2023 22:13 | 
-141 | [C - Elemental Decompress](https://codeforces.com/contest/1768/problem/C) | [PyPy 3-64](./codeforces/1768/C.py) | `constructive algorithms` `greedy` `implementation` `sortings` | Jan/06/2023 20:12 | 
-140 | [B - Quick Sort](https://codeforces.com/contest/1768/problem/B) | [PyPy 3-64](./codeforces/1768/B.py) | `greedy` `math` | Jan/06/2023 08:47 | 
-139 | [A - Greatest Convex](https://codeforces.com/contest/1768/problem/A) | [PyPy 3-64](./codeforces/1768/A.py) | `greedy` `math` `number theory` | Jan/05/2023 20:09 | 
+143 | [D - Lucky Permutation](https://codeforces.com/contest/1768/problem/D) | [PyPy 3-64](./codeforces/1768/D.py) | `dfs and similar` `dsu` `graphs` `greedy` | Jan/06/2023 22:13 | 
+142 | [C - Elemental Decompress](https://codeforces.com/contest/1768/problem/C) | [PyPy 3-64](./codeforces/1768/C.py) | `constructive algorithms` `greedy` `implementation` `sortings` | Jan/06/2023 20:12 | 
+141 | [B - Quick Sort](https://codeforces.com/contest/1768/problem/B) | [PyPy 3-64](./codeforces/1768/B.py) | `greedy` `math` | Jan/06/2023 08:47 | 
+140 | [A - Greatest Convex](https://codeforces.com/contest/1768/problem/A) | [PyPy 3-64](./codeforces/1768/A.py) | `greedy` `math` `number theory` | Jan/05/2023 20:09 | 
+139 | [E - Enemy is weak](https://codeforces.com/contest/61/problem/E) | [PyPy 3-64](./codeforces/61/E.py) | `data structures` `trees` `*1900` | Jan/04/2023 18:10 | 
 138 | [B - Kefa and Company](https://codeforces.com/contest/580/problem/B) | [PyPy 3-64](./codeforces/580/B.py) | `binary search` `sortings` `two pointers` `*1500` | Jan/04/2023 17:02 | 
 137 | [C - Least Prefix Sum](https://codeforces.com/contest/1779/problem/C) | [PyPy 3-64](./codeforces/1779/C.py) | `data structures` `greedy` | Jan/04/2023 16:11 | 
 136 | [B - MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B) | [PyPy 3-64](./codeforces/1779/B.py) | `constructive algorithms` `math` | Jan/03/2023 21:07 | 
