@@ -2539,6 +2539,22 @@
     ],
     "timestamp": "Jan/02/2023 21:27"
   },
+  "CF187908411": {
+    "contest_id": 1779,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1779/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Least Prefix Sum",
+    "problem_url": "https://codeforces.com/contest/1779/problem/C",
+    "submission_id": "CF187908411",
+    "submission_url": "https://codeforces.com/contest/1779/submission/187908411",
+    "tags": [
+      "data structures",
+      "greedy"
+    ],
+    "timestamp": "Jan/04/2023 16:11"
+  },
   "CF187913770": {
     "contest_id": 580,
     "language": "PyPy 3-64",
