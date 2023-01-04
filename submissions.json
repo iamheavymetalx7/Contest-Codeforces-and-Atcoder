@@ -2538,5 +2538,23 @@
       "*1300"
     ],
     "timestamp": "Jan/02/2023 21:27"
+  },
+  "CF187913770": {
+    "contest_id": 580,
+    "language": "PyPy 3-64",
+    "path": "codeforces/580/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kefa and Company",
+    "problem_url": "https://codeforces.com/contest/580/problem/B",
+    "submission_id": "CF187913770",
+    "submission_url": "https://codeforces.com/contest/580/submission/187913770",
+    "tags": [
+      "binary search",
+      "sortings",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jan/04/2023 17:02"
   }
 }

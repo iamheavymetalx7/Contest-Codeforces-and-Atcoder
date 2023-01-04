@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+133 | [B - Kefa and Company](https://codeforces.com/contest/580/problem/B) | [PyPy 3-64](./codeforces/580/B.py) | `binary search` `sortings` `two pointers` `*1500` | Jan/04/2023 17:02 | 
 132 | [B - Steps](https://codeforces.com/contest/152/problem/B) | [PyPy 3-64](./codeforces/152/B.py) | `binary search` `implementation` `*1300` | Jan/02/2023 21:27 | 
 131 | [B - Caisa and Pylons](https://codeforces.com/contest/463/problem/B) | [PyPy 3-64](./codeforces/463/B.py) | `brute force` `implementation` `math` `*1100` | Jan/02/2023 20:58 | 
 130 | [B - Growing Mushrooms](https://codeforces.com/contest/186/problem/B) | [PyPy 3-64](./codeforces/186/B.py) | `greedy` `sortings` `*1200` | Jan/02/2023 20:37 | 
