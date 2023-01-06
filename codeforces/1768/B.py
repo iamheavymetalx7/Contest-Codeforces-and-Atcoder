@@ -46,32 +46,21 @@ def solve(t):
     n,k=mii()
     perm=lmii()
 
-    # smallest = n+1
-    # ans=n+1
+    smallest = n+1
+    ans=n+1
 
-    # for i in range(n-1,-1,-1):
-    #     if perm[i]>smallest:
-    #         ans=min(ans,perm[i])
-    #     smallest=min(perm[i],smallest)
-    # # print(ans,smallest)
-    # ans=n-ans+1
+    for i in range(n-1,-1,-1):
+        if perm[i]>smallest:
+            ans=min(ans,perm[i])
+        smallest=min(perm[i],smallest)
+    # print(ans,smallest)
+    ans=n-ans+1
 
-    # if ans==n+1:
-    #     print(0)
-    # elif ans%k==0:
-    #     print(ans//k)
-    # else: print(ans//k+1)
-
-    prev=0
-    cnt=0
-
-    for i in range(n):
-        if perm[i]==prev+1:
-            prev=perm[i]
-        else:
-            cnt+=1
-
-    print((cnt+k-1)//k)
+    if ans==n+1:
+        print(0)
+    elif ans%k==0:
+        print(ans//k)
+    else: print(ans//k+1)
 
 
 
