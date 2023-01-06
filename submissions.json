@@ -2641,6 +2641,24 @@
     ],
     "timestamp": "Jan/04/2023 17:02"
   },
+  "CF188226490": {
+    "contest_id": 1768,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1768/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Elemental Decompress",
+    "problem_url": "https://codeforces.com/contest/1768/problem/C",
+    "submission_id": "CF188226490",
+    "submission_url": "https://codeforces.com/contest/1768/submission/188226490",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "Jan/06/2023 20:12"
+  },
   "CF188239324": {
     "contest_id": 1768,
     "language": "PyPy 3-64",
