@@ -2641,6 +2641,22 @@
     ],
     "timestamp": "Jan/04/2023 17:02"
   },
+  "CF188158870": {
+    "contest_id": 1768,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1768/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Quick Sort",
+    "problem_url": "https://codeforces.com/contest/1768/problem/B",
+    "submission_id": "CF188158870",
+    "submission_url": "https://codeforces.com/contest/1768/submission/188158870",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Jan/06/2023 08:47"
+  },
   "CF188226490": {
     "contest_id": 1768,
     "language": "PyPy 3-64",
