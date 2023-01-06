@@ -2640,5 +2640,23 @@
       "*1500"
     ],
     "timestamp": "Jan/04/2023 17:02"
+  },
+  "CF188239324": {
+    "contest_id": 1768,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1768/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lucky Permutation",
+    "problem_url": "https://codeforces.com/contest/1768/problem/D",
+    "submission_id": "CF188239324",
+    "submission_url": "https://codeforces.com/contest/1768/submission/188239324",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy"
+    ],
+    "timestamp": "Jan/06/2023 22:13"
   }
 }
