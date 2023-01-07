@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-146 | [C - Circular RMQ](https://codeforces.com/contest/52/problem/C) | [PyPy 3-64](./codeforces/52/C.py) | `data structures` `*2200` | Jan/09/2023 14:00 | 
-145 | [F - Ant colony](https://codeforces.com/contest/474/problem/F) | [PyPy 3](./codeforces/474/F.py) | `data structures` `math` `number theory` `*2100` | Jan/09/2023 12:05 | 
-144 | [D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) | [PyPy 3-64](./codeforces/1234/D.py) | `data structures` `*1600` | Jan/08/2023 22:34 | 
+147 | [C - Circular RMQ](https://codeforces.com/contest/52/problem/C) | [PyPy 3-64](./codeforces/52/C.py) | `data structures` `*2200` | Jan/09/2023 14:00 | 
+146 | [F - Ant colony](https://codeforces.com/contest/474/problem/F) | [PyPy 3](./codeforces/474/F.py) | `data structures` `math` `number theory` `*2100` | Jan/09/2023 12:05 | 
+145 | [D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) | [PyPy 3-64](./codeforces/1234/D.py) | `data structures` `*1600` | Jan/08/2023 22:34 | 
+144 | [C - Knight Tournament](https://codeforces.com/contest/357/problem/C) | [PyPy 3-64](./codeforces/357/C.py) | `data structures` `*1500` | Jan/07/2023 19:34 | 
 143 | [D - Lucky Permutation](https://codeforces.com/contest/1768/problem/D) | [PyPy 3-64](./codeforces/1768/D.py) | `dfs and similar` `dsu` `graphs` `greedy` | Jan/06/2023 22:13 | 
 142 | [C - Elemental Decompress](https://codeforces.com/contest/1768/problem/C) | [PyPy 3-64](./codeforces/1768/C.py) | `constructive algorithms` `greedy` `implementation` `sortings` | Jan/06/2023 20:12 | 
 141 | [B - Quick Sort](https://codeforces.com/contest/1768/problem/B) | [PyPy 3-64](./codeforces/1768/B.py) | `greedy` `math` | Jan/06/2023 08:47 | 
