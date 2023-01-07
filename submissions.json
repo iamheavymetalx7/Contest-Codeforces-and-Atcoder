@@ -2743,6 +2743,23 @@
     ],
     "timestamp": "Jan/06/2023 22:13"
   },
+  "CF188328524": {
+    "contest_id": 356,
+    "language": "PyPy 3-64",
+    "path": "codeforces/356/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Knight Tournament",
+    "problem_url": "https://codeforces.com/contest/356/problem/A",
+    "submission_id": "CF188328524",
+    "submission_url": "https://codeforces.com/contest/356/submission/188328524",
+    "tags": [
+      "data structures",
+      "dsu",
+      "*1500"
+    ],
+    "timestamp": "Jan/07/2023 19:31"
+  },
   "CF188328866": {
     "contest_id": 357,
     "language": "PyPy 3-64",
