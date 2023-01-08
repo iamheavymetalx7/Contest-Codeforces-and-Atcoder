@@ -2743,6 +2743,22 @@
     ],
     "timestamp": "Jan/06/2023 22:13"
   },
+  "CF188505592": {
+    "contest_id": 1234,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1234/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Distinct Characters Queries",
+    "problem_url": "https://codeforces.com/contest/1234/problem/D",
+    "submission_id": "CF188505592",
+    "submission_url": "https://codeforces.com/contest/1234/submission/188505592",
+    "tags": [
+      "data structures",
+      "*1600"
+    ],
+    "timestamp": "Jan/08/2023 22:34"
+  },
   "CF188542239": {
     "contest_id": 474,
     "language": "PyPy 3",
