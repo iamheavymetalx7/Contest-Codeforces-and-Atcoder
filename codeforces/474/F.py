@@ -1,53 +1,139 @@
-#bisect.bisect_left(a, x, lo=0, hi=len(a)) is the analog of std::lower_bound()
-#bisect.bisect_right(a, x, lo=0, hi=len(a)) is the analog of std::upper_bound()
-#from heapq import heappop,heappush,heapify #heappop(hq), heapify(list)
-#from collections import deque as dq #deque  e.g. myqueue=dq(list)
-#append/appendleft/appendright/pop/popleft
-#from bisect import bisect as bis #a=[1,3,4,6,7,8] #bis(a,5)-->3
-#import bisect #bisect.bisect_left(a,4)-->2 #bisect.bisect(a,4)-->3
-#import statistics as stat  # stat.median(a), mode, mean
-#from itertools import permutations(p,r)#combinations(p,r)
-#combinations(p,r) gives r-length tuples #combinations_with_replacement
-#every element can be repeated
-        
-import sys, threading, os, io 
+# https://codeforces.com/contest/474/submission/9478657
+import os
+import sys
 import math
-import time
-from os import path
-from collections import defaultdict, Counter, deque
-from bisect import *
-from string import ascii_lowercase
-from functools import cmp_to_key
-import heapq
-from bisect import bisect_left as lower_bound
-from bisect import bisect_right as upper_bound
- 
 from io import BytesIO, IOBase
-
-# # # # # # # # # # # # # # # #
-#       JAI SHREE RAM         #
-# # # # # # # # # # # # # # # #
- 
- 
-def lcm(a, b):
-    return (a*b)//(math.gcd(a,b))
- 
- 
-si= lambda:str(input())
-ii = lambda: int(input())
-mii = lambda: map(int, input().split())
-lmii = lambda: list(map(int, input().split()))
-i2c = lambda n: chr(ord('a') + n)
-c2i = lambda c: ord(c) - ord('a')
+from fractions import Fraction
+import collections
+from itertools import permutations
+#from collections import defaultdict
+from collections import deque
+import threading
 
 
-# # # # # # # # # # # # # # Segment Tree # # # # # # # #
-from math import gcd
-# Change the function to GCD since we are interested in calculating gcd for the subarrays..
+
+
+BUFSIZE = 8192
+ 
+ 
+class FastIO(IOBase):
+    newlines = 0
+    
+    def __init__(self, file):
+        self._fd = file.fileno()
+        self.buffer = BytesIO()
+        self.writable = "x" in file.mode or "r" not in file.mode
+        self.write = self.buffer.write if self.writable else None
+     
+    def read(self):
+        while True:
+            b = os.read(self._fd, max(os.fstat(self._fd).st_size, BUFSIZE))
+            if not b:
+                break
+            ptr = self.buffer.tell()
+            self.buffer.seek(0, 2), self.buffer.write(b), self.buffer.seek(ptr)
+        self.newlines = 0
+        return self.buffer.read()
+ 
+    def readline(self):
+        while self.newlines == 0:
+            b = os.read(self._fd, max(os.fstat(self._fd).st_size, BUFSIZE))
+            self.newlines = b.count(b"\n") + (not b)
+            ptr = self.buffer.tell()
+            self.buffer.seek(0, 2), self.buffer.write(b), self.buffer.seek(ptr)
+        self.newlines -= 1
+        return self.buffer.readline()
+ 
+    def flush(self):
+        if self.writable:
+            os.write(self._fd, self.buffer.getvalue())
+            self.buffer.truncate(0), self.buffer.seek(0)
+ 
+ 
+class IOWrapper(IOBase):
+    def __init__(self, file):
+        self.buffer = FastIO(file)
+        self.flush = self.buffer.flush
+        self.writable = self.buffer.writable
+        self.write = lambda s: self.buffer.write(s.encode("ascii"))
+        self.read = lambda: self.buffer.read().decode("ascii")
+        self.readline = lambda: self.buffer.readline().decode("ascii")
+  
+sys.stdin, sys.stdout = IOWrapper(sys.stdin), IOWrapper(sys.stdout)
+input = lambda: sys.stdin.readline().rstrip("\r\n")
+
+#-------------------game starts now-----------------------------------------------------
+class Factorial:
+    def __init__(self, MOD):
+        self.MOD = MOD
+        self.factorials = [1, 1]
+        self.invModulos = [0, 1]
+        self.invFactorial_ = [1, 1]
+ 
+    def calc(self, n):
+        if n <= -1:
+            print("Invalid argument to calculate n!")
+            print("n must be non-negative value. But the argument was " + str(n))
+            exit()
+        if n < len(self.factorials):
+            return self.factorials[n]
+        nextArr = [0] * (n + 1 - len(self.factorials))
+        initialI = len(self.factorials)
+        prev = self.factorials[-1]
+        m = self.MOD
+        for i in range(initialI, n + 1):
+            prev = nextArr[i - initialI] = prev * i % m
+        self.factorials += nextArr
+        return self.factorials[n]
+ 
+    def inv(self, n):
+        if n <= -1:
+            print("Invalid argument to calculate n^(-1)")
+            print("n must be non-negative value. But the argument was " + str(n))
+            exit()
+        p = self.MOD
+        pi = n % p
+        if pi < len(self.invModulos):
+            return self.invModulos[pi]
+        nextArr = [0] * (n + 1 - len(self.invModulos))
+        initialI = len(self.invModulos)
+        for i in range(initialI, min(p, n + 1)):
+            next = -self.invModulos[p % i] * (p // i) % p
+            self.invModulos.append(next)
+        return self.invModulos[pi]
+ 
+    def invFactorial(self, n):
+        if n <= -1:
+            print("Invalid argument to calculate (n^(-1))!")
+            print("n must be non-negative value. But the argument was " + str(n))
+            exit()
+        if n < len(self.invFactorial_):
+            return self.invFactorial_[n]
+        self.inv(n)  # To make sure already calculated n^-1
+        nextArr = [0] * (n + 1 - len(self.invFactorial_))
+        initialI = len(self.invFactorial_)
+        prev = self.invFactorial_[-1]
+        p = self.MOD
+        for i in range(initialI, n + 1):
+            prev = nextArr[i - initialI] = (prev * self.invModulos[i % p]) % p
+        self.invFactorial_ += nextArr
+        return self.invFactorial_[n]
+ 
+ 
+class Combination:
+    def __init__(self, MOD):
+        self.MOD = MOD
+        self.factorial = Factorial(MOD)
+ 
+    def ncr(self, n, k):
+        if k < 0 or n < k:
+            return 0
+        k = min(k, n - k)
+        f = self.factorial
+        return f.calc(n) * f.invFactorial(max(n - k, k)) * f.invFactorial(min(k, n - k)) % self.MOD
 #-------------------------------------------------------------------------
- 
 class SegmentTree:
-    def __init__(self, data, default=0, func=gcd):
+    def __init__(self, data, default=0, func=lambda a, b: math.gcd(a, b)):
         """initialize the segment tree with data"""
         self._default = default
         self._func = func
@@ -58,7 +144,6 @@ class SegmentTree:
         self.data[_size:_size + self._len] = data
         for i in reversed(range(_size)):
             self.data[i] = func(self.data[i + i], self.data[i + i + 1])
-        
  
     def __delitem__(self, idx):
         self[idx] = self._default
@@ -78,71 +163,48 @@ class SegmentTree:
         return self._len
  
     def query(self, start, stop):
-        """func of data[start, stop)"""
+        if start == stop:
+            return self.__getitem__(start)
+        stop += 1
         start += self._size
         stop += self._size
  
-        res_left = res_right = self._default
+        res = self._default
         while start < stop:
             if start & 1:
-                res_left = self._func(res_left, self.data[start])
+                res = self._func(res, self.data[start])
                 start += 1
             if stop & 1:
                 stop -= 1
-                res_right = self._func(self.data[stop], res_right)
+                res = self._func(res, self.data[stop])
             start >>= 1
             stop >>= 1
- 
-        return self._func(res_left, res_right)
+        return res
  
     def __repr__(self):
         return "SegmentTree({0})".format(self.data)
-       
-#-------------------------------------------------------------------------
- 
-if(os.path.exists('/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt')):
-    sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt","r") ; sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt","w") 
-    start_time = time.time()
-    # print("--- %s seconds ---" % (time.time() - start_time))
-else:
-    input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
+        
+# # # ## # # # # # # # # # ## # # #
+from collections import defaultdict as dict
+from bisect import bisect_left as lower_bound 
+from bisect import bisect_right as upper_bound 
 
-n = ii()
-s = lmii()
-d = defaultdict(lambda:[])
-for i in range(n):
-    d[s[i]].append(i)
+def findFrequency(arr, n, left, right, element): 
+    a = lower_bound(store[element], left) 
+    b = upper_bound(store[element], right) 
+    return b - a
+n=int(input())
+arr=list(map(int,input().split()))
+store = dict(list) 
 
-def cnt(x,left,right):
-    l = bisect_left(d[x],left)
-    r = bisect_right(d[x],right)
-    return r-l
+for i in range(n): 
+    store[arr[i]].append(i + 1) 
+t=int(input())
+st=SegmentTree(arr)
 
-
-
-seg = SegmentTree(s)
-for _ in range(ii()):
-    l,r = lmii()
-    l-=1
-    r-=1
-    g = seg.query(l,r+1)
-    # print(s[l:r])
-    # print(g,"gcd")
-    print(r-l+1-cnt(g,l,r))
-
-
-
-
-    
-# def main():
-
-    
-#     solve()
-
-
-# if __name__ == '__main__':
-#     main()
-    
- 
-
-
+for i in range(t):
+    l,r=map(int,input().split())
+    g=st.query(l-1,r-1)
+    #print(g)
+    c=findFrequency(arr,n,l,r,g)
+    print(r-l+1-c)

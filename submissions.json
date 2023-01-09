@@ -2743,6 +2743,24 @@
     ],
     "timestamp": "Jan/06/2023 22:13"
   },
+  "CF188542859": {
+    "contest_id": 474,
+    "language": "PyPy 3",
+    "path": "codeforces/474/F.py",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Ant colony",
+    "problem_url": "https://codeforces.com/contest/474/problem/F",
+    "submission_id": "CF188542859",
+    "submission_url": "https://codeforces.com/contest/474/submission/188542859",
+    "tags": [
+      "data structures",
+      "math",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "Jan/09/2023 10:34"
+  },
   "CF188549606": {
     "contest_id": 474,
     "language": "PyPy 3",
