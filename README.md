@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+144 | [C - Circular RMQ](https://codeforces.com/contest/52/problem/C) | [PyPy 3-64](./codeforces/52/C.py) | `data structures` `*2200` | Jan/09/2023 14:00 | 
 143 | [D - Lucky Permutation](https://codeforces.com/contest/1768/problem/D) | [PyPy 3-64](./codeforces/1768/D.py) | `dfs and similar` `dsu` `graphs` `greedy` | Jan/06/2023 22:13 | 
 142 | [C - Elemental Decompress](https://codeforces.com/contest/1768/problem/C) | [PyPy 3-64](./codeforces/1768/C.py) | `constructive algorithms` `greedy` `implementation` `sortings` | Jan/06/2023 20:12 | 
 141 | [B - Quick Sort](https://codeforces.com/contest/1768/problem/B) | [PyPy 3-64](./codeforces/1768/B.py) | `greedy` `math` | Jan/06/2023 08:47 | 

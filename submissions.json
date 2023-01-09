@@ -2742,5 +2742,21 @@
       "greedy"
     ],
     "timestamp": "Jan/06/2023 22:13"
+  },
+  "CF188560046": {
+    "contest_id": 52,
+    "language": "PyPy 3-64",
+    "path": "codeforces/52/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Circular RMQ",
+    "problem_url": "https://codeforces.com/contest/52/problem/C",
+    "submission_id": "CF188560046",
+    "submission_url": "https://codeforces.com/contest/52/submission/188560046",
+    "tags": [
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "Jan/09/2023 14:00"
   }
 }
