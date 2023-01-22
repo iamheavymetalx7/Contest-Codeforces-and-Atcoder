@@ -2861,5 +2861,26 @@
       "*2200"
     ],
     "timestamp": "Jan/09/2023 14:00"
+  },
+  "CF190091035": {
+    "contest_id": 1781,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1781/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Equal Frequencies",
+    "problem_url": "https://codeforces.com/contest/1781/problem/C",
+    "submission_id": "CF190091035",
+    "submission_url": "https://codeforces.com/contest/1781/submission/190091035",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Jan/22/2023 16:56"
   }
 }

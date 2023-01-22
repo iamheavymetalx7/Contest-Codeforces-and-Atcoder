@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+149 | [C - Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | [PyPy 3-64](./codeforces/1781/C.py) | `brute force` `constructive algorithms` `greedy` `implementation` `sortings` `strings` `*1600` | Jan/22/2023 16:56 | 
 148 | [C - Circular RMQ](https://codeforces.com/contest/52/problem/C) | [PyPy 3-64](./codeforces/52/C.py) | `data structures` `*2200` | Jan/09/2023 14:00 | 
 147 | [F - Ant colony](https://codeforces.com/contest/474/problem/F) | [PyPy 3](./codeforces/474/F.py) | `data structures` `math` `number theory` `*2100` | Jan/09/2023 12:05 | 
 146 | [D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) | [PyPy 3-64](./codeforces/1234/D.py) | `data structures` `*1600` | Jan/08/2023 22:34 | 
