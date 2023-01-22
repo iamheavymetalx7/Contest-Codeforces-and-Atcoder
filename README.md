@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-150 | [C - Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | [PyPy 3-64](./codeforces/1781/C.py) | `brute force` `constructive algorithms` `greedy` `implementation` `sortings` `strings` `*1600` | Jan/22/2023 16:56 | 
-149 | [A - Parallel Projection](https://codeforces.com/contest/1781/problem/A) | [PyPy 3](./codeforces/1781/A.py) | `geometry` `math` `*800` | Jan/22/2023 13:21 | 
+151 | [C - Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | [PyPy 3-64](./codeforces/1781/C.py) | `brute force` `constructive algorithms` `greedy` `implementation` `sortings` `strings` `*1600` | Jan/22/2023 16:56 | 
+150 | [A - Parallel Projection](https://codeforces.com/contest/1781/problem/A) | [PyPy 3](./codeforces/1781/A.py) | `geometry` `math` `*800` | Jan/22/2023 13:21 | 
+149 | [B - Going to the Cinema](https://codeforces.com/contest/1781/problem/B) | [PyPy 3](./codeforces/1781/B.py) | `brute force` `greedy` `sortings` `*1000` | Jan/22/2023 13:21 | 
 148 | [C - Circular RMQ](https://codeforces.com/contest/52/problem/C) | [PyPy 3-64](./codeforces/52/C.py) | `data structures` `*2200` | Jan/09/2023 14:00 | 
 147 | [F - Ant colony](https://codeforces.com/contest/474/problem/F) | [PyPy 3](./codeforces/474/F.py) | `data structures` `math` `number theory` `*2100` | Jan/09/2023 12:05 | 
 146 | [D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) | [PyPy 3-64](./codeforces/1234/D.py) | `data structures` `*1600` | Jan/08/2023 22:34 | 
