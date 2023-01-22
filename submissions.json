@@ -2918,6 +2918,24 @@
     ],
     "timestamp": "Jan/22/2023 16:56"
   },
+  "CF190096268": {
+    "contest_id": 1783,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1783/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Make it Beautiful",
+    "problem_url": "https://codeforces.com/contest/1783/problem/A",
+    "submission_id": "CF190096268",
+    "submission_url": "https://codeforces.com/contest/1783/submission/190096268",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/22/2023 17:56"
+  },
   "CF190099652": {
     "contest_id": 1783,
     "language": "PyPy 3-64",

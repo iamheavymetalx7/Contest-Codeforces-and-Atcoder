@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-153 | [C - Yet Another Tournament](https://codeforces.com/contest/1783/problem/C) | [PyPy 3-64](./codeforces/1783/C.py) | `binary search` `greedy` `sortings` `*1700` | Jan/22/2023 21:54 | 
-152 | [B - Matrix of Differences](https://codeforces.com/contest/1783/problem/B) | [PyPy 3-64](./codeforces/1783/B.py) | `constructive algorithms` `math` `*1100` | Jan/22/2023 18:32 | 
+154 | [C - Yet Another Tournament](https://codeforces.com/contest/1783/problem/C) | [PyPy 3-64](./codeforces/1783/C.py) | `binary search` `greedy` `sortings` `*1700` | Jan/22/2023 21:54 | 
+153 | [B - Matrix of Differences](https://codeforces.com/contest/1783/problem/B) | [PyPy 3-64](./codeforces/1783/B.py) | `constructive algorithms` `math` `*1100` | Jan/22/2023 18:32 | 
+152 | [A - Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | [PyPy 3-64](./codeforces/1783/A.py) | `constructive algorithms` `math` `sortings` `*800` | Jan/22/2023 17:56 | 
 151 | [C - Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | [PyPy 3-64](./codeforces/1781/C.py) | `brute force` `constructive algorithms` `greedy` `implementation` `sortings` `strings` `*1600` | Jan/22/2023 16:56 | 
 150 | [B - Going to the Cinema](https://codeforces.com/contest/1781/problem/B) | [PyPy 3](./codeforces/1781/B.py) | `brute force` `greedy` `sortings` `*1000` | Jan/22/2023 13:21 | 
 149 | [A - Parallel Projection](https://codeforces.com/contest/1781/problem/A) | [PyPy 3](./codeforces/1781/A.py) | `geometry` `math` `*800` | Jan/22/2023 13:21 | 
