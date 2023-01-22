@@ -2862,6 +2862,23 @@
     ],
     "timestamp": "Jan/09/2023 14:00"
   },
+  "CF190072585": {
+    "contest_id": 1781,
+    "language": "PyPy 3",
+    "path": "codeforces/1781/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Parallel Projection",
+    "problem_url": "https://codeforces.com/contest/1781/problem/A",
+    "submission_id": "CF190072585",
+    "submission_url": "https://codeforces.com/contest/1781/submission/190072585",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/22/2023 13:21"
+  },
   "CF190091035": {
     "contest_id": 1781,
     "language": "PyPy 3-64",
