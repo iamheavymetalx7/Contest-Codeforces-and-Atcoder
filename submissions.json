@@ -2918,6 +2918,23 @@
     ],
     "timestamp": "Jan/22/2023 16:56"
   },
+  "CF190099652": {
+    "contest_id": 1783,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1783/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Matrix of Differences",
+    "problem_url": "https://codeforces.com/contest/1783/problem/B",
+    "submission_id": "CF190099652",
+    "submission_url": "https://codeforces.com/contest/1783/submission/190099652",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/22/2023 18:32"
+  },
   "CF190118220": {
     "contest_id": 1783,
     "language": "PyPy 3-64",
