@@ -2971,6 +2971,22 @@
     ],
     "timestamp": "Jan/22/2023 21:54"
   },
+  "CF191427883": {
+    "contest_id": 1777,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1777/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Everybody Likes Good Arrays!",
+    "problem_url": "https://codeforces.com/contest/1777/problem/A",
+    "submission_id": "CF191427883",
+    "submission_url": "https://codeforces.com/contest/1777/submission/191427883",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/01/2023 00:27"
+  },
   "CF191460365": {
     "contest_id": 1792,
     "language": "PyPy 3-64",
