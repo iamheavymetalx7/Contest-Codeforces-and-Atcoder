@@ -2971,6 +2971,22 @@
     ],
     "timestamp": "Jan/22/2023 21:54"
   },
+  "CF191424069": {
+    "contest_id": 1780,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1780/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hayato and School",
+    "problem_url": "https://codeforces.com/contest/1780/problem/A",
+    "submission_id": "CF191424069",
+    "submission_url": "https://codeforces.com/contest/1780/submission/191424069",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "Jan/31/2023 23:56"
+  },
   "CF191427883": {
     "contest_id": 1777,
     "language": "PyPy 3-64",
