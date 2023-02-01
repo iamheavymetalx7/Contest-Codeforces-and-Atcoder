@@ -2971,6 +2971,22 @@
     ],
     "timestamp": "Jan/22/2023 21:54"
   },
+  "CF191460365": {
+    "contest_id": 1792,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1792/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "GamingForces",
+    "problem_url": "https://codeforces.com/contest/1792/problem/A",
+    "submission_id": "CF191460365",
+    "submission_url": "https://codeforces.com/contest/1792/submission/191460365",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Feb/01/2023 09:30"
+  },
   "CF191473856": {
     "contest_id": 1777,
     "language": "PyPy 3-64",
