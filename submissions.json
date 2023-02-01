@@ -3104,6 +3104,22 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF191611381": {
+    "contest_id": 1778,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1778/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Flip Flop Sum",
+    "problem_url": "https://codeforces.com/contest/1778/problem/A",
+    "submission_id": "CF191611381",
+    "submission_url": "https://codeforces.com/contest/1778/submission/191611381",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Feb/01/2023 23:14"
+  },
   "CF191611530": {
     "contest_id": 1778,
     "language": "PyPy 3-64",

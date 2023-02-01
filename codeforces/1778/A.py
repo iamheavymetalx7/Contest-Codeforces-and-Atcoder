@@ -54,10 +54,11 @@ def solve(t):
     if A==[1]*n:
         print(summ-4)
         return
-    for i in range(n-1):
-        if A[i]==A[i+1] and A[i]==-1:
-            print(summ+4)
-            return
+    else:
+        for i in range(n-1):
+            if A[i]==A[i+1] and A[i]==-1:
+                print(summ+4)
+                return
     print(summ)
     
 
