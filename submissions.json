@@ -2971,6 +2971,23 @@
     ],
     "timestamp": "Jan/22/2023 21:54"
   },
+  "CF191485502": {
+    "contest_id": 1790,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1790/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Taisia and Dice",
+    "problem_url": "https://codeforces.com/contest/1790/problem/B",
+    "submission_id": "CF191485502",
+    "submission_url": "https://codeforces.com/contest/1790/submission/191485502",
+    "tags": [
+      "greedy",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/01/2023 12:38"
+  },
   "CF191486039": {
     "contest_id": 1790,
     "language": "PyPy 3-64",
