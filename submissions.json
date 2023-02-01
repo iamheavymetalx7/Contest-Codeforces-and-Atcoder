@@ -2971,6 +2971,23 @@
     ],
     "timestamp": "Jan/22/2023 21:54"
   },
+  "CF191473856": {
+    "contest_id": 1777,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1777/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Emordnilap",
+    "problem_url": "https://codeforces.com/contest/1777/problem/B",
+    "submission_id": "CF191473856",
+    "submission_url": "https://codeforces.com/contest/1777/submission/191473856",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/01/2023 09:47"
+  },
   "CF191474929": {
     "contest_id": 1792,
     "language": "PyPy 3-64",
