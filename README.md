@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-156 | [A - Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | [PyPy 3-64](./codeforces/1790/A.py) | `implementation` `math` `strings` | Feb/01/2023 12:43 | 
-155 | [B - Taisia and Dice](https://codeforces.com/contest/1790/problem/B) | [PyPy 3-64](./codeforces/1790/B.py) | `greedy` `greedy` `math` | Feb/01/2023 12:38 | 
+157 | [A - Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | [PyPy 3-64](./codeforces/1790/A.py) | `implementation` `math` `strings` | Feb/01/2023 12:43 | 
+156 | [B - Taisia and Dice](https://codeforces.com/contest/1790/problem/B) | [PyPy 3-64](./codeforces/1790/B.py) | `greedy` `greedy` `math` | Feb/01/2023 12:38 | 
+155 | [B - GCD Partition](https://codeforces.com/contest/1780/problem/B) | [PyPy 3-64](./codeforces/1780/B.py) | `brute force` `greedy` `math` `number theory` | Feb/01/2023 12:03 | 
 154 | [C - Yet Another Tournament](https://codeforces.com/contest/1783/problem/C) | [PyPy 3-64](./codeforces/1783/C.py) | `binary search` `greedy` `sortings` `*1700` | Jan/22/2023 21:54 | 
 153 | [B - Matrix of Differences](https://codeforces.com/contest/1783/problem/B) | [PyPy 3-64](./codeforces/1783/B.py) | `constructive algorithms` `math` `*1100` | Jan/22/2023 18:32 | 
 152 | [A - Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | [PyPy 3-64](./codeforces/1783/A.py) | `constructive algorithms` `math` `sortings` `*800` | Jan/22/2023 17:56 | 

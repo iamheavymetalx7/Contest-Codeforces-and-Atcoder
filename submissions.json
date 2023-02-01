@@ -2971,6 +2971,24 @@
     ],
     "timestamp": "Jan/22/2023 21:54"
   },
+  "CF191482613": {
+    "contest_id": 1780,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1780/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "GCD Partition",
+    "problem_url": "https://codeforces.com/contest/1780/problem/B",
+    "submission_id": "CF191482613",
+    "submission_url": "https://codeforces.com/contest/1780/submission/191482613",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Feb/01/2023 12:03"
+  },
   "CF191485502": {
     "contest_id": 1790,
     "language": "PyPy 3-64",
