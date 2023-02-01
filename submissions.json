@@ -2970,5 +2970,22 @@
       "*1700"
     ],
     "timestamp": "Jan/22/2023 21:54"
+  },
+  "CF191486039": {
+    "contest_id": 1790,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1790/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Polycarp and the Day of Pi",
+    "problem_url": "https://codeforces.com/contest/1790/problem/A",
+    "submission_id": "CF191486039",
+    "submission_url": "https://codeforces.com/contest/1790/submission/191486039",
+    "tags": [
+      "implementation",
+      "math",
+      "strings"
+    ],
+    "timestamp": "Feb/01/2023 12:43"
   }
 }
