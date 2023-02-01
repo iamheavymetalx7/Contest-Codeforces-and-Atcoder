@@ -3104,6 +3104,23 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF191510316": {
+    "contest_id": 1787,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1787/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Exponential Equation",
+    "problem_url": "https://codeforces.com/contest/1787/problem/A",
+    "submission_id": "CF191510316",
+    "submission_url": "https://codeforces.com/contest/1787/submission/191510316",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/01/2023 16:19"
+  },
   "CF191611381": {
     "contest_id": 1778,
     "language": "PyPy 3-64",
