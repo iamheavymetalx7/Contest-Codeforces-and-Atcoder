@@ -2971,6 +2971,22 @@
     ],
     "timestamp": "Jan/22/2023 21:54"
   },
+  "CF191474929": {
+    "contest_id": 1792,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1792/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Stand-up Comedian",
+    "problem_url": "https://codeforces.com/contest/1792/problem/B",
+    "submission_id": "CF191474929",
+    "submission_url": "https://codeforces.com/contest/1792/submission/191474929",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/01/2023 10:09"
+  },
   "CF191482613": {
     "contest_id": 1780,
     "language": "PyPy 3-64",
