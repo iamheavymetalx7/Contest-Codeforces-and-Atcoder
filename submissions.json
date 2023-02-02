@@ -3104,6 +3104,26 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF191668701": {
+    "contest_id": 1792,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1792/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Min Max Sort",
+    "problem_url": "https://codeforces.com/contest/1792/problem/C",
+    "submission_id": "CF191668701",
+    "submission_url": "https://codeforces.com/contest/1792/submission/191668701",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Feb/02/2023 12:36"
+  },
   "CF191674084": {
     "contest_id": 1778,
     "language": "PyPy 3-64",
