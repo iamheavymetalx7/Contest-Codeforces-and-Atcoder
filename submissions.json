@@ -3104,6 +3104,23 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF191674084": {
+    "contest_id": 1778,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1778/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Flexible String",
+    "problem_url": "https://codeforces.com/contest/1778/problem/C",
+    "submission_id": "CF191674084",
+    "submission_url": "https://codeforces.com/contest/1778/submission/191674084",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "strings"
+    ],
+    "timestamp": "Feb/02/2023 13:32"
+  },
   "CF191705451": {
     "contest_id": 1790,
     "language": "PyPy 3-64",
