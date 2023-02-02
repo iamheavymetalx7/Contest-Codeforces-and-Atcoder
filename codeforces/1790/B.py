@@ -58,9 +58,10 @@ for _ in range(ii()):
             r-=(r//n)
             n-=1
         
-        else:
-            if r!=0:
-                arr.append(r)
+        # else:
+        #     if r!=0:
+        #         print("herheehe")
+        #         arr.append(r)
     print(*arr)
 
 # def solve(t):

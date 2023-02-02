@@ -42,8 +42,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 164 | [B - Following Directions](https://codeforces.com/contest/1791/problem/B) | [PyPy 3-64](./codeforces/1791/B.py) | `geometry` `implementation` `*800` | Feb/03/2023 20:10 | 
 163 | [A - Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | [PyPy 3-64](./codeforces/1791/A.py) | `implementation` `strings` `*800` | Feb/03/2023 20:08 | 
 162 | [C - Remove the Bracket](https://codeforces.com/contest/1787/problem/C) | [PyPy 3-64](./codeforces/1787/C.py) | `dp` `greedy` `math` `*1600` | Feb/03/2023 16:17 | 
-161 | [A - Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | [PyPy 3-64](./codeforces/1790/A.py) | `implementation` `math` `strings` | Feb/01/2023 12:43 | 
-160 | [B - Taisia and Dice](https://codeforces.com/contest/1790/problem/B) | [PyPy 3-64](./codeforces/1790/B.py) | `greedy` `greedy` `math` | Feb/01/2023 12:38 | 
+161 | [B - Taisia and Dice](https://codeforces.com/contest/1790/problem/B) | [PyPy 3-64](./codeforces/1790/B.py) | `greedy` `greedy` `math` `*800` | Feb/02/2023 18:09 | 
+160 | [A - Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | [PyPy 3-64](./codeforces/1790/A.py) | `implementation` `math` `strings` | Feb/01/2023 12:43 | 
 159 | [B - GCD Partition](https://codeforces.com/contest/1780/problem/B) | [PyPy 3-64](./codeforces/1780/B.py) | `brute force` `greedy` `math` `number theory` | Feb/01/2023 12:03 | 
 158 | [B - Stand-up Comedian](https://codeforces.com/contest/1792/problem/B) | [PyPy 3-64](./codeforces/1792/B.py) | `greedy` `math` | Feb/01/2023 10:09 | 
 157 | [B - Emordnilap](https://codeforces.com/contest/1777/problem/B) | [PyPy 3-64](./codeforces/1777/B.py) | `combinatorics` `greedy` `math` | Feb/01/2023 09:47 | 
