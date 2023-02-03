@@ -3104,6 +3104,23 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF191873218": {
+    "contest_id": 1791,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1791/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Prepend and Append",
+    "problem_url": "https://codeforces.com/contest/1791/problem/C",
+    "submission_id": "CF191873218",
+    "submission_url": "https://codeforces.com/contest/1791/submission/191873218",
+    "tags": [
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Feb/03/2023 20:13"
+  },
   "CF192055926": {
     "contest_id": 1791,
     "language": "PyPy 3-64",
