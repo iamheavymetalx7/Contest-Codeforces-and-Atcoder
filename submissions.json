@@ -3104,6 +3104,23 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF191863070": {
+    "contest_id": 1791,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1791/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Following Directions",
+    "problem_url": "https://codeforces.com/contest/1791/problem/B",
+    "submission_id": "CF191863070",
+    "submission_url": "https://codeforces.com/contest/1791/submission/191863070",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/03/2023 20:10"
+  },
   "CF191873218": {
     "contest_id": 1791,
     "language": "PyPy 3-64",
