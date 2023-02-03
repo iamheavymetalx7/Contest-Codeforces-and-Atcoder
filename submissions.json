@@ -3104,6 +3104,24 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192069295": {
+    "contest_id": 1790,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1790/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Matryoshkas",
+    "problem_url": "https://codeforces.com/contest/1790/problem/D",
+    "submission_id": "CF192069295",
+    "submission_url": "https://codeforces.com/contest/1790/submission/192069295",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Feb/04/2023 02:01"
+  },
   "CF192103912": {
     "contest_id": 1791,
     "language": "PyPy 3-64",
