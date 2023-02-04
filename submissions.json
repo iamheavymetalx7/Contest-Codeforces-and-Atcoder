@@ -3104,6 +3104,24 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192104825": {
+    "contest_id": 1791,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1791/F.py",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Range Update Point Query",
+    "problem_url": "https://codeforces.com/contest/1791/problem/F",
+    "submission_id": "CF192104825",
+    "submission_url": "https://codeforces.com/contest/1791/submission/192104825",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "*1500"
+    ],
+    "timestamp": "Feb/04/2023 11:32"
+  },
   "CF192112365": {
     "contest_id": 1791,
     "language": "PyPy 3-64",
