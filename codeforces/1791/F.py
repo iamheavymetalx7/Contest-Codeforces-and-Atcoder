@@ -1,58 +1,21 @@
-#bisect.bisect_left(a, x, lo=0, hi=len(a)) is the analog of std::lower_bound()
-#bisect.bisect_right(a, x, lo=0, hi=len(a)) is the analog of std::upper_bound()
-#from heapq import heappop,heappush,heapify #heappop(hq), heapify(list)
-#from collections import deque as dq #deque  e.g. myqueue=dq(list)
-#append/appendleft/appendright/pop/popleft
-#from bisect import bisect as bis #a=[1,3,4,6,7,8] #bis(a,5)-->3
-#import bisect #bisect.bisect_left(a,4)-->2 #bisect.bisect(a,4)-->3
-#import statistics as stat  # stat.median(a), mode, mean
-#from itertools import permutations(p,r)#combinations(p,r)
-#combinations(p,r) gives r-length tuples #combinations_with_replacement
-#every element can be repeated
-        
-import sys, threading, os, io 
+import sys
 import math
-import time
-from os import path
-from collections import defaultdict, Counter, deque
-from bisect import *
-from string import ascii_lowercase
-from functools import cmp_to_key
-import heapq
+import copy
+import itertools
 import bisect
-from io import BytesIO, IOBase								
-
-
-def lcm(a, b):
-    return (a*b)//(math.gcd(a,b))
- 
+from heapq import heappop, heappush, heapify
 
 input = lambda: sys.stdin.readline().rstrip("\r\n")
 
-def lmii():
+def ilst():
     return list(map(int,input().split()))
-
-def ii():
-    return int(input())
-
-def si():
-    return str(input())
     
-def lmsi():
+def islst():
     return list(map(str,input().split()))
     
-def mii():
+def inum():
     return map(int,input().split())
-
-def msi():
-    return map(str,input().split())
-
-i2c = lambda n: chr(ord('a') + n)
-c2i = lambda c: ord(c) - ord('a')
-
-
-#####################################################
-
+    
 
 class SortedList():
         BUCKET_RATIO = 50
@@ -170,55 +133,31 @@ class SortedList():
                 ans += len(i)
             return ans
  
- 
+t = int(input())
+for _ in range(t):
+    n,q = inum()
+    l = ilst()
 
-#########################################
-    
-    
-if(os.path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt")):
-    sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt", 'r')
-    sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w') 
-else:
-    input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
-    
+    d = {}
+    h = SortedList([i for i in range(1,n+1)])
 
-for _ in range(ii()):
-    n,q=mii()
-    A=lmii()
-
-
-    h=SortedList([i+1 for i in range(n)])
-
-    dic=defaultdict(int)
     for i in range(n):
-        dic[i+1]=0
+        d[i+1] = 0
 
+    for k in range(q):
+        nl = ilst()
+        if nl[0] == 2:
+            print(l[nl[1]-1])
+        else:
+            ind = h.index(nl[1])
+            while ind < len(h) and h[ind] >= nl[1] and h[ind] <= nl[2]:
+                if d[h[ind]] <= 2:
+                    d[h[ind]] += 1
 
-    for _ in range(q):
-        mi=lmii()
-        if len(mi)==3:
-            val,left,right=mi
-            ind = h.index(left)
-
-            while ind<len(h) and h[ind]>=left and h[ind]<=right:
-                if dic[h[ind]]<=2:
-                    dic[h[ind]]+=1
-
-                    snum=A[h[ind]-1]
-                    
-                    A[h[ind]-1]= sum(int(el) for el in str(snum))
-
-                    ind+=1
+                    tmp = 0
+                    for i in str(l[h[ind]-1]):
+                        tmp += int(i)
+                    l[h[ind]-1] = tmp
+                    ind += 1
                 else:
                     h.remove(h[ind])
-
-        else:
-            val,x=mi
-            print(A[x-1])
-
-
-
-# def solve(t):
-    
-
-    
