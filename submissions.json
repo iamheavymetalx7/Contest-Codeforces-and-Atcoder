@@ -3104,6 +3104,23 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192112365": {
+    "contest_id": 1791,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1791/G1.py",
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Teleporters (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1791/problem/G1",
+    "submission_id": "CF192112365",
+    "submission_url": "https://codeforces.com/contest/1791/submission/192112365",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Feb/04/2023 12:26"
+  },
   "CF192234491": {
     "contest_id": 25,
     "language": "PyPy 3-64",
