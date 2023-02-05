@@ -3104,6 +3104,24 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192235493": {
+    "contest_id": 4,
+    "language": "PyPy 3-64",
+    "path": "codeforces/4/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Registration System",
+    "problem_url": "https://codeforces.com/contest/4/problem/C",
+    "submission_id": "CF192235493",
+    "submission_url": "https://codeforces.com/contest/4/submission/192235493",
+    "tags": [
+      "data structures",
+      "hashing",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Feb/05/2023 11:36"
+  },
   "CF192239369": {
     "contest_id": 466,
     "language": "PyPy 3-64",
