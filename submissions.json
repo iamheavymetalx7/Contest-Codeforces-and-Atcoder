@@ -3104,6 +3104,24 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192470350": {
+    "contest_id": 1744,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1744/E1.py",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Divisible Numbers (easy version)",
+    "problem_url": "https://codeforces.com/contest/1744/problem/E1",
+    "submission_id": "CF192470350",
+    "submission_url": "https://codeforces.com/contest/1744/submission/192470350",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Feb/06/2023 18:27"
+  },
   "CF192508394": {
     "contest_id": 978,
     "language": "PyPy 3-64",
