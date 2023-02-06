@@ -3104,6 +3104,25 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192451825": {
+    "contest_id": 279,
+    "language": "PyPy 3-64",
+    "path": "codeforces/279/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Books",
+    "problem_url": "https://codeforces.com/contest/279/problem/B",
+    "submission_id": "CF192451825",
+    "submission_url": "https://codeforces.com/contest/279/submission/192451825",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Feb/06/2023 15:45"
+  },
   "CF192452581": {
     "contest_id": 459,
     "language": "PyPy 3-64",
