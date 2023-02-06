@@ -3104,6 +3104,24 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192508394": {
+    "contest_id": 978,
+    "language": "PyPy 3-64",
+    "path": "codeforces/978/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Almost Arithmetic Progression",
+    "problem_url": "https://codeforces.com/contest/978/problem/D",
+    "submission_id": "CF192508394",
+    "submission_url": "https://codeforces.com/contest/978/submission/192508394",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Feb/06/2023 22:40"
+  },
   "CF192529062": {
     "contest_id": 496,
     "language": "PyPy 3-64",
