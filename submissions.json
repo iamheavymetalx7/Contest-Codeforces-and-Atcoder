@@ -3104,6 +3104,24 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192454931": {
+    "contest_id": 1526,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1526/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "I Hate 1111",
+    "problem_url": "https://codeforces.com/contest/1526/problem/B",
+    "submission_id": "CF192454931",
+    "submission_url": "https://codeforces.com/contest/1526/submission/192454931",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Feb/06/2023 16:17"
+  },
   "CF192460448": {
     "contest_id": 455,
     "language": "PyPy 3-64",
