@@ -3104,6 +3104,22 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192460448": {
+    "contest_id": 455,
+    "language": "PyPy 3-64",
+    "path": "codeforces/455/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Boredom",
+    "problem_url": "https://codeforces.com/contest/455/problem/A",
+    "submission_id": "CF192460448",
+    "submission_url": "https://codeforces.com/contest/455/submission/192460448",
+    "tags": [
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "Feb/06/2023 17:07"
+  },
   "CF192470350": {
     "contest_id": 1744,
     "language": "PyPy 3-64",
