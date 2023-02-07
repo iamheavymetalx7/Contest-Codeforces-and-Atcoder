@@ -3103,5 +3103,23 @@
       "strings"
     ],
     "timestamp": "Feb/01/2023 12:43"
+  },
+  "CF192663906": {
+    "contest_id": 1379,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1379/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Acacius and String",
+    "problem_url": "https://codeforces.com/contest/1379/problem/A",
+    "submission_id": "CF192663906",
+    "submission_url": "https://codeforces.com/contest/1379/submission/192663906",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Feb/08/2023 02:14"
   }
 }
