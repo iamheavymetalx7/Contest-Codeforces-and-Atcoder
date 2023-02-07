@@ -3104,6 +3104,25 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192559766": {
+    "contest_id": 1739,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1739/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/1739/problem/C",
+    "submission_id": "CF192559766",
+    "submission_url": "https://codeforces.com/contest/1739/submission/192559766",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "games",
+      "*1500"
+    ],
+    "timestamp": "Feb/07/2023 11:19"
+  },
   "CF192578271": {
     "contest_id": 1307,
     "language": "PyPy 3-64",
