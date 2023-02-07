@@ -3104,6 +3104,25 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192635256": {
+    "contest_id": 1738,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1738/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Even Number Addicts",
+    "problem_url": "https://codeforces.com/contest/1738/problem/C",
+    "submission_id": "CF192635256",
+    "submission_url": "https://codeforces.com/contest/1738/submission/192635256",
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Feb/07/2023 22:19"
+  },
   "CF192639524": {
     "contest_id": 282,
     "language": "PyPy 3-64",
