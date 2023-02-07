@@ -3104,6 +3104,25 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192578271": {
+    "contest_id": 1307,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1307/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cow and Message",
+    "problem_url": "https://codeforces.com/contest/1307/problem/C",
+    "submission_id": "CF192578271",
+    "submission_url": "https://codeforces.com/contest/1307/submission/192578271",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Feb/07/2023 14:52"
+  },
   "CF192591084": {
     "contest_id": 1326,
     "language": "PyPy 3-64",
