@@ -3104,6 +3104,23 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192645658": {
+    "contest_id": 414,
+    "language": "PyPy 3-64",
+    "path": "codeforces/414/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mashmokh and Numbers",
+    "problem_url": "https://codeforces.com/contest/414/problem/A",
+    "submission_id": "CF192645658",
+    "submission_url": "https://codeforces.com/contest/414/submission/192645658",
+    "tags": [
+      "constructive algorithms",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Feb/07/2023 23:31"
+  },
   "CF192663906": {
     "contest_id": 1379,
     "language": "PyPy 3-64",
