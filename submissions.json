@@ -3104,6 +3104,24 @@
     ],
     "timestamp": "Feb/01/2023 12:43"
   },
+  "CF192639524": {
+    "contest_id": 282,
+    "language": "PyPy 3-64",
+    "path": "codeforces/282/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "XOR and OR",
+    "problem_url": "https://codeforces.com/contest/282/problem/C",
+    "submission_id": "CF192639524",
+    "submission_url": "https://codeforces.com/contest/282/submission/192639524",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Feb/07/2023 22:49"
+  },
   "CF192645658": {
     "contest_id": 414,
     "language": "PyPy 3-64",

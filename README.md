@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-164 | [A - Acacius and String](https://codeforces.com/contest/1379/problem/A) | [PyPy 3-64](./codeforces/1379/A.py) | `brute force` `implementation` `strings` `*1500` | Feb/08/2023 02:14 | 
-163 | [A - Mashmokh and Numbers](https://codeforces.com/contest/414/problem/A) | [PyPy 3-64](./codeforces/414/A.py) | `constructive algorithms` `number theory` `*1500` | Feb/07/2023 23:31 | 
+165 | [A - Acacius and String](https://codeforces.com/contest/1379/problem/A) | [PyPy 3-64](./codeforces/1379/A.py) | `brute force` `implementation` `strings` `*1500` | Feb/08/2023 02:14 | 
+164 | [A - Mashmokh and Numbers](https://codeforces.com/contest/414/problem/A) | [PyPy 3-64](./codeforces/414/A.py) | `constructive algorithms` `number theory` `*1500` | Feb/07/2023 23:31 | 
+163 | [C - XOR and OR](https://codeforces.com/contest/282/problem/C) | [PyPy 3-64](./codeforces/282/C.py) | `constructive algorithms` `implementation` `math` `*1500` | Feb/07/2023 22:49 | 
 162 | [A - Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | [PyPy 3-64](./codeforces/1790/A.py) | `implementation` `math` `strings` | Feb/01/2023 12:43 | 
 161 | [B - Taisia and Dice](https://codeforces.com/contest/1790/problem/B) | [PyPy 3-64](./codeforces/1790/B.py) | `greedy` `greedy` `math` | Feb/01/2023 12:38 | 
 160 | [B - GCD Partition](https://codeforces.com/contest/1780/problem/B) | [PyPy 3-64](./codeforces/1780/B.py) | `brute force` `greedy` `math` `number theory` | Feb/01/2023 12:03 | 
