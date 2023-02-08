@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-206 | [D - Moscow Gorillas](https://codeforces.com/contest/1793/problem/D) | [PyPy 3-64](./codeforces/1793/D.py) | `dp` `greedy` `implementation` `two pointers` | Feb/13/2023 17:51 | 
-205 | [B - Fedya and Array](https://codeforces.com/contest/1793/problem/B) | [PyPy 3-64](./codeforces/1793/B.py) | `constructive algorithms` `math` | Feb/13/2023 02:11 | 
-204 | [A - Yet Another Promotion](https://codeforces.com/contest/1793/problem/A) | [PyPy 3-64](./codeforces/1793/A.py) | `greedy` `math` | Feb/13/2023 01:47 | 
-203 | [C - Dora and Search](https://codeforces.com/contest/1793/problem/C) | [PyPy 3-64](./codeforces/1793/C.py) | `constructive algorithms` `data structures` `two pointers` | Feb/12/2023 14:48 | 
-202 | [C - Matching Numbers](https://codeforces.com/contest/1788/problem/C) | [PyPy 3-64](./codeforces/1788/C.py) | `constructive algorithms` `greedy` `math` | Feb/10/2023 14:14 | 
-201 | [B - Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | [PyPy 3-64](./codeforces/1788/B.py) | `constructive algorithms` `greedy` `implementation` `math` | Feb/10/2023 11:48 | 
-200 | [A - One and Two](https://codeforces.com/contest/1788/problem/A) | [PyPy 3-64](./codeforces/1788/A.py) | `brute force` `math` | Feb/09/2023 20:08 | 
-199 | [C - Minimum Grid Path](https://codeforces.com/contest/1499/problem/C) | [PyPy 3-64](./codeforces/1499/C.py) | `brute force` `data structures` `greedy` `math` `*1500` | Feb/09/2023 14:32 | 
-198 | [C - Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | [PyPy 3-64](./codeforces/1646/C.py) | `bitmasks` `brute force` `constructive algorithms` `dp` `math` `*1500` | Feb/09/2023 10:34 | 
+207 | [D - Moscow Gorillas](https://codeforces.com/contest/1793/problem/D) | [PyPy 3-64](./codeforces/1793/D.py) | `dp` `greedy` `implementation` `two pointers` | Feb/13/2023 17:51 | 
+206 | [B - Fedya and Array](https://codeforces.com/contest/1793/problem/B) | [PyPy 3-64](./codeforces/1793/B.py) | `constructive algorithms` `math` | Feb/13/2023 02:11 | 
+205 | [A - Yet Another Promotion](https://codeforces.com/contest/1793/problem/A) | [PyPy 3-64](./codeforces/1793/A.py) | `greedy` `math` | Feb/13/2023 01:47 | 
+204 | [C - Dora and Search](https://codeforces.com/contest/1793/problem/C) | [PyPy 3-64](./codeforces/1793/C.py) | `constructive algorithms` `data structures` `two pointers` | Feb/12/2023 14:48 | 
+203 | [C - Matching Numbers](https://codeforces.com/contest/1788/problem/C) | [PyPy 3-64](./codeforces/1788/C.py) | `constructive algorithms` `greedy` `math` | Feb/10/2023 14:14 | 
+202 | [B - Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | [PyPy 3-64](./codeforces/1788/B.py) | `constructive algorithms` `greedy` `implementation` `math` | Feb/10/2023 11:48 | 
+201 | [A - One and Two](https://codeforces.com/contest/1788/problem/A) | [PyPy 3-64](./codeforces/1788/A.py) | `brute force` `math` | Feb/09/2023 20:08 | 
+200 | [C - Minimum Grid Path](https://codeforces.com/contest/1499/problem/C) | [PyPy 3-64](./codeforces/1499/C.py) | `brute force` `data structures` `greedy` `math` `*1500` | Feb/09/2023 14:32 | 
+199 | [C - Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | [PyPy 3-64](./codeforces/1646/C.py) | `bitmasks` `brute force` `constructive algorithms` `dp` `math` `*1500` | Feb/09/2023 10:34 | 
+198 | [E - Restoring the Permutation](https://codeforces.com/contest/1506/problem/E) | [PyPy 3-64](./codeforces/1506/E.py) | `constructive algorithms` `implementation` `*1500` | Feb/08/2023 16:52 | 
 197 | [A - Acacius and String](https://codeforces.com/contest/1379/problem/A) | [PyPy 3-64](./codeforces/1379/A.py) | `brute force` `implementation` `strings` `*1500` | Feb/08/2023 02:14 | 
 196 | [A - Mashmokh and Numbers](https://codeforces.com/contest/414/problem/A) | [PyPy 3-64](./codeforces/414/A.py) | `constructive algorithms` `number theory` `*1500` | Feb/07/2023 23:31 | 
 195 | [C - XOR and OR](https://codeforces.com/contest/282/problem/C) | [PyPy 3-64](./codeforces/282/C.py) | `constructive algorithms` `implementation` `math` `*1500` | Feb/07/2023 22:49 | 
