@@ -1,55 +1,66 @@
-import os,sys
-from random import randint
-from io import BytesIO, IOBase
-
-from collections import defaultdict,deque,Counter
-from bisect import bisect_left,bisect_right
-from heapq import heappush,heappop
-from functools import lru_cache
-from itertools import accumulate
+#bisect.bisect_left(a, x, lo=0, hi=len(a)) is the analog of std::lower_bound()
+#bisect.bisect_right(a, x, lo=0, hi=len(a)) is the analog of std::upper_bound()
+#from heapq import heappop,heappush,heapify #heappop(hq), heapify(list)
+#from collections import deque as dq #deque  e.g. myqueue=dq(list)
+#append/appendleft/appendright/pop/popleft
+#from bisect import bisect as bis #a=[1,3,4,6,7,8] #bis(a,5)-->3
+#import bisect #bisect.bisect_left(a,4)-->2 #bisect.bisect(a,4)-->3
+#import statistics as stat  # stat.median(a), mode, mean
+#from itertools import permutations(p,r)#combinations(p,r)
+#combinations(p,r) gives r-length tuples #combinations_with_replacement
+#every element can be repeated
+        
+#Note direct assignment to check somethings doesnt work always
+#say there exists s (list) then ss=s and if we edit ss, it edits s as well
+#always try to use ss=s.copy() if u wish to make changes to ss and not reflect them in s.
+#For example: see **1379A - Acacius and String** for reference
+    
+import sys, threading, os, io 
 import math
+import time
+from os import path
+from collections import defaultdict, Counter, deque
+from bisect import *
+from string import ascii_lowercase
+from functools import cmp_to_key
+import heapq
+from io import BytesIO, IOBase								
+# # # # # # # # # # # # # # # #
+#       JAI SHREE RAM         #
+# # # # # # # # # # # # # # # #
+ 
+ 
+def lcm(a, b):
+    return (a*b)//(math.gcd(a,b))
+ 
+ 
+input = lambda: sys.stdin.readline().rstrip(
+)
+def lmii():
+    return list(map(int,input().split()))
 
-# Fast IO Region
-BUFSIZE = 8192
-class FastIO(IOBase):
-    newlines = 0
-    def __init__(self, file):
-        self._fd = file.fileno()
-        self.buffer = BytesIO()
-        self.writable = "x" in file.mode or "r" not in file.mode
-        self.write = self.buffer.write if self.writable else None
-    def read(self):
-        while True:
-            b = os.read(self._fd, max(os.fstat(self._fd).st_size, BUFSIZE))
-            if not b:
-                break
-            ptr = self.buffer.tell()
-            self.buffer.seek(0, 2), self.buffer.write(b), self.buffer.seek(ptr)
-        self.newlines = 0
-        return self.buffer.read()
-    def readline(self):
-        while self.newlines == 0:
-            b = os.read(self._fd, max(os.fstat(self._fd).st_size, BUFSIZE))
-            self.newlines = b.count(b"\n") + (not b)
-            ptr = self.buffer.tell()
-            self.buffer.seek(0, 2), self.buffer.write(b), self.buffer.seek(ptr)
-        self.newlines -= 1
-        return self.buffer.readline()
-    def flush(self):
-        if self.writable:
-            os.write(self._fd, self.buffer.getvalue())
-            self.buffer.truncate(0), self.buffer.seek(0)
-class IOWrapper(IOBase):
-    def __init__(self, file):
-        self.buffer = FastIO(file)
-        self.flush = self.buffer.flush
-        self.writable = self.buffer.writable
-        self.write = lambda s: self.buffer.write(s.encode("ascii"))
-        self.read = lambda: self.buffer.read().decode("ascii")
-        self.readline = lambda: self.buffer.readline().decode("ascii")
-sys.stdin, sys.stdout = IOWrapper(sys.stdin), IOWrapper(sys.stdout)
-input = lambda: sys.stdin.readline().rstrip("\r\n")
+def ii():
+    return int(input())
 
+def si():
+    return str(input())
+def lmsi():
+    return list(map(str,input().split()))
+def mii():
+    return map(int,input().split())
+
+def msi():
+    return map(str,input().split())
+
+i2c = lambda n: chr(ord('a') + n)
+c2i = lambda c: ord(c) - ord('a')
+    
+    
+# if(os.path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt")):
+#     sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt", 'r')
+#     sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w') 
+# else:
+#     input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
 class SortedList:
     def __init__(self, iterable=[], _load=200):
         """Initialize sorted list instance."""
@@ -283,27 +294,68 @@ class SortedList:
     def __repr__(self):
         """Return string representation of sorted list."""
         return 'SortedList({0})'.format(list(self))
+ 
+    
+def solve(t):
+    n=ii()
+    a=lmii()
+    s=set(a)
+
+    arr=[a[0]]
+
+    j=1
+
+    for i in range(1,n):
+        if a[i]==a[i-1]:
+            while j in s:
+                j+=1
+            arr.append(j)
+            j+=1
+        else:
+            arr.append(a[i])
+    
+    sorted_list = SortedList()
+
+    for i in range(n):
+        if i+1 not in s:
+            sorted_list.add(i+1)
+
+    curr=a[0]
+
+    for i in range(1,n):
+        if a[i]==curr:
+            x=sorted_list.bisect_left(curr)-1
+            a[i]=sorted_list[x]
+            sorted_list.discard(a[i])
+        else:
+            curr=a[i]
+    
+    print(*arr)
+    print(*a)
+    
 
 
-for _ in range(int(input())):
-    n = int(input())
-    a = list(map(int, input().split()))
-    q = SortedList(list(range(1, n + 1)))
-    mn = []
-    for i in range(n):
-        if a[i] in q:
-            mn.append(a[i])
-            q.remove(a[i])
-        else:
-            mn.append(q.pop(0))
-    mx = []
-    q = SortedList(list(range(1, n + 1)))
-    for i in range(n):
-        if a[i] in q:
-            mx.append(a[i])
-            q.remove(a[i])
-        else:
-            idx = q.bisect_left(a[i])
-            mx.append(q.pop(idx - 1))
-    print(*mn)
-    print(*mx)
+    
+def main():
+    t = 1
+    if path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt"):
+        sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt", 'r')
+        sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w')
+        start_time = time.time()
+        print("--- %s seconds ---" % (time.time() - start_time))
+ 
+ 
+    sys.setrecursionlimit(10**5)
+ 
+    t = int(input())
+ 
+    for i in range(t):
+        solve(i+1)
+ 
+ 
+if __name__ == '__main__':
+    main()
+    
+ 
+
+
