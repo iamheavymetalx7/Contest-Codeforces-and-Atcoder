@@ -3816,6 +3816,22 @@
     ],
     "timestamp": "Feb/08/2023 02:14"
   },
+  "CF192874239": {
+    "contest_id": 1788,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1788/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "One and Two",
+    "problem_url": "https://codeforces.com/contest/1788/problem/A",
+    "submission_id": "CF192874239",
+    "submission_url": "https://codeforces.com/contest/1788/submission/192874239",
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "timestamp": "Feb/09/2023 20:08"
+  },
   "CF193022137": {
     "contest_id": 1788,
     "language": "PyPy 3-64",
