@@ -3816,6 +3816,24 @@
     ],
     "timestamp": "Feb/08/2023 02:14"
   },
+  "CF193022137": {
+    "contest_id": 1788,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1788/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sum of Two Numbers",
+    "problem_url": "https://codeforces.com/contest/1788/problem/B",
+    "submission_id": "CF193022137",
+    "submission_url": "https://codeforces.com/contest/1788/submission/193022137",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Feb/10/2023 11:48"
+  },
   "CF193035331": {
     "contest_id": 1788,
     "language": "PyPy 3-64",
