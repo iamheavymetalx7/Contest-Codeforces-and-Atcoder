@@ -3816,6 +3816,23 @@
     ],
     "timestamp": "Feb/08/2023 02:14"
   },
+  "CF193035331": {
+    "contest_id": 1788,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1788/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Matching Numbers",
+    "problem_url": "https://codeforces.com/contest/1788/problem/C",
+    "submission_id": "CF193035331",
+    "submission_url": "https://codeforces.com/contest/1788/submission/193035331",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/10/2023 14:14"
+  },
   "CF193300840": {
     "contest_id": 1793,
     "language": "PyPy 3-64",
