@@ -3816,6 +3816,22 @@
     ],
     "timestamp": "Feb/08/2023 02:14"
   },
+  "CF193398086": {
+    "contest_id": 1793,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1793/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fedya and Array",
+    "problem_url": "https://codeforces.com/contest/1793/problem/B",
+    "submission_id": "CF193398086",
+    "submission_url": "https://codeforces.com/contest/1793/submission/193398086",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Feb/13/2023 02:11"
+  },
   "CF193461860": {
     "contest_id": 1793,
     "language": "PyPy 3-64",
