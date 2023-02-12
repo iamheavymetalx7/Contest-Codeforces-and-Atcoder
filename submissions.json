@@ -3816,6 +3816,23 @@
     ],
     "timestamp": "Feb/08/2023 02:14"
   },
+  "CF193300840": {
+    "contest_id": 1793,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1793/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dora and Search",
+    "problem_url": "https://codeforces.com/contest/1793/problem/C",
+    "submission_id": "CF193300840",
+    "submission_url": "https://codeforces.com/contest/1793/submission/193300840",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "two pointers"
+    ],
+    "timestamp": "Feb/12/2023 14:48"
+  },
   "CF193396232": {
     "contest_id": 1793,
     "language": "PyPy 3-64",
