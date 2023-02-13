@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+198 | [D - Moscow Gorillas](https://codeforces.com/contest/1793/problem/D) | [PyPy 3-64](./codeforces/1793/D.py) | `dp` `greedy` `implementation` `two pointers` | Feb/13/2023 17:51 | 
 197 | [A - Acacius and String](https://codeforces.com/contest/1379/problem/A) | [PyPy 3-64](./codeforces/1379/A.py) | `brute force` `implementation` `strings` `*1500` | Feb/08/2023 02:14 | 
 196 | [A - Mashmokh and Numbers](https://codeforces.com/contest/414/problem/A) | [PyPy 3-64](./codeforces/414/A.py) | `constructive algorithms` `number theory` `*1500` | Feb/07/2023 23:31 | 
 195 | [C - XOR and OR](https://codeforces.com/contest/282/problem/C) | [PyPy 3-64](./codeforces/282/C.py) | `constructive algorithms` `implementation` `math` `*1500` | Feb/07/2023 22:49 | 

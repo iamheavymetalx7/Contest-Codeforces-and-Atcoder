@@ -3815,5 +3815,23 @@
       "*1500"
     ],
     "timestamp": "Feb/08/2023 02:14"
+  },
+  "CF193461860": {
+    "contest_id": 1793,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1793/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Moscow Gorillas",
+    "problem_url": "https://codeforces.com/contest/1793/problem/D",
+    "submission_id": "CF193461860",
+    "submission_url": "https://codeforces.com/contest/1793/submission/193461860",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ],
+    "timestamp": "Feb/13/2023 17:51"
   }
 }
