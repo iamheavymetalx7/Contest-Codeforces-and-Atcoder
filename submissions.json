@@ -4006,5 +4006,22 @@
       "two pointers"
     ],
     "timestamp": "Feb/13/2023 17:51"
+  },
+  "CF193603530": {
+    "contest_id": 1775,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1775/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gardener and the Array",
+    "problem_url": "https://codeforces.com/contest/1775/problem/B",
+    "submission_id": "CF193603530",
+    "submission_url": "https://codeforces.com/contest/1775/submission/193603530",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*1300"
+    ],
+    "timestamp": "Feb/14/2023 19:00"
   }
 }
