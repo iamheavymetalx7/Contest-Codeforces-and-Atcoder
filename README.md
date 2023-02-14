@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-208 | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [PyPy 3-64](./codeforces/1775/B.py) | `bitmasks` `constructive algorithms` `*1300` | Feb/14/2023 19:00 | 
+209 | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [PyPy 3-64](./codeforces/1775/B.py) | `bitmasks` `constructive algorithms` `*1300` | Feb/14/2023 19:00 | 
+208 | [A2 - Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [PyPy 3-64](./codeforces/1775/A2.py) | `constructive algorithms` `greedy` `*900` | Feb/14/2023 16:15 | 
 207 | [D - Moscow Gorillas](https://codeforces.com/contest/1793/problem/D) | [PyPy 3-64](./codeforces/1793/D.py) | `dp` `greedy` `implementation` `two pointers` | Feb/13/2023 17:51 | 
 206 | [B - Fedya and Array](https://codeforces.com/contest/1793/problem/B) | [PyPy 3-64](./codeforces/1793/B.py) | `constructive algorithms` `math` | Feb/13/2023 02:11 | 
 205 | [A - Yet Another Promotion](https://codeforces.com/contest/1793/problem/A) | [PyPy 3-64](./codeforces/1793/A.py) | `greedy` `math` | Feb/13/2023 01:47 | 
