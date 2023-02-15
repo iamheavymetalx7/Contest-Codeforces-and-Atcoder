@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-217 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [PyPy 3-64](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Feb/19/2023 18:52 | 
-216 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [PyPy 3-64](./codeforces/71/A.py) | `strings` `*800` | Feb/19/2023 18:47 | 
-215 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [PyPy 3-64](./codeforces/4/A.py) | `brute force` `math` `*800` | Feb/19/2023 18:45 | 
-214 | [C - Tea Tasting](https://codeforces.com/contest/1795/problem/C) | [PyPy 3-64](./codeforces/1795/C.py) | `binary search` `data structures` `implementation` | Feb/19/2023 15:25 | 
-213 | [B - Ideal Point](https://codeforces.com/contest/1795/problem/B) | [PyPy 3-64](./codeforces/1795/B.py) | `brute force` `geometry` `greedy` | Feb/19/2023 09:02 | 
-212 | [A - Two Towers](https://codeforces.com/contest/1795/problem/A) | [PyPy 3-64](./codeforces/1795/A.py) | `brute force` `implementation` `strings` | Feb/17/2023 11:21 | 
+218 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [PyPy 3-64](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Feb/19/2023 18:52 | 
+217 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [PyPy 3-64](./codeforces/71/A.py) | `strings` `*800` | Feb/19/2023 18:47 | 
+216 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [PyPy 3-64](./codeforces/4/A.py) | `brute force` `math` `*800` | Feb/19/2023 18:45 | 
+215 | [C - Tea Tasting](https://codeforces.com/contest/1795/problem/C) | [PyPy 3-64](./codeforces/1795/C.py) | `binary search` `data structures` `implementation` | Feb/19/2023 15:25 | 
+214 | [B - Ideal Point](https://codeforces.com/contest/1795/problem/B) | [PyPy 3-64](./codeforces/1795/B.py) | `brute force` `geometry` `greedy` | Feb/19/2023 09:02 | 
+213 | [A - Two Towers](https://codeforces.com/contest/1795/problem/A) | [PyPy 3-64](./codeforces/1795/A.py) | `brute force` `implementation` `strings` | Feb/17/2023 11:21 | 
+212 | [C - Interesting Sequence](https://codeforces.com/contest/1775/problem/C) | [PyPy 3-64](./codeforces/1775/C.py) | `bitmasks` `math` `*1600` | Feb/15/2023 23:32 | 
 211 | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [PyPy 3-64](./codeforces/1775/B.py) | `bitmasks` `constructive algorithms` `*1300` | Feb/14/2023 19:00 | 
 210 | [A2 - Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [PyPy 3-64](./codeforces/1775/A2.py) | `constructive algorithms` `greedy` `*900` | Feb/14/2023 16:15 | 
 209 | [A1 - Gardener and the Capybaras (easy version)](https://codeforces.com/contest/1775/problem/A1) | [PyPy 3-64](./codeforces/1775/A1.py) | `brute force` `constructive algorithms` `implementation` `*800` | Feb/14/2023 16:14 | 
