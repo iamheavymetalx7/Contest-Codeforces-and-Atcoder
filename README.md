@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-215 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [PyPy 3-64](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Feb/19/2023 18:52 | 
-214 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [PyPy 3-64](./codeforces/71/A.py) | `strings` `*800` | Feb/19/2023 18:47 | 
-213 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [PyPy 3-64](./codeforces/4/A.py) | `brute force` `math` `*800` | Feb/19/2023 18:45 | 
-212 | [C - Tea Tasting](https://codeforces.com/contest/1795/problem/C) | [PyPy 3-64](./codeforces/1795/C.py) | `binary search` `data structures` `implementation` | Feb/19/2023 15:25 | 
+216 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [PyPy 3-64](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Feb/19/2023 18:52 | 
+215 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [PyPy 3-64](./codeforces/71/A.py) | `strings` `*800` | Feb/19/2023 18:47 | 
+214 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [PyPy 3-64](./codeforces/4/A.py) | `brute force` `math` `*800` | Feb/19/2023 18:45 | 
+213 | [C - Tea Tasting](https://codeforces.com/contest/1795/problem/C) | [PyPy 3-64](./codeforces/1795/C.py) | `binary search` `data structures` `implementation` | Feb/19/2023 15:25 | 
+212 | [B - Ideal Point](https://codeforces.com/contest/1795/problem/B) | [PyPy 3-64](./codeforces/1795/B.py) | `brute force` `geometry` `greedy` | Feb/19/2023 09:02 | 
 211 | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [PyPy 3-64](./codeforces/1775/B.py) | `bitmasks` `constructive algorithms` `*1300` | Feb/14/2023 19:00 | 
 210 | [A2 - Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [PyPy 3-64](./codeforces/1775/A2.py) | `constructive algorithms` `greedy` `*900` | Feb/14/2023 16:15 | 
 209 | [A1 - Gardener and the Capybaras (easy version)](https://codeforces.com/contest/1775/problem/A1) | [PyPy 3-64](./codeforces/1775/A1.py) | `brute force` `constructive algorithms` `implementation` `*800` | Feb/14/2023 16:14 | 
