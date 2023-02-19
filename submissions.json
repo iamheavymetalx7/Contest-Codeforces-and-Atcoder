@@ -463,6 +463,22 @@
     ],
     "timestamp": "Dec/26/2022 22:54"
   },
+  "AC39015770": {
+    "contest_id": "abc290",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc290/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Qual B",
+    "problem_url": "https://atcoder.jp/contests/abc290/tasks/abc290_b",
+    "submission_id": "AC39015770",
+    "submission_url": "https://atcoder.jp/contests/abc290/submissions/39015770",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/19/2023 17:35"
+  },
   "CF182286832": {
     "contest_id": 1744,
     "language": "PyPy 3-64",

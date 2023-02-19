@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-218 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [PyPy 3-64](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Feb/19/2023 18:52 | 
-217 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [PyPy 3-64](./codeforces/71/A.py) | `strings` `*800` | Feb/19/2023 18:47 | 
-216 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [PyPy 3-64](./codeforces/4/A.py) | `brute force` `math` `*800` | Feb/19/2023 18:45 | 
+219 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [PyPy 3-64](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Feb/19/2023 18:52 | 
+218 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [PyPy 3-64](./codeforces/71/A.py) | `strings` `*800` | Feb/19/2023 18:47 | 
+217 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [PyPy 3-64](./codeforces/4/A.py) | `brute force` `math` `*800` | Feb/19/2023 18:45 | 
+216 | [B - Qual B](https://atcoder.jp/contests/abc290/tasks/abc290_b) | [Python (3.8.2)](./atcoder/abc290/B.py) | `AtCoder` `*200` | Feb/19/2023 17:35 | 
 215 | [C - Tea Tasting](https://codeforces.com/contest/1795/problem/C) | [PyPy 3-64](./codeforces/1795/C.py) | `binary search` `data structures` `implementation` | Feb/19/2023 15:25 | 
 214 | [B - Ideal Point](https://codeforces.com/contest/1795/problem/B) | [PyPy 3-64](./codeforces/1795/B.py) | `brute force` `geometry` `greedy` | Feb/19/2023 09:02 | 
 213 | [A - Two Towers](https://codeforces.com/contest/1795/problem/A) | [PyPy 3-64](./codeforces/1795/A.py) | `brute force` `implementation` `strings` | Feb/17/2023 11:21 | 
