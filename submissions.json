@@ -463,6 +463,22 @@
     ],
     "timestamp": "Dec/26/2022 22:54"
   },
+  "AC39011215": {
+    "contest_id": "abc290",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc290/A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Contest Result",
+    "problem_url": "https://atcoder.jp/contests/abc290/tasks/abc290_a",
+    "submission_id": "AC39011215",
+    "submission_url": "https://atcoder.jp/contests/abc290/submissions/39011215",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/19/2023 17:31"
+  },
   "AC39015770": {
     "contest_id": "abc290",
     "language": "Python (3.8.2)",
