@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+221 | [B - Random Teams](https://codeforces.com/contest/478/problem/B) | [PyPy 3-64](./codeforces/478/B.py) | `combinatorics` `constructive algorithms` `greedy` `math` `*1300` | Feb/21/2023 17:38 | 
 220 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [PyPy 3-64](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Feb/19/2023 18:52 | 
 219 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [PyPy 3-64](./codeforces/71/A.py) | `strings` `*800` | Feb/19/2023 18:47 | 
 218 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [PyPy 3-64](./codeforces/4/A.py) | `brute force` `math` `*800` | Feb/19/2023 18:45 | 
