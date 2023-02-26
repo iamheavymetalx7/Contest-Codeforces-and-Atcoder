@@ -4321,6 +4321,25 @@
     ],
     "timestamp": "Feb/21/2023 17:38"
   },
+  "CF195030053": {
+    "contest_id": 1789,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1789/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Serval and Inversion Magic",
+    "problem_url": "https://codeforces.com/contest/1789/problem/B",
+    "submission_id": "CF195030053",
+    "submission_url": "https://codeforces.com/contest/1789/submission/195030053",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Feb/26/2023 14:02"
+  },
   "CF195252374": {
     "contest_id": 1789,
     "language": "PyPy 3-64",
