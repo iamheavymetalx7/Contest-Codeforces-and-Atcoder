@@ -4321,6 +4321,24 @@
     ],
     "timestamp": "Feb/21/2023 17:38"
   },
+  "CF195290998": {
+    "contest_id": 1796,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1796/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Typical Interview Problem",
+    "problem_url": "https://codeforces.com/contest/1796/problem/A",
+    "submission_id": "CF195290998",
+    "submission_url": "https://codeforces.com/contest/1796/submission/195290998",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Feb/28/2023 20:16"
+  },
   "CF195355146": {
     "contest_id": 1796,
     "language": "PyPy 3-64",
