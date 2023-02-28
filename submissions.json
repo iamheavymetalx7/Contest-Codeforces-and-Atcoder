@@ -4321,6 +4321,24 @@
     ],
     "timestamp": "Feb/21/2023 17:38"
   },
+  "CF195269266": {
+    "contest_id": 1799,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1799/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Equalize by Divide",
+    "problem_url": "https://codeforces.com/contest/1799/problem/B",
+    "submission_id": "CF195269266",
+    "submission_url": "https://codeforces.com/contest/1799/submission/195269266",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/28/2023 18:03"
+  },
   "CF195290998": {
     "contest_id": 1796,
     "language": "PyPy 3-64",
