@@ -4321,6 +4321,24 @@
     ],
     "timestamp": "Feb/21/2023 17:38"
   },
+  "CF195254948": {
+    "contest_id": 1799,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1799/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Recent Actions",
+    "problem_url": "https://codeforces.com/contest/1799/problem/A",
+    "submission_id": "CF195254948",
+    "submission_url": "https://codeforces.com/contest/1799/submission/195254948",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Feb/28/2023 15:46"
+  },
   "CF195269266": {
     "contest_id": 1799,
     "language": "PyPy 3-64",
