@@ -1,24 +1,107 @@
-for _ in range(int(input())):
-    n, k = map(int, input().split())
-    s = input()
-    f = [0]*26
-    g = [0]*26
-    for x in s:
-        if 'a' <= x <= 'z':
-            f[ord(x) - ord('a')] += 1
-        else:
-            g[ord(x) - ord('A')] += 1
+#bisect.bisect_left(a, x, lo=0, hi=len(a)) is the analog of std::lower_bound()
+#bisect.bisect_right(a, x, lo=0, hi=len(a)) is the analog of std::upper_bound()
+#from heapq import heappop,heappush,heapify #heappop(hq), heapify(list)
+#from collections import deque as dq #deque  e.g. myqueue=dq(list)
+#append/appendleft/appendright/pop/popleft
+#from bisect import bisect as bis #a=[1,3,4,6,7,8] #bis(a,5)-->3
+#import bisect #bisect.bisect_left(a,4)-->2 #bisect.bisect(a,4)-->3
+#import statistics as stat  # stat.median(a), mode, mean
+#from itertools import permutations(p,r)#combinations(p,r)
+#combinations(p,r) gives r-length tuples #combinations_with_replacement
+#every element can be repeated
+        
+#Note direct assignment to check somethings doesnt work always
+#say there exists s (list) then ss=s and if we edit ss, it edits s as well
+#always try to use ss=s.copy() if u wish to make changes to ss and not reflect them in s.
+#For example: see **1379A - Acacius and String** for reference
     
-    ans = 0
-    for i in range(26):
-        x = min(f[i], g[i])
-        ans += x
-        f[i] -= x
-        g[i] -= x
-        mx = max(f[i], g[i])
-        if mx > 1:
-            ans += min(k, mx//2)
+import sys, threading, os, io 
+import math
+import time
+from os import path
+from collections import defaultdict, Counter, deque
+from bisect import *
+from string import ascii_lowercase
+from functools import cmp_to_key
+import heapq
+from bisect import bisect_left as lower_bound
+from bisect import bisect_right as upper_bound
+from io import BytesIO, IOBase								
+# # # # # # # # # # # # # # # #
+#       JAI SHREE RAM         #
+# # # # # # # # # # # # # # # #
  
-        k -= min(k, mx//2)
  
-    print(ans)
+def lcm(a, b):
+    return (a*b)//(math.gcd(a,b))
+ 
+ 
+input = lambda: sys.stdin.readline().rstrip(
+)
+def lmii():
+    return list(map(int,input().split()))
+
+def ii():
+    return int(input())
+
+def si():
+    return str(input())
+def lmsi():
+    return list(map(str,input().split()))
+def mii():
+    return map(int,input().split())
+
+def msi():
+    return map(str,input().split())
+
+i2c = lambda n: chr(ord('a') + n)
+c2i = lambda c: ord(c) - ord('a')
+    
+    
+# if(os.path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt")):
+#     sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt", 'r')
+#     sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w') 
+# else:
+#     input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
+
+vowels="abcdefghijklmnopqrstuvwxyz"
+    
+def solve():
+    n,k=mii()
+    s=si()
+    c = Counter(s)
+    cnt=0
+    if k==0:
+        for v in vowels:
+            cnt+=min(c[v],c[v.upper()])
+    
+    else:
+        for v in vowels:
+            if v in c or v.upper() in c:
+                val = min(c[v],c[v.upper()])
+                # print(v,val,"v")
+                c[v]-=val
+                c[v.upper()]-=val
+                cnt+=val
+            
+
+            if c[v]>=2 or c[v.upper()]>=2:
+                val2=min((c[v]+c[v.upper()])//2,k)
+                # print("k",k,(c[v]+c[v.upper()])//2,c[v])
+                if k>=0:
+                    cnt+=val2
+                    k-=val2
+        
+
+    
+    print(cnt)
+
+        
+
+
+    
+t=int(input())
+for _ in range(t):
+    solve()
+
+
