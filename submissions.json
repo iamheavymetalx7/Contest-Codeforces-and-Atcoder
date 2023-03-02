@@ -4321,6 +4321,22 @@
     ],
     "timestamp": "Feb/21/2023 17:38"
   },
+  "CF195538033": {
+    "contest_id": 1799,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1799/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Double Lexicographically Minimum",
+    "problem_url": "https://codeforces.com/contest/1799/problem/C",
+    "submission_id": "CF195538033",
+    "submission_url": "https://codeforces.com/contest/1799/submission/195538033",
+    "tags": [
+      "greedy",
+      "strings"
+    ],
+    "timestamp": "Mar/02/2023 13:31"
+  },
   "CF195619164": {
     "contest_id": 1800,
     "language": "PyPy 3-64",
