@@ -4321,6 +4321,25 @@
     ],
     "timestamp": "Feb/21/2023 17:38"
   },
+  "CF195774623": {
+    "contest_id": 1800,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1800/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Remove Two Letters",
+    "problem_url": "https://codeforces.com/contest/1800/problem/D",
+    "submission_id": "CF195774623",
+    "submission_url": "https://codeforces.com/contest/1800/submission/195774623",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "hashing",
+      "strings"
+    ],
+    "timestamp": "Mar/03/2023 13:25"
+  },
   "CF195810508": {
     "contest_id": 1800,
     "language": "PyPy 3-64",
