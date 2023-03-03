@@ -4321,6 +4321,25 @@
     ],
     "timestamp": "Feb/21/2023 17:38"
   },
+  "CF195810557": {
+    "contest_id": 1800,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1800/E2.py",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Unforgivable Curse (hard version)",
+    "problem_url": "https://codeforces.com/contest/1800/problem/E2",
+    "submission_id": "CF195810557",
+    "submission_url": "https://codeforces.com/contest/1800/submission/195810557",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy"
+    ],
+    "timestamp": "Mar/03/2023 18:34"
+  },
   "CF195914941": {
     "contest_id": 479,
     "language": "PyPy 3-64",
