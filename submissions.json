@@ -4321,6 +4321,24 @@
     ],
     "timestamp": "Feb/21/2023 17:38"
   },
+  "CF195958089": {
+    "contest_id": 508,
+    "language": "PyPy 3-64",
+    "path": "codeforces/508/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Anton and currency you all know",
+    "problem_url": "https://codeforces.com/contest/508/problem/B",
+    "submission_id": "CF195958089",
+    "submission_url": "https://codeforces.com/contest/508/submission/195958089",
+    "tags": [
+      "greedy",
+      "math",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Mar/04/2023 16:57"
+  },
   "CF196003982": {
     "contest_id": 1794,
     "language": "PyPy 3-64",
