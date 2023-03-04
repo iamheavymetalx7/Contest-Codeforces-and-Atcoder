@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+225 | [B - Not Dividing](https://codeforces.com/contest/1794/problem/B) | [PyPy 3-64](./codeforces/1794/B.py) | `constructive algorithms` `greedy` `math` | Mar/04/2023 23:57 | 
 224 | [B - Random Teams](https://codeforces.com/contest/478/problem/B) | [PyPy 3-64](./codeforces/478/B.py) | `combinatorics` `constructive algorithms` `greedy` `math` `*1300` | Feb/21/2023 17:38 | 
 223 | [B - Fedor and New Game](https://codeforces.com/contest/467/problem/B) | [PyPy 3-64](./codeforces/467/B.py) | `bitmasks` `brute force` `constructive algorithms` `implementation` `*1100` | Feb/21/2023 15:47 | 
 222 | [B - Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | [PyPy 3-64](./codeforces/339/B.py) | `implementation` `*1000` | Feb/21/2023 11:50 | 
