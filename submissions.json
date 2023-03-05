@@ -4697,5 +4697,23 @@
       "math"
     ],
     "timestamp": "Mar/04/2023 23:57"
+  },
+  "CF196183208": {
+    "contest_id": 1794,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1794/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Scoring Subsequences",
+    "problem_url": "https://codeforces.com/contest/1794/problem/C",
+    "submission_id": "CF196183208",
+    "submission_url": "https://codeforces.com/contest/1794/submission/196183208",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "two pointers"
+    ],
+    "timestamp": "Mar/06/2023 01:34"
   }
 }

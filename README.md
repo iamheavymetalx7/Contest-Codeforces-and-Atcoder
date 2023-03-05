@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+245 | [C - Scoring Subsequences](https://codeforces.com/contest/1794/problem/C) | [PyPy 3-64](./codeforces/1794/C.py) | `binary search` `greedy` `math` `two pointers` | Mar/06/2023 01:34 | 
 244 | [B - Not Dividing](https://codeforces.com/contest/1794/problem/B) | [PyPy 3-64](./codeforces/1794/B.py) | `constructive algorithms` `greedy` `math` | Mar/04/2023 23:57 | 
 243 | [A - Prefix and Suffix Array](https://codeforces.com/contest/1794/problem/A) | [PyPy 3-64](./codeforces/1794/A.py) | `strings` | Mar/04/2023 23:11 | 
 242 | [B - Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | [PyPy 3-64](./codeforces/508/B.py) | `greedy` `math` `strings` `*1300` | Mar/04/2023 16:57 | 
