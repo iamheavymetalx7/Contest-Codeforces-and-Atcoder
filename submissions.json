@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF196301522": {
+    "contest_id": 507,
+    "language": "PyPy 3-64",
+    "path": "codeforces/507/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Amr and Pins",
+    "problem_url": "https://codeforces.com/contest/507/problem/B",
+    "submission_id": "CF196301522",
+    "submission_url": "https://codeforces.com/contest/507/submission/196301522",
+    "tags": [
+      "geometry",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Mar/07/2023 00:23"
+  },
   "CF196342728": {
     "contest_id": 454,
     "language": "PyPy 3-64",
