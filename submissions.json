@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF196299912": {
+    "contest_id": 447,
+    "language": "PyPy 3-64",
+    "path": "codeforces/447/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "DZY Loves Strings",
+    "problem_url": "https://codeforces.com/contest/447/problem/B",
+    "submission_id": "CF196299912",
+    "submission_url": "https://codeforces.com/contest/447/submission/196299912",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Mar/07/2023 00:08"
+  },
   "CF196301522": {
     "contest_id": 507,
     "language": "PyPy 3-64",
