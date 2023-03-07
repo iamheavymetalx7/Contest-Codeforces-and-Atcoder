@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF196379594": {
+    "contest_id": 268,
+    "language": "PyPy 3-64",
+    "path": "codeforces/268/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Beautiful Sets of Points",
+    "problem_url": "https://codeforces.com/contest/268/problem/C",
+    "submission_id": "CF196379594",
+    "submission_url": "https://codeforces.com/contest/268/submission/196379594",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Mar/07/2023 17:48"
+  },
   "CF196675626": {
     "contest_id": 1802,
     "language": "PyPy 3-64",
