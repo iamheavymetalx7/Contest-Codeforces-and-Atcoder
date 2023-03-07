@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF196372181": {
+    "contest_id": 450,
+    "language": "PyPy 3-64",
+    "path": "codeforces/450/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Jzzhu and Sequences",
+    "problem_url": "https://codeforces.com/contest/450/problem/B",
+    "submission_id": "CF196372181",
+    "submission_url": "https://codeforces.com/contest/450/submission/196372181",
+    "tags": [
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Mar/07/2023 16:48"
+  },
   "CF196379594": {
     "contest_id": 268,
     "language": "PyPy 3-64",
