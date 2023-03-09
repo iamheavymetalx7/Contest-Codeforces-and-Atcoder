@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF196675626": {
+    "contest_id": 1802,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1802/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Likes",
+    "problem_url": "https://codeforces.com/contest/1802/problem/A",
+    "submission_id": "CF196675626",
+    "submission_url": "https://codeforces.com/contest/1802/submission/196675626",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/09/2023 20:21"
+  },
   "CF196675986": {
     "contest_id": 1802,
     "language": "PyPy 3-64",

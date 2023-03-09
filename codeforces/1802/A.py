@@ -58,37 +58,56 @@ i2c = lambda n: chr(ord('a') + n)
 c2i = lambda c: ord(c) - ord('a')
     
     
-
+if(os.path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt")):
+    sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt", 'r')
+    sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w') 
+else:
+    input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
+    
     
 def solve():
-    n=int(input())
-    arr=list(map(int,input().split()))
- 
-    count_neg=0
-    count_pos=0
- 
+    n=ii()
+    a=lmii()
+
+    pset=set()
+    nset=set()
+
     for i in range(n):
-        if arr[i]>0:
-            count_pos+=1
+        if a[i]>0:
+            pset.add(a[i])
         else:
-            count_neg+=1
+            nset.add(a[i])
+
+    arr1=[]
+    for i in range(len(pset)):
+        arr1.append(i+1)
     
-    for i in range(1,count_pos+1):
-        print(i,end=' ')
-    
-    for i in range(n-count_pos):
-        print(count_pos-i-1,end=' ')
- 
-    print()
-    for i in range(count_neg):
-        print('1 0',end=' ')
-    
-    for i in range(1,n-2*count_neg+1):
-        print(i,end=' ')
- 
-    print()
+    for i in range(len(nset)):
+        arr1.append(arr1[-1]-1)
     
 
+    arr2=[]
+    for ele in nset:
+        if -1*ele in pset:
+            arr2.append(1)
+            pset.discard(-1*ele)
+        arr2.append(0)
+    k=len(pset)
+    if not arr2:
+        arr2.append(1)
+        k-=1
+
+        
+    for i in range(k):
+
+        arr2.append(arr2[-1]+1)
+    
+
+    
+
+
+    print(*arr1)
+    print(*arr2)
 
         
     
