@@ -4826,6 +4826,24 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF196683621": {
+    "contest_id": 1802,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1802/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Settlement of Guinea Pigs",
+    "problem_url": "https://codeforces.com/contest/1802/problem/B",
+    "submission_id": "CF196683621",
+    "submission_url": "https://codeforces.com/contest/1802/submission/196683621",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Mar/09/2023 21:29"
+  },
   "CF196983307": {
     "contest_id": 1802,
     "language": "PyPy 3-64",
