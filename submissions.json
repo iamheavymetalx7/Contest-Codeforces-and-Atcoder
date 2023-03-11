@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF196983307": {
+    "contest_id": 1802,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1802/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Very Beautiful Blanket",
+    "problem_url": "https://codeforces.com/contest/1802/problem/C",
+    "submission_id": "CF196983307",
+    "submission_url": "https://codeforces.com/contest/1802/submission/196983307",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*1600"
+    ],
+    "timestamp": "Mar/12/2023 01:17"
+  },
   "CF197014685": {
     "contest_id": 448,
     "language": "PyPy 3-64",
