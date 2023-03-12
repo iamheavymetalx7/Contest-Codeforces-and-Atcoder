@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF197016933": {
+    "contest_id": 265,
+    "language": "PyPy 3-64",
+    "path": "codeforces/265/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Roadside Trees (Simplified Edition)",
+    "problem_url": "https://codeforces.com/contest/265/problem/B",
+    "submission_id": "CF197016933",
+    "submission_url": "https://codeforces.com/contest/265/submission/197016933",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Mar/12/2023 11:23"
+  },
   "CF197018495": {
     "contest_id": 285,
     "language": "PyPy 3-64",
