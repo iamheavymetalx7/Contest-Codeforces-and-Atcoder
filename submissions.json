@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF197014685": {
+    "contest_id": 448,
+    "language": "PyPy 3-64",
+    "path": "codeforces/448/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Suffix Structures",
+    "problem_url": "https://codeforces.com/contest/448/problem/B",
+    "submission_id": "CF197014685",
+    "submission_url": "https://codeforces.com/contest/448/submission/197014685",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Mar/12/2023 10:54"
+  },
   "CF197016933": {
     "contest_id": 265,
     "language": "PyPy 3-64",
