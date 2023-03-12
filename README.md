@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-259 | [B - Little Girl and Game](https://codeforces.com/contest/276/problem/B) | [PyPy 3-64](./codeforces/276/B.py) | `games` `greedy` `*1300` | Mar/15/2023 15:45 | 
-258 | [B - OR in Matrix](https://codeforces.com/contest/486/problem/B) | [PyPy 3-64](./codeforces/486/B.py) | `greedy` `hashing` `implementation` `*1300` | Mar/14/2023 12:20 | 
-257 | [C - Hacking Cypher](https://codeforces.com/contest/490/problem/C) | [PyPy 3-64](./codeforces/490/C.py) | `brute force` `math` `number theory` `strings` `*1700` | Mar/14/2023 01:18 | 
-256 | [C - Fixing Typos](https://codeforces.com/contest/363/problem/C) | [Python 3](./codeforces/363/C.py) | `greedy` `implementation` `*1400` | Mar/13/2023 12:58 | 
-255 | [B - Little Elephant and Magic Square](https://codeforces.com/contest/259/problem/B) | [PyPy 3-64](./codeforces/259/B.py) | `brute force` `implementation` `*1100` | Mar/13/2023 11:36 | 
-254 | [B - Football Kit](https://codeforces.com/contest/432/problem/B) | [PyPy 3-64](./codeforces/432/B.py) | `brute force` `greedy` `implementation` `*1200` | Mar/13/2023 11:08 | 
-253 | [C - Palindrome Transformation](https://codeforces.com/contest/486/problem/C) | [PyPy 3-64](./codeforces/486/C.py) | `brute force` `greedy` `implementation` `*1700` | Mar/13/2023 10:28 | 
-252 | [C - Pull Your Luck](https://codeforces.com/contest/1804/problem/C) | [PyPy 3-64](./codeforces/1804/C.py) | `brute force` `greedy` `math` `number theory` | Mar/13/2023 09:41 | 
-251 | [B - Vaccination](https://codeforces.com/contest/1804/problem/B) | [PyPy 3-64](./codeforces/1804/B.py) | `greedy` `implementation` `two pointers` | Mar/13/2023 00:57 | 
+260 | [B - Little Girl and Game](https://codeforces.com/contest/276/problem/B) | [PyPy 3-64](./codeforces/276/B.py) | `games` `greedy` `*1300` | Mar/15/2023 15:45 | 
+259 | [B - OR in Matrix](https://codeforces.com/contest/486/problem/B) | [PyPy 3-64](./codeforces/486/B.py) | `greedy` `hashing` `implementation` `*1300` | Mar/14/2023 12:20 | 
+258 | [C - Hacking Cypher](https://codeforces.com/contest/490/problem/C) | [PyPy 3-64](./codeforces/490/C.py) | `brute force` `math` `number theory` `strings` `*1700` | Mar/14/2023 01:18 | 
+257 | [C - Fixing Typos](https://codeforces.com/contest/363/problem/C) | [Python 3](./codeforces/363/C.py) | `greedy` `implementation` `*1400` | Mar/13/2023 12:58 | 
+256 | [B - Little Elephant and Magic Square](https://codeforces.com/contest/259/problem/B) | [PyPy 3-64](./codeforces/259/B.py) | `brute force` `implementation` `*1100` | Mar/13/2023 11:36 | 
+255 | [B - Football Kit](https://codeforces.com/contest/432/problem/B) | [PyPy 3-64](./codeforces/432/B.py) | `brute force` `greedy` `implementation` `*1200` | Mar/13/2023 11:08 | 
+254 | [C - Palindrome Transformation](https://codeforces.com/contest/486/problem/C) | [PyPy 3-64](./codeforces/486/C.py) | `brute force` `greedy` `implementation` `*1700` | Mar/13/2023 10:28 | 
+253 | [C - Pull Your Luck](https://codeforces.com/contest/1804/problem/C) | [PyPy 3-64](./codeforces/1804/C.py) | `brute force` `greedy` `math` `number theory` | Mar/13/2023 09:41 | 
+252 | [B - Vaccination](https://codeforces.com/contest/1804/problem/B) | [PyPy 3-64](./codeforces/1804/B.py) | `greedy` `implementation` `two pointers` | Mar/13/2023 00:57 | 
+251 | [A - Lame King](https://codeforces.com/contest/1804/problem/A) | [PyPy 3-64](./codeforces/1804/A.py) | `greedy` `math` | Mar/12/2023 20:12 | 
 250 | [C - Scoring Subsequences](https://codeforces.com/contest/1794/problem/C) | [PyPy 3-64](./codeforces/1794/C.py) | `binary search` `greedy` `math` `two pointers` | Mar/06/2023 01:34 | 
 249 | [B - Not Dividing](https://codeforces.com/contest/1794/problem/B) | [PyPy 3-64](./codeforces/1794/B.py) | `constructive algorithms` `greedy` `math` | Mar/04/2023 23:57 | 
 248 | [A - Prefix and Suffix Array](https://codeforces.com/contest/1794/problem/A) | [PyPy 3-64](./codeforces/1794/A.py) | `strings` | Mar/04/2023 23:11 | 
