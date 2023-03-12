@@ -4826,6 +4826,24 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF197050981": {
+    "contest_id": 441,
+    "language": "PyPy 3-64",
+    "path": "codeforces/441/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Valera and Tubes ",
+    "problem_url": "https://codeforces.com/contest/441/problem/C",
+    "submission_id": "CF197050981",
+    "submission_url": "https://codeforces.com/contest/441/submission/197050981",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Mar/12/2023 16:41"
+  },
   "CF197076801": {
     "contest_id": 1804,
     "language": "PyPy 3-64",
