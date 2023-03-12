@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF197152207": {
+    "contest_id": 1804,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1804/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vaccination",
+    "problem_url": "https://codeforces.com/contest/1804/problem/B",
+    "submission_id": "CF197152207",
+    "submission_url": "https://codeforces.com/contest/1804/submission/197152207",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers"
+    ],
+    "timestamp": "Mar/13/2023 00:57"
+  },
   "CF197181230": {
     "contest_id": 1804,
     "language": "PyPy 3-64",
