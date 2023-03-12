@@ -58,42 +58,27 @@ i2c = lambda n: chr(ord('a') + n)
 c2i = lambda c: ord(c) - ord('a')
     
     
-if(os.path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt")):
-    sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt", 'r')
-    sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w') 
-else:
-    input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
-    # def solve():
-    # n,k,d,w=mii()
-    # a=lmii()
-
-from bisect import bisect_right 
+# if(os.path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt")):
+#     sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt", 'r')
+#     sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w') 
+# else:
+#     input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
+    
+from bisect import bisect_left, bisect_right 
 def solve():
     n,k,d,w=mii()
     a=lmii()
-    # i=0
-    # ans=0
-    # while i<n:
-    #     print(a[i],i)
-    #     time=a[i]+w
-    #     new_time=time+d
-    #     ans+=1
-    #     c=k
-    #     while i<n and c and new_time>=a[i]:
-    #         c-=1
-    #         i+=1
-    # print(ans)
-    packs=0
     i=0
-    cov=0
-
+    ans=0
     while i<n:
-        new_time=a[i]+w+d
-        r = bisect_right(a,new_time)
-        r=min(r,i+k)
-        packs+=1
-        i=r
-    print(packs)
+        time=a[i]+w
+        new_time=time+d
+        ans+=1
+        c=k
+        while i<n and c and new_time>=a[i]:
+            c-=1
+            i+=1
+    print(ans)
 
 
 
