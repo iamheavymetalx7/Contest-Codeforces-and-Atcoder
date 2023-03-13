@@ -4826,6 +4826,24 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF197184590": {
+    "contest_id": 486,
+    "language": "PyPy 3-64",
+    "path": "codeforces/486/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Palindrome Transformation",
+    "problem_url": "https://codeforces.com/contest/486/problem/C",
+    "submission_id": "CF197184590",
+    "submission_url": "https://codeforces.com/contest/486/submission/197184590",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Mar/13/2023 10:28"
+  },
   "CF197187514": {
     "contest_id": 432,
     "language": "PyPy 3-64",
