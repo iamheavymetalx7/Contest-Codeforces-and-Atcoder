@@ -4826,6 +4826,25 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF197292179": {
+    "contest_id": 490,
+    "language": "PyPy 3-64",
+    "path": "codeforces/490/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hacking Cypher",
+    "problem_url": "https://codeforces.com/contest/490/problem/C",
+    "submission_id": "CF197292179",
+    "submission_url": "https://codeforces.com/contest/490/submission/197292179",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Mar/14/2023 01:18"
+  },
   "CF197332064": {
     "contest_id": 486,
     "language": "PyPy 3-64",
