@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF197189993": {
+    "contest_id": 259,
+    "language": "PyPy 3-64",
+    "path": "codeforces/259/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Little Elephant and Magic Square",
+    "problem_url": "https://codeforces.com/contest/259/problem/B",
+    "submission_id": "CF197189993",
+    "submission_url": "https://codeforces.com/contest/259/submission/197189993",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/13/2023 11:36"
+  },
   "CF197197896": {
     "contest_id": 363,
     "language": "PyPy 3-64",
