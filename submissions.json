@@ -4826,6 +4826,24 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF197187514": {
+    "contest_id": 432,
+    "language": "PyPy 3-64",
+    "path": "codeforces/432/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Football Kit",
+    "problem_url": "https://codeforces.com/contest/432/problem/B",
+    "submission_id": "CF197187514",
+    "submission_url": "https://codeforces.com/contest/432/submission/197187514",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Mar/13/2023 11:08"
+  },
   "CF197189993": {
     "contest_id": 259,
     "language": "PyPy 3-64",
