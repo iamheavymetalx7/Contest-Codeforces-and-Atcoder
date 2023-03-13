@@ -4826,6 +4826,23 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF197197896": {
+    "contest_id": 363,
+    "language": "PyPy 3-64",
+    "path": "codeforces/363/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fixing Typos",
+    "problem_url": "https://codeforces.com/contest/363/problem/C",
+    "submission_id": "CF197197896",
+    "submission_url": "https://codeforces.com/contest/363/submission/197197896",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Mar/13/2023 12:54"
+  },
   "CF197198128": {
     "contest_id": 363,
     "language": "PyPy 3-64",

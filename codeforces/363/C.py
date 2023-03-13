@@ -65,24 +65,18 @@ c2i = lambda c: ord(c) - ord('a')
 #     input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
     
     
-    
 def solve():
-    s=list(si())
-    ans=[]
-    n=len(s)
- 
-    for i in range(n):
-        ch=s[i]
- 
-        if len(ans)>=2 and ans[-1]==ch and ans[-2]==ch:
-                continue
-        if len(ans)>=3 and ans[-1]==ch and ans[-2]==ans[-3]:
-                continue
-        ans.append(ch)
+    s=si()
+    ans=""
+    if len(s)<=1:
+        print(s)
+        return
+    ans = [s[0],s[1]]
+    for i in range(2, len(s)):
+        if s[i] == ans[-1] == ans[-2]: continue
+        if len(ans)>=3 and s[i] == ans[-1] and ans[-2] == ans[-3]: continue
+        ans.append(s[i])
     print(''.join(ans))
-    
- 
- 
 
 
 
