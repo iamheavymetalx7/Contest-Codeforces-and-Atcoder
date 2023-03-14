@@ -4826,6 +4826,24 @@
     ],
     "timestamp": "Mar/06/2023 01:34"
   },
+  "CF197332064": {
+    "contest_id": 486,
+    "language": "PyPy 3-64",
+    "path": "codeforces/486/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "OR in Matrix",
+    "problem_url": "https://codeforces.com/contest/486/problem/B",
+    "submission_id": "CF197332064",
+    "submission_url": "https://codeforces.com/contest/486/submission/197332064",
+    "tags": [
+      "greedy",
+      "hashing",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Mar/14/2023 12:20"
+  },
   "CF197333436": {
     "contest_id": 276,
     "language": "PyPy 3-64",
