@@ -4825,5 +4825,22 @@
       "two pointers"
     ],
     "timestamp": "Mar/06/2023 01:34"
+  },
+  "CF197490516": {
+    "contest_id": 276,
+    "language": "PyPy 3-64",
+    "path": "codeforces/276/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Little Girl and Game",
+    "problem_url": "https://codeforces.com/contest/276/problem/B",
+    "submission_id": "CF197490516",
+    "submission_url": "https://codeforces.com/contest/276/submission/197490516",
+    "tags": [
+      "games",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Mar/15/2023 15:45"
   }
 }
