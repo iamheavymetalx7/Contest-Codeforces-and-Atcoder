@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF197926232": {
+    "contest_id": 1806,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1806/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mex Master",
+    "problem_url": "https://codeforces.com/contest/1806/problem/B",
+    "submission_id": "CF197926232",
+    "submission_url": "https://codeforces.com/contest/1806/submission/197926232",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Mar/18/2023 18:05"
+  },
   "CF198012833": {
     "contest_id": 1806,
     "language": "PyPy 3-64",
