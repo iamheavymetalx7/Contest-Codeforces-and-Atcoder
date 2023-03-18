@@ -5307,6 +5307,22 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF197872424": {
+    "contest_id": 1772,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1772/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Permutation Game",
+    "problem_url": "https://codeforces.com/contest/1772/problem/E",
+    "submission_id": "CF197872424",
+    "submission_url": "https://codeforces.com/contest/1772/submission/197872424",
+    "tags": [
+      "games",
+      "*1700"
+    ],
+    "timestamp": "Mar/18/2023 12:53"
+  },
   "CF197877337": {
     "contest_id": 1771,
     "language": "PyPy 3-64",
