@@ -5307,6 +5307,25 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF197877337": {
+    "contest_id": 1771,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1771/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hossam and Friends",
+    "problem_url": "https://codeforces.com/contest/1771/problem/B",
+    "submission_id": "CF197877337",
+    "submission_url": "https://codeforces.com/contest/1771/submission/197877337",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dp",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Mar/18/2023 13:32"
+  },
   "CF197880805": {
     "contest_id": 1763,
     "language": "PyPy 3-64",
