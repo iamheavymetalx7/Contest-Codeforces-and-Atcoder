@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198012833": {
+    "contest_id": 1806,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1806/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sequence Master",
+    "problem_url": "https://codeforces.com/contest/1806/problem/C",
+    "submission_id": "CF198012833",
+    "submission_url": "https://codeforces.com/contest/1806/submission/198012833",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Mar/19/2023 00:56"
+  },
   "CF198109770": {
     "contest_id": 1777,
     "language": "PyPy 3-64",
