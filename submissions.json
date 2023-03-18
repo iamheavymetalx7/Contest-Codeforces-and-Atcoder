@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF197909989": {
+    "contest_id": 1806,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1806/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Walking Master",
+    "problem_url": "https://codeforces.com/contest/1806/problem/A",
+    "submission_id": "CF197909989",
+    "submission_url": "https://codeforces.com/contest/1806/submission/197909989",
+    "tags": [
+      "geometry",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/18/2023 17:41"
+  },
   "CF197926232": {
     "contest_id": 1806,
     "language": "PyPy 3-64",
