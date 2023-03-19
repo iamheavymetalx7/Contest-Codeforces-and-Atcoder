@@ -5307,6 +5307,26 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198109770": {
+    "contest_id": 1777,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1777/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Quiz Master",
+    "problem_url": "https://codeforces.com/contest/1777/problem/C",
+    "submission_id": "CF198109770",
+    "submission_url": "https://codeforces.com/contest/1777/submission/198109770",
+    "tags": [
+      "binary search",
+      "math",
+      "number theory",
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Mar/19/2023 20:04"
+  },
   "CF198111735": {
     "contest_id": 1807,
     "language": "PyPy 3-64",
