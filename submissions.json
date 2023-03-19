@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198156718": {
+    "contest_id": 1807,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1807/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Find and Replace",
+    "problem_url": "https://codeforces.com/contest/1807/problem/C",
+    "submission_id": "CF198156718",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198156718",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/19/2023 20:44"
+  },
   "CF198302739": {
     "contest_id": 1807,
     "language": "PyPy 3-64",
