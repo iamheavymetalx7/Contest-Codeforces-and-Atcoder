@@ -5307,6 +5307,22 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198323062": {
+    "contest_id": 152,
+    "language": "PyPy 3-64",
+    "path": "codeforces/152/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pocket Book",
+    "problem_url": "https://codeforces.com/contest/152/problem/C",
+    "submission_id": "CF198323062",
+    "submission_url": "https://codeforces.com/contest/152/submission/198323062",
+    "tags": [
+      "combinatorics",
+      "*1400"
+    ],
+    "timestamp": "Mar/20/2023 12:40"
+  },
   "CF198336502": {
     "contest_id": 109,
     "language": "PyPy 3-64",
