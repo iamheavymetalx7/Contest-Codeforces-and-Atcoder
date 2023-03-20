@@ -64,126 +64,92 @@ if(os.path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codefor
 else:
     input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
     
-from collections import Counter
+    
 def solve():
     n=ii()
     a=lmii()
-    a.sort()    
-
+    a.sort()
+    idx=-1
     if n==1:
         print(-1)
         return
-    d=[]
-
-    for i in range(1,n):
-        d.append(a[i]-a[i-1])
-    
-    ans=[]
-    c=Counter(d)
-
+    if a==[a[0]]*n:
+        print(1)
+        print(a[0])
+        return
     if n==2:
-        if d[0]%2:
-            ans.extend([a[0]-d[0],a[1]+d[0]])
-        else:
-            ans.extend([a[0]-d[0],a[0]+d[0]//2,a[-1]+d[0]])
-    else:
-        if len(c)==1:
-            ans.extend([a[0] - d[0], a[-1] + d[0]])
-        elif len(c)==2:
-            l=[]
-            for i in c:
-                l.append((i,c[i]))
-            l.sort()
-            if 2*l[0][0]==l[1][0] and l[1][1]==1:
-                j = d.index(l[1][0])
-                ans.extend([a[j]+l[0][0]])
+        arr=[]
+        cd=a[1]-a[0]
+        if cd%2==0:
+            new_m = a[0]+(cd//2)
+            arr.append(new_m)
+        arr.append(a[0]-cd)
+        arr.append(a[1]+cd)
 
-    s=set(ans)
-    print(len(s))
-    print(*sorted(list(s)))
-
-
-    # idx=-1
-    # if n==1:
-    #     print(-1)
-    #     return
-    # if a==[a[0]]*n:
-    #     print(1)
-    #     print(a[0])
-    #     return
-    # if n==2:
-    #     arr=[]
-    #     cd=a[1]-a[0]
-    #     if cd%2==0:
-    #         new_m = a[0]+(cd//2)
-    #         arr.append(new_m)
-    #     arr.append(a[0]-cd)
-    #     arr.append(a[1]+cd)
-
-    #     print(len(arr))
-    #     arr.sort()
-    #     print(*arr)
-    #     return
+        print(len(arr))
+        arr.sort()
+        print(*arr)
+        return
         
-    # cd1=a[1]-a[0]
-    # cd2=a[2]-a[1]
-    # seen=set()
-    # # print("here1....")
-    # arr=[]
-    # i=0
-    # f=True
-    # g=False
-    # while i < n-1:
-    #     # print(a[i+1],a[i],a[i+1]-a[i],f,g)
-    #     if (a[i+1]-a[i])!=cd1:
-    #         if not f:
-    #             g=True
-    #             break
-    #         idx=i
-    #         a[idx]+=cd1
-    #         i-=1
-    #         f=False
-    #     i+=1
+    cd1=a[1]-a[0]
+    cd2=a[2]-a[1]
+    seen=set()
+    # print("here1....")
+    arr=[]
+    i=0
+    f=True
+    g=False
+    while i < n-1:
+        # print(a[i+1],a[i],a[i+1]-a[i],f,g)
+        if (a[i+1]-a[i])!=cd1:
+            if not f:
+                g=True
+                break
+            idx=i
+            a[idx]+=cd1
+            i-=1
+            f=False
+        i+=1
     
-    # if (not g) and (not f):
-    #     if a[idx] not in seen:
-    #         arr.append(a[idx])
-    #     seen.add(a[idx])
+    if (not g) and (not f):
+        if a[idx] not in seen:
+            arr.append(a[idx])
+        seen.add(a[idx])
 
-    #     # print(arr,"added")
+        # print(arr,"added")
 
-    # # print("start here2...")
-    # if idx!=-1:
-    #     a[idx]-=cd1
-    # # print(a)
-    # i=0
-    # f=True
-    # g=False
-    # while i < n-1:
-    #     # print(a[i+1],a[i])
-    #     if (a[i+1]-a[i])!=cd2:
-    #         if not f:
-    #             g=True
-    #             break
-    #         idx=i
-    #         a[idx]+=cd2
-    #         i-=1
-    #         f=False
-    #     i+=1
-    # if (not g) and (not f):
-    #     if a[idx] not in seen:
-    #         arr.append(a[idx])
-    #     seen.add(a[idx])
+    # print("start here2...")
+    if idx!=-1:
+        a[idx]-=cd1
+    # print(a)
+    i=0
+    f=True
+    g=False
+    while i < n-1:
+        # print(a[i+1],a[i])
+        if (a[i+1]-a[i])!=cd2:
+            if not f:
+                g=True
+                break
+            idx=i
+            a[idx]+=cd2
+            i-=1
+            f=False
+        i+=1
+    if (not g) and (not f):
+        if a[idx] not in seen:
+            arr.append(a[idx])
+        seen.add(a[idx])
 
     
-    # if f:
-    #     # print("here")
-    #     arr.append(a[0]-cd1)
-    #     arr.append(a[-1]+cd1)
+    if f:
+        # print("here")
+        arr.append(a[0]-cd1)
+        arr.append(a[-1]+cd1)
     
-    # print(len(arr))
-    # arr.sort()
-    # print(*arr)
+    print(len(arr))
+    arr.sort()
+    print(*arr)
             
     
     
