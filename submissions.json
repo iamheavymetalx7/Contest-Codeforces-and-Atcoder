@@ -5307,6 +5307,22 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198374378": {
+    "contest_id": 365,
+    "language": "PyPy 3-64",
+    "path": "codeforces/365/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Fibonacci Segment",
+    "problem_url": "https://codeforces.com/contest/365/problem/B",
+    "submission_id": "CF198374378",
+    "submission_url": "https://codeforces.com/contest/365/submission/198374378",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/20/2023 20:59"
+  },
   "CF198403779": {
     "contest_id": 382,
     "language": "PyPy 3-64",
