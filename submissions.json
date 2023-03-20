@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198409637": {
+    "contest_id": 9,
+    "language": "PyPy 3-64",
+    "path": "codeforces/9/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hexadecimal's Numbers",
+    "problem_url": "https://codeforces.com/contest/9/problem/C",
+    "submission_id": "CF198409637",
+    "submission_url": "https://codeforces.com/contest/9/submission/198409637",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Mar/21/2023 00:52"
+  },
   "CF198439883": {
     "contest_id": 1762,
     "language": "PyPy 3-64",
