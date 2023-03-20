@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198312383": {
+    "contest_id": 362,
+    "language": "PyPy 3-64",
+    "path": "codeforces/362/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Petya and Staircases",
+    "problem_url": "https://codeforces.com/contest/362/problem/B",
+    "submission_id": "CF198312383",
+    "submission_url": "https://codeforces.com/contest/362/submission/198312383",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Mar/20/2023 10:42"
+  },
   "CF198313386": {
     "contest_id": 469,
     "language": "PyPy 3-64",
