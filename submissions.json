@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198464761": {
+    "contest_id": 116,
+    "language": "PyPy 3-64",
+    "path": "codeforces/116/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Little Pigs and Wolves",
+    "problem_url": "https://codeforces.com/contest/116/problem/B",
+    "submission_id": "CF198464761",
+    "submission_url": "https://codeforces.com/contest/116/submission/198464761",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/21/2023 13:56"
+  },
   "CF198467512": {
     "contest_id": 4,
     "language": "PyPy 3-64",
