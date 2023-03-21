@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198467512": {
+    "contest_id": 4,
+    "language": "PyPy 3-64",
+    "path": "codeforces/4/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Before an Exam",
+    "problem_url": "https://codeforces.com/contest/4/problem/B",
+    "submission_id": "CF198467512",
+    "submission_url": "https://codeforces.com/contest/4/submission/198467512",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Mar/21/2023 14:22"
+  },
   "CF198477052": {
     "contest_id": 388,
     "language": "PyPy 3-64",
