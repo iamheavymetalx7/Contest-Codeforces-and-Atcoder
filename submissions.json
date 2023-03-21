@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198456124": {
+    "contest_id": 330,
+    "language": "PyPy 3-64",
+    "path": "codeforces/330/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Road Construction",
+    "problem_url": "https://codeforces.com/contest/330/problem/B",
+    "submission_id": "CF198456124",
+    "submission_url": "https://codeforces.com/contest/330/submission/198456124",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*1300"
+    ],
+    "timestamp": "Mar/21/2023 12:43"
+  },
   "CF198464761": {
     "contest_id": 116,
     "language": "PyPy 3-64",
