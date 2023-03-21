@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198439883": {
+    "contest_id": 1762,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1762/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Binary Strings are Fun",
+    "problem_url": "https://codeforces.com/contest/1762/problem/C",
+    "submission_id": "CF198439883",
+    "submission_url": "https://codeforces.com/contest/1762/submission/198439883",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Mar/21/2023 09:57"
+  },
   "CF198443317": {
     "contest_id": 157,
     "language": "PyPy 3-64",
