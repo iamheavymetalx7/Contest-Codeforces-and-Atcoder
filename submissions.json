@@ -5307,6 +5307,27 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198575010": {
+    "contest_id": 339,
+    "language": "PyPy 3-64",
+    "path": "codeforces/339/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Xenia and Weights",
+    "problem_url": "https://codeforces.com/contest/339/problem/C",
+    "submission_id": "CF198575010",
+    "submission_url": "https://codeforces.com/contest/339/submission/198575010",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Mar/22/2023 10:04"
+  },
   "CF198577038": {
     "contest_id": 350,
     "language": "PyPy 3-64",
