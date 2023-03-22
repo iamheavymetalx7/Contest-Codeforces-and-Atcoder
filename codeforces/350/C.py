@@ -63,15 +63,7 @@ c2i = lambda c: ord(c) - ord('a')
 #     sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w') 
 # else:
 #     input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
-
-'''
-Why it is correct to sort all point by 
-increasing of Manhattan distance? 
-If you will look at the path that we have received, 
-you can notice that all points of path have lower 
-Manhattan distance, i.e. we will process this 
-points earlier.
-'''
+    
     
 def solve():
     n=int(input())
@@ -89,7 +81,6 @@ def solve():
             get.append('1 '+str(abs(x[1])) + ' ' + ('U' if x[1]>0 else 'D'))
             back.append('1 '+str(abs(x[1])) + ' ' + ('D' if x[1]>0 else 'U'))
         out.extend(get + ['2'] + back + ['3'])
-    # print(out)
     print(len(out))
     for ele in out:
         print(ele)        

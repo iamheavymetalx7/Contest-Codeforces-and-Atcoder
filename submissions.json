@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198577038": {
+    "contest_id": 350,
+    "language": "PyPy 3-64",
+    "path": "codeforces/350/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bombs",
+    "problem_url": "https://codeforces.com/contest/350/problem/C",
+    "submission_id": "CF198577038",
+    "submission_url": "https://codeforces.com/contest/350/submission/198577038",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Mar/22/2023 10:31"
+  },
   "CF198577323": {
     "contest_id": 350,
     "language": "PyPy 3-64",
