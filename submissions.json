@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198708702": {
+    "contest_id": 282,
+    "language": "PyPy 3-64",
+    "path": "codeforces/282/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Painting Eggs",
+    "problem_url": "https://codeforces.com/contest/282/problem/B",
+    "submission_id": "CF198708702",
+    "submission_url": "https://codeforces.com/contest/282/submission/198708702",
+    "tags": [
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Mar/23/2023 13:23"
+  },
   "CF198730198": {
     "contest_id": 371,
     "language": "PyPy 3-64",
