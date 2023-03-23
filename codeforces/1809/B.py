@@ -69,7 +69,19 @@ def solve():
     n=ii()
     n-=1
 
-    print(math.isqrt(n))
+    l=-1
+    r=10**9+100
+
+    while r>l+1:
+        m=(l+r)//2
+
+        if m*m>n:
+            r=m
+        else:
+            l=m
+    print(l)
+
+
 
 
 
