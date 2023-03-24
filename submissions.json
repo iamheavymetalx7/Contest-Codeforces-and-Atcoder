@@ -5307,6 +5307,22 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198965264": {
+    "contest_id": 58,
+    "language": "PyPy 3-64",
+    "path": "codeforces/58/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Coins",
+    "problem_url": "https://codeforces.com/contest/58/problem/B",
+    "submission_id": "CF198965264",
+    "submission_url": "https://codeforces.com/contest/58/submission/198965264",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Mar/24/2023 20:51"
+  },
   "CF199034241": {
     "contest_id": 366,
     "language": "PyPy 3-64",
