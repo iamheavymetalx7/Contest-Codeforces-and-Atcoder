@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198898853": {
+    "contest_id": 1809,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1809/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sum on Subarrays",
+    "problem_url": "https://codeforces.com/contest/1809/problem/C",
+    "submission_id": "CF198898853",
+    "submission_url": "https://codeforces.com/contest/1809/submission/198898853",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Mar/24/2023 11:45"
+  },
   "CF198899014": {
     "contest_id": 1809,
     "language": "PyPy 3-64",
