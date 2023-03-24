@@ -5307,6 +5307,22 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF198952696": {
+    "contest_id": 377,
+    "language": "PyPy 3-64",
+    "path": "codeforces/377/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maze",
+    "problem_url": "https://codeforces.com/contest/377/problem/A",
+    "submission_id": "CF198952696",
+    "submission_url": "https://codeforces.com/contest/377/submission/198952696",
+    "tags": [
+      "dfs and similar",
+      "*1600"
+    ],
+    "timestamp": "Mar/24/2023 19:21"
+  },
   "CF198965264": {
     "contest_id": 58,
     "language": "PyPy 3-64",
