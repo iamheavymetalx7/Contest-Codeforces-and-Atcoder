@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199063467": {
+    "contest_id": 427,
+    "language": "Python 3",
+    "path": "codeforces/427/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Checkposts",
+    "problem_url": "https://codeforces.com/contest/427/problem/C",
+    "submission_id": "CF199063467",
+    "submission_url": "https://codeforces.com/contest/427/submission/199063467",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Mar/25/2023 14:30"
+  },
   "CF199205546": {
     "contest_id": 514,
     "language": "Python 3",
