@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199034241": {
+    "contest_id": 366,
+    "language": "PyPy 3-64",
+    "path": "codeforces/366/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dima and To-do List",
+    "problem_url": "https://codeforces.com/contest/366/problem/B",
+    "submission_id": "CF199034241",
+    "submission_url": "https://codeforces.com/contest/366/submission/199034241",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Mar/25/2023 09:42"
+  },
   "CF199037026": {
     "contest_id": 289,
     "language": "PyPy 3-64",
