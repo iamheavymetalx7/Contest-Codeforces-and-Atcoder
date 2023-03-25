@@ -5307,6 +5307,26 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199037026": {
+    "contest_id": 289,
+    "language": "PyPy 3-64",
+    "path": "codeforces/289/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Polo the Penguin and Matrix",
+    "problem_url": "https://codeforces.com/contest/289/problem/B",
+    "submission_id": "CF199037026",
+    "submission_url": "https://codeforces.com/contest/289/submission/199037026",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "sortings",
+      "ternary search",
+      "*1400"
+    ],
+    "timestamp": "Mar/25/2023 10:23"
+  },
   "CF199037751": {
     "contest_id": 133,
     "language": "PyPy 3-64",
