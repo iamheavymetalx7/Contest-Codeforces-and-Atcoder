@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199209813": {
+    "contest_id": 357,
+    "language": "Python 3",
+    "path": "codeforces/357/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Flag Day",
+    "problem_url": "https://codeforces.com/contest/357/problem/B",
+    "submission_id": "CF199209813",
+    "submission_url": "https://codeforces.com/contest/357/submission/199209813",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Mar/26/2023 14:38"
+  },
   "CF199212687": {
     "contest_id": 149,
     "language": "Python 3",
