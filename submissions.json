@@ -5307,6 +5307,22 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199206061": {
+    "contest_id": 408,
+    "language": "Python 3",
+    "path": "codeforces/408/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Garland",
+    "problem_url": "https://codeforces.com/contest/408/problem/B",
+    "submission_id": "CF199206061",
+    "submission_url": "https://codeforces.com/contest/408/submission/199206061",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Mar/26/2023 14:05"
+  },
   "CF199209813": {
     "contest_id": 357,
     "language": "Python 3",
