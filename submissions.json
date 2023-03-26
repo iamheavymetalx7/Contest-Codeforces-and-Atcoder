@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199212687": {
+    "contest_id": 149,
+    "language": "Python 3",
+    "path": "codeforces/149/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Division into Teams",
+    "problem_url": "https://codeforces.com/contest/149/problem/C",
+    "submission_id": "CF199212687",
+    "submission_url": "https://codeforces.com/contest/149/submission/199212687",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Mar/26/2023 15:04"
+  },
   "CF199217949": {
     "contest_id": 279,
     "language": "Python 3",
