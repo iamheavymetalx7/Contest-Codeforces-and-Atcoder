@@ -66,24 +66,27 @@ c2i = lambda c: ord(c) - ord('a')
     
 def solve():
     m=ii()
-
-    win=defaultdict(int)
+    arr=[]
     for i in range(m):
         n=ii()
-        a=lmii()  
-        for x in a:
-            win[x]=i+1
+        a=lmii()   
+        arr.append(a)
+    # print(arr,"this")
+    seen=set()
+    ans=[0 for _ in range(m)]
+    for i in range(m-1,-1,-1):
+        a = arr[i]
 
-    ans=[0]*m
-
-    for x in win:
-        ans[win[x]-1]=x
+        for j in a:
+            if j not in seen:
+                ans[i]=j
+            seen.add(j)
+        
+        if ans[i]==0:
+            print(-1)
+            return
     
-    if 0 in ans:
-        print(-1)
-        return
     print(*ans)
-
 
 
 #     m=ii()

@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199296173": {
+    "contest_id": 1798,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1798/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Three Sevens",
+    "problem_url": "https://codeforces.com/contest/1798/problem/B",
+    "submission_id": "CF199296173",
+    "submission_url": "https://codeforces.com/contest/1798/submission/199296173",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Mar/26/2023 21:42"
+  },
   "CF199355954": {
     "contest_id": 1798,
     "language": "PyPy 3-64",
