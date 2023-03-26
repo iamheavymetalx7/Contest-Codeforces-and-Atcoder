@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199281828": {
+    "contest_id": 1798,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1798/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Showstopper",
+    "problem_url": "https://codeforces.com/contest/1798/problem/A",
+    "submission_id": "CF199281828",
+    "submission_url": "https://codeforces.com/contest/1798/submission/199281828",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "Mar/26/2023 21:06"
+  },
   "CF199296173": {
     "contest_id": 1798,
     "language": "PyPy 3-64",
