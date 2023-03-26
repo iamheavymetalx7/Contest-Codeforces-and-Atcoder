@@ -5307,6 +5307,26 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199205546": {
+    "contest_id": 514,
+    "language": "Python 3",
+    "path": "codeforces/514/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Han Solo and Lazer Gun",
+    "problem_url": "https://codeforces.com/contest/514/problem/B",
+    "submission_id": "CF199205546",
+    "submission_url": "https://codeforces.com/contest/514/submission/199205546",
+    "tags": [
+      "brute force",
+      "data structures",
+      "geometry",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Mar/26/2023 14:01"
+  },
   "CF199206061": {
     "contest_id": 408,
     "language": "Python 3",
