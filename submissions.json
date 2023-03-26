@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199217949": {
+    "contest_id": 279,
+    "language": "Python 3",
+    "path": "codeforces/279/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ladder",
+    "problem_url": "https://codeforces.com/contest/279/problem/C",
+    "submission_id": "CF199217949",
+    "submission_url": "https://codeforces.com/contest/279/submission/199217949",
+    "tags": [
+      "dp",
+      "implementation",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Mar/26/2023 15:35"
+  },
   "CF199222783": {
     "contest_id": 264,
     "language": "Python 3",
