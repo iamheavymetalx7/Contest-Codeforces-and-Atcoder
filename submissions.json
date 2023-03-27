@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199457470": {
+    "contest_id": 1798,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1798/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Shocking Arrangement",
+    "problem_url": "https://codeforces.com/contest/1798/problem/D",
+    "submission_id": "CF199457470",
+    "submission_url": "https://codeforces.com/contest/1798/submission/199457470",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Mar/28/2023 01:16"
+  },
   "CF199488264": {
     "contest_id": 1786,
     "language": "PyPy 3-64",
