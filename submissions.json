@@ -5307,6 +5307,23 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199488264": {
+    "contest_id": 1786,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1786/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cake Assembly Line",
+    "problem_url": "https://codeforces.com/contest/1786/problem/B",
+    "submission_id": "CF199488264",
+    "submission_url": "https://codeforces.com/contest/1786/submission/199488264",
+    "tags": [
+      "brute force",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Mar/28/2023 09:59"
+  },
   "CF199490880": {
     "contest_id": 1786,
     "language": "PyPy 3-64",
