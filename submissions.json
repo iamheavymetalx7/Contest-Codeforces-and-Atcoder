@@ -5306,5 +5306,23 @@
       "*1300"
     ],
     "timestamp": "Mar/15/2023 15:45"
+  },
+  "CF199582888": {
+    "contest_id": 1750,
+    "language": "Python 3",
+    "path": "codeforces/1750/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Substring",
+    "problem_url": "https://codeforces.com/contest/1750/problem/B",
+    "submission_id": "CF199582888",
+    "submission_url": "https://codeforces.com/contest/1750/submission/199582888",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2023 00:36"
   }
 }
