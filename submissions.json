@@ -5307,6 +5307,22 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199557424": {
+    "contest_id": 1776,
+    "language": "Python 3",
+    "path": "codeforces/1776/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Walking Boy",
+    "problem_url": "https://codeforces.com/contest/1776/problem/A",
+    "submission_id": "CF199557424",
+    "submission_url": "https://codeforces.com/contest/1776/submission/199557424",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/28/2023 20:59"
+  },
   "CF199581457": {
     "contest_id": 1750,
     "language": "Python 3",
