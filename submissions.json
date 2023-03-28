@@ -5307,6 +5307,22 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199515532": {
+    "contest_id": 1786,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1786/A2.py",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Alternating Deck (hard version)",
+    "problem_url": "https://codeforces.com/contest/1786/problem/A2",
+    "submission_id": "CF199515532",
+    "submission_url": "https://codeforces.com/contest/1786/submission/199515532",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/28/2023 15:24"
+  },
   "CF199544878": {
     "contest_id": 1767,
     "language": "PyPy 3-64",
