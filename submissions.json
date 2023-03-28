@@ -5307,6 +5307,22 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199547328": {
+    "contest_id": 1767,
+    "language": "Python 3",
+    "path": "codeforces/1767/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cut the Triangle",
+    "problem_url": "https://codeforces.com/contest/1767/problem/A",
+    "submission_id": "CF199547328",
+    "submission_url": "https://codeforces.com/contest/1767/submission/199547328",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/28/2023 19:44"
+  },
   "CF199554711": {
     "contest_id": 1776,
     "language": "Python 3",
