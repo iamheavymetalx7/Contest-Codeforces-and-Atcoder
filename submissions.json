@@ -6673,6 +6673,24 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF199584451": {
+    "contest_id": 1760,
+    "language": "Python 3",
+    "path": "codeforces/1760/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Advantage",
+    "problem_url": "https://codeforces.com/contest/1760/problem/C",
+    "submission_id": "CF199584451",
+    "submission_url": "https://codeforces.com/contest/1760/submission/199584451",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2023 00:55"
+  },
   "CF199620060": {
     "contest_id": 1754,
     "language": "Python 3",
