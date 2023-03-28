@@ -5307,6 +5307,24 @@
     ],
     "timestamp": "Mar/15/2023 15:45"
   },
+  "CF199581457": {
+    "contest_id": 1750,
+    "language": "Python 3",
+    "path": "codeforces/1750/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Indirect Sort",
+    "problem_url": "https://codeforces.com/contest/1750/problem/A",
+    "submission_id": "CF199581457",
+    "submission_url": "https://codeforces.com/contest/1750/submission/199581457",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2023 00:21"
+  },
   "CF199582888": {
     "contest_id": 1750,
     "language": "Python 3",
