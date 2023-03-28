@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-279 | [B - Maximum Substring](https://codeforces.com/contest/1750/problem/B) | [Python 3](./codeforces/1750/B.py) | `brute force` `greedy` `implementation` `*800` | Mar/29/2023 00:36 | 
-278 | [A - Indirect Sort](https://codeforces.com/contest/1750/problem/A) | [Python 3](./codeforces/1750/A.py) | `constructive algorithms` `implementation` `math` `*800` | Mar/29/2023 00:21 | 
-277 | [A - Walking Boy](https://codeforces.com/contest/1776/problem/A) | [Python 3](./codeforces/1776/A.py) | `greedy` `*800` | Mar/28/2023 20:59 | 
-276 | [H - Beppa and SwerChat](https://codeforces.com/contest/1776/problem/H) | [Python 3](./codeforces/1776/H.py) | `two pointers` `*1300` | Mar/28/2023 20:38 | 
-275 | [A - Cut the Triangle](https://codeforces.com/contest/1767/problem/A) | [Python 3](./codeforces/1767/A.py) | `implementation` `*800` | Mar/28/2023 19:44 | 
-274 | [B - Block Towers](https://codeforces.com/contest/1767/problem/B) | [PyPy 3-64](./codeforces/1767/B.py) | `data structures` `greedy` `sortings` `*800` | Mar/28/2023 19:27 | 
-273 | [A2 - Alternating Deck (hard version)](https://codeforces.com/contest/1786/problem/A2) | [PyPy 3-64](./codeforces/1786/A2.py) | `implementation` `*800` | Mar/28/2023 15:24 | 
+280 | [B - Maximum Substring](https://codeforces.com/contest/1750/problem/B) | [Python 3](./codeforces/1750/B.py) | `brute force` `greedy` `implementation` `*800` | Mar/29/2023 00:36 | 
+279 | [A - Indirect Sort](https://codeforces.com/contest/1750/problem/A) | [Python 3](./codeforces/1750/A.py) | `constructive algorithms` `implementation` `math` `*800` | Mar/29/2023 00:21 | 
+278 | [A - Walking Boy](https://codeforces.com/contest/1776/problem/A) | [Python 3](./codeforces/1776/A.py) | `greedy` `*800` | Mar/28/2023 20:59 | 
+277 | [H - Beppa and SwerChat](https://codeforces.com/contest/1776/problem/H) | [Python 3](./codeforces/1776/H.py) | `two pointers` `*1300` | Mar/28/2023 20:38 | 
+276 | [A - Cut the Triangle](https://codeforces.com/contest/1767/problem/A) | [Python 3](./codeforces/1767/A.py) | `implementation` `*800` | Mar/28/2023 19:44 | 
+275 | [B - Block Towers](https://codeforces.com/contest/1767/problem/B) | [PyPy 3-64](./codeforces/1767/B.py) | `data structures` `greedy` `sortings` `*800` | Mar/28/2023 19:27 | 
+274 | [A2 - Alternating Deck (hard version)](https://codeforces.com/contest/1786/problem/A2) | [PyPy 3-64](./codeforces/1786/A2.py) | `implementation` `*800` | Mar/28/2023 15:24 | 
+273 | [A1 - Non-alternating Deck (easy version)](https://codeforces.com/contest/1786/problem/A1) | [PyPy 3-64](./codeforces/1786/A1.py) | `implementation` `*800` | Mar/28/2023 10:38 | 
 272 | [B - Little Girl and Game](https://codeforces.com/contest/276/problem/B) | [PyPy 3-64](./codeforces/276/B.py) | `games` `greedy` `*1300` | Mar/15/2023 15:45 | 
 271 | [B - OR in Matrix](https://codeforces.com/contest/486/problem/B) | [PyPy 3-64](./codeforces/486/B.py) | `greedy` `hashing` `implementation` `*1300` | Mar/14/2023 12:20 | 
 270 | [C - Hacking Cypher](https://codeforces.com/contest/490/problem/C) | [PyPy 3-64](./codeforces/490/C.py) | `brute force` `math` `number theory` `strings` `*1700` | Mar/14/2023 01:18 | 
