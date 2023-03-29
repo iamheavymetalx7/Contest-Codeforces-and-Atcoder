@@ -6673,6 +6673,23 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF199663956": {
+    "contest_id": 1808,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1808/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky Numbers",
+    "problem_url": "https://codeforces.com/contest/1808/problem/A",
+    "submission_id": "CF199663956",
+    "submission_url": "https://codeforces.com/contest/1808/submission/199663956",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/29/2023 15:29"
+  },
   "CF199671521": {
     "contest_id": 1808,
     "language": "PyPy 3-64",
