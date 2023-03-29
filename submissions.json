@@ -6673,6 +6673,24 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF199620060": {
+    "contest_id": 1754,
+    "language": "Python 3",
+    "path": "codeforces/1754/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kevin and Permutation",
+    "problem_url": "https://codeforces.com/contest/1754/problem/B",
+    "submission_id": "CF199620060",
+    "submission_url": "https://codeforces.com/contest/1754/submission/199620060",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2023 10:46"
+  },
   "CF199630098": {
     "contest_id": 1765,
     "language": "Python 3",
