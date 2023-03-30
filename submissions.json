@@ -6673,6 +6673,24 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF199810146": {
+    "contest_id": 1746,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1746/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rebellion",
+    "problem_url": "https://codeforces.com/contest/1746/problem/B",
+    "submission_id": "CF199810146",
+    "submission_url": "https://codeforces.com/contest/1746/submission/199810146",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Mar/30/2023 16:10"
+  },
   "CF199810461": {
     "contest_id": 1746,
     "language": "PyPy 3-64",
