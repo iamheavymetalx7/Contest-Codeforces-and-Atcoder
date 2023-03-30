@@ -6673,6 +6673,23 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF199810461": {
+    "contest_id": 1746,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1746/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maxmina",
+    "problem_url": "https://codeforces.com/contest/1746/problem/A",
+    "submission_id": "CF199810461",
+    "submission_url": "https://codeforces.com/contest/1746/submission/199810461",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/30/2023 16:13"
+  },
   "CF199812706": {
     "contest_id": 1754,
     "language": "PyPy 3-64",
