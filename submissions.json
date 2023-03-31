@@ -6673,6 +6673,23 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF199963228": {
+    "contest_id": 1810,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1810/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Sequence",
+    "problem_url": "https://codeforces.com/contest/1810/problem/A",
+    "submission_id": "CF199963228",
+    "submission_url": "https://codeforces.com/contest/1810/submission/199963228",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/31/2023 20:10"
+  },
   "CF199979689": {
     "contest_id": 1810,
     "language": "PyPy 3-64",
