@@ -6673,6 +6673,22 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF200607906": {
+    "contest_id": 1747,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1747/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Swap Game",
+    "problem_url": "https://codeforces.com/contest/1747/problem/C",
+    "submission_id": "CF200607906",
+    "submission_url": "https://codeforces.com/contest/1747/submission/200607906",
+    "tags": [
+      "games",
+      "*1200"
+    ],
+    "timestamp": "Apr/04/2023 00:49"
+  },
   "CF200636038": {
     "contest_id": 1746,
     "language": "PyPy 3-64",
