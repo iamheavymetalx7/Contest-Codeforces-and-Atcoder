@@ -6673,6 +6673,22 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF200544034": {
+    "contest_id": 1742,
+    "language": "Python 3",
+    "path": "codeforces/1742/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Stripes",
+    "problem_url": "https://codeforces.com/contest/1742/problem/C",
+    "submission_id": "CF200544034",
+    "submission_url": "https://codeforces.com/contest/1742/submission/200544034",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/03/2023 15:11"
+  },
   "CF200549702": {
     "contest_id": 1742,
     "language": "Python 3",
