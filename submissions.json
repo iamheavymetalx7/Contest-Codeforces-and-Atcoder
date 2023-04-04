@@ -6673,6 +6673,25 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF200659332": {
+    "contest_id": 1738,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1738/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prefix Sum Addicts",
+    "problem_url": "https://codeforces.com/contest/1738/problem/B",
+    "submission_id": "CF200659332",
+    "submission_url": "https://codeforces.com/contest/1738/submission/200659332",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/04/2023 14:36"
+  },
   "CF200694326": {
     "contest_id": 1811,
     "language": "PyPy 3-64",
