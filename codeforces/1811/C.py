@@ -66,12 +66,24 @@ c2i = lambda c: ord(c) - ord('a')
     
 def solve():
     n=ii()
-    l=lmii()
-    a = [l[0]]
-    for i in range(len(l)-1):
-        a.append(min(l[i],l[i+1]))
-    a.append(l[-1])
+    b=lmii()
+
+    a=[0]*(len(b)+1)
+
+    for i in range(len(b)):
+        if i==0:
+            a[i],a[i+1]=b[i],b[i]
+        if a[i]>b[i]:
+            a[i]=b[i]
+        a[i+1]=b[i]
+    
+    # for i in range(n-1):
+    #     if max(a[i],a[i+1])!=b[i]:
+    #         print("NO")
+    #         return
     print(*a)
+
+
 
     
     
