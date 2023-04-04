@@ -6673,6 +6673,24 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF200655217": {
+    "contest_id": 1737,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1737/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ela Sorting Books",
+    "problem_url": "https://codeforces.com/contest/1737/problem/A",
+    "submission_id": "CF200655217",
+    "submission_url": "https://codeforces.com/contest/1737/submission/200655217",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Apr/04/2023 13:53"
+  },
   "CF200659332": {
     "contest_id": 1738,
     "language": "PyPy 3-64",
