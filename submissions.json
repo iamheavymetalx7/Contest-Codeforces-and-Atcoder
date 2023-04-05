@@ -6673,6 +6673,22 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF200914732": {
+    "contest_id": 1734,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1734/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bright, Nice, Brilliant",
+    "problem_url": "https://codeforces.com/contest/1734/problem/B",
+    "submission_id": "CF200914732",
+    "submission_url": "https://codeforces.com/contest/1734/submission/200914732",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2023 02:10"
+  },
   "CF200915997": {
     "contest_id": 1734,
     "language": "PyPy 3-64",
