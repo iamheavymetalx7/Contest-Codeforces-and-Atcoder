@@ -6673,6 +6673,23 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF200888567": {
+    "contest_id": 1811,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1811/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Restore the Array",
+    "problem_url": "https://codeforces.com/contest/1811/problem/C",
+    "submission_id": "CF200888567",
+    "submission_url": "https://codeforces.com/contest/1811/submission/200888567",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Apr/05/2023 20:56"
+  },
   "CF200914732": {
     "contest_id": 1734,
     "language": "PyPy 3-64",
