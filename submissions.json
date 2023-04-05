@@ -6673,6 +6673,23 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF200915997": {
+    "contest_id": 1734,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1734/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Removing Smallest Multiples",
+    "problem_url": "https://codeforces.com/contest/1734/problem/C",
+    "submission_id": "CF200915997",
+    "submission_url": "https://codeforces.com/contest/1734/submission/200915997",
+    "tags": [
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/06/2023 02:27"
+  },
   "CF200945639": {
     "contest_id": 1740,
     "language": "PyPy 3-64",
