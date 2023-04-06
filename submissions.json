@@ -6673,6 +6673,25 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF200945639": {
+    "contest_id": 1740,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1740/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bricks and Bags",
+    "problem_url": "https://codeforces.com/contest/1740/problem/C",
+    "submission_id": "CF200945639",
+    "submission_url": "https://codeforces.com/contest/1740/submission/200945639",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Apr/06/2023 12:47"
+  },
   "CF200978910": {
     "contest_id": 1736,
     "language": "PyPy 3-64",
