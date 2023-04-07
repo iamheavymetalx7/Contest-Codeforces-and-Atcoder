@@ -6673,6 +6673,23 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF201180840": {
+    "contest_id": 1729,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1729/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Decode String",
+    "problem_url": "https://codeforces.com/contest/1729/problem/B",
+    "submission_id": "CF201180840",
+    "submission_url": "https://codeforces.com/contest/1729/submission/201180840",
+    "tags": [
+      "greedy",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/08/2023 00:52"
+  },
   "CF201214028": {
     "contest_id": 1730,
     "language": "PyPy 3-64",
