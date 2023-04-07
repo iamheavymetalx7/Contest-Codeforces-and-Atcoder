@@ -6673,6 +6673,22 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF201169959": {
+    "contest_id": 1729,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1729/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Elevators",
+    "problem_url": "https://codeforces.com/contest/1729/problem/A",
+    "submission_id": "CF201169959",
+    "submission_url": "https://codeforces.com/contest/1729/submission/201169959",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/07/2023 22:49"
+  },
   "CF201180840": {
     "contest_id": 1729,
     "language": "PyPy 3-64",
