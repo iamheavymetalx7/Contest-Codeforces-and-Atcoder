@@ -6673,6 +6673,27 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF201168885": {
+    "contest_id": 1732,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1732/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bestie",
+    "problem_url": "https://codeforces.com/contest/1732/problem/A",
+    "submission_id": "CF201168885",
+    "submission_url": "https://codeforces.com/contest/1732/submission/201168885",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Apr/07/2023 22:37"
+  },
   "CF201169959": {
     "contest_id": 1729,
     "language": "PyPy 3-64",
