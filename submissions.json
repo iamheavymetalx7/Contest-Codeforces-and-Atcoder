@@ -6673,6 +6673,25 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF201214028": {
+    "contest_id": 1730,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1730/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimum Notation",
+    "problem_url": "https://codeforces.com/contest/1730/problem/C",
+    "submission_id": "CF201214028",
+    "submission_url": "https://codeforces.com/contest/1730/submission/201214028",
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/08/2023 10:54"
+  },
   "CF201216878": {
     "contest_id": 1733,
     "language": "PyPy 3-64",
