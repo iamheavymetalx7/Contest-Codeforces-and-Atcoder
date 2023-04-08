@@ -6673,6 +6673,23 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF201216878": {
+    "contest_id": 1733,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1733/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Parity Shuffle Sorting",
+    "problem_url": "https://codeforces.com/contest/1733/problem/C",
+    "submission_id": "CF201216878",
+    "submission_url": "https://codeforces.com/contest/1733/submission/201216878",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Apr/08/2023 11:34"
+  },
   "CF201438540": {
     "contest_id": 1797,
     "language": "PyPy 3-64",

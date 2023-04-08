@@ -13,34 +13,35 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-373 | [C - Digital Logarithm](https://codeforces.com/contest/1728/problem/C) | [PyPy 3-64](./codeforces/1728/C.py) | `data structures` `greedy` `sortings` `*1400` | Apr/17/2023 10:47 | 
-372 | [C - Jatayu's Balanced Bracket Sequence](https://codeforces.com/contest/1726/problem/C) | [PyPy 3-64](./codeforces/1726/C.py) | `data structures` `dsu` `graphs` `greedy` `*1300` | Apr/17/2023 09:46 | 
-371 | [C - Phase Shift](https://codeforces.com/contest/1735/problem/C) | [PyPy 3-64](./codeforces/1735/C.py) | `dfs and similar` `dsu` `graphs` `greedy` `implementation` `strings` `*1400` | Apr/16/2023 12:22 | 
-370 | [L - Controllers](https://codeforces.com/contest/1776/problem/L) | [PyPy 3-64](./codeforces/1776/L.py) | `binary search` `math` `*1500` | Apr/16/2023 11:16 | 
-369 | [C - Constructive Problem](https://codeforces.com/contest/1820/problem/C) | [PyPy 3-64](./codeforces/1820/C.py) | `constructive algorithms` `greedy` | Apr/16/2023 00:15 | 
-368 | [B - JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | [PyPy 3-64](./codeforces/1820/B.py) | `math` `strings` `two pointers` | Apr/15/2023 16:16 | 
-367 | [A - Yura's New Name](https://codeforces.com/contest/1820/problem/A) | [PyPy 3-64](./codeforces/1820/A.py) | `implementation` `strings` | Apr/15/2023 14:46 | 
-366 | [B - Stone Age Problem](https://codeforces.com/contest/1679/problem/B) | [PyPy 3-64](./codeforces/1679/B.py) | `data structures` `implementation` `*1200` | Apr/15/2023 12:52 | 
-365 | [A - AvtoBus](https://codeforces.com/contest/1679/problem/A) | [PyPy 3-64](./codeforces/1679/A.py) | `brute force` `greedy` `math` `number theory` `*900` | Apr/15/2023 12:12 | 
-364 | [C - Count Triangles](https://codeforces.com/contest/1355/problem/C) | [PyPy 3-64](./codeforces/1355/C.py) | `binary search` `implementation` `math` `two pointers` `*1800` | Apr/15/2023 11:15 | 
-363 | [B - Young Explorers](https://codeforces.com/contest/1355/problem/B) | [PyPy 3-64](./codeforces/1355/B.py) | `dp` `greedy` `sortings` `*1200` | Apr/15/2023 10:39 | 
-362 | [A - Sequence with Digits](https://codeforces.com/contest/1355/problem/A) | [PyPy 3-64](./codeforces/1355/A.py) | `brute force` `implementation` `math` `*1200` | Apr/15/2023 10:17 | 
-361 | [C - Rooks Defenders](https://codeforces.com/contest/1679/problem/C) | [PyPy 3-64](./codeforces/1679/C.py) | `data structures` `implementation` `*1400` | Apr/14/2023 12:17 | 
-360 | [D - Productive Meeting](https://codeforces.com/contest/1579/problem/D) | [PyPy 3-64](./codeforces/1579/D.py) | `constructive algorithms` `graphs` `greedy` `*1400` | Apr/14/2023 11:03 | 
-359 | [C - LIS or Reverse LIS?](https://codeforces.com/contest/1682/problem/C) | [PyPy 3-64](./codeforces/1682/C.py) | `constructive algorithms` `greedy` `implementation` `math` `*1400` | Apr/13/2023 13:47 | 
-358 | [C - Number of Pairs](https://codeforces.com/contest/1538/problem/C) | [PyPy 3-64](./codeforces/1538/C.py) | `binary search` `data structures` `math` `two pointers` `*1300` | Apr/13/2023 12:08 | 
-357 | [B - Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | [PyPy 3-64](./codeforces/1614/B.py) | `constructive algorithms` `sortings` `*1000` | Apr/12/2023 22:08 | 
-356 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [PyPy 3-64](./codeforces/1490/B.py) | `brute force` `constructive algorithms` `math` `*1000` | Apr/12/2023 16:37 | 
-355 | [A - Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | [PyPy 3-64](./codeforces/1521/A.py) | `constructive algorithms` `math` `number theory` `*1000` | Apr/12/2023 10:32 | 
-354 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [PyPy 3-64](./codeforces/1474/B.py) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Apr/12/2023 09:27 | 
-353 | [B - Mocha and Red and Blue](https://codeforces.com/contest/1559/problem/B) | [PyPy 3-64](./codeforces/1559/B.py) | `dp` `greedy` `*900` | Apr/11/2023 23:39 | 
-352 | [C - Ian and Array Sorting](https://codeforces.com/contest/1816/problem/C) | [PyPy 3-64](./codeforces/1816/C.py) | `math` `sortings` `*1300` | Apr/10/2023 09:43 | 
-351 | [A - Ian and Array Sorting](https://codeforces.com/contest/1815/problem/A) | [PyPy 3-64](./codeforces/1815/A.py) | `greedy` `math` `*1300` | Apr/10/2023 09:43 | 
-350 | [B - Grid Reconstruction](https://codeforces.com/contest/1816/problem/B) | [PyPy 3-64](./codeforces/1816/B.py) | `constructive algorithms` `greedy` `*1000` | Apr/09/2023 20:53 | 
-349 | [A - Ian Visits Mary](https://codeforces.com/contest/1816/problem/A) | [PyPy 3-64](./codeforces/1816/A.py) | `constructive algorithms` `geometry` `number theory` `*800` | Apr/09/2023 20:41 | 
-348 | [D1 - Zero-One (Easy Version)](https://codeforces.com/contest/1733/problem/D1) | [PyPy 3-64](./codeforces/1733/D1.py) | `constructive algorithms` `greedy` `math` `*1400` | Apr/09/2023 19:52 | 
-347 | [A - Li Hua and Maze](https://codeforces.com/contest/1797/problem/A) | [PyPy 3-64](./codeforces/1797/A.py) | `constructive algorithms` `flows` `graphs` `greedy` `implementation` | Apr/09/2023 16:07 | 
-346 | [B - Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | [PyPy 3-64](./codeforces/1797/B.py) | `constructive algorithms` `greedy` | Apr/09/2023 13:59 | 
+374 | [C - Digital Logarithm](https://codeforces.com/contest/1728/problem/C) | [PyPy 3-64](./codeforces/1728/C.py) | `data structures` `greedy` `sortings` `*1400` | Apr/17/2023 10:47 | 
+373 | [C - Jatayu's Balanced Bracket Sequence](https://codeforces.com/contest/1726/problem/C) | [PyPy 3-64](./codeforces/1726/C.py) | `data structures` `dsu` `graphs` `greedy` `*1300` | Apr/17/2023 09:46 | 
+372 | [C - Phase Shift](https://codeforces.com/contest/1735/problem/C) | [PyPy 3-64](./codeforces/1735/C.py) | `dfs and similar` `dsu` `graphs` `greedy` `implementation` `strings` `*1400` | Apr/16/2023 12:22 | 
+371 | [L - Controllers](https://codeforces.com/contest/1776/problem/L) | [PyPy 3-64](./codeforces/1776/L.py) | `binary search` `math` `*1500` | Apr/16/2023 11:16 | 
+370 | [C - Constructive Problem](https://codeforces.com/contest/1820/problem/C) | [PyPy 3-64](./codeforces/1820/C.py) | `constructive algorithms` `greedy` | Apr/16/2023 00:15 | 
+369 | [B - JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | [PyPy 3-64](./codeforces/1820/B.py) | `math` `strings` `two pointers` | Apr/15/2023 16:16 | 
+368 | [A - Yura's New Name](https://codeforces.com/contest/1820/problem/A) | [PyPy 3-64](./codeforces/1820/A.py) | `implementation` `strings` | Apr/15/2023 14:46 | 
+367 | [B - Stone Age Problem](https://codeforces.com/contest/1679/problem/B) | [PyPy 3-64](./codeforces/1679/B.py) | `data structures` `implementation` `*1200` | Apr/15/2023 12:52 | 
+366 | [A - AvtoBus](https://codeforces.com/contest/1679/problem/A) | [PyPy 3-64](./codeforces/1679/A.py) | `brute force` `greedy` `math` `number theory` `*900` | Apr/15/2023 12:12 | 
+365 | [C - Count Triangles](https://codeforces.com/contest/1355/problem/C) | [PyPy 3-64](./codeforces/1355/C.py) | `binary search` `implementation` `math` `two pointers` `*1800` | Apr/15/2023 11:15 | 
+364 | [B - Young Explorers](https://codeforces.com/contest/1355/problem/B) | [PyPy 3-64](./codeforces/1355/B.py) | `dp` `greedy` `sortings` `*1200` | Apr/15/2023 10:39 | 
+363 | [A - Sequence with Digits](https://codeforces.com/contest/1355/problem/A) | [PyPy 3-64](./codeforces/1355/A.py) | `brute force` `implementation` `math` `*1200` | Apr/15/2023 10:17 | 
+362 | [C - Rooks Defenders](https://codeforces.com/contest/1679/problem/C) | [PyPy 3-64](./codeforces/1679/C.py) | `data structures` `implementation` `*1400` | Apr/14/2023 12:17 | 
+361 | [D - Productive Meeting](https://codeforces.com/contest/1579/problem/D) | [PyPy 3-64](./codeforces/1579/D.py) | `constructive algorithms` `graphs` `greedy` `*1400` | Apr/14/2023 11:03 | 
+360 | [C - LIS or Reverse LIS?](https://codeforces.com/contest/1682/problem/C) | [PyPy 3-64](./codeforces/1682/C.py) | `constructive algorithms` `greedy` `implementation` `math` `*1400` | Apr/13/2023 13:47 | 
+359 | [C - Number of Pairs](https://codeforces.com/contest/1538/problem/C) | [PyPy 3-64](./codeforces/1538/C.py) | `binary search` `data structures` `math` `two pointers` `*1300` | Apr/13/2023 12:08 | 
+358 | [B - Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | [PyPy 3-64](./codeforces/1614/B.py) | `constructive algorithms` `sortings` `*1000` | Apr/12/2023 22:08 | 
+357 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [PyPy 3-64](./codeforces/1490/B.py) | `brute force` `constructive algorithms` `math` `*1000` | Apr/12/2023 16:37 | 
+356 | [A - Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | [PyPy 3-64](./codeforces/1521/A.py) | `constructive algorithms` `math` `number theory` `*1000` | Apr/12/2023 10:32 | 
+355 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [PyPy 3-64](./codeforces/1474/B.py) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Apr/12/2023 09:27 | 
+354 | [B - Mocha and Red and Blue](https://codeforces.com/contest/1559/problem/B) | [PyPy 3-64](./codeforces/1559/B.py) | `dp` `greedy` `*900` | Apr/11/2023 23:39 | 
+353 | [C - Ian and Array Sorting](https://codeforces.com/contest/1816/problem/C) | [PyPy 3-64](./codeforces/1816/C.py) | `math` `sortings` `*1300` | Apr/10/2023 09:43 | 
+352 | [A - Ian and Array Sorting](https://codeforces.com/contest/1815/problem/A) | [PyPy 3-64](./codeforces/1815/A.py) | `greedy` `math` `*1300` | Apr/10/2023 09:43 | 
+351 | [B - Grid Reconstruction](https://codeforces.com/contest/1816/problem/B) | [PyPy 3-64](./codeforces/1816/B.py) | `constructive algorithms` `greedy` `*1000` | Apr/09/2023 20:53 | 
+350 | [A - Ian Visits Mary](https://codeforces.com/contest/1816/problem/A) | [PyPy 3-64](./codeforces/1816/A.py) | `constructive algorithms` `geometry` `number theory` `*800` | Apr/09/2023 20:41 | 
+349 | [D1 - Zero-One (Easy Version)](https://codeforces.com/contest/1733/problem/D1) | [PyPy 3-64](./codeforces/1733/D1.py) | `constructive algorithms` `greedy` `math` `*1400` | Apr/09/2023 19:52 | 
+348 | [A - Li Hua and Maze](https://codeforces.com/contest/1797/problem/A) | [PyPy 3-64](./codeforces/1797/A.py) | `constructive algorithms` `flows` `graphs` `greedy` `implementation` | Apr/09/2023 16:07 | 
+347 | [B - Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | [PyPy 3-64](./codeforces/1797/B.py) | `constructive algorithms` `greedy` | Apr/09/2023 13:59 | 
+346 | [C - Parity Shuffle Sorting](https://codeforces.com/contest/1733/problem/C) | [PyPy 3-64](./codeforces/1733/C.py) | `constructive algorithms` `sortings` `*1300` | Apr/08/2023 11:34 | 
 345 | [B - Maximum Substring](https://codeforces.com/contest/1750/problem/B) | [Python 3](./codeforces/1750/B.py) | `brute force` `greedy` `implementation` `*800` | Mar/29/2023 00:36 | 
 344 | [A - Indirect Sort](https://codeforces.com/contest/1750/problem/A) | [Python 3](./codeforces/1750/A.py) | `constructive algorithms` `implementation` `math` `*800` | Mar/29/2023 00:21 | 
 343 | [A - Walking Boy](https://codeforces.com/contest/1776/problem/A) | [Python 3](./codeforces/1776/A.py) | `greedy` `*800` | Mar/28/2023 20:59 | 
