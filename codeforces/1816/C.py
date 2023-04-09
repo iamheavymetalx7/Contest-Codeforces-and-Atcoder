@@ -67,19 +67,55 @@ c2i = lambda c: ord(c) - ord('a')
 def solve():
     n=ii()
     a=lmii()
-    if n%2:
-        print("YES")
-        return
-    
-    ct=0
+    # inc,dec=0,0
 
-    for i in range(0,n,2):
-        ct+=a[i+1]-a[i]
+    # for i in range(n-1):
+    #     if a[i]>a[i+1]:
+    #         dec+=1
+    #     elif a[i]<a[i+1]:
+    #         inc+=1
+    # # print(dec,inc)
+    # if inc==0 and n==2:
+    #     print("NO")
+    #     return
+    # if dec==0 or inc==0:
+    #     print("YES")
+    #     return
+    # if inc>=dec:
+    #     print("YES")
+    #     return
+    # else:
+    #     print("NO")
+    #     return
+    # string=""
+    # for i in range(n-1):
+    #     if a[i]>a[i+1]:
+    #         string+="d"
+    #     else:
+    #         string+="i"
     
-    if ct<0:
-        print("NO")
-        return
+    # # print(string)
+    
+    # if "did" in string or string=="d":
+    #     print("NO")
+    #     return
+    # print("YES")
+    for i in range(1,n-1):
+        if a[i]<a[i-1]:
+            a[i+1]+= (a[i-1]-a[i])
+            a[i]=a[i-1]
+    
+    for i in range(n-2,0,-1):
+        if a[i]>a[i+1]:
+            a[i-1]-=(a[i]-a[i+1])
+            a[i]=a[i+1]
+    for i in range(n-1):
+        if a[i+1]<a[i]:
+            print("NO")
+            return
     print("YES")
+
+
     
     
     
