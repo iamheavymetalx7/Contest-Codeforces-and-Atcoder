@@ -67,27 +67,22 @@ c2i = lambda c: ord(c) - ord('a')
 def solve():
     n,m=mii()
     x1,y1,x2,y2=lmii()
-    a=[]
-    a.append(x1)
-    a.append(y1)
-    a.append(x2)
-    a.append(y2)
-    # print(a)
+    c1,c2=0,0
 
-    if (x1==1 and y1==1 ) or (x1==n and y1==1) or (x1==1 and y1==m ) or (x1==n and y1==m ):
-        print(2)
-        return
-    if (x2==1 and y2==1 ) or (x2==n and y2==1) or (x2==1 and y2==m ) or (x2==n and y2==m ):
-        print(2)
-        return
-    if x1==1 or x2==1 or x1==n or x2==n or y1==m or y2==m or y1==1 or y2==1:
-        print(3)
-        return
-    else:
-        print(4)
-        return
+    ans=4
+
+    if x1 in (1,n):
+        c1+=1
+    if y1 in (1,m):
+        c1+=1
+
+    if x2 in (1,n):
+        c2+=1
+    if y2 in (1,m):
+        c2+=1
     
-    
+    ans-=max(c1,c2)
+    print(ans)
     
 t=ii()
 for _ in range(t):
