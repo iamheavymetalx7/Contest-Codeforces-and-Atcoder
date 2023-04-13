@@ -6673,6 +6673,25 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF201901432": {
+    "contest_id": 1538,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1538/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Number of Pairs",
+    "problem_url": "https://codeforces.com/contest/1538/problem/C",
+    "submission_id": "CF201901432",
+    "submission_url": "https://codeforces.com/contest/1538/submission/201901432",
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Apr/13/2023 12:08"
+  },
   "CF201906484": {
     "contest_id": 1682,
     "language": "PyPy 3-64",
