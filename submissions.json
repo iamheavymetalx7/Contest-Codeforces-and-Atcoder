@@ -6673,6 +6673,25 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF201906484": {
+    "contest_id": 1682,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1682/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "LIS or Reverse LIS?",
+    "problem_url": "https://codeforces.com/contest/1682/problem/C",
+    "submission_id": "CF201906484",
+    "submission_url": "https://codeforces.com/contest/1682/submission/201906484",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Apr/13/2023 13:47"
+  },
   "CF202020330": {
     "contest_id": 1579,
     "language": "PyPy 3-64",
