@@ -80,21 +80,17 @@ def solve():
     # print(newmex,"newmex")
 
     if newmex not in a:
-        cnter= Counter(a)
-        for key in cnter:
-            if cnter[key]>=1 and key>mex:
-
-                print("Yes")
-                return
-            if cnter[key]>=2 and key<mex:
-                print("YES")
-                return
-        
-            
+        if n>mex:
+            print("YES")
+            return
+        else:
+            print("NO")
+            return
 
 
     first_index=n-1
     last_index=0
+
 
 
     for i in range(n-1,-1,-1):
@@ -104,12 +100,9 @@ def solve():
     for i in range(n):
         if a[i]==newmex:
             last_index=i
-    # print(first_index,last_index+1,"this...")
-
-    for j in range(first_index, last_index+1):
-        # print(j,"jjj")
-        a[j]=mex
-    # print(a,len(a),"asda")
+    for i in range(first_index, last_index+1):
+        a[i]=mex
+    # print(a)
 
     nmex=0
 
@@ -117,7 +110,7 @@ def solve():
     for i in range(n):
         if a[i]==nmex:
             nmex+=1
-    # print(nmex,newmex)
+    
     if nmex==newmex:
         print("Yes")
         return
