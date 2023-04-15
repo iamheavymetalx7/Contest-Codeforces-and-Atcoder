@@ -6673,6 +6673,24 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF202151778": {
+    "contest_id": 1355,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1355/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Young Explorers",
+    "problem_url": "https://codeforces.com/contest/1355/problem/B",
+    "submission_id": "CF202151778",
+    "submission_url": "https://codeforces.com/contest/1355/submission/202151778",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/15/2023 10:39"
+  },
   "CF202155704": {
     "contest_id": 1355,
     "language": "PyPy 3-64",
