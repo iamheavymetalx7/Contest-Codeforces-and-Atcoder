@@ -6673,6 +6673,25 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF202155704": {
+    "contest_id": 1355,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1355/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Count Triangles",
+    "problem_url": "https://codeforces.com/contest/1355/problem/C",
+    "submission_id": "CF202155704",
+    "submission_url": "https://codeforces.com/contest/1355/submission/202155704",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Apr/15/2023 11:15"
+  },
   "CF202162191": {
     "contest_id": 1679,
     "language": "PyPy 3-64",
