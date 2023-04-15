@@ -57,11 +57,11 @@ i2c = lambda n: chr(ord('a') + n)
 c2i = lambda c: ord(c) - ord('a')
     
     
-if(os.path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt")):
-    sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt", 'r')
-    sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w') 
-else:
-    input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
+# if(os.path.exists("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt")):
+#     sys.stdin = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/input.txt", 'r')
+#     sys.stdout = open("/Users/nitishkumar/Documents/Template_Codes/Python/CP/Codeforces/output.txt", 'w') 
+# else:
+#     input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
     
     
 def solve():
@@ -75,7 +75,9 @@ def solve():
     for i in range(n):
         if b[i]==mex:
             mex+=1
+    # print(mex,"org mex")
     newmex=mex+1
+    # print(newmex,"newmex")
 
     if newmex not in a:
         if n>mex:
@@ -86,10 +88,26 @@ def solve():
             return
 
 
+    # first_index=n-1
+    # last_index=0
 
+
+
+    # for i in range(n-1,-1,-1):
+    #     if a[i]==newmex:
+    #         first_index=i
+
+    # for i in range(n):
+    #     if a[i]==newmex:
+    #         last_index=i
+
+    # print(a)
     
     l = a.index(newmex)
     r = n-list(reversed(a)).index(newmex)
+    # print(l,r)
+    # print(first_index,last_index+1)
+
 
     for i in range(l, r):
         a[i]=mex
