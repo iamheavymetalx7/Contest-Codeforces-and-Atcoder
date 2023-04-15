@@ -1,21 +1,20 @@
-'''
-Failed on test case like this:
-
-1
-7
-0 1 2 3 11 6 7
-
-where mex is 4
-and newmex is 5
-
-but we dont have any changes to make using first index and last index
-so out newmex is not equal to nmex where nmex is calculated after we change the elements
-of the array
-
-good observation i made, but slighly missed, congo !!
-
-
-'''    
+#bisect.bisect_left(a, x, lo=0, hi=len(a)) is the analog of std::lower_bound()
+#bisect.bisect_right(a, x, lo=0, hi=len(a)) is the analog of std::upper_bound()
+#from heapq import heappop,heappush,heapify #heappop(hq), heapify(list)
+#from collections import deque as dq #deque  e.g. myqueue=dq(list)
+#append/appendleft/appendright/pop/popleft
+#from bisect import bisect as bis #a=[1,3,4,6,7,8] #bis(a,5)-->3
+#import bisect #bisect.bisect_left(a,4)-->2 #bisect.bisect(a,4)-->3
+#import statistics as stat  # stat.median(a), mode, mean
+#from itertools import permutations(p,r)#combinations(p,r)
+#combinations(p,r) gives r-length tuples #combinations_with_replacement
+#every element can be repeated
+        
+#Note direct assignment to check somethings doesnt work always
+#say there exists s (list) then ss=s and if we edit ss, it edits s as well
+#always try to use ss=s.copy() if u wish to make changes to ss and not reflect them in s.
+#For example: see **1379A - Acacius and String** for reference
+    
 import sys, threading, os, io 
 import math
 import time
