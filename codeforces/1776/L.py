@@ -70,7 +70,7 @@ def solve():
 
         x//=g
         y//=g
-        if (x==y and nn==pp) or ((x<y) and (nn-pp)%(y-x)==0 and nn*x<=pp*y):
+        if (x==y and nn==pp) or ((x<y) and (nn-pp)%(y-x)==0 and (nn-pp) * x <= pp * (y-x)):
             print("YES")
         else:
             print("NO")

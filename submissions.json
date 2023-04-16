@@ -6673,6 +6673,23 @@
     ],
     "timestamp": "Mar/29/2023 00:36"
   },
+  "CF202316166": {
+    "contest_id": 1776,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1776/L.py",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Controllers",
+    "problem_url": "https://codeforces.com/contest/1776/problem/L",
+    "submission_id": "CF202316166",
+    "submission_url": "https://codeforces.com/contest/1776/submission/202316166",
+    "tags": [
+      "binary search",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Apr/16/2023 07:58"
+  },
   "CF202325349": {
     "contest_id": 1776,
     "language": "PyPy 3-64",
