@@ -1,15 +1,4 @@
 '''
-editorial solution
-
-we keep p >m always so we take p=max(pp,nn) and m=min(pp,nn)
-similarly we keep b>a always so we take a=min(x,y).
-this ensures that we get the correct relationship at the end which involves inequalities
-and we know when dealing with inequalities sign changes will affect out inequality
-
-so to generalise we do this!!
-'''
-
-'''
 
 editorial 
 
@@ -69,17 +58,19 @@ def solve():
     cnter = Counter(s)
     pp = cnter["+"]
     nn = cnter["-"]
-
-    p=max(pp,nn)
-    m=min(pp,nn)
+    if pp>nn:
+        pp,nn=nn,pp
+    # print(pp,nn)
 
     q=ii()
     for _ in range(q):
         x,y=mii()
-        a=min(x,y)
-        b=max(x,y)
- 
-        if (a==b and m==p) or ((a<b) and ((p-m)*b)%(b-a)==0 and -m<=(((p-m)*b)//(b-a) )<=p):
+        if x>y: x,y=y,x
+        g=math.gcd(x,y)
+
+        x//=g
+        y//=g
+        if (x==y and nn==pp) or ((x<y) and (nn-pp)%(y-x)==0 and nn*x<=pp*y):
             print("YES")
         else:
             print("NO")
