@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+346 | [C - Digital Logarithm](https://codeforces.com/contest/1728/problem/C) | [PyPy 3-64](./codeforces/1728/C.py) | `data structures` `greedy` `sortings` `*1400` | Apr/17/2023 10:47 | 
 345 | [B - Maximum Substring](https://codeforces.com/contest/1750/problem/B) | [Python 3](./codeforces/1750/B.py) | `brute force` `greedy` `implementation` `*800` | Mar/29/2023 00:36 | 
 344 | [A - Indirect Sort](https://codeforces.com/contest/1750/problem/A) | [Python 3](./codeforces/1750/A.py) | `constructive algorithms` `implementation` `math` `*800` | Mar/29/2023 00:21 | 
 343 | [A - Walking Boy](https://codeforces.com/contest/1776/problem/A) | [Python 3](./codeforces/1776/A.py) | `greedy` `*800` | Mar/28/2023 20:59 | 
@@ -71,8 +72,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 290 | [C - Gargari and Bishops](https://codeforces.com/contest/463/problem/C) | [PyPy 3-64](./codeforces/463/C.py) | `greedy` `hashing` `implementation` `*1900` | Mar/20/2023 12:10 | 
 289 | [B - Chat Online](https://codeforces.com/contest/469/problem/B) | [PyPy 3-64](./codeforces/469/B.py) | `implementation` `*1300` | Mar/20/2023 10:55 | 
 288 | [B - Petya and Staircases](https://codeforces.com/contest/362/problem/B) | [PyPy 3-64](./codeforces/362/B.py) | `implementation` `sortings` `*1100` | Mar/20/2023 10:42 | 
-287 | [G2 - Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | [PyPy 3-64](./codeforces/1807/G2.py) | `bitmasks` `dp` `greedy` `implementation` `sortings` `*1100` | Mar/20/2023 08:46 | 
-286 | [G1 - Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | [PyPy 3-64](./codeforces/1807/G1.py) | `brute force` `data structures` `dp` `greedy` `implementation` `sortings` `*1100` | Mar/20/2023 08:46 | 
+287 | [G1 - Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | [PyPy 3-64](./codeforces/1807/G1.py) | `brute force` `data structures` `dp` `greedy` `implementation` `sortings` `*1100` | Mar/20/2023 08:46 | 
+286 | [G2 - Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | [PyPy 3-64](./codeforces/1807/G2.py) | `bitmasks` `dp` `greedy` `implementation` `sortings` `*1100` | Mar/20/2023 08:46 | 
 285 | [D - Odd Queries](https://codeforces.com/contest/1807/problem/D) | [PyPy 3-64](./codeforces/1807/D.py) | `data structures` `implementation` `*900` | Mar/20/2023 08:22 | 
 284 | [C - Find and Replace](https://codeforces.com/contest/1807/problem/C) | [PyPy 3-64](./codeforces/1807/C.py) | `greedy` `implementation` `strings` `*800` | Mar/19/2023 20:44 | 
 283 | [B - Grab the Candies](https://codeforces.com/contest/1807/problem/B) | [PyPy 3-64](./codeforces/1807/B.py) | `greedy` `*800` | Mar/19/2023 20:29 | 
