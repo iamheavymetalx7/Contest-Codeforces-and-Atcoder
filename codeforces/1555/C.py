@@ -1,5 +1,4 @@
 '''
-Editorial :
 There are only two options, move right or move down,
 and hence the solution
 '''
@@ -59,32 +58,20 @@ def solve():
     for _ in range(2):
         arr.append(lmii())
     
-    suff=[0]*n
-    suff[-1]=arr[0][-1]
-
-    for i in range(n-2,-1,-1):
-        suff[i]=suff[i+1]+arr[0][i]
-    
-    pref=[0]*n
-
-    pref[0]=arr[1][0]
-    for i in range(1,n):
-        pref[i]=pref[i-1]+arr[1][i]
-
+    sum1=0
+    sum2=0
     ans=int(1e18)
-
+    
     for i in range(n):
-        tans=0
+        sum1+=arr[0][i]
+    # print(sum1)
+    
+    for i in range(n):
+        sum1-=arr[0][i]
+        ans=min(ans,max(sum1,sum2))
+        sum2+=arr[1][i]
 
-        if i!=n-1:
-            tans=suff[i+1]
-        if i!=0:
-            tans=max(tans,pref[i-1])
-        ans=min(ans,tans)
     print(ans)
-
-
-
 
 
     
