@@ -8080,6 +8080,24 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF202687737": {
+    "contest_id": 1542,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1542/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Plus and Multiply",
+    "problem_url": "https://codeforces.com/contest/1542/problem/B",
+    "submission_id": "CF202687737",
+    "submission_url": "https://codeforces.com/contest/1542/submission/202687737",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Apr/19/2023 14:16"
+  },
   "CF202689609": {
     "contest_id": 1605,
     "language": "PyPy 3-64",
