@@ -8080,6 +8080,25 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF202694916": {
+    "contest_id": 1526,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1526/C1.py",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Potions (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1526/problem/C1",
+    "submission_id": "CF202694916",
+    "submission_url": "https://codeforces.com/contest/1526/submission/202694916",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Apr/19/2023 16:02"
+  },
   "CF202694942": {
     "contest_id": 1526,
     "language": "PyPy 3-64",
