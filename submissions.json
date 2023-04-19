@@ -8080,6 +8080,23 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF202694942": {
+    "contest_id": 1526,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1526/C2.py",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Potions (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1526/problem/C2",
+    "submission_id": "CF202694942",
+    "submission_url": "https://codeforces.com/contest/1526/submission/202694942",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Apr/19/2023 16:02"
+  },
   "CF202697367": {
     "contest_id": 1520,
     "language": "PyPy 3-64",
