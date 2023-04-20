@@ -8080,6 +8080,25 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF202896968": {
+    "contest_id": 1821,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1821/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tear It Apart",
+    "problem_url": "https://codeforces.com/contest/1821/problem/C",
+    "submission_id": "CF202896968",
+    "submission_url": "https://codeforces.com/contest/1821/submission/202896968",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Apr/21/2023 01:00"
+  },
   "CF202940814": {
     "contest_id": 1506,
     "language": "PyPy 3-64",
