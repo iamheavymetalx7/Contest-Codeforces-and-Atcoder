@@ -8080,6 +8080,25 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF202968355": {
+    "contest_id": 1551,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1551/B2.py",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Wonderful Coloring - 2",
+    "problem_url": "https://codeforces.com/contest/1551/problem/B2",
+    "submission_id": "CF202968355",
+    "submission_url": "https://codeforces.com/contest/1551/submission/202968355",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Apr/21/2023 21:07"
+  },
   "CF202968875": {
     "contest_id": 1551,
     "language": "PyPy 3-64",
