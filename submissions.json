@@ -8080,6 +8080,24 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF202985638": {
+    "contest_id": 1560,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1560/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Make a Power of Two",
+    "problem_url": "https://codeforces.com/contest/1560/problem/D",
+    "submission_id": "CF202985638",
+    "submission_url": "https://codeforces.com/contest/1560/submission/202985638",
+    "tags": [
+      "greedy",
+      "math",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Apr/22/2023 01:02"
+  },
   "CF202987676": {
     "contest_id": 1627,
     "language": "PyPy 3-64",
