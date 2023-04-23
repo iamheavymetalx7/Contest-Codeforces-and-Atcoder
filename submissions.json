@@ -8080,6 +8080,25 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203137989": {
+    "contest_id": 1541,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1541/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pleasant Pairs",
+    "problem_url": "https://codeforces.com/contest/1541/problem/B",
+    "submission_id": "CF203137989",
+    "submission_url": "https://codeforces.com/contest/1541/submission/203137989",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Apr/23/2023 16:19"
+  },
   "CF203141913": {
     "contest_id": 1527,
     "language": "PyPy 3-64",
