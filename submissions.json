@@ -8080,6 +8080,23 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203125334": {
+    "contest_id": 1626,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1626/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minor Reduction",
+    "problem_url": "https://codeforces.com/contest/1626/problem/B",
+    "submission_id": "CF203125334",
+    "submission_url": "https://codeforces.com/contest/1626/submission/203125334",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Apr/23/2023 13:58"
+  },
   "CF203129038": {
     "contest_id": 1624,
     "language": "PyPy 3-64",
