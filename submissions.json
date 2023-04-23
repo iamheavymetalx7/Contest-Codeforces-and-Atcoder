@@ -8080,6 +8080,24 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203162867": {
+    "contest_id": 1547,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1547/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Co-growing Sequence",
+    "problem_url": "https://codeforces.com/contest/1547/problem/D",
+    "submission_id": "CF203162867",
+    "submission_url": "https://codeforces.com/contest/1547/submission/203162867",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Apr/23/2023 20:00"
+  },
   "CF203176061": {
     "contest_id": 1555,
     "language": "PyPy 3-64",
