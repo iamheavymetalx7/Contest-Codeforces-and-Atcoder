@@ -8080,6 +8080,24 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203264100": {
+    "contest_id": 1822,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1822/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Karina and Array",
+    "problem_url": "https://codeforces.com/contest/1822/problem/B",
+    "submission_id": "CF203264100",
+    "submission_url": "https://codeforces.com/contest/1822/submission/203264100",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Apr/24/2023 20:13"
+  },
   "CF203278947": {
     "contest_id": 1822,
     "language": "PyPy 3-64",
