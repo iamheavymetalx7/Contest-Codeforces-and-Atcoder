@@ -8080,6 +8080,24 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203215033": {
+    "contest_id": 1463,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1463/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Find The Array",
+    "problem_url": "https://codeforces.com/contest/1463/problem/B",
+    "submission_id": "CF203215033",
+    "submission_url": "https://codeforces.com/contest/1463/submission/203215033",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Apr/24/2023 10:49"
+  },
   "CF203215767": {
     "contest_id": 1515,
     "language": "PyPy 3-64",
