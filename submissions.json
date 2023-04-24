@@ -8080,6 +8080,22 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203278947": {
+    "contest_id": 1822,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1822/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bun Lover",
+    "problem_url": "https://codeforces.com/contest/1822/problem/C",
+    "submission_id": "CF203278947",
+    "submission_url": "https://codeforces.com/contest/1822/submission/203278947",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/24/2023 20:27"
+  },
   "CF203298067": {
     "contest_id": 1822,
     "language": "PyPy 3-64",
