@@ -8080,6 +8080,23 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203259937": {
+    "contest_id": 1822,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1822/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "TubeTube Feed",
+    "problem_url": "https://codeforces.com/contest/1822/problem/A",
+    "submission_id": "CF203259937",
+    "submission_url": "https://codeforces.com/contest/1822/submission/203259937",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/24/2023 20:10"
+  },
   "CF203264100": {
     "contest_id": 1822,
     "language": "PyPy 3-64",
