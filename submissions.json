@@ -8080,6 +8080,24 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203410789": {
+    "contest_id": 1822,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1822/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Making Anti-Palindromes",
+    "problem_url": "https://codeforces.com/contest/1822/problem/E",
+    "submission_id": "CF203410789",
+    "submission_url": "https://codeforces.com/contest/1822/submission/203410789",
+    "tags": [
+      "greedy",
+      "math",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Apr/25/2023 13:33"
+  },
   "CF203520106": {
     "contest_id": 1822,
     "language": "PyPy 3-64",
