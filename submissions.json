@@ -8080,6 +8080,24 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203628918": {
+    "contest_id": 1607,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1607/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Blue-Red Permutation",
+    "problem_url": "https://codeforces.com/contest/1607/problem/D",
+    "submission_id": "CF203628918",
+    "submission_url": "https://codeforces.com/contest/1607/submission/203628918",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Apr/27/2023 11:31"
+  },
   "CF203634311": {
     "contest_id": 1574,
     "language": "PyPy 3-64",
