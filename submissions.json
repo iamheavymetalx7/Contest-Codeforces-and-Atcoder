@@ -8080,6 +8080,23 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203769912": {
+    "contest_id": 1559,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1559/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mocha and Hiking",
+    "problem_url": "https://codeforces.com/contest/1559/problem/C",
+    "submission_id": "CF203769912",
+    "submission_url": "https://codeforces.com/contest/1559/submission/203769912",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*1200"
+    ],
+    "timestamp": "Apr/28/2023 12:09"
+  },
   "CF203872270": {
     "contest_id": 1553,
     "language": "PyPy 3-64",
