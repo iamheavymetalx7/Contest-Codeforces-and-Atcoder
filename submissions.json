@@ -8080,6 +8080,22 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203932190": {
+    "contest_id": 1818,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1818/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Indivisible",
+    "problem_url": "https://codeforces.com/contest/1818/problem/B",
+    "submission_id": "CF203932190",
+    "submission_url": "https://codeforces.com/contest/1818/submission/203932190",
+    "tags": [
+      "constructive algorithms",
+      "*900"
+    ],
+    "timestamp": "Apr/29/2023 20:52"
+  },
   "CF203944269": {
     "contest_id": 1818,
     "language": "PyPy 3-64",
