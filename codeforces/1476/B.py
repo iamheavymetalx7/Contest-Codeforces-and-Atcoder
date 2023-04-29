@@ -3,7 +3,11 @@
 # * created: 29/04/2023 15:31 Chennai, India
 # **/
         
+'''
 
+editorial
+
+'''
 
 
 
@@ -77,22 +81,19 @@ def solve():
     n,k=mii()
     a=lmii()
     prefix=[a[0]]
-    # print(a)
     for i in range(1,n):
         prefix.append(prefix[-1]+a[i])
-    # print(prefix)
 
-    curr=a[0]
-    to=0
+    ans=0
 
     for i in range(1,n):
-        
-        newcurr = math.ceil((a[i]*100)/k)
-        if newcurr>curr:
-            to+=newcurr-curr
-            curr=newcurr
-        curr+=a[i]
-    print(to)
+        if a[i]/prefix[i-1]<= k/100:
+            continue
+        else:
+            x=math.ceil((100*a[i]-k*prefix[i-1])/k)
+            ans=max(x,ans)
+            
+    print(ans)
 
     
     
