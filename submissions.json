@@ -8080,6 +8080,25 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF203872270": {
+    "contest_id": 1553,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1553/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Penalty",
+    "problem_url": "https://codeforces.com/contest/1553/problem/C",
+    "submission_id": "CF203872270",
+    "submission_url": "https://codeforces.com/contest/1553/submission/203872270",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Apr/29/2023 11:34"
+  },
   "CF203874337": {
     "contest_id": 1360,
     "language": "PyPy 3-64",
