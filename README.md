@@ -13,21 +13,22 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-430 | [B - Absent Remainder](https://codeforces.com/contest/1613/problem/B) | [PyPy 3-64](./codeforces/1613/B.py) | `greedy` `implementation` `sortings` `*1000` | May/04/2023 14:51 | 
-429 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3-64](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | May/04/2023 11:12 | 
-428 | [C - Number Game](https://codeforces.com/contest/1370/problem/C) | [PyPy 3-64](./codeforces/1370/C.py) | `games` `math` `number theory` `*1400` | May/04/2023 00:48 | 
-427 | [B - Swaps](https://codeforces.com/contest/1573/problem/B) | [PyPy 3-64](./codeforces/1573/B.py) | `greedy` `math` `sortings` `*1400` | May/03/2023 20:15 | 
-426 | [C - Chat Ban](https://codeforces.com/contest/1612/problem/C) | [PyPy 3-64](./codeforces/1612/C.py) | `binary search` `math` `*1300` | May/03/2023 17:11 | 
-425 | [B - Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | [PyPy 3-64](./codeforces/1372/B.py) | `greedy` `math` `number theory` `*1300` | May/03/2023 16:13 | 
-424 | [C - Poisoned Dagger](https://codeforces.com/contest/1613/problem/C) | [PyPy 3-64](./codeforces/1613/C.py) | `binary search` `*1200` | May/03/2023 15:58 | 
-423 | [C - Wrong Addition](https://codeforces.com/contest/1619/problem/C) | [PyPy 3-64](./codeforces/1619/C.py) | `implementation` `*1200` | May/03/2023 15:01 | 
-422 | [C - Meximum Array](https://codeforces.com/contest/1629/problem/C) | [PyPy 3-64](./codeforces/1629/C.py) | `constructive algorithms` `data structures` `greedy` `math` `two pointers` `*1400` | May/03/2023 13:36 | 
-421 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [PyPy 3-64](./codeforces/1490/E.py) | `binary search` `data structures` `greedy` `*1400` | May/03/2023 13:06 | 
-420 | [B - Box Fitting](https://codeforces.com/contest/1498/problem/B) | [PyPy 3-64](./codeforces/1498/B.py) | `binary search` `bitmasks` `data structures` `greedy` `*1300` | May/03/2023 08:20 | 
-419 | [C - Canine poetry](https://codeforces.com/contest/1466/problem/C) | [PyPy 3-64](./codeforces/1466/C.py) | `dp` `greedy` `strings` `*1300` | May/02/2023 19:52 | 
-418 | [B - Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | [PyPy 3-64](./codeforces/1536/B.py) | `brute force` `constructive algorithms` `strings` `*1200` | May/02/2023 17:32 | 
-417 | [B - AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | [PyPy 3-64](./codeforces/1514/B.py) | `bitmasks` `combinatorics` `math` `*1200` | May/02/2023 14:42 | 
-416 | [A - Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | [PyPy 3-64](./codeforces/1537/A.py) | `greedy` `math` `*800` | May/01/2023 13:04 | 
+431 | [B - Absent Remainder](https://codeforces.com/contest/1613/problem/B) | [PyPy 3-64](./codeforces/1613/B.py) | `greedy` `implementation` `sortings` `*1000` | May/04/2023 14:51 | 
+430 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3-64](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | May/04/2023 11:12 | 
+429 | [C - Number Game](https://codeforces.com/contest/1370/problem/C) | [PyPy 3-64](./codeforces/1370/C.py) | `games` `math` `number theory` `*1400` | May/04/2023 00:48 | 
+428 | [B - Swaps](https://codeforces.com/contest/1573/problem/B) | [PyPy 3-64](./codeforces/1573/B.py) | `greedy` `math` `sortings` `*1400` | May/03/2023 20:15 | 
+427 | [C - Chat Ban](https://codeforces.com/contest/1612/problem/C) | [PyPy 3-64](./codeforces/1612/C.py) | `binary search` `math` `*1300` | May/03/2023 17:11 | 
+426 | [B - Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | [PyPy 3-64](./codeforces/1372/B.py) | `greedy` `math` `number theory` `*1300` | May/03/2023 16:13 | 
+425 | [C - Poisoned Dagger](https://codeforces.com/contest/1613/problem/C) | [PyPy 3-64](./codeforces/1613/C.py) | `binary search` `*1200` | May/03/2023 15:58 | 
+424 | [C - Wrong Addition](https://codeforces.com/contest/1619/problem/C) | [PyPy 3-64](./codeforces/1619/C.py) | `implementation` `*1200` | May/03/2023 15:01 | 
+423 | [C - Meximum Array](https://codeforces.com/contest/1629/problem/C) | [PyPy 3-64](./codeforces/1629/C.py) | `constructive algorithms` `data structures` `greedy` `math` `two pointers` `*1400` | May/03/2023 13:36 | 
+422 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [PyPy 3-64](./codeforces/1490/E.py) | `binary search` `data structures` `greedy` `*1400` | May/03/2023 13:06 | 
+421 | [B - Box Fitting](https://codeforces.com/contest/1498/problem/B) | [PyPy 3-64](./codeforces/1498/B.py) | `binary search` `bitmasks` `data structures` `greedy` `*1300` | May/03/2023 08:20 | 
+420 | [C - Canine poetry](https://codeforces.com/contest/1466/problem/C) | [PyPy 3-64](./codeforces/1466/C.py) | `dp` `greedy` `strings` `*1300` | May/02/2023 19:52 | 
+419 | [B - Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | [PyPy 3-64](./codeforces/1536/B.py) | `brute force` `constructive algorithms` `strings` `*1200` | May/02/2023 17:32 | 
+418 | [B - AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | [PyPy 3-64](./codeforces/1514/B.py) | `bitmasks` `combinatorics` `math` `*1200` | May/02/2023 14:42 | 
+417 | [A - Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | [PyPy 3-64](./codeforces/1537/A.py) | `greedy` `math` `*800` | May/01/2023 13:04 | 
+416 | [A - Odd Set](https://codeforces.com/contest/1542/problem/A) | [PyPy 3-64](./codeforces/1542/A.py) | `math` `*800` | Apr/30/2023 20:07 | 
 415 | [C - Digital Logarithm](https://codeforces.com/contest/1728/problem/C) | [PyPy 3-64](./codeforces/1728/C.py) | `data structures` `greedy` `sortings` `*1400` | Apr/17/2023 10:47 | 
 414 | [C - Jatayu's Balanced Bracket Sequence](https://codeforces.com/contest/1726/problem/C) | [PyPy 3-64](./codeforces/1726/C.py) | `data structures` `dsu` `graphs` `greedy` `*1300` | Apr/17/2023 09:46 | 
 413 | [C - Phase Shift](https://codeforces.com/contest/1735/problem/C) | [PyPy 3-64](./codeforces/1735/C.py) | `dfs and similar` `dsu` `graphs` `greedy` `implementation` `strings` `*1400` | Apr/16/2023 12:22 | 
