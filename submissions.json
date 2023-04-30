@@ -8080,6 +8080,24 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF204010644": {
+    "contest_id": 1818,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1818/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Almost Increasing Subsequence",
+    "problem_url": "https://codeforces.com/contest/1818/problem/C",
+    "submission_id": "CF204010644",
+    "submission_url": "https://codeforces.com/contest/1818/submission/204010644",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Apr/30/2023 12:48"
+  },
   "CF204054544": {
     "contest_id": 1542,
     "language": "PyPy 3-64",
