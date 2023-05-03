@@ -8080,6 +8080,22 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF204319761": {
+    "contest_id": 1619,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1619/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Wrong Addition",
+    "problem_url": "https://codeforces.com/contest/1619/problem/C",
+    "submission_id": "CF204319761",
+    "submission_url": "https://codeforces.com/contest/1619/submission/204319761",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/03/2023 15:01"
+  },
   "CF204323885": {
     "contest_id": 1613,
     "language": "PyPy 3-64",
