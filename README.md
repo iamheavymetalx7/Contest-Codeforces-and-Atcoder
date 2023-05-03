@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-421 | [B - Absent Remainder](https://codeforces.com/contest/1613/problem/B) | [PyPy 3-64](./codeforces/1613/B.py) | `greedy` `implementation` `sortings` `*1000` | May/04/2023 14:51 | 
-420 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3-64](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | May/04/2023 11:12 | 
-419 | [C - Number Game](https://codeforces.com/contest/1370/problem/C) | [PyPy 3-64](./codeforces/1370/C.py) | `games` `math` `number theory` `*1400` | May/04/2023 00:48 | 
-418 | [B - Swaps](https://codeforces.com/contest/1573/problem/B) | [PyPy 3-64](./codeforces/1573/B.py) | `greedy` `math` `sortings` `*1400` | May/03/2023 20:15 | 
-417 | [C - Chat Ban](https://codeforces.com/contest/1612/problem/C) | [PyPy 3-64](./codeforces/1612/C.py) | `binary search` `math` `*1300` | May/03/2023 17:11 | 
-416 | [B - Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | [PyPy 3-64](./codeforces/1372/B.py) | `greedy` `math` `number theory` `*1300` | May/03/2023 16:13 | 
+422 | [B - Absent Remainder](https://codeforces.com/contest/1613/problem/B) | [PyPy 3-64](./codeforces/1613/B.py) | `greedy` `implementation` `sortings` `*1000` | May/04/2023 14:51 | 
+421 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3-64](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | May/04/2023 11:12 | 
+420 | [C - Number Game](https://codeforces.com/contest/1370/problem/C) | [PyPy 3-64](./codeforces/1370/C.py) | `games` `math` `number theory` `*1400` | May/04/2023 00:48 | 
+419 | [B - Swaps](https://codeforces.com/contest/1573/problem/B) | [PyPy 3-64](./codeforces/1573/B.py) | `greedy` `math` `sortings` `*1400` | May/03/2023 20:15 | 
+418 | [C - Chat Ban](https://codeforces.com/contest/1612/problem/C) | [PyPy 3-64](./codeforces/1612/C.py) | `binary search` `math` `*1300` | May/03/2023 17:11 | 
+417 | [B - Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | [PyPy 3-64](./codeforces/1372/B.py) | `greedy` `math` `number theory` `*1300` | May/03/2023 16:13 | 
+416 | [C - Poisoned Dagger](https://codeforces.com/contest/1613/problem/C) | [PyPy 3-64](./codeforces/1613/C.py) | `binary search` `*1200` | May/03/2023 15:58 | 
 415 | [C - Digital Logarithm](https://codeforces.com/contest/1728/problem/C) | [PyPy 3-64](./codeforces/1728/C.py) | `data structures` `greedy` `sortings` `*1400` | Apr/17/2023 10:47 | 
 414 | [C - Jatayu's Balanced Bracket Sequence](https://codeforces.com/contest/1726/problem/C) | [PyPy 3-64](./codeforces/1726/C.py) | `data structures` `dsu` `graphs` `greedy` `*1300` | Apr/17/2023 09:46 | 
 413 | [C - Phase Shift](https://codeforces.com/contest/1735/problem/C) | [PyPy 3-64](./codeforces/1735/C.py) | `dfs and similar` `dsu` `graphs` `greedy` `implementation` `strings` `*1400` | Apr/16/2023 12:22 | 
