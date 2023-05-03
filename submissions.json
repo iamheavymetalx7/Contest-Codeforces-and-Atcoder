@@ -8080,6 +8080,23 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF204329268": {
+    "contest_id": 1612,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1612/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Chat Ban",
+    "problem_url": "https://codeforces.com/contest/1612/problem/C",
+    "submission_id": "CF204329268",
+    "submission_url": "https://codeforces.com/contest/1612/submission/204329268",
+    "tags": [
+      "binary search",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/03/2023 17:11"
+  },
   "CF204347062": {
     "contest_id": 1573,
     "language": "PyPy 3-64",
