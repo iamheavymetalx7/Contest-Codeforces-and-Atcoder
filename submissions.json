@@ -8080,6 +8080,24 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF204324798": {
+    "contest_id": 1372,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1372/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Omkar and Last Class of Math",
+    "problem_url": "https://codeforces.com/contest/1372/problem/B",
+    "submission_id": "CF204324798",
+    "submission_url": "https://codeforces.com/contest/1372/submission/204324798",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "May/03/2023 16:13"
+  },
   "CF204329268": {
     "contest_id": 1612,
     "language": "PyPy 3-64",
