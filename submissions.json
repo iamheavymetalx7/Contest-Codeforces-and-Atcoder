@@ -8080,6 +8080,25 @@
     ],
     "timestamp": "Apr/17/2023 10:47"
   },
+  "CF204398324": {
+    "contest_id": 1473,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1473/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "String LCM",
+    "problem_url": "https://codeforces.com/contest/1473/problem/B",
+    "submission_id": "CF204398324",
+    "submission_url": "https://codeforces.com/contest/1473/submission/204398324",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "May/04/2023 11:12"
+  },
   "CF204433239": {
     "contest_id": 1613,
     "language": "PyPy 3-64",
