@@ -8079,5 +8079,23 @@
       "*1400"
     ],
     "timestamp": "Apr/17/2023 10:47"
+  },
+  "CF204433239": {
+    "contest_id": 1613,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1613/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Absent Remainder",
+    "problem_url": "https://codeforces.com/contest/1613/problem/B",
+    "submission_id": "CF204433239",
+    "submission_url": "https://codeforces.com/contest/1613/submission/204433239",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "May/04/2023 14:51"
   }
 }
