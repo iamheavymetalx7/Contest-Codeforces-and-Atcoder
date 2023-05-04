@@ -9514,6 +9514,24 @@
     ],
     "timestamp": "May/04/2023 14:51"
   },
+  "CF204494656": {
+    "contest_id": 1505,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1505/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Is it rated - 2",
+    "problem_url": "https://codeforces.com/contest/1505/problem/A",
+    "submission_id": "CF204494656",
+    "submission_url": "https://codeforces.com/contest/1505/submission/204494656",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "interactive",
+      "*900"
+    ],
+    "timestamp": "May/05/2023 00:36"
+  },
   "CF204522323": {
     "contest_id": 1546,
     "language": "PyPy 3-64",
