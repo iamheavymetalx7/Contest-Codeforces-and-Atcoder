@@ -9514,6 +9514,24 @@
     ],
     "timestamp": "May/04/2023 14:51"
   },
+  "CF204473697": {
+    "contest_id": 1454,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1454/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Number into Sequence",
+    "problem_url": "https://codeforces.com/contest/1454/problem/D",
+    "submission_id": "CF204473697",
+    "submission_url": "https://codeforces.com/contest/1454/submission/204473697",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "May/04/2023 21:00"
+  },
   "CF204477062": {
     "contest_id": 1512,
     "language": "PyPy 3-64",
