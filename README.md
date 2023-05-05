@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-496 | [F - Forever Winter](https://codeforces.com/contest/1829/problem/F) | [PyPy 3-64](./codeforces/1829/F.py) | `dfs and similar` `graphs` `math` | May/07/2023 00:20 | 
-495 | [E - The Lakes](https://codeforces.com/contest/1829/problem/E) | [PyPy 3-64](./codeforces/1829/E.py) | `dfs and similar` `dsu` `graphs` `implementation` | May/06/2023 22:39 | 
-494 | [D - Gold Rush](https://codeforces.com/contest/1829/problem/D) | [PyPy 3-64](./codeforces/1829/D.py) | `dfs and similar` `dp` `implementation` | May/06/2023 21:44 | 
-493 | [C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | [PyPy 3-64](./codeforces/1829/C.py) | `bitmasks` `greedy` `implementation` | May/06/2023 20:16 | 
-492 | [B - Blank Space](https://codeforces.com/contest/1829/problem/B) | [PyPy 3-64](./codeforces/1829/B.py) | `implementation` | May/06/2023 20:09 | 
-491 | [A - Love Story](https://codeforces.com/contest/1829/problem/A) | [PyPy 3-64](./codeforces/1829/A.py) | `implementation` `strings` | May/06/2023 20:06 | 
+497 | [F - Forever Winter](https://codeforces.com/contest/1829/problem/F) | [PyPy 3-64](./codeforces/1829/F.py) | `dfs and similar` `graphs` `math` | May/07/2023 00:20 | 
+496 | [E - The Lakes](https://codeforces.com/contest/1829/problem/E) | [PyPy 3-64](./codeforces/1829/E.py) | `dfs and similar` `dsu` `graphs` `implementation` | May/06/2023 22:39 | 
+495 | [D - Gold Rush](https://codeforces.com/contest/1829/problem/D) | [PyPy 3-64](./codeforces/1829/D.py) | `dfs and similar` `dp` `implementation` | May/06/2023 21:44 | 
+494 | [C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | [PyPy 3-64](./codeforces/1829/C.py) | `bitmasks` `greedy` `implementation` | May/06/2023 20:16 | 
+493 | [B - Blank Space](https://codeforces.com/contest/1829/problem/B) | [PyPy 3-64](./codeforces/1829/B.py) | `implementation` | May/06/2023 20:09 | 
+492 | [A - Love Story](https://codeforces.com/contest/1829/problem/A) | [PyPy 3-64](./codeforces/1829/A.py) | `implementation` `strings` | May/06/2023 20:06 | 
+491 | [A - Trust Nobody](https://codeforces.com/contest/1826/problem/A) | [PyPy 3-64](./codeforces/1826/A.py) | `brute force` `greedy` `implementation` `sortings` | May/05/2023 22:54 | 
 490 | [B - Absent Remainder](https://codeforces.com/contest/1613/problem/B) | [PyPy 3-64](./codeforces/1613/B.py) | `greedy` `implementation` `sortings` `*1000` | May/04/2023 14:51 | 
 489 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3-64](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | May/04/2023 11:12 | 
 488 | [C - Number Game](https://codeforces.com/contest/1370/problem/C) | [PyPy 3-64](./codeforces/1370/C.py) | `games` `math` `number theory` `*1400` | May/04/2023 00:48 | 

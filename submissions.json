@@ -9514,6 +9514,24 @@
     ],
     "timestamp": "May/04/2023 14:51"
   },
+  "CF204647675": {
+    "contest_id": 1826,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1826/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Trust Nobody",
+    "problem_url": "https://codeforces.com/contest/1826/problem/A",
+    "submission_id": "CF204647675",
+    "submission_url": "https://codeforces.com/contest/1826/submission/204647675",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "May/05/2023 22:54"
+  },
   "CF204750551": {
     "contest_id": 1829,
     "language": "PyPy 3-64",
