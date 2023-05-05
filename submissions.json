@@ -9514,6 +9514,26 @@
     ],
     "timestamp": "May/04/2023 14:51"
   },
+  "CF204523606": {
+    "contest_id": 755,
+    "language": "PyPy 3-64",
+    "path": "codeforces/755/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "PolandBall and Forest",
+    "problem_url": "https://codeforces.com/contest/755/problem/C",
+    "submission_id": "CF204523606",
+    "submission_url": "https://codeforces.com/contest/755/submission/204523606",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "interactive",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "May/05/2023 10:57"
+  },
   "CF204525263": {
     "contest_id": 1807,
     "language": "PyPy 3-64",
