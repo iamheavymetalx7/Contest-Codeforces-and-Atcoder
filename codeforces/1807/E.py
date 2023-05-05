@@ -85,7 +85,7 @@ def solve():
     
     l,r=1,n
 
-    while l!=r:
+    while l<r:
         m=(l+r)//2
         p=[i for i in range(l,m+1)]
         print("?", len(p), *p, flush=True)
