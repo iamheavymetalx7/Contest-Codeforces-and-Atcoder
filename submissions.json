@@ -9514,6 +9514,24 @@
     ],
     "timestamp": "May/04/2023 14:51"
   },
+  "CF204528509": {
+    "contest_id": 679,
+    "language": "PyPy 3-64",
+    "path": "codeforces/679/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bear and Prime 100",
+    "problem_url": "https://codeforces.com/contest/679/problem/A",
+    "submission_id": "CF204528509",
+    "submission_url": "https://codeforces.com/contest/679/submission/204528509",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/05/2023 12:07"
+  },
   "CF204532942": {
     "contest_id": 1167,
     "language": "PyPy 3-64",
