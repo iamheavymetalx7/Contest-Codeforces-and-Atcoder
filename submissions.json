@@ -9514,6 +9514,23 @@
     ],
     "timestamp": "May/04/2023 14:51"
   },
+  "CF204546677": {
+    "contest_id": 1486,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1486/C2.py",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Guessing the Greatest (hard version)",
+    "problem_url": "https://codeforces.com/contest/1486/problem/C2",
+    "submission_id": "CF204546677",
+    "submission_url": "https://codeforces.com/contest/1486/submission/204546677",
+    "tags": [
+      "binary search",
+      "interactive",
+      "*1900"
+    ],
+    "timestamp": "May/05/2023 15:54"
+  },
   "CF204563455": {
     "contest_id": 1797,
     "language": "PyPy 3-64",
