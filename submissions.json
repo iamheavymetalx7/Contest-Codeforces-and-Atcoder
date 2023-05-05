@@ -9514,6 +9514,24 @@
     ],
     "timestamp": "May/04/2023 14:51"
   },
+  "CF204563455": {
+    "contest_id": 1797,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1797/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Li Hua and Chess",
+    "problem_url": "https://codeforces.com/contest/1797/problem/C",
+    "submission_id": "CF204563455",
+    "submission_url": "https://codeforces.com/contest/1797/submission/204563455",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "interactive",
+      "*1600"
+    ],
+    "timestamp": "May/05/2023 18:45"
+  },
   "CF204594512": {
     "contest_id": 1826,
     "language": "PyPy 3-64",
