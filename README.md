@@ -13,23 +13,24 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-507 | [F - Forever Winter](https://codeforces.com/contest/1829/problem/F) | [PyPy 3-64](./codeforces/1829/F.py) | `dfs and similar` `graphs` `math` | May/07/2023 00:20 | 
-506 | [E - The Lakes](https://codeforces.com/contest/1829/problem/E) | [PyPy 3-64](./codeforces/1829/E.py) | `dfs and similar` `dsu` `graphs` `implementation` | May/06/2023 22:39 | 
-505 | [D - Gold Rush](https://codeforces.com/contest/1829/problem/D) | [PyPy 3-64](./codeforces/1829/D.py) | `dfs and similar` `dp` `implementation` | May/06/2023 21:44 | 
-504 | [C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | [PyPy 3-64](./codeforces/1829/C.py) | `bitmasks` `greedy` `implementation` | May/06/2023 20:16 | 
-503 | [B - Blank Space](https://codeforces.com/contest/1829/problem/B) | [PyPy 3-64](./codeforces/1829/B.py) | `implementation` | May/06/2023 20:09 | 
-502 | [A - Love Story](https://codeforces.com/contest/1829/problem/A) | [PyPy 3-64](./codeforces/1829/A.py) | `implementation` `strings` | May/06/2023 20:06 | 
-501 | [A - Trust Nobody](https://codeforces.com/contest/1826/problem/A) | [PyPy 3-64](./codeforces/1826/A.py) | `brute force` `greedy` `implementation` `sortings` | May/05/2023 22:54 | 
-500 | [C - Dreaming of Freedom](https://codeforces.com/contest/1826/problem/C) | [PyPy 3-64](./codeforces/1826/C.py) | `greedy` `math` `number theory` | May/05/2023 22:04 | 
-499 | [B - Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) | [PyPy 3-64](./codeforces/1826/B.py) | `math` `number theory` | May/05/2023 20:39 | 
-498 | [C - Li Hua and Chess](https://codeforces.com/contest/1797/problem/C) | [PyPy 3-64](./codeforces/1797/C.py) | `constructive algorithms` `greedy` `interactive` `*1600` | May/05/2023 18:45 | 
-497 | [C2 - Guessing the Greatest (hard version)](https://codeforces.com/contest/1486/problem/C2) | [PyPy 3-64](./codeforces/1486/C2.py) | `binary search` `interactive` `*1900` | May/05/2023 15:54 | 
-496 | [C1 - Guessing the Greatest (easy version)](https://codeforces.com/contest/1486/problem/C1) | [PyPy 3-64](./codeforces/1486/C1.py) | `binary search` `interactive` `*1600` | May/05/2023 15:53 | 
-495 | [C - Chocolate Bunny](https://codeforces.com/contest/1407/problem/C) | [PyPy 3-64](./codeforces/1407/C.py) | `constructive algorithms` `interactive` `math` `two pointers` `*1600` | May/05/2023 15:22 | 
-494 | [F - Flamingoes of Mystery](https://codeforces.com/contest/1425/problem/F) | [PyPy 3-64](./codeforces/1425/F.py) | `interactive` `*1400` | May/05/2023 14:36 | 
-493 | [C - Guess the Array](https://codeforces.com/contest/727/problem/C) | [PyPy 3-64](./codeforces/727/C.py) | `constructive algorithms` `interactive` `math` `*1400` | May/05/2023 13:30 | 
-492 | [B - Lost Numbers](https://codeforces.com/contest/1167/problem/B) | [PyPy 3-64](./codeforces/1167/B.py) | `brute force` `divide and conquer` `interactive` `math` `*1400` | May/05/2023 13:05 | 
-491 | [A - Bear and Prime 100](https://codeforces.com/contest/679/problem/A) | [PyPy 3-64](./codeforces/679/A.py) | `constructive algorithms` `interactive` `math` `*1400` | May/05/2023 12:07 | 
+508 | [F - Forever Winter](https://codeforces.com/contest/1829/problem/F) | [PyPy 3-64](./codeforces/1829/F.py) | `dfs and similar` `graphs` `math` | May/07/2023 00:20 | 
+507 | [E - The Lakes](https://codeforces.com/contest/1829/problem/E) | [PyPy 3-64](./codeforces/1829/E.py) | `dfs and similar` `dsu` `graphs` `implementation` | May/06/2023 22:39 | 
+506 | [D - Gold Rush](https://codeforces.com/contest/1829/problem/D) | [PyPy 3-64](./codeforces/1829/D.py) | `dfs and similar` `dp` `implementation` | May/06/2023 21:44 | 
+505 | [C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | [PyPy 3-64](./codeforces/1829/C.py) | `bitmasks` `greedy` `implementation` | May/06/2023 20:16 | 
+504 | [B - Blank Space](https://codeforces.com/contest/1829/problem/B) | [PyPy 3-64](./codeforces/1829/B.py) | `implementation` | May/06/2023 20:09 | 
+503 | [A - Love Story](https://codeforces.com/contest/1829/problem/A) | [PyPy 3-64](./codeforces/1829/A.py) | `implementation` `strings` | May/06/2023 20:06 | 
+502 | [A - Trust Nobody](https://codeforces.com/contest/1826/problem/A) | [PyPy 3-64](./codeforces/1826/A.py) | `brute force` `greedy` `implementation` `sortings` | May/05/2023 22:54 | 
+501 | [C - Dreaming of Freedom](https://codeforces.com/contest/1826/problem/C) | [PyPy 3-64](./codeforces/1826/C.py) | `greedy` `math` `number theory` | May/05/2023 22:04 | 
+500 | [B - Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) | [PyPy 3-64](./codeforces/1826/B.py) | `math` `number theory` | May/05/2023 20:39 | 
+499 | [C - Li Hua and Chess](https://codeforces.com/contest/1797/problem/C) | [PyPy 3-64](./codeforces/1797/C.py) | `constructive algorithms` `greedy` `interactive` `*1600` | May/05/2023 18:45 | 
+498 | [C2 - Guessing the Greatest (hard version)](https://codeforces.com/contest/1486/problem/C2) | [PyPy 3-64](./codeforces/1486/C2.py) | `binary search` `interactive` `*1900` | May/05/2023 15:54 | 
+497 | [C1 - Guessing the Greatest (easy version)](https://codeforces.com/contest/1486/problem/C1) | [PyPy 3-64](./codeforces/1486/C1.py) | `binary search` `interactive` `*1600` | May/05/2023 15:53 | 
+496 | [C - Chocolate Bunny](https://codeforces.com/contest/1407/problem/C) | [PyPy 3-64](./codeforces/1407/C.py) | `constructive algorithms` `interactive` `math` `two pointers` `*1600` | May/05/2023 15:22 | 
+495 | [F - Flamingoes of Mystery](https://codeforces.com/contest/1425/problem/F) | [PyPy 3-64](./codeforces/1425/F.py) | `interactive` `*1400` | May/05/2023 14:36 | 
+494 | [C - Guess the Array](https://codeforces.com/contest/727/problem/C) | [PyPy 3-64](./codeforces/727/C.py) | `constructive algorithms` `interactive` `math` `*1400` | May/05/2023 13:30 | 
+493 | [B - Lost Numbers](https://codeforces.com/contest/1167/problem/B) | [PyPy 3-64](./codeforces/1167/B.py) | `brute force` `divide and conquer` `interactive` `math` `*1400` | May/05/2023 13:05 | 
+492 | [A - Bear and Prime 100](https://codeforces.com/contest/679/problem/A) | [PyPy 3-64](./codeforces/679/A.py) | `constructive algorithms` `interactive` `math` `*1400` | May/05/2023 12:07 | 
+491 | [E - Interview](https://codeforces.com/contest/1807/problem/E) | [PyPy 3-64](./codeforces/1807/E.py) | `binary search` `implementation` `interactive` `*1300` | May/05/2023 11:25 | 
 490 | [B - Absent Remainder](https://codeforces.com/contest/1613/problem/B) | [PyPy 3-64](./codeforces/1613/B.py) | `greedy` `implementation` `sortings` `*1000` | May/04/2023 14:51 | 
 489 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3-64](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | May/04/2023 11:12 | 
 488 | [C - Number Game](https://codeforces.com/contest/1370/problem/C) | [PyPy 3-64](./codeforces/1370/C.py) | `games` `math` `number theory` `*1400` | May/04/2023 00:48 | 
