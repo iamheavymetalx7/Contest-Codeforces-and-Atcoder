@@ -9514,6 +9514,22 @@
     ],
     "timestamp": "May/04/2023 14:51"
   },
+  "CF204540519": {
+    "contest_id": 1425,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1425/F.py",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Flamingoes of Mystery",
+    "problem_url": "https://codeforces.com/contest/1425/problem/F",
+    "submission_id": "CF204540519",
+    "submission_url": "https://codeforces.com/contest/1425/submission/204540519",
+    "tags": [
+      "interactive",
+      "*1400"
+    ],
+    "timestamp": "May/05/2023 14:36"
+  },
   "CF204544502": {
     "contest_id": 1407,
     "language": "PyPy 3-64",
