@@ -9514,6 +9514,22 @@
     ],
     "timestamp": "May/04/2023 14:51"
   },
+  "CF204750551": {
+    "contest_id": 1829,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1829/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Love Story",
+    "problem_url": "https://codeforces.com/contest/1829/problem/A",
+    "submission_id": "CF204750551",
+    "submission_url": "https://codeforces.com/contest/1829/submission/204750551",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "May/06/2023 20:06"
+  },
   "CF204760551": {
     "contest_id": 1829,
     "language": "PyPy 3-64",
