@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+491 | [F - Forever Winter](https://codeforces.com/contest/1829/problem/F) | [PyPy 3-64](./codeforces/1829/F.py) | `dfs and similar` `graphs` `math` | May/07/2023 00:20 | 
 490 | [B - Absent Remainder](https://codeforces.com/contest/1613/problem/B) | [PyPy 3-64](./codeforces/1613/B.py) | `greedy` `implementation` `sortings` `*1000` | May/04/2023 14:51 | 
 489 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3-64](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | May/04/2023 11:12 | 
 488 | [C - Number Game](https://codeforces.com/contest/1370/problem/C) | [PyPy 3-64](./codeforces/1370/C.py) | `games` `math` `number theory` `*1400` | May/04/2023 00:48 | 
@@ -80,8 +81,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 426 | [A - Matching](https://codeforces.com/contest/1821/problem/A) | [PyPy 3-64](./codeforces/1821/A.py) | `combinatorics` `math` `*800` | Apr/20/2023 20:13 | 
 425 | [C - Coin Rows](https://codeforces.com/contest/1555/problem/C) | [PyPy 3-64](./codeforces/1555/C.py) | `brute force` `constructive algorithms` `dp` `implementation` `*1300` | Apr/19/2023 18:00 | 
 424 | [E - Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | [PyPy 3-64](./codeforces/1520/E.py) | `greedy` `math` `*1400` | Apr/19/2023 16:34 | 
-423 | [C2 - Potions (Hard Version)](https://codeforces.com/contest/1526/problem/C2) | [PyPy 3-64](./codeforces/1526/C2.py) | `data structures` `greedy` `*1600` | Apr/19/2023 16:02 | 
-422 | [C1 - Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | [PyPy 3-64](./codeforces/1526/C1.py) | `brute force` `data structures` `dp` `greedy` `*1500` | Apr/19/2023 16:02 | 
+423 | [C1 - Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | [PyPy 3-64](./codeforces/1526/C1.py) | `brute force` `data structures` `dp` `greedy` `*1500` | Apr/19/2023 16:02 | 
+422 | [C2 - Potions (Hard Version)](https://codeforces.com/contest/1526/problem/C2) | [PyPy 3-64](./codeforces/1526/C2.py) | `data structures` `greedy` `*1600` | Apr/19/2023 16:02 | 
 421 | [C - Dominant Character](https://codeforces.com/contest/1605/problem/C) | [PyPy 3-64](./codeforces/1605/C.py) | `brute force` `greedy` `implementation` `strings` `*1400` | Apr/19/2023 14:44 | 
 420 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [PyPy 3-64](./codeforces/1542/B.py) | `constructive algorithms` `math` `number theory` `*1500` | Apr/19/2023 14:16 | 
 419 | [B - Nastia and a Good Array](https://codeforces.com/contest/1521/problem/B) | [PyPy 3-64](./codeforces/1521/B.py) | `constructive algorithms` `math` `number theory` `*1300` | Apr/19/2023 12:51 | 
