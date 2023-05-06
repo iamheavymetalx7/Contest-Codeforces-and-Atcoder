@@ -9514,6 +9514,23 @@
     ],
     "timestamp": "May/04/2023 14:51"
   },
+  "CF204855372": {
+    "contest_id": 1829,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1829/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Gold Rush",
+    "problem_url": "https://codeforces.com/contest/1829/problem/D",
+    "submission_id": "CF204855372",
+    "submission_url": "https://codeforces.com/contest/1829/submission/204855372",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "implementation"
+    ],
+    "timestamp": "May/06/2023 21:44"
+  },
   "CF204879785": {
     "contest_id": 1829,
     "language": "PyPy 3-64",
