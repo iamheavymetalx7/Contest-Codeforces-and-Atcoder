@@ -61,9 +61,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 518 | [B - Trouble Sort](https://codeforces.com/contest/1365/problem/B) | [PyPy 3-64](./codeforces/1365/B.py) | `constructive algorithms` `implementation` `*1300` | May/08/2023 10:51 | 
 517 | [B - Hemose Shopping](https://codeforces.com/contest/1592/problem/B) | [PyPy 3-64](./codeforces/1592/B.py) | `constructive algorithms` `dsu` `math` `sortings` `*1200` | May/08/2023 10:41 | 
 516 | [C - Make Them Equal](https://codeforces.com/contest/1594/problem/C) | [PyPy 3-64](./codeforces/1594/C.py) | `brute force` `greedy` `math` `strings` `*1200` | May/08/2023 10:19 | 
-515 | [F - Forever Winter](https://codeforces.com/contest/1829/problem/F) | [PyPy 3-64](./codeforces/1829/F.py) | `dfs and similar` `graphs` `math` | May/07/2023 00:20 | 
-514 | [E - The Lakes](https://codeforces.com/contest/1829/problem/E) | [PyPy 3-64](./codeforces/1829/E.py) | `dfs and similar` `dsu` `graphs` `implementation` | May/06/2023 22:39 | 
-513 | [D - Gold Rush](https://codeforces.com/contest/1829/problem/D) | [PyPy 3-64](./codeforces/1829/D.py) | `dfs and similar` `dp` `implementation` | May/06/2023 21:44 | 
+515 | [D - Gold Rush](https://codeforces.com/contest/1829/problem/D) | [PyPy 3-64](./codeforces/1829/D.py) | `brute force` `dfs and similar` `dp` `implementation` `*1000` | May/07/2023 09:18 | 
+514 | [F - Forever Winter](https://codeforces.com/contest/1829/problem/F) | [PyPy 3-64](./codeforces/1829/F.py) | `dfs and similar` `graphs` `math` | May/07/2023 00:20 | 
+513 | [E - The Lakes](https://codeforces.com/contest/1829/problem/E) | [PyPy 3-64](./codeforces/1829/E.py) | `dfs and similar` `dsu` `graphs` `implementation` | May/06/2023 22:39 | 
 512 | [C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | [PyPy 3-64](./codeforces/1829/C.py) | `bitmasks` `greedy` `implementation` | May/06/2023 20:16 | 
 511 | [B - Blank Space](https://codeforces.com/contest/1829/problem/B) | [PyPy 3-64](./codeforces/1829/B.py) | `implementation` | May/06/2023 20:09 | 
 510 | [A - Love Story](https://codeforces.com/contest/1829/problem/A) | [PyPy 3-64](./codeforces/1829/A.py) | `implementation` `strings` | May/06/2023 20:06 | 
