@@ -9987,6 +9987,25 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF205043812": {
+    "contest_id": 1592,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1592/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hemose Shopping",
+    "problem_url": "https://codeforces.com/contest/1592/problem/B",
+    "submission_id": "CF205043812",
+    "submission_url": "https://codeforces.com/contest/1592/submission/205043812",
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/08/2023 10:41"
+  },
   "CF205044375": {
     "contest_id": 1365,
     "language": "PyPy 3-64",
