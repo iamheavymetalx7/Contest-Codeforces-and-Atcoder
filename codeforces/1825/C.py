@@ -82,14 +82,12 @@ def solve():
 
 
 
-
-    for i in range(m):
-        tmp=1
-        tmp+=min(nseats[i]-1,cntleft+i)
-        tmp+=min(cntright+m-i-1,k-nseats[i])
-        ans=max(ans,tmp)
     
+    for i in range(len(nseats)):
+        ans=max(ans,m+min(nseats[i]-i-1,cntleft)+min(k-nseats[i]-(m-i-1),cntright))
+
     print(min(ans,k))
+
 
         
 
