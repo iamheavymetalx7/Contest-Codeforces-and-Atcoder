@@ -9987,6 +9987,25 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF205042530": {
+    "contest_id": 1594,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1594/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Make Them Equal",
+    "problem_url": "https://codeforces.com/contest/1594/problem/C",
+    "submission_id": "CF205042530",
+    "submission_url": "https://codeforces.com/contest/1594/submission/205042530",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "May/08/2023 10:19"
+  },
   "CF205043812": {
     "contest_id": 1592,
     "language": "PyPy 3-64",
