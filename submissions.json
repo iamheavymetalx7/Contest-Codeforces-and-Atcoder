@@ -9987,6 +9987,25 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF205342152": {
+    "contest_id": 1042,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1042/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vitamins",
+    "problem_url": "https://codeforces.com/contest/1042/problem/B",
+    "submission_id": "CF205342152",
+    "submission_url": "https://codeforces.com/contest/1042/submission/205342152",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/10/2023 20:23"
+  },
   "CF205361743": {
     "contest_id": 961,
     "language": "PyPy 3-64",
