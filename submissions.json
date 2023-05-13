@@ -9987,6 +9987,23 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF205739964": {
+    "contest_id": 1832,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1832/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Contrast Value",
+    "problem_url": "https://codeforces.com/contest/1832/problem/C",
+    "submission_id": "CF205739964",
+    "submission_url": "https://codeforces.com/contest/1832/submission/205739964",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/13/2023 21:38"
+  },
   "CF205955843": {
     "contest_id": 1828,
     "language": "PyPy 3-64",
