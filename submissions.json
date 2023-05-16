@@ -9987,6 +9987,24 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206064294": {
+    "contest_id": 63,
+    "language": "PyPy 3-64",
+    "path": "codeforces/63/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sinking Ship",
+    "problem_url": "https://codeforces.com/contest/63/problem/A",
+    "submission_id": "CF206064294",
+    "submission_url": "https://codeforces.com/contest/63/submission/206064294",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "May/16/2023 14:19"
+  },
   "CF206090749": {
     "contest_id": 707,
     "language": "PyPy 3-64",
