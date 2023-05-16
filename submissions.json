@@ -9987,6 +9987,23 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206063657": {
+    "contest_id": 369,
+    "language": "PyPy 3-64",
+    "path": "codeforces/369/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Valera and Plates",
+    "problem_url": "https://codeforces.com/contest/369/problem/A",
+    "submission_id": "CF206063657",
+    "submission_url": "https://codeforces.com/contest/369/submission/206063657",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/16/2023 14:12"
+  },
   "CF206064294": {
     "contest_id": 63,
     "language": "PyPy 3-64",
