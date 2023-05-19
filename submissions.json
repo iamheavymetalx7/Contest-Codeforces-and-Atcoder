@@ -9987,6 +9987,23 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206496062": {
+    "contest_id": 1833,
+    "language": "PyPy 3",
+    "path": "codeforces/1833/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restore the Weather",
+    "problem_url": "https://codeforces.com/contest/1833/problem/B",
+    "submission_id": "CF206496062",
+    "submission_url": "https://codeforces.com/contest/1833/submission/206496062",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/19/2023 20:47"
+  },
   "CF206499743": {
     "contest_id": 1833,
     "language": "PyPy 3",
