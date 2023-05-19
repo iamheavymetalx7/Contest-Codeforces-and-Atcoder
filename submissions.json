@@ -9987,6 +9987,23 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206460973": {
+    "contest_id": 1833,
+    "language": "PyPy 3",
+    "path": "codeforces/1833/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Musical Puzzle",
+    "problem_url": "https://codeforces.com/contest/1833/problem/A",
+    "submission_id": "CF206460973",
+    "submission_url": "https://codeforces.com/contest/1833/submission/206460973",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/19/2023 20:09"
+  },
   "CF206496062": {
     "contest_id": 1833,
     "language": "PyPy 3",
