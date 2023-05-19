@@ -9987,6 +9987,22 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206397263": {
+    "contest_id": 1090,
+    "language": "PyPy 3",
+    "path": "codeforces/1090/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Company Merging",
+    "problem_url": "https://codeforces.com/contest/1090/problem/A",
+    "submission_id": "CF206397263",
+    "submission_url": "https://codeforces.com/contest/1090/submission/206397263",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "May/19/2023 08:05"
+  },
   "CF206397605": {
     "contest_id": 433,
     "language": "PyPy 3",
