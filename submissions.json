@@ -9987,6 +9987,24 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206585404": {
+    "contest_id": 1833,
+    "language": "PyPy 3",
+    "path": "codeforces/1833/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flipper",
+    "problem_url": "https://codeforces.com/contest/1833/problem/D",
+    "submission_id": "CF206585404",
+    "submission_url": "https://codeforces.com/contest/1833/submission/206585404",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "May/20/2023 09:15"
+  },
   "CF206603908": {
     "contest_id": 1833,
     "language": "PyPy 3-64",
