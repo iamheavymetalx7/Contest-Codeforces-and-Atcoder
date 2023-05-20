@@ -92,14 +92,18 @@ def solve():
     idx=a.index(x)
     ans=[0]
     for i in range(idx):
+        # flipping against the middle part
         left,mid,right = a[:i], a[i:idx],a[idx:]
         newa = right+mid[::-1]+left
+        # print(newa,i)
         if ans<newa:
             ans=newa
 
 
+    ##edge case flip largest element only
 
     newa= a[idx+1:]+[a[idx]]+a[:idx]
+    # print(newa)
     if newa>ans:
         ans=newa
     
