@@ -9987,6 +9987,23 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206771683": {
+    "contest_id": 110,
+    "language": "PyPy 3-64",
+    "path": "codeforces/110/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lucky String",
+    "problem_url": "https://codeforces.com/contest/110/problem/B",
+    "submission_id": "CF206771683",
+    "submission_url": "https://codeforces.com/contest/110/submission/206771683",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "May/22/2023 00:12"
+  },
   "CF206789117": {
     "contest_id": 1304,
     "language": "PyPy 3-64",
