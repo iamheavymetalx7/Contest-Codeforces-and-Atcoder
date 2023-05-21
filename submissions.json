@@ -9987,6 +9987,26 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206695953": {
+    "contest_id": 1328,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1328/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "K-th Beautiful String",
+    "problem_url": "https://codeforces.com/contest/1328/problem/B",
+    "submission_id": "CF206695953",
+    "submission_url": "https://codeforces.com/contest/1328/submission/206695953",
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/21/2023 08:43"
+  },
   "CF206697226": {
     "contest_id": 1556,
     "language": "PyPy 3-64",
