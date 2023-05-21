@@ -119,35 +119,25 @@ def solve():
     n=ii()
     a=lmii()
     b=lmii()
-    diff=[]
-
-    
+    C=[]
     for i in range(n):
-        diff.append(a[i]-b[i])
+        C.append(a[i]-b[i])
     cnt=0
-    diff.sort()
 
-    for x in diff:
-        if x>0:
-            cnt+=1
 
-    ans =0
-    ans+=ncr(cnt,2)
-    # print(ans,"ans before negs andzero")
-
-    # print(diff)
-
-    for x in diff:
-        if x<=0:
-            idx= lower_bound(diff, abs(x)+1)
-            # print(idx,len(diff)-idx)
-            ans+=len(diff)-idx
-        else:
-            break
+    C.sort()
+    # print(C)
+    for i in range(n):
+        if C[i]<=0:
+            continue
+        pos= lower_bound(C,-C[i]+1)
+        cnt+=i-pos
     
-    print(ans)
-    
-    
+    print(cnt)
+
+
+
+
 
     
     
