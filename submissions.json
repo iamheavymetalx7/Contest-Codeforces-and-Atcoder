@@ -9987,6 +9987,23 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206767634": {
+    "contest_id": 549,
+    "language": "PyPy 3-64",
+    "path": "codeforces/549/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Face Detection",
+    "problem_url": "https://codeforces.com/contest/549/problem/A",
+    "submission_id": "CF206767634",
+    "submission_url": "https://codeforces.com/contest/549/submission/206767634",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "May/21/2023 23:16"
+  },
   "CF206771683": {
     "contest_id": 110,
     "language": "PyPy 3-64",
