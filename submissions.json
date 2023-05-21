@@ -9987,6 +9987,22 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206697480": {
+    "contest_id": 1556,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1556/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Take Your Places!",
+    "problem_url": "https://codeforces.com/contest/1556/problem/B",
+    "submission_id": "CF206697480",
+    "submission_url": "https://codeforces.com/contest/1556/submission/206697480",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/21/2023 09:14"
+  },
   "CF206699592": {
     "contest_id": 1375,
     "language": "PyPy 3-64",
