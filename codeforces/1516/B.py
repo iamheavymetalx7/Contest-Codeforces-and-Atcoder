@@ -134,6 +134,11 @@ def solve():
     for i in range(n-2,-1,-1):
         suff.append(suff[-1]^a[i])
 
+    '''
+    we need to remove suffix in order to check for suff[j] condition
+    '''
+
+    suff=suff[::-1]
     if pref[-1]==0:
         print("YES")
         return
@@ -142,7 +147,7 @@ def solve():
 
     for i in range(1,n-1):
         for j in range(i+1,n):
-            if pref[i-1]==pref[i-1]^pref[j-1]==suff[n-j-1]:
+            if pref[i-1]==pref[i-1]^pref[j-1]==suff[j]:
                 f=True; break
     
     if f:
