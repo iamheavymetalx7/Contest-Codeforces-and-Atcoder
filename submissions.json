@@ -9987,6 +9987,25 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206878367": {
+    "contest_id": 1616,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1616/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Representative Edges",
+    "problem_url": "https://codeforces.com/contest/1616/problem/C",
+    "submission_id": "CF206878367",
+    "submission_url": "https://codeforces.com/contest/1616/submission/206878367",
+    "tags": [
+      "brute force",
+      "geometry",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/23/2023 00:41"
+  },
   "CF206880365": {
     "contest_id": 1591,
     "language": "PyPy 3-64",
