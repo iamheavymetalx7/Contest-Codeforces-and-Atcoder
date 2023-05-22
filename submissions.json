@@ -9987,6 +9987,23 @@
     ],
     "timestamp": "May/07/2023 00:20"
   },
+  "CF206847238": {
+    "contest_id": 1075,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1075/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Taxi drivers and Lyft",
+    "problem_url": "https://codeforces.com/contest/1075/problem/B",
+    "submission_id": "CF206847238",
+    "submission_url": "https://codeforces.com/contest/1075/submission/206847238",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/22/2023 19:34"
+  },
   "CF206878367": {
     "contest_id": 1616,
     "language": "PyPy 3-64",
