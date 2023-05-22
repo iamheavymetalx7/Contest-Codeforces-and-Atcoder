@@ -9986,5 +9986,22 @@
       "math"
     ],
     "timestamp": "May/07/2023 00:20"
+  },
+  "CF206880365": {
+    "contest_id": 1591,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1591/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimize Distance",
+    "problem_url": "https://codeforces.com/contest/1591/problem/C",
+    "submission_id": "CF206880365",
+    "submission_url": "https://codeforces.com/contest/1591/submission/206880365",
+    "tags": [
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/23/2023 01:13"
   }
 }
