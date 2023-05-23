@@ -10980,6 +10980,25 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF206983633": {
+    "contest_id": 1517,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1517/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fillomino 2",
+    "problem_url": "https://codeforces.com/contest/1517/problem/C",
+    "submission_id": "CF206983633",
+    "submission_url": "https://codeforces.com/contest/1517/submission/206983633",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/24/2023 00:40"
+  },
   "CF206987333": {
     "contest_id": 1561,
     "language": "PyPy 3-64",
