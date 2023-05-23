@@ -10980,6 +10980,24 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF206987333": {
+    "contest_id": 1561,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1561/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Deep Down Below",
+    "problem_url": "https://codeforces.com/contest/1561/problem/C",
+    "submission_id": "CF206987333",
+    "submission_url": "https://codeforces.com/contest/1561/submission/206987333",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "May/24/2023 01:43"
+  },
   "CF207056467": {
     "contest_id": 1427,
     "language": "PyPy 3-64",
