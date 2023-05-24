@@ -10980,6 +10980,24 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207056467": {
+    "contest_id": 1427,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1427/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chess Cheater",
+    "problem_url": "https://codeforces.com/contest/1427/problem/B",
+    "submission_id": "CF207056467",
+    "submission_url": "https://codeforces.com/contest/1427/submission/207056467",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/24/2023 20:12"
+  },
   "CF207058720": {
     "contest_id": 1352,
     "language": "PyPy 3-64",
