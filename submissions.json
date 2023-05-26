@@ -10980,6 +10980,22 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207302951": {
+    "contest_id": 1837,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1837/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Grasshopper on a Line",
+    "problem_url": "https://codeforces.com/contest/1837/problem/A",
+    "submission_id": "CF207302951",
+    "submission_url": "https://codeforces.com/contest/1837/submission/207302951",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "May/26/2023 09:35"
+  },
   "CF207303371": {
     "contest_id": 1837,
     "language": "PyPy 3-64",
