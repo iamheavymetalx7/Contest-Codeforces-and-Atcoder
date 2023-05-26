@@ -10980,6 +10980,22 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207372788": {
+    "contest_id": 1837,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1837/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bracket Coloring",
+    "problem_url": "https://codeforces.com/contest/1837/problem/D",
+    "submission_id": "CF207372788",
+    "submission_url": "https://codeforces.com/contest/1837/submission/207372788",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "May/26/2023 20:49"
+  },
   "CF207546757": {
     "contest_id": 1451,
     "language": "PyPy 3-64",
