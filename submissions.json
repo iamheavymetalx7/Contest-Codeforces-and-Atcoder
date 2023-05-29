@@ -10980,6 +10980,21 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207699059": {
+    "contest_id": 1077,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1077/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Good Array",
+    "problem_url": "https://codeforces.com/contest/1077/problem/C",
+    "submission_id": "CF207699059",
+    "submission_url": "https://codeforces.com/contest/1077/submission/207699059",
+    "tags": [
+      "*1300"
+    ],
+    "timestamp": "May/29/2023 08:19"
+  },
   "CF207761276": {
     "contest_id": 920,
     "language": "PyPy 3-64",
