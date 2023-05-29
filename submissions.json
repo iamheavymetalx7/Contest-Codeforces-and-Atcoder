@@ -10980,6 +10980,26 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207761276": {
+    "contest_id": 920,
+    "language": "PyPy 3-64",
+    "path": "codeforces/920/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Swap Adjacent Elements",
+    "problem_url": "https://codeforces.com/contest/920/problem/C",
+    "submission_id": "CF207761276",
+    "submission_url": "https://codeforces.com/contest/920/submission/207761276",
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "May/29/2023 18:56"
+  },
   "CF207811794": {
     "contest_id": 1487,
     "language": "PyPy 3-64",
