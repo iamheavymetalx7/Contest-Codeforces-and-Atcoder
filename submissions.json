@@ -10980,6 +10980,25 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207811794": {
+    "contest_id": 1487,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1487/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Pythagorean Triples",
+    "problem_url": "https://codeforces.com/contest/1487/problem/D",
+    "submission_id": "CF207811794",
+    "submission_url": "https://codeforces.com/contest/1487/submission/207811794",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "May/30/2023 09:14"
+  },
   "CF207812827": {
     "contest_id": 1536,
     "language": "PyPy 3-64",
