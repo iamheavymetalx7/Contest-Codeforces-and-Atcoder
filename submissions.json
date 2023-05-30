@@ -10980,6 +10980,26 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207841934": {
+    "contest_id": 1492,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1492/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Maximum width",
+    "problem_url": "https://codeforces.com/contest/1492/problem/C",
+    "submission_id": "CF207841934",
+    "submission_url": "https://codeforces.com/contest/1492/submission/207841934",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "May/30/2023 16:02"
+  },
   "CF207844813": {
     "contest_id": 1368,
     "language": "PyPy 3-64",
