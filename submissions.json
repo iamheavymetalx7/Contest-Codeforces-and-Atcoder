@@ -10980,6 +10980,25 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207812827": {
+    "contest_id": 1536,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1536/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Diluc and Kaeya",
+    "problem_url": "https://codeforces.com/contest/1536/problem/C",
+    "submission_id": "CF207812827",
+    "submission_url": "https://codeforces.com/contest/1536/submission/207812827",
+    "tags": [
+      "data structures",
+      "dp",
+      "hashing",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "May/30/2023 09:34"
+  },
   "CF207823556": {
     "contest_id": 1443,
     "language": "PyPy 3-64",
