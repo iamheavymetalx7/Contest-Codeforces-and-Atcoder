@@ -121,7 +121,7 @@ def solve():
     a=[]
     for i in range(n):
         a.append([l[0][i],l[1][i]])
-    a.sort(key=lambda x:x[0],reverse=True)
+    a.sort(reverse=True)
     # print(a)
     ans=0
 
@@ -279,4 +279,4 @@ if __name__ == "__main__":
     main()
     #dmain()
 
-# Comment Read()re
+# Comment Read()

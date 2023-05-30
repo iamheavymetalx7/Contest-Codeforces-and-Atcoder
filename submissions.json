@@ -10980,6 +10980,24 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207823556": {
+    "contest_id": 1443,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1443/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Delivery Dilemma",
+    "problem_url": "https://codeforces.com/contest/1443/problem/C",
+    "submission_id": "CF207823556",
+    "submission_url": "https://codeforces.com/contest/1443/submission/207823556",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/30/2023 12:22"
+  },
   "CF207823628": {
     "contest_id": 1443,
     "language": "PyPy 3-64",
