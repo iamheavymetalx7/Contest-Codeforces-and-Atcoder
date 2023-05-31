@@ -10980,6 +10980,26 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207973676": {
+    "contest_id": 1632,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1632/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Strange Test",
+    "problem_url": "https://codeforces.com/contest/1632/problem/C",
+    "submission_id": "CF207973676",
+    "submission_url": "https://codeforces.com/contest/1632/submission/207973676",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "dp",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/31/2023 20:04"
+  },
   "CF207985703": {
     "contest_id": 1622,
     "language": "PyPy 3-64",
