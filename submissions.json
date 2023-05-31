@@ -10980,6 +10980,25 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF207985703": {
+    "contest_id": 1622,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1622/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Set or Decrease",
+    "problem_url": "https://codeforces.com/contest/1622/problem/C",
+    "submission_id": "CF207985703",
+    "submission_url": "https://codeforces.com/contest/1622/submission/207985703",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/31/2023 22:27"
+  },
   "CF208011121": {
     "contest_id": 1555,
     "language": "PyPy 3-64",
