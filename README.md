@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-566 | [B - Orac and Models](https://codeforces.com/contest/1350/problem/B) | [PyPy 3-64](./codeforces/1350/B.py) | `dp` `math` `number theory` `*1400` | Jun/04/2023 19:15 | 
-565 | [C - Complex Market Analysis](https://codeforces.com/contest/1609/problem/C) | [PyPy 3-64](./codeforces/1609/C.py) | `binary search` `dp` `implementation` `number theory` `schedules` `two pointers` `*1400` | Jun/04/2023 16:58 | 
-564 | [C - Copil Copac Draws Trees](https://codeforces.com/contest/1831/problem/C) | [PyPy 3-64](./codeforces/1831/C.py) | `dfs and similar` `dp` `graphs` `trees` | Jun/04/2023 13:38 | 
+567 | [B - Orac and Models](https://codeforces.com/contest/1350/problem/B) | [PyPy 3-64](./codeforces/1350/B.py) | `dp` `math` `number theory` `*1400` | Jun/04/2023 19:15 | 
+566 | [C - Complex Market Analysis](https://codeforces.com/contest/1609/problem/C) | [PyPy 3-64](./codeforces/1609/C.py) | `binary search` `dp` `implementation` `number theory` `schedules` `two pointers` `*1400` | Jun/04/2023 16:58 | 
+565 | [C - Copil Copac Draws Trees](https://codeforces.com/contest/1831/problem/C) | [PyPy 3-64](./codeforces/1831/C.py) | `dfs and similar` `dp` `graphs` `trees` | Jun/04/2023 13:38 | 
+564 | [C - Insert Zero and Invert Prefix](https://codeforces.com/contest/1839/problem/C) | [PyPy 3-64](./codeforces/1839/C.py) | `constructive algorithms` `greedy` | Jun/03/2023 23:55 | 
 563 | [C - Minimize Distance](https://codeforces.com/contest/1591/problem/C) | [PyPy 3-64](./codeforces/1591/C.py) | `greedy` `math` `*1300` | May/23/2023 01:13 | 
 562 | [C - Representative Edges](https://codeforces.com/contest/1616/problem/C) | [PyPy 3-64](./codeforces/1616/C.py) | `brute force` `geometry` `implementation` `math` `*1500` | May/23/2023 00:41 | 
 561 | [B - Taxi drivers and Lyft](https://codeforces.com/contest/1075/problem/B) | [PyPy 3-64](./codeforces/1075/B.py) | `implementation` `sortings` `*1200` | May/22/2023 19:34 | 
