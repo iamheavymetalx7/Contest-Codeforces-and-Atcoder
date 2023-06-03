@@ -10980,6 +10980,25 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF208262734": {
+    "contest_id": 1369,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1369/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "RationalLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/C",
+    "submission_id": "CF208262734",
+    "submission_url": "https://codeforces.com/contest/1369/submission/208262734",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Jun/03/2023 12:12"
+  },
   "CF208268579": {
     "contest_id": 1551,
     "language": "PyPy 3-64",
