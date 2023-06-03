@@ -10980,6 +10980,24 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF208268579": {
+    "contest_id": 1551,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1551/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Interesting Story",
+    "problem_url": "https://codeforces.com/contest/1551/problem/C",
+    "submission_id": "CF208268579",
+    "submission_url": "https://codeforces.com/contest/1551/submission/208268579",
+    "tags": [
+      "greedy",
+      "sortings",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Jun/03/2023 13:22"
+  },
   "CF208275482": {
     "contest_id": 1372,
     "language": "PyPy 3-64",
