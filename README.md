@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-572 | [B - Orac and Models](https://codeforces.com/contest/1350/problem/B) | [PyPy 3-64](./codeforces/1350/B.py) | `dp` `math` `number theory` `*1400` | Jun/04/2023 19:15 | 
-571 | [C - Complex Market Analysis](https://codeforces.com/contest/1609/problem/C) | [PyPy 3-64](./codeforces/1609/C.py) | `binary search` `dp` `implementation` `number theory` `schedules` `two pointers` `*1400` | Jun/04/2023 16:58 | 
-570 | [C - Copil Copac Draws Trees](https://codeforces.com/contest/1831/problem/C) | [PyPy 3-64](./codeforces/1831/C.py) | `dfs and similar` `dp` `graphs` `trees` | Jun/04/2023 13:38 | 
-569 | [C - Insert Zero and Invert Prefix](https://codeforces.com/contest/1839/problem/C) | [PyPy 3-64](./codeforces/1839/C.py) | `constructive algorithms` `greedy` | Jun/03/2023 23:55 | 
-568 | [B - Lamps](https://codeforces.com/contest/1839/problem/B) | [PyPy 3-64](./codeforces/1839/B.py) | `data structures` `greedy` `sortings` `two pointers` | Jun/03/2023 20:52 | 
-567 | [A - The Good Array](https://codeforces.com/contest/1839/problem/A) | [PyPy 3-64](./codeforces/1839/A.py) | `greedy` `math` | Jun/03/2023 20:19 | 
-566 | [C - Omkar and Baseball](https://codeforces.com/contest/1372/problem/C) | [PyPy 3-64](./codeforces/1372/C.py) | `constructive algorithms` `math` `*1500` | Jun/03/2023 14:37 | 
-565 | [C - Interesting Story](https://codeforces.com/contest/1551/problem/C) | [PyPy 3-64](./codeforces/1551/C.py) | `greedy` `sortings` `strings` `*1500` | Jun/03/2023 13:22 | 
-564 | [C - RationalLee](https://codeforces.com/contest/1369/problem/C) | [PyPy 3-64](./codeforces/1369/C.py) | `greedy` `math` `sortings` `two pointers` `*1400` | Jun/03/2023 12:12 | 
+573 | [B - Orac and Models](https://codeforces.com/contest/1350/problem/B) | [PyPy 3-64](./codeforces/1350/B.py) | `dp` `math` `number theory` `*1400` | Jun/04/2023 19:15 | 
+572 | [C - Complex Market Analysis](https://codeforces.com/contest/1609/problem/C) | [PyPy 3-64](./codeforces/1609/C.py) | `binary search` `dp` `implementation` `number theory` `schedules` `two pointers` `*1400` | Jun/04/2023 16:58 | 
+571 | [C - Copil Copac Draws Trees](https://codeforces.com/contest/1831/problem/C) | [PyPy 3-64](./codeforces/1831/C.py) | `dfs and similar` `dp` `graphs` `trees` | Jun/04/2023 13:38 | 
+570 | [C - Insert Zero and Invert Prefix](https://codeforces.com/contest/1839/problem/C) | [PyPy 3-64](./codeforces/1839/C.py) | `constructive algorithms` `greedy` | Jun/03/2023 23:55 | 
+569 | [B - Lamps](https://codeforces.com/contest/1839/problem/B) | [PyPy 3-64](./codeforces/1839/B.py) | `data structures` `greedy` `sortings` `two pointers` | Jun/03/2023 20:52 | 
+568 | [A - The Good Array](https://codeforces.com/contest/1839/problem/A) | [PyPy 3-64](./codeforces/1839/A.py) | `greedy` `math` | Jun/03/2023 20:19 | 
+567 | [C - Omkar and Baseball](https://codeforces.com/contest/1372/problem/C) | [PyPy 3-64](./codeforces/1372/C.py) | `constructive algorithms` `math` `*1500` | Jun/03/2023 14:37 | 
+566 | [C - Interesting Story](https://codeforces.com/contest/1551/problem/C) | [PyPy 3-64](./codeforces/1551/C.py) | `greedy` `sortings` `strings` `*1500` | Jun/03/2023 13:22 | 
+565 | [C - RationalLee](https://codeforces.com/contest/1369/problem/C) | [PyPy 3-64](./codeforces/1369/C.py) | `greedy` `math` `sortings` `two pointers` `*1400` | Jun/03/2023 12:12 | 
+564 | [B - Applejack and Storages](https://codeforces.com/contest/1393/problem/B) | [PyPy 3-64](./codeforces/1393/B.py) | `constructive algorithms` `data structures` `greedy` `implementation` `*1400` | Jun/03/2023 11:02 | 
 563 | [C - Minimize Distance](https://codeforces.com/contest/1591/problem/C) | [PyPy 3-64](./codeforces/1591/C.py) | `greedy` `math` `*1300` | May/23/2023 01:13 | 
 562 | [C - Representative Edges](https://codeforces.com/contest/1616/problem/C) | [PyPy 3-64](./codeforces/1616/C.py) | `brute force` `geometry` `implementation` `math` `*1500` | May/23/2023 00:41 | 
 561 | [B - Taxi drivers and Lyft](https://codeforces.com/contest/1075/problem/B) | [PyPy 3-64](./codeforces/1075/B.py) | `implementation` `sortings` `*1200` | May/22/2023 19:34 | 
