@@ -11887,6 +11887,24 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF208499241": {
+    "contest_id": 1838,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1838/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "No Prime Differences",
+    "problem_url": "https://codeforces.com/contest/1838/problem/C",
+    "submission_id": "CF208499241",
+    "submission_url": "https://codeforces.com/contest/1838/submission/208499241",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Jun/04/2023 21:50"
+  },
   "CF208565763": {
     "contest_id": 33,
     "language": "PyPy 3-64",
