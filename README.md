@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+564 | [B - Orac and Models](https://codeforces.com/contest/1350/problem/B) | [PyPy 3-64](./codeforces/1350/B.py) | `dp` `math` `number theory` `*1400` | Jun/04/2023 19:15 | 
 563 | [C - Minimize Distance](https://codeforces.com/contest/1591/problem/C) | [PyPy 3-64](./codeforces/1591/C.py) | `greedy` `math` `*1300` | May/23/2023 01:13 | 
 562 | [C - Representative Edges](https://codeforces.com/contest/1616/problem/C) | [PyPy 3-64](./codeforces/1616/C.py) | `brute force` `geometry` `implementation` `math` `*1500` | May/23/2023 00:41 | 
 561 | [B - Taxi drivers and Lyft](https://codeforces.com/contest/1075/problem/B) | [PyPy 3-64](./codeforces/1075/B.py) | `implementation` `sortings` `*1200` | May/22/2023 19:34 | 
