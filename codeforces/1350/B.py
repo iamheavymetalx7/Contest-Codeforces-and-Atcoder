@@ -134,7 +134,7 @@ def solve():
         
         dp[idx]=count
 
-        return count
+        return dp[idx]
 
     ans=1
 
