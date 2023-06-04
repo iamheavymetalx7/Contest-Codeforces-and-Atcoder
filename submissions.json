@@ -11887,6 +11887,23 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF208483455": {
+    "contest_id": 1838,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1838/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minimize Permutation Subarrays",
+    "problem_url": "https://codeforces.com/contest/1838/problem/B",
+    "submission_id": "CF208483455",
+    "submission_url": "https://codeforces.com/contest/1838/submission/208483455",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/04/2023 21:17"
+  },
   "CF208499241": {
     "contest_id": 1838,
     "language": "PyPy 3-64",
