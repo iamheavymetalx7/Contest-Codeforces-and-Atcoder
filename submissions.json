@@ -10980,6 +10980,27 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF208418401": {
+    "contest_id": 1609,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1609/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Complex Market Analysis",
+    "problem_url": "https://codeforces.com/contest/1609/problem/C",
+    "submission_id": "CF208418401",
+    "submission_url": "https://codeforces.com/contest/1609/submission/208418401",
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "number theory",
+      "schedules",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Jun/04/2023 16:58"
+  },
   "CF208430297": {
     "contest_id": 1350,
     "language": "PyPy 3-64",
