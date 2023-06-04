@@ -10980,6 +10980,24 @@
     ],
     "timestamp": "May/23/2023 01:13"
   },
+  "CF208399322": {
+    "contest_id": 1831,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1831/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Copil Copac Draws Trees",
+    "problem_url": "https://codeforces.com/contest/1831/problem/C",
+    "submission_id": "CF208399322",
+    "submission_url": "https://codeforces.com/contest/1831/submission/208399322",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees"
+    ],
+    "timestamp": "Jun/04/2023 13:38"
+  },
   "CF208418401": {
     "contest_id": 1609,
     "language": "PyPy 3-64",
