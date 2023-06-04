@@ -109,7 +109,7 @@ def tr(n):
         
 from collections import Counter, defaultdict, deque
 
-
+from functools import cache
 def solve():
     import sys
     input =sys.stdin.buffer.readline
@@ -117,14 +117,11 @@ def solve():
     n=ii()
     a=[0]+lmii()
 
-    dp=[-1]*(n+1)
 
+    @cache
     def recur(idx):
         if idx>n+1:
             return 0
-
-        if dp[idx]!=-1:
-            return dp[idx]
 
         count = 0
     
@@ -132,9 +129,8 @@ def solve():
             if a[i]>a[idx]:
                 count = max(count,1+recur(i))
         
-        dp[idx]=count
 
-        return dp[idx]
+        return count
 
     ans=1
 
@@ -293,4 +289,4 @@ if __name__ == "__main__":
     main()
     #dmain()
 
-# Comment Read()
+# Comment Read()a

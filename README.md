@@ -41,7 +41,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 614 | [C - No Prime Differences](https://codeforces.com/contest/1838/problem/C) | [PyPy 3-64](./codeforces/1838/C.py) | `constructive algorithms` `math` `number theory` `*1400` | Jun/04/2023 21:50 | 
 613 | [B - Minimize Permutation Subarrays](https://codeforces.com/contest/1838/problem/B) | [PyPy 3-64](./codeforces/1838/B.py) | `constructive algorithms` `math` `*1100` | Jun/04/2023 21:17 | 
 612 | [A - Blackboard List](https://codeforces.com/contest/1838/problem/A) | [PyPy 3-64](./codeforces/1838/A.py) | `constructive algorithms` `math` `*800` | Jun/04/2023 20:19 | 
-611 | [B - Orac and Models](https://codeforces.com/contest/1350/problem/B) | [PyPy 3-64](./codeforces/1350/B.py) | `dp` `math` `number theory` `*1400` | Jun/04/2023 19:15 | 
+611 | [B - Orac and Models](https://codeforces.com/contest/1350/problem/B) | [PyPy 3-64](./codeforces/1350/B.py) | `dp` `math` `number theory` `*1400` | Jun/04/2023 19:36 | 
 610 | [C - Complex Market Analysis](https://codeforces.com/contest/1609/problem/C) | [PyPy 3-64](./codeforces/1609/C.py) | `binary search` `dp` `implementation` `number theory` `schedules` `two pointers` `*1400` | Jun/04/2023 16:58 | 
 609 | [C - Copil Copac Draws Trees](https://codeforces.com/contest/1831/problem/C) | [PyPy 3-64](./codeforces/1831/C.py) | `dfs and similar` `dp` `graphs` `trees` | Jun/04/2023 13:38 | 
 608 | [C - Insert Zero and Invert Prefix](https://codeforces.com/contest/1839/problem/C) | [PyPy 3-64](./codeforces/1839/C.py) | `constructive algorithms` `greedy` | Jun/03/2023 23:55 | 
