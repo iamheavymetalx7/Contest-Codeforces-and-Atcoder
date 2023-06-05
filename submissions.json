@@ -11887,6 +11887,23 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF208565763": {
+    "contest_id": 33,
+    "language": "PyPy 3-64",
+    "path": "codeforces/33/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "What is for dinner?",
+    "problem_url": "https://codeforces.com/contest/33/problem/A",
+    "submission_id": "CF208565763",
+    "submission_url": "https://codeforces.com/contest/33/submission/208565763",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jun/05/2023 13:38"
+  },
   "CF208566663": {
     "contest_id": 26,
     "language": "PyPy 3-64",
