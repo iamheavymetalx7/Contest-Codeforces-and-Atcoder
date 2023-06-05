@@ -11887,6 +11887,24 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF208571380": {
+    "contest_id": 821,
+    "language": "PyPy 3-64",
+    "path": "codeforces/821/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Okabe and Boxes",
+    "problem_url": "https://codeforces.com/contest/821/problem/C",
+    "submission_id": "CF208571380",
+    "submission_url": "https://codeforces.com/contest/821/submission/208571380",
+    "tags": [
+      "data structures",
+      "greedy",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Jun/05/2023 14:41"
+  },
   "CF208645898": {
     "contest_id": 1453,
     "language": "PyPy 3-64",
