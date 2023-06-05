@@ -120,23 +120,21 @@ def solve():
     ans=0
     for x in range(2*n):
         s=si()
-        # print(curr,x)
+        # print(s)
         if s[0]=="a":
             ele = int(s[4:])
             st.append(ele)
             rem=0
         else:
-            # print(st)
-            # print(s,"here")
             if st:
                 if st[-1]==curr:
                     st.pop()
                 else:
-                    st=[]
                     ans+=1
+                    st=[]
+
 
             curr+=1
-
     print(ans)
 
 
