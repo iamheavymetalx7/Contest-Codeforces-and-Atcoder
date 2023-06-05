@@ -11887,6 +11887,22 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF208566663": {
+    "contest_id": 26,
+    "language": "PyPy 3-64",
+    "path": "codeforces/26/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Regular Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/26/problem/B",
+    "submission_id": "CF208566663",
+    "submission_url": "https://codeforces.com/contest/26/submission/208566663",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Jun/05/2023 13:48"
+  },
   "CF208570043": {
     "contest_id": 821,
     "language": "PyPy 3-64",
