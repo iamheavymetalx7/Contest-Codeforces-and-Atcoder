@@ -11887,6 +11887,23 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF208719091": {
+    "contest_id": 1409,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1409/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Decrease the Sum of Digits",
+    "problem_url": "https://codeforces.com/contest/1409/problem/D",
+    "submission_id": "CF208719091",
+    "submission_url": "https://codeforces.com/contest/1409/submission/208719091",
+    "tags": [
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jun/06/2023 19:57"
+  },
   "CF208813116": {
     "contest_id": 1840,
     "language": "PyPy 3-64",
