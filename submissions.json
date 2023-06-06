@@ -11887,6 +11887,24 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF208816355": {
+    "contest_id": 1840,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1840/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ski Resort",
+    "problem_url": "https://codeforces.com/contest/1840/problem/C",
+    "submission_id": "CF208816355",
+    "submission_url": "https://codeforces.com/contest/1840/submission/208816355",
+    "tags": [
+      "combinatorics",
+      "math",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "Jun/06/2023 22:41"
+  },
   "CF208817591": {
     "contest_id": 1840,
     "language": "PyPy 3-64",
