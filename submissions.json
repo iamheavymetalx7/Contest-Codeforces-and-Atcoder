@@ -11887,6 +11887,24 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF208714401": {
+    "contest_id": 1215,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1215/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Number of Products",
+    "problem_url": "https://codeforces.com/contest/1215/problem/B",
+    "submission_id": "CF208714401",
+    "submission_url": "https://codeforces.com/contest/1215/submission/208714401",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jun/06/2023 19:08"
+  },
   "CF208719091": {
     "contest_id": 1409,
     "language": "PyPy 3-64",
