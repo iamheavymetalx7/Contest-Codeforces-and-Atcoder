@@ -11887,6 +11887,24 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF208828361": {
+    "contest_id": 1840,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1840/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Binary Cafe",
+    "problem_url": "https://codeforces.com/contest/1840/problem/B",
+    "submission_id": "CF208828361",
+    "submission_url": "https://codeforces.com/contest/1840/submission/208828361",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/07/2023 00:37"
+  },
   "CF208846407": {
     "contest_id": 1840,
     "language": "PyPy 3-64",
