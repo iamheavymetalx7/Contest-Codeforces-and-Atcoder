@@ -11887,6 +11887,24 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF208846407": {
+    "contest_id": 1840,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1840/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Wooden Toy Festival",
+    "problem_url": "https://codeforces.com/contest/1840/problem/D",
+    "submission_id": "CF208846407",
+    "submission_url": "https://codeforces.com/contest/1840/submission/208846407",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jun/07/2023 08:27"
+  },
   "CF209335606": {
     "contest_id": 690,
     "language": "PyPy 3-64",
