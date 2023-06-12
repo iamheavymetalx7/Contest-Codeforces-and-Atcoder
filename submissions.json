@@ -11887,6 +11887,24 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF209346547": {
+    "contest_id": 702,
+    "language": "PyPy 3-64",
+    "path": "codeforces/702/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cellular Network",
+    "problem_url": "https://codeforces.com/contest/702/problem/C",
+    "submission_id": "CF209346547",
+    "submission_url": "https://codeforces.com/contest/702/submission/209346547",
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jun/12/2023 12:28"
+  },
   "CF209512643": {
     "contest_id": 1841,
     "language": "PyPy 3-64",
