@@ -11887,6 +11887,21 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF209335606": {
+    "contest_id": 690,
+    "language": "PyPy 3-64",
+    "path": "codeforces/690/F1.py",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Tree of Life (easy)",
+    "problem_url": "https://codeforces.com/contest/690/problem/F1",
+    "submission_id": "CF209335606",
+    "submission_url": "https://codeforces.com/contest/690/submission/209335606",
+    "tags": [
+      "*1300"
+    ],
+    "timestamp": "Jun/12/2023 09:09"
+  },
   "CF209346547": {
     "contest_id": 702,
     "language": "PyPy 3-64",
