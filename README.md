@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-621 | [B - Help Chef Gerasim](https://codeforces.com/contest/99/problem/B) | [PyPy 3-64](./codeforces/99/B.py) | `implementation` `sortings` `*1300` | Jun/15/2023 15:02 | 
-620 | [A - Friends or Not](https://codeforces.com/contest/159/problem/A) | [PyPy 3-64](./codeforces/159/A.py) | `*special problem` `greedy` `implementation` `*1400` | Jun/15/2023 14:18 | 
-619 | [C - Photographer](https://codeforces.com/contest/203/problem/C) | [PyPy 3-64](./codeforces/203/C.py) | `greedy` `sortings` `*1400` | Jun/15/2023 13:47 | 
-618 | [B - Chat Order](https://codeforces.com/contest/637/problem/B) | [PyPy 3-64](./codeforces/637/B.py) | `*special problem` `binary search` `constructive algorithms` `data structures` `sortings` `*1200` | Jun/15/2023 09:43 | 
-617 | [B - Far Relative’s Problem](https://codeforces.com/contest/629/problem/B) | [PyPy 3-64](./codeforces/629/B.py) | `brute force` `*1100` | Jun/14/2023 22:54 | 
-616 | [B - Sea and Islands](https://codeforces.com/contest/544/problem/B) | [PyPy 3-64](./codeforces/544/B.py) | `constructive algorithms` `implementation` `*1400` | Jun/14/2023 22:22 | 
-615 | [B - String Typing](https://codeforces.com/contest/954/problem/B) | [PyPy 3-64](./codeforces/954/B.py) | `implementation` `strings` `*1400` | Jun/14/2023 19:58 | 
-614 | [C - Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | [PyPy 3-64](./codeforces/1392/C.py) | `greedy` `implementation` `*1200` | Jun/14/2023 18:54 | 
-613 | [B - Soldier and Badges](https://codeforces.com/contest/546/problem/B) | [PyPy 3-64](./codeforces/546/B.py) | `brute force` `greedy` `implementation` `sortings` `*1200` | Jun/13/2023 19:40 | 
-612 | [C - Pearls in a Row](https://codeforces.com/contest/620/problem/C) | [PyPy 3-64](./codeforces/620/C.py) | `greedy` `*1500` | Jun/13/2023 19:07 | 
+622 | [B - Help Chef Gerasim](https://codeforces.com/contest/99/problem/B) | [PyPy 3-64](./codeforces/99/B.py) | `implementation` `sortings` `*1300` | Jun/15/2023 15:02 | 
+621 | [A - Friends or Not](https://codeforces.com/contest/159/problem/A) | [PyPy 3-64](./codeforces/159/A.py) | `*special problem` `greedy` `implementation` `*1400` | Jun/15/2023 14:18 | 
+620 | [C - Photographer](https://codeforces.com/contest/203/problem/C) | [PyPy 3-64](./codeforces/203/C.py) | `greedy` `sortings` `*1400` | Jun/15/2023 13:47 | 
+619 | [B - Chat Order](https://codeforces.com/contest/637/problem/B) | [PyPy 3-64](./codeforces/637/B.py) | `*special problem` `binary search` `constructive algorithms` `data structures` `sortings` `*1200` | Jun/15/2023 09:43 | 
+618 | [B - Far Relative’s Problem](https://codeforces.com/contest/629/problem/B) | [PyPy 3-64](./codeforces/629/B.py) | `brute force` `*1100` | Jun/14/2023 22:54 | 
+617 | [B - Sea and Islands](https://codeforces.com/contest/544/problem/B) | [PyPy 3-64](./codeforces/544/B.py) | `constructive algorithms` `implementation` `*1400` | Jun/14/2023 22:22 | 
+616 | [B - String Typing](https://codeforces.com/contest/954/problem/B) | [PyPy 3-64](./codeforces/954/B.py) | `implementation` `strings` `*1400` | Jun/14/2023 19:58 | 
+615 | [C - Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | [PyPy 3-64](./codeforces/1392/C.py) | `greedy` `implementation` `*1200` | Jun/14/2023 18:54 | 
+614 | [B - Soldier and Badges](https://codeforces.com/contest/546/problem/B) | [PyPy 3-64](./codeforces/546/B.py) | `brute force` `greedy` `implementation` `sortings` `*1200` | Jun/13/2023 19:40 | 
+613 | [C - Pearls in a Row](https://codeforces.com/contest/620/problem/C) | [PyPy 3-64](./codeforces/620/C.py) | `greedy` `*1500` | Jun/13/2023 19:07 | 
+612 | [C - Ranom Numbers](https://codeforces.com/contest/1841/problem/C) | [PyPy 3-64](./codeforces/1841/C.py) | `brute force` `dp` `greedy` `math` `strings` `*1800` | Jun/13/2023 12:01 | 
 611 | [B - Orac and Models](https://codeforces.com/contest/1350/problem/B) | [PyPy 3-64](./codeforces/1350/B.py) | `dp` `math` `number theory` `*1400` | Jun/04/2023 19:15 | 
 610 | [C - Complex Market Analysis](https://codeforces.com/contest/1609/problem/C) | [PyPy 3-64](./codeforces/1609/C.py) | `binary search` `dp` `implementation` `number theory` `schedules` `two pointers` `*1400` | Jun/04/2023 16:58 | 
 609 | [C - Copil Copac Draws Trees](https://codeforces.com/contest/1831/problem/C) | [PyPy 3-64](./codeforces/1831/C.py) | `dfs and similar` `dp` `graphs` `trees` | Jun/04/2023 13:38 | 
