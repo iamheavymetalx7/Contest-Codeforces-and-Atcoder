@@ -11887,6 +11887,22 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF209570350": {
+    "contest_id": 620,
+    "language": "PyPy 3-64",
+    "path": "codeforces/620/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pearls in a Row",
+    "problem_url": "https://codeforces.com/contest/620/problem/C",
+    "submission_id": "CF209570350",
+    "submission_url": "https://codeforces.com/contest/620/submission/209570350",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Jun/13/2023 19:07"
+  },
   "CF209573587": {
     "contest_id": 546,
     "language": "PyPy 3-64",
