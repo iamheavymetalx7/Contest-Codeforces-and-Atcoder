@@ -119,7 +119,7 @@ def solve():
 
     ans=[]
     ans.append(qu[0])
-    res= [0]*(q)
+    res= [0]*q
     res[0]=1
     f=True
 
@@ -131,14 +131,14 @@ def solve():
         
         elif ans[0]>=ele and  f:
             ans.append(ele)
-            f=False
             res[i]=1
+            f=False
             mini = min(mini,ele)
 
         elif ele>=mini and ele<=ans[0] and ele>=ans[-1] and not f:
             ans+=[ele]
             res[i]=1
-   
+
     print(*res,sep="")
 
     
