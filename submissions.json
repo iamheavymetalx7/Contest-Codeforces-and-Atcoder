@@ -11887,6 +11887,23 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF209688201": {
+    "contest_id": 544,
+    "language": "PyPy 3-64",
+    "path": "codeforces/544/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sea and Islands",
+    "problem_url": "https://codeforces.com/contest/544/problem/B",
+    "submission_id": "CF209688201",
+    "submission_url": "https://codeforces.com/contest/544/submission/209688201",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jun/14/2023 22:22"
+  },
   "CF209690889": {
     "contest_id": 629,
     "language": "PyPy 3-64",
