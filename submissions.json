@@ -11887,6 +11887,22 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF209690889": {
+    "contest_id": 629,
+    "language": "PyPy 3-64",
+    "path": "codeforces/629/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Far Relative\u2019s Problem",
+    "problem_url": "https://codeforces.com/contest/629/problem/B",
+    "submission_id": "CF209690889",
+    "submission_url": "https://codeforces.com/contest/629/submission/209690889",
+    "tags": [
+      "brute force",
+      "*1100"
+    ],
+    "timestamp": "Jun/14/2023 22:54"
+  },
   "CF209718434": {
     "contest_id": 637,
     "language": "PyPy 3-64",
