@@ -11887,6 +11887,23 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF209675857": {
+    "contest_id": 954,
+    "language": "PyPy 3-64",
+    "path": "codeforces/954/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "String Typing",
+    "problem_url": "https://codeforces.com/contest/954/problem/B",
+    "submission_id": "CF209675857",
+    "submission_url": "https://codeforces.com/contest/954/submission/209675857",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Jun/14/2023 19:58"
+  },
   "CF209688201": {
     "contest_id": 544,
     "language": "PyPy 3-64",
