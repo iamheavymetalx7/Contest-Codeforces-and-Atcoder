@@ -11887,6 +11887,24 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF209740376": {
+    "contest_id": 159,
+    "language": "PyPy 3-64",
+    "path": "codeforces/159/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Friends or Not",
+    "problem_url": "https://codeforces.com/contest/159/problem/A",
+    "submission_id": "CF209740376",
+    "submission_url": "https://codeforces.com/contest/159/submission/209740376",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jun/15/2023 14:18"
+  },
   "CF209745024": {
     "contest_id": 99,
     "language": "PyPy 3-64",
