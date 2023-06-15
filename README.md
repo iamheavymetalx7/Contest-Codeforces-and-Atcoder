@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+612 | [B - Help Chef Gerasim](https://codeforces.com/contest/99/problem/B) | [PyPy 3-64](./codeforces/99/B.py) | `implementation` `sortings` `*1300` | Jun/15/2023 15:02 | 
 611 | [B - Orac and Models](https://codeforces.com/contest/1350/problem/B) | [PyPy 3-64](./codeforces/1350/B.py) | `dp` `math` `number theory` `*1400` | Jun/04/2023 19:15 | 
 610 | [C - Complex Market Analysis](https://codeforces.com/contest/1609/problem/C) | [PyPy 3-64](./codeforces/1609/C.py) | `binary search` `dp` `implementation` `number theory` `schedules` `two pointers` `*1400` | Jun/04/2023 16:58 | 
 609 | [C - Copil Copac Draws Trees](https://codeforces.com/contest/1831/problem/C) | [PyPy 3-64](./codeforces/1831/C.py) | `dfs and similar` `dp` `graphs` `trees` | Jun/04/2023 13:38 | 

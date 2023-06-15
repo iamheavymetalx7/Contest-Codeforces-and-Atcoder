@@ -11886,5 +11886,22 @@
       "*1400"
     ],
     "timestamp": "Jun/04/2023 19:15"
+  },
+  "CF209745024": {
+    "contest_id": 99,
+    "language": "PyPy 3-64",
+    "path": "codeforces/99/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Help Chef Gerasim",
+    "problem_url": "https://codeforces.com/contest/99/problem/B",
+    "submission_id": "CF209745024",
+    "submission_url": "https://codeforces.com/contest/99/submission/209745024",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jun/15/2023 15:02"
   }
 }
