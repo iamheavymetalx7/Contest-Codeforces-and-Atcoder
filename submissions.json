@@ -11887,6 +11887,23 @@
     ],
     "timestamp": "Jun/04/2023 19:15"
   },
+  "CF209736959": {
+    "contest_id": 203,
+    "language": "PyPy 3-64",
+    "path": "codeforces/203/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Photographer",
+    "problem_url": "https://codeforces.com/contest/203/problem/C",
+    "submission_id": "CF209736959",
+    "submission_url": "https://codeforces.com/contest/203/submission/209736959",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jun/15/2023 13:47"
+  },
   "CF209740376": {
     "contest_id": 159,
     "language": "PyPy 3-64",
