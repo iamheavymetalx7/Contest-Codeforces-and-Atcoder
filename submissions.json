@@ -12444,6 +12444,27 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF209966058": {
+    "contest_id": 1560,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1560/F1.py",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Nearest Beautiful Number (easy version)",
+    "problem_url": "https://codeforces.com/contest/1560/problem/F1",
+    "submission_id": "CF209966058",
+    "submission_url": "https://codeforces.com/contest/1560/submission/209966058",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Jun/17/2023 19:11"
+  },
   "CF210086382": {
     "contest_id": 1834,
     "language": "PyPy 3-64",
