@@ -13,31 +13,32 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-663 | [G - Garage](https://codeforces.com/contest/1725/problem/G) | [PyPy 3-64](./codeforces/1725/G.py) | `binary search` `geometry` `math` `*1500` | Jul/04/2023 19:02 | 
-662 | [C - Increase Subarray Sums](https://codeforces.com/contest/1644/problem/C) | [PyPy 3-64](./codeforces/1644/C.py) | `brute force` `dp` `greedy` `implementation` `*1400` | Jul/04/2023 18:46 | 
-661 | [C - Schedule Management](https://codeforces.com/contest/1701/problem/C) | [PyPy 3-64](./codeforces/1701/C.py) | `binary search` `greedy` `implementation` `two pointers` `*1400` | Jul/04/2023 14:57 | 
-660 | [C - Get an Even String](https://codeforces.com/contest/1660/problem/C) | [PyPy 3-64](./codeforces/1660/C.py) | `dp` `greedy` `strings` `*1300` | Jul/04/2023 13:13 | 
-659 | [C - 3SUM Closure](https://codeforces.com/contest/1698/problem/C) | [PyPy 3-64](./codeforces/1698/C.py) | `brute force` `data structures` `*1300` | Jul/04/2023 12:21 | 
-658 | [D - Playoff](https://codeforces.com/contest/1767/problem/D) | [PyPy 3-64](./codeforces/1767/D.py) | `combinatorics` `constructive algorithms` `dp` `greedy` `math` `*1500` | Jul/04/2023 00:11 | 
-657 | [E - Price Maximization](https://codeforces.com/contest/1690/problem/E) | [PyPy 3-64](./codeforces/1690/E.py) | `binary search` `greedy` `math` `two pointers` `*1500` | Jul/03/2023 19:38 | 
-656 | [C - Qpwoeirut And The City](https://codeforces.com/contest/1706/problem/C) | [PyPy 3-64](./codeforces/1706/C.py) | `dp` `flows` `greedy` `implementation` `*1400` | Jul/03/2023 01:06 | 
-655 | [C - Fighting Tournament](https://codeforces.com/contest/1719/problem/C) | [PyPy 3-64](./codeforces/1719/C.py) | `binary search` `data structures` `implementation` `two pointers` `*1400` | Jul/02/2023 22:27 | 
-654 | [C - Sum of Substrings](https://codeforces.com/contest/1691/problem/C) | [PyPy 3-64](./codeforces/1691/C.py) | `brute force` `constructive algorithms` `greedy` `math` `strings` `*1400` | Jul/02/2023 21:21 | 
-653 | [C - Bakry and Partitioning](https://codeforces.com/contest/1592/problem/C) | [PyPy 3-64](./codeforces/1592/C.py) | `bitmasks` `constructive algorithms` `dfs and similar` `dp` `graphs` `trees` `*1700` | Jun/29/2023 20:06 | 
-652 | [A - Metro](https://codeforces.com/contest/1055/problem/A) | [PyPy 3-64](./codeforces/1055/A.py) | `graphs` `*900` | Jun/29/2023 15:26 | 
-651 | [B - Polycarp Training](https://codeforces.com/contest/1165/problem/B) | [PyPy 3-64](./codeforces/1165/B.py) | `data structures` `greedy` `sortings` `*1000` | Jun/29/2023 15:13 | 
-650 | [A - Important Exam](https://codeforces.com/contest/1201/problem/A) | [PyPy 3-64](./codeforces/1201/A.py) | `implementation` `strings` `*900` | Jun/29/2023 15:05 | 
-649 | [B - Going to the Cinema](https://codeforces.com/contest/1781/problem/B) | [PyPy 3-64](./codeforces/1781/B.py) | `brute force` `greedy` `sortings` `*1000` | Jun/28/2023 18:46 | 
-648 | [D - Apple Tree](https://codeforces.com/contest/1843/problem/D) | [PyPy 3-64](./codeforces/1843/D.py) | `combinatorics` `dfs and similar` `dp` `math` `trees` `*1200` | Jun/22/2023 16:48 | 
-647 | [E - Tracking Segments](https://codeforces.com/contest/1843/problem/E) | [PyPy 3-64](./codeforces/1843/E.py) | `binary search` `brute force` `data structures` `two pointers` `*1600` | Jun/22/2023 10:14 | 
-646 | [C - Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | [PyPy 3-64](./codeforces/1843/C.py) | `bitmasks` `combinatorics` `math` `trees` `*800` | Jun/22/2023 08:55 | 
-645 | [B - Long Long](https://codeforces.com/contest/1843/problem/B) | [PyPy 3-64](./codeforces/1843/B.py) | `greedy` `math` `two pointers` `*800` | Jun/22/2023 08:52 | 
-644 | [A - Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | [PyPy 3-64](./codeforces/1843/A.py) | `greedy` `sortings` `two pointers` `*800` | Jun/22/2023 08:32 | 
-643 | [D - Survey in Class](https://codeforces.com/contest/1834/problem/D) | [PyPy 3-64](./codeforces/1834/D.py) | `brute force` `data structures` `greedy` `implementation` `sortings` `*1900` | Jun/20/2023 10:52 | 
-642 | [B - Astrophysicists](https://codeforces.com/contest/1836/problem/B) | [PyPy 3-64](./codeforces/1836/B.py) | `greedy` `math` `*1100` | Jun/19/2023 20:30 | 
-641 | [A - Destroyer](https://codeforces.com/contest/1836/problem/A) | [PyPy 3-64](./codeforces/1836/A.py) | `implementation` `sortings` `*800` | Jun/19/2023 19:29 | 
-640 | [A - Unit Array](https://codeforces.com/contest/1834/problem/A) | [PyPy 3-64](./codeforces/1834/A.py) | `greedy` `math` `*800` | Jun/18/2023 16:02 | 
-639 | [B - Maximum Strength](https://codeforces.com/contest/1834/problem/B) | [PyPy 3-64](./codeforces/1834/B.py) | `greedy` `math` `*1000` | Jun/18/2023 16:02 | 
+664 | [G - Garage](https://codeforces.com/contest/1725/problem/G) | [PyPy 3-64](./codeforces/1725/G.py) | `binary search` `geometry` `math` `*1500` | Jul/04/2023 19:02 | 
+663 | [C - Increase Subarray Sums](https://codeforces.com/contest/1644/problem/C) | [PyPy 3-64](./codeforces/1644/C.py) | `brute force` `dp` `greedy` `implementation` `*1400` | Jul/04/2023 18:46 | 
+662 | [C - Schedule Management](https://codeforces.com/contest/1701/problem/C) | [PyPy 3-64](./codeforces/1701/C.py) | `binary search` `greedy` `implementation` `two pointers` `*1400` | Jul/04/2023 14:57 | 
+661 | [C - Get an Even String](https://codeforces.com/contest/1660/problem/C) | [PyPy 3-64](./codeforces/1660/C.py) | `dp` `greedy` `strings` `*1300` | Jul/04/2023 13:13 | 
+660 | [C - 3SUM Closure](https://codeforces.com/contest/1698/problem/C) | [PyPy 3-64](./codeforces/1698/C.py) | `brute force` `data structures` `*1300` | Jul/04/2023 12:21 | 
+659 | [D - Playoff](https://codeforces.com/contest/1767/problem/D) | [PyPy 3-64](./codeforces/1767/D.py) | `combinatorics` `constructive algorithms` `dp` `greedy` `math` `*1500` | Jul/04/2023 00:11 | 
+658 | [E - Price Maximization](https://codeforces.com/contest/1690/problem/E) | [PyPy 3-64](./codeforces/1690/E.py) | `binary search` `greedy` `math` `two pointers` `*1500` | Jul/03/2023 19:38 | 
+657 | [C - Qpwoeirut And The City](https://codeforces.com/contest/1706/problem/C) | [PyPy 3-64](./codeforces/1706/C.py) | `dp` `flows` `greedy` `implementation` `*1400` | Jul/03/2023 01:06 | 
+656 | [C - Fighting Tournament](https://codeforces.com/contest/1719/problem/C) | [PyPy 3-64](./codeforces/1719/C.py) | `binary search` `data structures` `implementation` `two pointers` `*1400` | Jul/02/2023 22:27 | 
+655 | [C - Sum of Substrings](https://codeforces.com/contest/1691/problem/C) | [PyPy 3-64](./codeforces/1691/C.py) | `brute force` `constructive algorithms` `greedy` `math` `strings` `*1400` | Jul/02/2023 21:21 | 
+654 | [C - Bakry and Partitioning](https://codeforces.com/contest/1592/problem/C) | [PyPy 3-64](./codeforces/1592/C.py) | `bitmasks` `constructive algorithms` `dfs and similar` `dp` `graphs` `trees` `*1700` | Jun/29/2023 20:06 | 
+653 | [A - Metro](https://codeforces.com/contest/1055/problem/A) | [PyPy 3-64](./codeforces/1055/A.py) | `graphs` `*900` | Jun/29/2023 15:26 | 
+652 | [B - Polycarp Training](https://codeforces.com/contest/1165/problem/B) | [PyPy 3-64](./codeforces/1165/B.py) | `data structures` `greedy` `sortings` `*1000` | Jun/29/2023 15:13 | 
+651 | [A - Important Exam](https://codeforces.com/contest/1201/problem/A) | [PyPy 3-64](./codeforces/1201/A.py) | `implementation` `strings` `*900` | Jun/29/2023 15:05 | 
+650 | [B - Going to the Cinema](https://codeforces.com/contest/1781/problem/B) | [PyPy 3-64](./codeforces/1781/B.py) | `brute force` `greedy` `sortings` `*1000` | Jun/28/2023 18:46 | 
+649 | [D - Apple Tree](https://codeforces.com/contest/1843/problem/D) | [PyPy 3-64](./codeforces/1843/D.py) | `combinatorics` `dfs and similar` `dp` `math` `trees` `*1200` | Jun/22/2023 16:48 | 
+648 | [E - Tracking Segments](https://codeforces.com/contest/1843/problem/E) | [PyPy 3-64](./codeforces/1843/E.py) | `binary search` `brute force` `data structures` `two pointers` `*1600` | Jun/22/2023 10:14 | 
+647 | [C - Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | [PyPy 3-64](./codeforces/1843/C.py) | `bitmasks` `combinatorics` `math` `trees` `*800` | Jun/22/2023 08:55 | 
+646 | [B - Long Long](https://codeforces.com/contest/1843/problem/B) | [PyPy 3-64](./codeforces/1843/B.py) | `greedy` `math` `two pointers` `*800` | Jun/22/2023 08:52 | 
+645 | [A - Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | [PyPy 3-64](./codeforces/1843/A.py) | `greedy` `sortings` `two pointers` `*800` | Jun/22/2023 08:32 | 
+644 | [D - Survey in Class](https://codeforces.com/contest/1834/problem/D) | [PyPy 3-64](./codeforces/1834/D.py) | `brute force` `data structures` `greedy` `implementation` `sortings` `*1900` | Jun/20/2023 10:52 | 
+643 | [B - Astrophysicists](https://codeforces.com/contest/1836/problem/B) | [PyPy 3-64](./codeforces/1836/B.py) | `greedy` `math` `*1100` | Jun/19/2023 20:30 | 
+642 | [A - Destroyer](https://codeforces.com/contest/1836/problem/A) | [PyPy 3-64](./codeforces/1836/A.py) | `implementation` `sortings` `*800` | Jun/19/2023 19:29 | 
+641 | [A - Unit Array](https://codeforces.com/contest/1834/problem/A) | [PyPy 3-64](./codeforces/1834/A.py) | `greedy` `math` `*800` | Jun/18/2023 16:02 | 
+640 | [B - Maximum Strength](https://codeforces.com/contest/1834/problem/B) | [PyPy 3-64](./codeforces/1834/B.py) | `greedy` `math` `*1000` | Jun/18/2023 16:02 | 
+639 | [C - Game with Reversing](https://codeforces.com/contest/1834/problem/C) | [PyPy 3-64](./codeforces/1834/C.py) | `games` `greedy` `math` `strings` `*1200` | Jun/18/2023 16:02 | 
 638 | [B - Help Chef Gerasim](https://codeforces.com/contest/99/problem/B) | [PyPy 3-64](./codeforces/99/B.py) | `implementation` `sortings` `*1300` | Jun/15/2023 15:02 | 
 637 | [A - Friends or Not](https://codeforces.com/contest/159/problem/A) | [PyPy 3-64](./codeforces/159/A.py) | `*special problem` `greedy` `implementation` `*1400` | Jun/15/2023 14:18 | 
 636 | [C - Photographer](https://codeforces.com/contest/203/problem/C) | [PyPy 3-64](./codeforces/203/C.py) | `greedy` `sortings` `*1400` | Jun/15/2023 13:47 | 
