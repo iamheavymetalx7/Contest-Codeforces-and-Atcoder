@@ -12444,6 +12444,23 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF210086431": {
+    "contest_id": 1834,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1834/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Strength",
+    "problem_url": "https://codeforces.com/contest/1834/problem/B",
+    "submission_id": "CF210086431",
+    "submission_url": "https://codeforces.com/contest/1834/submission/210086431",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/18/2023 16:02"
+  },
   "CF210086473": {
     "contest_id": 1834,
     "language": "PyPy 3-64",
