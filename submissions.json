@@ -12444,6 +12444,23 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF210255372": {
+    "contest_id": 1836,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1836/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Astrophysicists",
+    "problem_url": "https://codeforces.com/contest/1836/problem/B",
+    "submission_id": "CF210255372",
+    "submission_url": "https://codeforces.com/contest/1836/submission/210255372",
+    "tags": [
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/19/2023 20:30"
+  },
   "CF210307321": {
     "contest_id": 1834,
     "language": "PyPy 3-64",
