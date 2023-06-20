@@ -12444,6 +12444,26 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF210307321": {
+    "contest_id": 1834,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1834/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Survey in Class",
+    "problem_url": "https://codeforces.com/contest/1834/problem/D",
+    "submission_id": "CF210307321",
+    "submission_url": "https://codeforces.com/contest/1834/submission/210307321",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Jun/20/2023 10:52"
+  },
   "CF210610624": {
     "contest_id": 1843,
     "language": "PyPy 3-64",
