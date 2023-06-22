@@ -12444,6 +12444,24 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF210610624": {
+    "contest_id": 1843,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1843/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sasha and Array Coloring",
+    "problem_url": "https://codeforces.com/contest/1843/problem/A",
+    "submission_id": "CF210610624",
+    "submission_url": "https://codeforces.com/contest/1843/submission/210610624",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Jun/22/2023 08:32"
+  },
   "CF210611659": {
     "contest_id": 1843,
     "language": "PyPy 3-64",
