@@ -12444,6 +12444,26 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF210647641": {
+    "contest_id": 1843,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1843/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Apple Tree",
+    "problem_url": "https://codeforces.com/contest/1843/problem/D",
+    "submission_id": "CF210647641",
+    "submission_url": "https://codeforces.com/contest/1843/submission/210647641",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees",
+      "*1200"
+    ],
+    "timestamp": "Jun/22/2023 16:48"
+  },
   "CF211342052": {
     "contest_id": 1781,
     "language": "PyPy 3-64",
