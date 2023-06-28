@@ -12444,6 +12444,24 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF211342052": {
+    "contest_id": 1781,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1781/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Going to the Cinema",
+    "problem_url": "https://codeforces.com/contest/1781/problem/B",
+    "submission_id": "CF211342052",
+    "submission_url": "https://codeforces.com/contest/1781/submission/211342052",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Jun/28/2023 18:46"
+  },
   "CF211413080": {
     "contest_id": 1201,
     "language": "PyPy 3-64",
