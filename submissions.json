@@ -12444,6 +12444,27 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF211440914": {
+    "contest_id": 1592,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1592/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bakry and Partitioning",
+    "problem_url": "https://codeforces.com/contest/1592/problem/C",
+    "submission_id": "CF211440914",
+    "submission_url": "https://codeforces.com/contest/1592/submission/211440914",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Jun/29/2023 20:06"
+  },
   "CF211848268": {
     "contest_id": 1691,
     "language": "PyPy 3-64",
