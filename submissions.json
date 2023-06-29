@@ -12444,6 +12444,23 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF211413080": {
+    "contest_id": 1201,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1201/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Important Exam",
+    "problem_url": "https://codeforces.com/contest/1201/problem/A",
+    "submission_id": "CF211413080",
+    "submission_url": "https://codeforces.com/contest/1201/submission/211413080",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jun/29/2023 15:05"
+  },
   "CF211413676": {
     "contest_id": 1165,
     "language": "PyPy 3-64",
