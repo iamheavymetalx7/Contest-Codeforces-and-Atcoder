@@ -495,6 +495,22 @@
     ],
     "timestamp": "Feb/19/2023 17:35"
   },
+  "AC43158197": {
+    "contest_id": "abc308",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc308/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Snuke Maze",
+    "problem_url": "https://atcoder.jp/contests/abc308/tasks/abc308_d",
+    "submission_id": "AC43158197",
+    "submission_url": "https://atcoder.jp/contests/abc308/submissions/43158197",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/01/2023 20:03"
+  },
   "AC43161046": {
     "contest_id": "abc308",
     "language": "Python (3.8.2)",
