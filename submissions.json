@@ -495,6 +495,22 @@
     ],
     "timestamp": "Feb/19/2023 17:35"
   },
+  "AC43161046": {
+    "contest_id": "abc308",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc308/F.py",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Vouchers",
+    "problem_url": "https://atcoder.jp/contests/abc308/tasks/abc308_f",
+    "submission_id": "AC43161046",
+    "submission_url": "https://atcoder.jp/contests/abc308/submissions/43161046",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jul/01/2023 20:56"
+  },
   "AC43161910": {
     "contest_id": "abc308",
     "language": "Python (3.8.2)",

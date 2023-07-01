@@ -1,6 +1,6 @@
 # /**
 # * author:Hisoka-TheMagician
-# * created: 01/07/2023 20:08 Chennai, India
+# * created: 01/07/2023 20:50 Chennai, India
 # **/
         
 
@@ -113,33 +113,41 @@ def solve():
     import sys
     input =sys.stdin.buffer.readline
     
-    n,m=mii()
-    prices =lmii()
-    prices.sort()
-    atl=lmii()
-    disc=lmii()
+    N, M = map(int, input().split())
+    Ps = list(map(int, input().split()))
+    Ls = list(map(int, input().split()))
+    Ds = list(map(int, input().split()))
 
-    curr = sorted(zip(atl,disc),reverse=True)
-    # print(prices)
-    # print(curr)
-    pq=[]
+    coupons = [(L, D) for L, D in zip(Ls, Ds)]
+    coupons.sort(reverse=True)
 
-    ans=0
+    PQ = []
 
-    for p in prices:
+    Ps.sort()
 
-        while curr:
-            l,d = curr[-1]
-            if l<=p:
-                heappush(pq,-d)
-                curr.pop()
-            else:break
-        
-        if pq:
-            p+=heappop(pq)
-        ans+=p
+    ans = 0
+    for P in Ps:
+
+        while coupons:
+            L, D = coupons[-1]
+            if L <= P:
+                heappush(PQ, -D)
+                coupons.pop()
+            else:
+                break
+
+
+        if PQ:
+            D = heappop(PQ)
+            P += D
+
+        ans += P
 
     print(ans)
+
+        
+
+    
     
         
             
