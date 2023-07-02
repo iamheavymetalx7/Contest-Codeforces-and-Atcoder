@@ -12444,6 +12444,26 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF211848268": {
+    "contest_id": 1691,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1691/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sum of Substrings",
+    "problem_url": "https://codeforces.com/contest/1691/problem/C",
+    "submission_id": "CF211848268",
+    "submission_url": "https://codeforces.com/contest/1691/submission/211848268",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Jul/02/2023 21:21"
+  },
   "CF211854990": {
     "contest_id": 1719,
     "language": "PyPy 3-64",
