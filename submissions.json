@@ -12444,6 +12444,25 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF211868511": {
+    "contest_id": 1706,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1706/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Qpwoeirut And The City",
+    "problem_url": "https://codeforces.com/contest/1706/problem/C",
+    "submission_id": "CF211868511",
+    "submission_url": "https://codeforces.com/contest/1706/submission/211868511",
+    "tags": [
+      "dp",
+      "flows",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/03/2023 01:06"
+  },
   "CF211958556": {
     "contest_id": 1690,
     "language": "PyPy 3-64",
