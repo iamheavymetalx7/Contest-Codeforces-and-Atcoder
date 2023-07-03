@@ -12444,6 +12444,25 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF211958556": {
+    "contest_id": 1690,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1690/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Price Maximization",
+    "problem_url": "https://codeforces.com/contest/1690/problem/E",
+    "submission_id": "CF211958556",
+    "submission_url": "https://codeforces.com/contest/1690/submission/211958556",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jul/03/2023 19:38"
+  },
   "CF211989097": {
     "contest_id": 1767,
     "language": "PyPy 3-64",
