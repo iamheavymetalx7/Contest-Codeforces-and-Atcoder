@@ -12444,6 +12444,26 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF211989097": {
+    "contest_id": 1767,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1767/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Playoff",
+    "problem_url": "https://codeforces.com/contest/1767/problem/D",
+    "submission_id": "CF211989097",
+    "submission_url": "https://codeforces.com/contest/1767/submission/211989097",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jul/04/2023 00:11"
+  },
   "CF212037486": {
     "contest_id": 1698,
     "language": "PyPy 3-64",
