@@ -12444,6 +12444,25 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF212057845": {
+    "contest_id": 1701,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1701/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Schedule Management",
+    "problem_url": "https://codeforces.com/contest/1701/problem/C",
+    "submission_id": "CF212057845",
+    "submission_url": "https://codeforces.com/contest/1701/submission/212057845",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Jul/04/2023 14:57"
+  },
   "CF212086044": {
     "contest_id": 1644,
     "language": "PyPy 3-64",
