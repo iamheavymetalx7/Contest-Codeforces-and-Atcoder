@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+640 | [G - Garage](https://codeforces.com/contest/1725/problem/G) | [PyPy 3-64](./codeforces/1725/G.py) | `binary search` `geometry` `math` `*1500` | Jul/04/2023 19:02 | 
 639 | [B - Help Chef Gerasim](https://codeforces.com/contest/99/problem/B) | [PyPy 3-64](./codeforces/99/B.py) | `implementation` `sortings` `*1300` | Jun/15/2023 15:02 | 
 638 | [A - Friends or Not](https://codeforces.com/contest/159/problem/A) | [PyPy 3-64](./codeforces/159/A.py) | `*special problem` `greedy` `implementation` `*1400` | Jun/15/2023 14:18 | 
 637 | [C - Photographer](https://codeforces.com/contest/203/problem/C) | [PyPy 3-64](./codeforces/203/C.py) | `greedy` `sortings` `*1400` | Jun/15/2023 13:47 | 

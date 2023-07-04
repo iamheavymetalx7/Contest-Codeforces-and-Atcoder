@@ -12443,5 +12443,23 @@
       "*1300"
     ],
     "timestamp": "Jun/15/2023 15:02"
+  },
+  "CF212088169": {
+    "contest_id": 1725,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1725/G.py",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Garage",
+    "problem_url": "https://codeforces.com/contest/1725/problem/G",
+    "submission_id": "CF212088169",
+    "submission_url": "https://codeforces.com/contest/1725/submission/212088169",
+    "tags": [
+      "binary search",
+      "geometry",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jul/04/2023 19:02"
   }
 }
