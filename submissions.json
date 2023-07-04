@@ -12444,6 +12444,24 @@
     ],
     "timestamp": "Jun/15/2023 15:02"
   },
+  "CF212043834": {
+    "contest_id": 1660,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1660/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Get an Even String",
+    "problem_url": "https://codeforces.com/contest/1660/problem/C",
+    "submission_id": "CF212043834",
+    "submission_url": "https://codeforces.com/contest/1660/submission/212043834",
+    "tags": [
+      "dp",
+      "greedy",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Jul/04/2023 13:13"
+  },
   "CF212057845": {
     "contest_id": 1701,
     "language": "PyPy 3-64",
