@@ -1,6 +1,6 @@
 # /**
 # * author:Hisoka-TheMagician
-# * created: 06/07/2023 00:37 Chennai, India
+# * created: 06/07/2023 01:23 Chennai, India
 # **/
         
 
@@ -114,58 +114,54 @@ def solve():
     input =sys.stdin.buffer.readline
     
     n=ii()
-    dic=[[] for _ in range(n+1)]
-    deg=[0]*(n+1)
-    l=[]
 
-    f=0
-    
-    for jj in range(n):
-        x,y=mii()
+    adj=[[] for _ in range(n+1)]
+    deg=[0 for _ in range(n+1)]
 
-        dic[x].append(y)
-        dic[y].append(x)
-        deg[x]+=1
-        deg[y]+=1
-    
-    for i in range(n+1):
+    for i in range(n):
+        u,v=mii()
+
+        adj[u].append(v)
+        adj[v].append(u)
+
+        deg[u]+=1
+        deg[v]+=1
+
+
+    for i in range(1,n+1):
         if deg[i]>2:
             print("NO")
             return
-        
+    
+    color = [-1 for i in range(n+1)]
+
+    for p in range(1,n+1):
+        if color[p]!=-1:
+            continue
+
+        color[p]=0
+
+        q=deque([p])
+
+        while q:
+
+            p=q.popleft()
+
+            for i in adj[p]:
+                if color[p]==color[i]:
+                    print("NO")
+                    return
+                if color[i]!=-1:
+                    continue
+
+                q.append(i)
+
+                color[i] = color[p]^1
+
+
     
 
-
-
-
-    color=[-1]*(n+1)
-
-    for i in range(1,n+1):
-            if color[i]!=-1:
-                continue
-            
-            color[i] = 0
-            
-            q=deque([i])
-
-            while q:
-                a=q.popleft()
-                for child in dic[a]:
-                    if color[child]==color[a]:
-                        print("NO")
-                        return
-                    if color[child]!=-1:
-                        continue
-                    color[child]=1^color[a]
-                    q.append(child)
-
     print("YES")
-
-
-
-
-
-
     
         
             

@@ -13050,6 +13050,24 @@
     ],
     "timestamp": "Jul/04/2023 19:02"
   },
+  "CF212275112": {
+    "contest_id": 1702,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1702/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Split Into Two Sets",
+    "problem_url": "https://codeforces.com/contest/1702/problem/E",
+    "submission_id": "CF212275112",
+    "submission_url": "https://codeforces.com/contest/1702/submission/212275112",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1600"
+    ],
+    "timestamp": "Jul/06/2023 01:29"
+  },
   "CF212276026": {
     "contest_id": 1702,
     "language": "PyPy 3-64",
