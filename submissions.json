@@ -13050,6 +13050,26 @@
     ],
     "timestamp": "Jul/04/2023 19:02"
   },
+  "CF212241042": {
+    "contest_id": 1774,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1774/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Same Count One",
+    "problem_url": "https://codeforces.com/contest/1774/problem/D",
+    "submission_id": "CF212241042",
+    "submission_url": "https://codeforces.com/contest/1774/submission/212241042",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "Jul/05/2023 20:05"
+  },
   "CF212275112": {
     "contest_id": 1702,
     "language": "PyPy 3-64",
