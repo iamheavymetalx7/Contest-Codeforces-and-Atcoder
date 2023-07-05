@@ -13050,6 +13050,25 @@
     ],
     "timestamp": "Jul/04/2023 19:02"
   },
+  "CF212231943": {
+    "contest_id": 1673,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1673/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Palindrome Basis",
+    "problem_url": "https://codeforces.com/contest/1673/problem/C",
+    "submission_id": "CF212231943",
+    "submission_url": "https://codeforces.com/contest/1673/submission/212231943",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Jul/05/2023 19:15"
+  },
   "CF212241042": {
     "contest_id": 1774,
     "language": "PyPy 3-64",
