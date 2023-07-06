@@ -13050,6 +13050,22 @@
     ],
     "timestamp": "Jul/04/2023 19:02"
   },
+  "CF212384682": {
+    "contest_id": 1847,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1847/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Man who became a God ",
+    "problem_url": "https://codeforces.com/contest/1847/problem/A",
+    "submission_id": "CF212384682",
+    "submission_url": "https://codeforces.com/contest/1847/submission/212384682",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Jul/06/2023 20:24"
+  },
   "CF212396620": {
     "contest_id": 1847,
     "language": "PyPy 3-64",
