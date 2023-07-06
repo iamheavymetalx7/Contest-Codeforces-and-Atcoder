@@ -13050,6 +13050,23 @@
     ],
     "timestamp": "Jul/04/2023 19:02"
   },
+  "CF212356483": {
+    "contest_id": 1705,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1705/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mark and His Unfinished Essay",
+    "problem_url": "https://codeforces.com/contest/1705/problem/C",
+    "submission_id": "CF212356483",
+    "submission_url": "https://codeforces.com/contest/1705/submission/212356483",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/06/2023 18:03"
+  },
   "CF212358989": {
     "contest_id": 1714,
     "language": "PyPy 3-64",
