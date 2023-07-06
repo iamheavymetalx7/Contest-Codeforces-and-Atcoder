@@ -13050,6 +13050,26 @@
     ],
     "timestamp": "Jul/04/2023 19:02"
   },
+  "CF212423121": {
+    "contest_id": 1847,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1847/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Vampiric Powers, anyone?",
+    "problem_url": "https://codeforces.com/contest/1847/problem/C",
+    "submission_id": "CF212423121",
+    "submission_url": "https://codeforces.com/contest/1847/submission/212423121",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "trees"
+    ],
+    "timestamp": "Jul/06/2023 21:21"
+  },
   "CF212452820": {
     "contest_id": 1847,
     "language": "PyPy 3-64",
