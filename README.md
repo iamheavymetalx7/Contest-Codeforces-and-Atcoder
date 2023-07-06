@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-674 | [E1 - Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | [PyPy 3-64](./codeforces/1846/E1.py) | `brute force` `implementation` `math` | Jul/07/2023 21:38 | 
-673 | [D - Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | [PyPy 3-64](./codeforces/1846/D.py) | `constructive algorithms` `geometry` `math` | Jul/07/2023 21:12 | 
-672 | [C - Rudolf and the Another Competition](https://codeforces.com/contest/1846/problem/C) | [PyPy 3-64](./codeforces/1846/C.py) | `constructive algorithms` `data structures` `dp` `greedy` `sortings` | Jul/07/2023 20:49 | 
-671 | [B - Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B) | [PyPy 3-64](./codeforces/1846/B.py) | `brute force` `implementation` `strings` | Jul/07/2023 20:26 | 
-670 | [A - Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A) | [PyPy 3-64](./codeforces/1846/A.py) | `implementation` `math` | Jul/07/2023 20:18 | 
-669 | [A - Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | [PyPy 3-64](./codeforces/1845/A.py) | `constructive algorithms` `implementation` `math` `number theory` `*800` | Jul/07/2023 18:58 | 
+675 | [E1 - Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | [PyPy 3-64](./codeforces/1846/E1.py) | `brute force` `implementation` `math` | Jul/07/2023 21:38 | 
+674 | [D - Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | [PyPy 3-64](./codeforces/1846/D.py) | `constructive algorithms` `geometry` `math` | Jul/07/2023 21:12 | 
+673 | [C - Rudolf and the Another Competition](https://codeforces.com/contest/1846/problem/C) | [PyPy 3-64](./codeforces/1846/C.py) | `constructive algorithms` `data structures` `dp` `greedy` `sortings` | Jul/07/2023 20:49 | 
+672 | [B - Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B) | [PyPy 3-64](./codeforces/1846/B.py) | `brute force` `implementation` `strings` | Jul/07/2023 20:26 | 
+671 | [A - Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A) | [PyPy 3-64](./codeforces/1846/A.py) | `implementation` `math` | Jul/07/2023 20:18 | 
+670 | [A - Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | [PyPy 3-64](./codeforces/1845/A.py) | `constructive algorithms` `implementation` `math` `number theory` `*800` | Jul/07/2023 18:58 | 
+669 | [C - Vampiric Powers, anyone?](https://codeforces.com/contest/1847/problem/C) | [PyPy 3-64](./codeforces/1847/C.py) | `bitmasks` `brute force` `data structures` `dp` `greedy` `trees` | Jul/06/2023 23:22 | 
 668 | [G - Garage](https://codeforces.com/contest/1725/problem/G) | [PyPy 3-64](./codeforces/1725/G.py) | `binary search` `geometry` `math` `*1500` | Jul/04/2023 19:02 | 
 667 | [C - Increase Subarray Sums](https://codeforces.com/contest/1644/problem/C) | [PyPy 3-64](./codeforces/1644/C.py) | `brute force` `dp` `greedy` `implementation` `*1400` | Jul/04/2023 18:46 | 
 666 | [C - Schedule Management](https://codeforces.com/contest/1701/problem/C) | [PyPy 3-64](./codeforces/1701/C.py) | `binary search` `greedy` `implementation` `two pointers` `*1400` | Jul/04/2023 14:57 | 
