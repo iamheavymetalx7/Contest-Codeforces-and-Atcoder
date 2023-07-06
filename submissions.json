@@ -13050,6 +13050,24 @@
     ],
     "timestamp": "Jul/04/2023 19:02"
   },
+  "CF212358989": {
+    "contest_id": 1714,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1714/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Add Modulo 10",
+    "problem_url": "https://codeforces.com/contest/1714/problem/E",
+    "submission_id": "CF212358989",
+    "submission_url": "https://codeforces.com/contest/1714/submission/212358989",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Jul/06/2023 18:23"
+  },
   "CF212367355": {
     "contest_id": 1676,
     "language": "PyPy 3-64",
