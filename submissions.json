@@ -13050,6 +13050,23 @@
     ],
     "timestamp": "Jul/04/2023 19:02"
   },
+  "CF212594275": {
+    "contest_id": 1846,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1846/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rudolph and Tic-Tac-Toe",
+    "problem_url": "https://codeforces.com/contest/1846/problem/B",
+    "submission_id": "CF212594275",
+    "submission_url": "https://codeforces.com/contest/1846/submission/212594275",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Jul/07/2023 20:26"
+  },
   "CF212618279": {
     "contest_id": 1846,
     "language": "PyPy 3-64",
