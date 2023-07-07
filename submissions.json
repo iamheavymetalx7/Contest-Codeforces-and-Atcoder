@@ -13050,6 +13050,25 @@
     ],
     "timestamp": "Jul/04/2023 19:02"
   },
+  "CF212560617": {
+    "contest_id": 1845,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1845/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Forbidden Integer",
+    "problem_url": "https://codeforces.com/contest/1845/problem/A",
+    "submission_id": "CF212560617",
+    "submission_url": "https://codeforces.com/contest/1845/submission/212560617",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Jul/07/2023 18:58"
+  },
   "CF212584075": {
     "contest_id": 1846,
     "language": "PyPy 3-64",
