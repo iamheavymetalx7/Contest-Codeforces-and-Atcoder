@@ -13050,6 +13050,22 @@
     ],
     "timestamp": "Jul/04/2023 19:02"
   },
+  "CF212584075": {
+    "contest_id": 1846,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1846/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rudolph and Cut the Rope ",
+    "problem_url": "https://codeforces.com/contest/1846/problem/A",
+    "submission_id": "CF212584075",
+    "submission_url": "https://codeforces.com/contest/1846/submission/212584075",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jul/07/2023 20:18"
+  },
   "CF212594275": {
     "contest_id": 1846,
     "language": "PyPy 3-64",
