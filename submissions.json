@@ -559,6 +559,22 @@
     ],
     "timestamp": "Jul/01/2023 21:22"
   },
+  "AC43414118": {
+    "contest_id": "dp",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/dp/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Vacation",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_c",
+    "submission_id": "AC43414118",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/43414118",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/09/2023 14:51"
+  },
   "CF182286832": {
     "contest_id": 1744,
     "language": "PyPy 3-64",

@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+685 | [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [Python (3.8.2)](./atcoder/dp/C.py) | `AtCoder` `*100` | Jul/09/2023 14:51 | 
 684 | [E1 - Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | [PyPy 3-64](./codeforces/1846/E1.py) | `brute force` `implementation` `math` | Jul/07/2023 21:38 | 
 683 | [D - Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | [PyPy 3-64](./codeforces/1846/D.py) | `constructive algorithms` `geometry` `math` | Jul/07/2023 21:12 | 
 682 | [C - Rudolf and the Another Competition](https://codeforces.com/contest/1846/problem/C) | [PyPy 3-64](./codeforces/1846/C.py) | `constructive algorithms` `data structures` `dp` `greedy` `sortings` | Jul/07/2023 20:49 | 
