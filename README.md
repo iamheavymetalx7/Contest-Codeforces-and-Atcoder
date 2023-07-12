@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-686 | [D - Connectivity](https://atcoder.jp/contests/abc049/tasks/arc065_b) | [Python (3.8.2)](./atcoder/abc049/D.py) | `AtCoder` `*400` | Jul/12/2023 18:49 | 
+687 | [D - Connectivity](https://atcoder.jp/contests/abc049/tasks/arc065_b) | [Python (3.8.2)](./atcoder/abc049/D.py) | `AtCoder` `*400` | Jul/12/2023 18:49 | 
+686 | [D - Restricted Permutation](https://atcoder.jp/contests/abc223/tasks/abc223_d) | [Python (3.8.2)](./atcoder/abc223/D.py) | `AtCoder` `*400` | Jul/12/2023 16:46 | 
 685 | [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [Python (3.8.2)](./atcoder/dp/C.py) | `AtCoder` `*100` | Jul/09/2023 14:51 | 
 684 | [E1 - Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | [PyPy 3-64](./codeforces/1846/E1.py) | `brute force` `implementation` `math` | Jul/07/2023 21:38 | 
 683 | [D - Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | [PyPy 3-64](./codeforces/1846/D.py) | `constructive algorithms` `geometry` `math` | Jul/07/2023 21:12 | 
