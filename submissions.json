@@ -575,6 +575,22 @@
     ],
     "timestamp": "Jul/09/2023 14:51"
   },
+  "AC43500332": {
+    "contest_id": "abc131",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc131/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Megalomania",
+    "problem_url": "https://atcoder.jp/contests/abc131/tasks/abc131_d",
+    "submission_id": "AC43500332",
+    "submission_url": "https://atcoder.jp/contests/abc131/submissions/43500332",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/12/2023 10:44"
+  },
   "AC43501336": {
     "contest_id": "abc271",
     "language": "Python (3.8.2)",
