@@ -575,6 +575,22 @@
     ],
     "timestamp": "Jul/09/2023 14:51"
   },
+  "AC43511932": {
+    "contest_id": "abc049",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc049/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Connectivity",
+    "problem_url": "https://atcoder.jp/contests/abc049/tasks/arc065_b",
+    "submission_id": "AC43511932",
+    "submission_url": "https://atcoder.jp/contests/abc049/submissions/43511932",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/12/2023 18:49"
+  },
   "CF182286832": {
     "contest_id": 1744,
     "language": "PyPy 3-64",
