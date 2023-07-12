@@ -575,6 +575,22 @@
     ],
     "timestamp": "Jul/09/2023 14:51"
   },
+  "AC43501336": {
+    "contest_id": "abc271",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc271/F.py",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "XOR on Grid Path",
+    "problem_url": "https://atcoder.jp/contests/abc271/tasks/abc271_f",
+    "submission_id": "AC43501336",
+    "submission_url": "https://atcoder.jp/contests/abc271/submissions/43501336",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jul/12/2023 11:30"
+  },
   "AC43506472": {
     "contest_id": "abc126",
     "language": "Python (3.8.2)",
