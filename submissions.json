@@ -575,6 +575,22 @@
     ],
     "timestamp": "Jul/09/2023 14:51"
   },
+  "AC43506472": {
+    "contest_id": "abc126",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc126/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Even Relation",
+    "problem_url": "https://atcoder.jp/contests/abc126/tasks/abc126_d",
+    "submission_id": "AC43506472",
+    "submission_url": "https://atcoder.jp/contests/abc126/submissions/43506472",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/12/2023 14:40"
+  },
   "AC43508764": {
     "contest_id": "abc223",
     "language": "Python (3.8.2)",
