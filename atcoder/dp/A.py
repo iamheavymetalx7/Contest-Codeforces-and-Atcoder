@@ -13,8 +13,7 @@ from __future__ import division, print_function
 
 import os,sys
 from io import BytesIO, IOBase
-import sys
-sys.setrecursionlimit(200000)
+
 if sys.version_info[0] < 3:
     from __builtin__ import xrange as range
     from future_builtins import ascii, filter, hex, map, oct, zip
@@ -116,38 +115,18 @@ def solve():
     
     n=ii()
     a=lmii()
-
-    INF = 1e9+5
-
+    INF=1e9+5
     dp=[INF]*(n)
+    dp[0]=0
 
-    def f(idx):
-        if idx==n-1:
-            return 0
+    dp[1] = abs(a[1]-a[0])
 
-        
-        if dp[idx]!=INF:
-            return dp[idx]
-
-        one = INF
-        if idx+1<n:
-            one = min(one,f(idx+1)+abs(a[idx]-a[idx+1]))
-        
-
-        two = INF
-        if idx+2<n:
-            two = min(two,f(idx+2)+abs(a[idx]-a[idx+2]))
-
-
-        dp[idx]=min(one,two)
-        return dp[idx]
+    for i in range(n):
+        for j in range(i+1,i+3):
+            if j<n:
+                dp[j] = min(dp[j],dp[i]+abs(a[i]-a[j]))
     
-    ans = f(0)
-    # print(dp)
-    print(ans)
-
-    
-
+    print(dp[-1])
     
     
         
