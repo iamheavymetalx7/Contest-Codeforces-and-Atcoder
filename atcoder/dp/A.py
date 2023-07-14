@@ -115,18 +115,46 @@ def solve():
     
     n=ii()
     a=lmii()
-    INF=1e9+5
-    dp=[INF]*(n)
-    dp[0]=0
+
+
+    dp=[0]*(n)
 
     dp[1] = abs(a[1]-a[0])
 
-    for i in range(n):
-        for j in range(i+1,i+3):
-            if j<n:
-                dp[j] = min(dp[j],dp[i]+abs(a[i]-a[j]))
-    
+    for i in range(2,n):
+        dp[i] = min(dp[i-2]+abs(a[i]-a[i-2]),abs(a[i]-a[i-1])+dp[i-1])
+
     print(dp[-1])
+    # dp=[[-1 for _ in range(n+1)] for _ in range(n+1)]
+
+    # def f(idx,prev):
+    #     # print(idx,prev)
+    #     if idx>=n-1:
+    #         return 0
+
+        
+    #     if dp[idx][prev+1]!=-1:
+    #         return dp[idx][prev+1]
+
+    #     one = 10**9
+    #     if idx+1<n:
+    #         one = min(one,f(idx+1,idx)+abs(a[idx]-a[idx+1]))
+        
+
+    #     two = 10**9
+    #     if idx+2<n:
+    #         two = min(two,f(idx+2,idx)+abs(a[idx]-a[idx+2]))
+
+
+    #     dp[idx][prev+1]=min(one,two)
+    #     return dp[idx][prev+1]
+    
+    # f(0,-1)
+    # # print(dp)
+    # print(dp[0][0])
+
+    
+
     
     
         
