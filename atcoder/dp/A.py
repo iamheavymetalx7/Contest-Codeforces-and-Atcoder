@@ -116,31 +116,37 @@ def solve():
     
     n=ii()
     a=lmii()
+
     INF = 1e9+5
-    dp = [INF]*(n)
-    
+
+    dp=[INF]*(n)
 
     def f(idx):
-        if idx==0:
+        if idx==n-1:
             return 0
+
+        
         if dp[idx]!=INF:
             return dp[idx]
+
         one = INF
-        if idx-1>=0:
-            one =min(one, f(idx-1)+abs(a[idx]-a[idx-1]))
+        if idx+1<n:
+            one = min(one,f(idx+1)+abs(a[idx]-a[idx+1]))
         
-        two=INF
-        if idx-2>=0:
-            two = min(two,f(idx-2)+abs(a[idx]-a[idx-2]))
-        
+
+        two = INF
+        if idx+2<n:
+            two = min(two,f(idx+2)+abs(a[idx]-a[idx+2]))
+
+
         dp[idx]=min(one,two)
-
         return dp[idx]
-
-    x=int(f(n-1))
+    
+    ans = f(0)
     # print(dp)
+    print(ans)
 
-    print(x)
+    
 
     
     
