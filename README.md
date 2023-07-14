@@ -40,12 +40,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 693 | [G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | [PyPy3 (7.3.0)](./atcoder/dp/G.py) | `AtCoder` `*100` | Jul/15/2023 11:57 | 
 692 | [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | [PyPy3 (7.3.0)](./atcoder/dp/F.py) | `AtCoder` `*100` | Jul/15/2023 02:23 | 
 691 | [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | [PyPy3 (7.3.0)](./atcoder/dp/D.py) | `AtCoder` `*100` | Jul/15/2023 01:13 | 
-690 | [D - Connectivity](https://atcoder.jp/contests/abc049/tasks/arc065_b) | [Python (3.8.2)](./atcoder/abc049/D.py) | `AtCoder` `*400` | Jul/12/2023 18:49 | 
-689 | [D - Restricted Permutation](https://atcoder.jp/contests/abc223/tasks/abc223_d) | [Python (3.8.2)](./atcoder/abc223/D.py) | `AtCoder` `*400` | Jul/12/2023 16:46 | 
-688 | [D - Even Relation](https://atcoder.jp/contests/abc126/tasks/abc126_d) | [Python (3.8.2)](./atcoder/abc126/D.py) | `AtCoder` `*400` | Jul/12/2023 14:40 | 
-687 | [F - XOR on Grid Path](https://atcoder.jp/contests/abc271/tasks/abc271_f) | [Python (3.8.2)](./atcoder/abc271/F.py) | `AtCoder` `*500` | Jul/12/2023 11:30 | 
-686 | [D - Megalomania](https://atcoder.jp/contests/abc131/tasks/abc131_d) | [Python (3.8.2)](./atcoder/abc131/D.py) | `AtCoder` `*400` | Jul/12/2023 10:44 | 
-685 | [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [Python (3.8.2)](./atcoder/dp/C.py) | `AtCoder` `*100` | Jul/09/2023 14:51 | 
+690 | [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [PyPy3 (7.3.0)](./atcoder/dp/C.py) | `AtCoder` `*100` | Jul/15/2023 01:05 | 
+689 | [D - Connectivity](https://atcoder.jp/contests/abc049/tasks/arc065_b) | [Python (3.8.2)](./atcoder/abc049/D.py) | `AtCoder` `*400` | Jul/12/2023 18:49 | 
+688 | [D - Restricted Permutation](https://atcoder.jp/contests/abc223/tasks/abc223_d) | [Python (3.8.2)](./atcoder/abc223/D.py) | `AtCoder` `*400` | Jul/12/2023 16:46 | 
+687 | [D - Even Relation](https://atcoder.jp/contests/abc126/tasks/abc126_d) | [Python (3.8.2)](./atcoder/abc126/D.py) | `AtCoder` `*400` | Jul/12/2023 14:40 | 
+686 | [F - XOR on Grid Path](https://atcoder.jp/contests/abc271/tasks/abc271_f) | [Python (3.8.2)](./atcoder/abc271/F.py) | `AtCoder` `*500` | Jul/12/2023 11:30 | 
+685 | [D - Megalomania](https://atcoder.jp/contests/abc131/tasks/abc131_d) | [Python (3.8.2)](./atcoder/abc131/D.py) | `AtCoder` `*400` | Jul/12/2023 10:44 | 
 684 | [E1 - Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | [PyPy 3-64](./codeforces/1846/E1.py) | `brute force` `implementation` `math` | Jul/07/2023 21:38 | 
 683 | [D - Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | [PyPy 3-64](./codeforces/1846/D.py) | `constructive algorithms` `geometry` `math` | Jul/07/2023 21:12 | 
 682 | [C - Rudolf and the Another Competition](https://codeforces.com/contest/1846/problem/C) | [PyPy 3-64](./codeforces/1846/C.py) | `constructive algorithms` `data structures` `dp` `greedy` `sortings` | Jul/07/2023 20:49 | 
