@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43565470": {
+    "contest_id": "dp",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/dp/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Knapsack 1",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_d",
+    "submission_id": "AC43565470",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/43565470",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/15/2023 01:13"
+  },
   "AC43565918": {
     "contest_id": "dp",
     "language": "PyPy3 (7.3.0)",
