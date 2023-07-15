@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43575447": {
+    "contest_id": "dp",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/dp/H.py",
+    "platform": "AtCoder",
+    "problem_index": "H",
+    "problem_name": "Grid 1",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_h",
+    "submission_id": "AC43575447",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/43575447",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/15/2023 13:10"
+  },
   "AC43577752": {
     "contest_id": "dp",
     "language": "PyPy3 (7.3.0)",
