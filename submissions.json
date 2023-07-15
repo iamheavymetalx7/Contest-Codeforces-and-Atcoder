@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43634542": {
+    "contest_id": "dp",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/dp/S.cpp",
+    "platform": "AtCoder",
+    "problem_index": "S",
+    "problem_name": "Digit Sum",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_s",
+    "submission_id": "AC43634542",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/43634542",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/15/2023 18:53"
+  },
   "AC43723331": {
     "contest_id": "abc188",
     "language": "PyPy3 (7.3.0)",
