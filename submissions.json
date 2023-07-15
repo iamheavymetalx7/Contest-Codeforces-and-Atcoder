@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43577752": {
+    "contest_id": "dp",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/dp/I.py",
+    "platform": "AtCoder",
+    "problem_index": "I",
+    "problem_name": "Coins",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_i",
+    "submission_id": "AC43577752",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/43577752",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/15/2023 14:45"
+  },
   "AC43634542": {
     "contest_id": "dp",
     "language": "C++ (GCC 9.2.1)",
