@@ -14094,6 +14094,23 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF214004608": {
+    "contest_id": 1844,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1844/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutations & Primes",
+    "problem_url": "https://codeforces.com/contest/1844/problem/B",
+    "submission_id": "CF214004608",
+    "submission_url": "https://codeforces.com/contest/1844/submission/214004608",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jul/16/2023 13:59"
+  },
   "CF214005625": {
     "contest_id": 1844,
     "language": "PyPy 3-64",
