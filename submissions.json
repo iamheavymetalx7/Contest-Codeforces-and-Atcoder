@@ -14094,6 +14094,25 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF214005625": {
+    "contest_id": 1844,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1844/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Particles",
+    "problem_url": "https://codeforces.com/contest/1844/problem/C",
+    "submission_id": "CF214005625",
+    "submission_url": "https://codeforces.com/contest/1844/submission/214005625",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jul/16/2023 14:07"
+  },
   "CF214009459": {
     "contest_id": 1844,
     "language": "PyPy 3-64",
