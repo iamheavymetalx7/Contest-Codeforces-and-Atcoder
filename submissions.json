@@ -14094,6 +14094,26 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF214009459": {
+    "contest_id": 1844,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1844/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Row Major",
+    "problem_url": "https://codeforces.com/contest/1844/problem/D",
+    "submission_id": "CF214009459",
+    "submission_url": "https://codeforces.com/contest/1844/submission/214009459",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Jul/16/2023 14:37"
+  },
   "CF214149383": {
     "contest_id": 1848,
     "language": "PyPy 3-64",
