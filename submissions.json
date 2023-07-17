@@ -14094,6 +14094,27 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF214150171": {
+    "contest_id": 1848,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1848/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vika and the Bridge",
+    "problem_url": "https://codeforces.com/contest/1848/problem/B",
+    "submission_id": "CF214150171",
+    "submission_url": "https://codeforces.com/contest/1848/submission/214150171",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jul/17/2023 10:06"
+  },
   "CF214184953": {
     "contest_id": 1848,
     "language": "PyPy 3-64",
