@@ -14094,6 +14094,23 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF214184953": {
+    "contest_id": 1848,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1848/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Vika and Price Tags",
+    "problem_url": "https://codeforces.com/contest/1848/problem/C",
+    "submission_id": "CF214184953",
+    "submission_url": "https://codeforces.com/contest/1848/submission/214184953",
+    "tags": [
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Jul/17/2023 15:27"
+  },
   "CF214757037": {
     "contest_id": 2,
     "language": "PyPy 3-64",
