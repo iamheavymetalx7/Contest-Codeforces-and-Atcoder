@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43723331": {
+    "contest_id": "abc188",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc188/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Peddler",
+    "problem_url": "https://atcoder.jp/contests/abc188/tasks/abc188_e",
+    "submission_id": "AC43723331",
+    "submission_url": "https://atcoder.jp/contests/abc188/submissions/43723331",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jul/18/2023 15:44"
+  },
   "AC43724070": {
     "contest_id": "abc185",
     "language": "PyPy3 (7.3.0)",
