@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43758584": {
+    "contest_id": "abc142",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc142/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Get Everything",
+    "problem_url": "https://atcoder.jp/contests/abc142/tasks/abc142_e",
+    "submission_id": "AC43758584",
+    "submission_url": "https://atcoder.jp/contests/abc142/submissions/43758584",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jul/19/2023 22:16"
+  },
   "AC43759614": {
     "contest_id": "abc251",
     "language": "PyPy3 (7.3.0)",
