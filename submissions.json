@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43753820": {
+    "contest_id": "abc310",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc310/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Peaceful Teams",
+    "problem_url": "https://atcoder.jp/contests/abc310/tasks/abc310_d",
+    "submission_id": "AC43753820",
+    "submission_url": "https://atcoder.jp/contests/abc310/submissions/43753820",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/19/2023 18:14"
+  },
   "AC43753966": {
     "contest_id": "abc310",
     "language": "PyPy3 (7.3.0)",
