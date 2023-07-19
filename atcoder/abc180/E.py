@@ -147,14 +147,14 @@ def solve():
 
 
     def f(i,mask):
-
+        if mask ==0:
+            return dist[i][0]       ## this was missing
+             
         
         if dp[i][mask]!=-1:
             return dp[i][mask]
         
-        if mask ==0:
-            return dist[i][0]       ## this was missing
-             
+
 
         ans=10**(9)
 
