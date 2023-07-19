@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43757171": {
+    "contest_id": "abc180",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc180/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Traveling Salesman among Aerial Cities",
+    "problem_url": "https://atcoder.jp/contests/abc180/tasks/abc180_e",
+    "submission_id": "AC43757171",
+    "submission_url": "https://atcoder.jp/contests/abc180/submissions/43757171",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jul/19/2023 20:39"
+  },
   "AC43757274": {
     "contest_id": "abc180",
     "language": "PyPy3 (7.3.0)",

@@ -144,7 +144,6 @@ def solve():
     # print(dist)
     dp=[[-1]*(1<<N) for _ in range(N)]
 
-    dist[0][0]=0
 
 
     def f(i,mask):
@@ -169,7 +168,7 @@ def solve():
         return dp[i][mask]
 
 
-    ans = f(0,(1<<N)-1)
+    ans = f(0,(1<<N)-2)
     print(ans)
 
 
