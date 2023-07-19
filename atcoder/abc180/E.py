@@ -144,7 +144,8 @@ def solve():
     # print(dist)
     dp=[[-1]*(1<<N) for _ in range(N)]
 
-
+    for i in range(1,N):
+        dp[i][1] = dist[0][1]
 
     def f(i,mask):
         if mask ==0:
