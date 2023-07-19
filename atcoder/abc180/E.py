@@ -120,8 +120,6 @@ def tr(n):
         
 from collections import Counter, defaultdict, deque
 
-# helper = https://atcoder.jp/contests/abc180/submissions/17651810
-
 def solve():
     import sys
     input =sys.stdin.buffer.readline
@@ -149,8 +147,8 @@ def solve():
 
     def f(i,mask):
         if mask ==0:
-            return dist[i][0]       ## this was missing
-             
+            dp[i][0] = dist[i][0]
+            return dp[i][0]
         
         if dp[i][mask]!=-1:
             return dp[i][mask]
