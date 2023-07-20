@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43772957": {
+    "contest_id": "abc190",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc190/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Magical Ornament",
+    "problem_url": "https://atcoder.jp/contests/abc190/tasks/abc190_e",
+    "submission_id": "AC43772957",
+    "submission_url": "https://atcoder.jp/contests/abc190/submissions/43772957",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jul/20/2023 13:20"
+  },
   "AC43948242": {
     "contest_id": "abc311",
     "language": "PyPy3 (7.3.0)",
