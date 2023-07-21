@@ -14094,6 +14094,23 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF214757037": {
+    "contest_id": 2,
+    "language": "PyPy 3-64",
+    "path": "codeforces/2/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Winner",
+    "problem_url": "https://codeforces.com/contest/2/problem/A",
+    "submission_id": "CF214757037",
+    "submission_url": "https://codeforces.com/contest/2/submission/214757037",
+    "tags": [
+      "hashing",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jul/21/2023 19:48"
+  },
   "CF214779278": {
     "contest_id": 1850,
     "language": "PyPy 3-64",
