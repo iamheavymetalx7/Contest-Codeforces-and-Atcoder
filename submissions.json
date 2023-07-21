@@ -14094,6 +14094,25 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF214851669": {
+    "contest_id": 1850,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1850/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cardboard for Pictures",
+    "problem_url": "https://codeforces.com/contest/1850/problem/E",
+    "submission_id": "CF214851669",
+    "submission_url": "https://codeforces.com/contest/1850/submission/214851669",
+    "tags": [
+      "binary search",
+      "geometry",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jul/21/2023 20:48"
+  },
   "CF214950039": {
     "contest_id": 1850,
     "language": "PyPy 3-64",
