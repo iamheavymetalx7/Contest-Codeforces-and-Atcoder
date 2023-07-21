@@ -14094,6 +14094,23 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF214779278": {
+    "contest_id": 1850,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1850/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Word on the Paper",
+    "problem_url": "https://codeforces.com/contest/1850/problem/C",
+    "submission_id": "CF214779278",
+    "submission_url": "https://codeforces.com/contest/1850/submission/214779278",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/21/2023 20:11"
+  },
   "CF214782599": {
     "contest_id": 1850,
     "language": "PyPy 3-64",
