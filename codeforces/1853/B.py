@@ -1,6 +1,6 @@
 # /**
 # * author:Hisoka-TheMagician
-# * created: 23/07/2023 23:25 Chennai, India
+# * created: 23/07/2023 20:11 Chennai, India
 # **/
         
 
@@ -114,28 +114,33 @@ def solve():
     input =sys.stdin.buffer.readline
     
     n,k=mii()
-
-    ans =0
-
-    for i in range(1,n+1):
-        second =n
-        first = i
-        valid = True
-
-        for j in range(k-2):
-            fx= first
-            first = second - fx
-            second = fx
-
-            valid &= first<=second
-            valid &= min(first,second)>=0
-            if not valid:
-                break
-        if valid:
-            ans+=1
-
-    print(ans)
+    if k>=37:
+        print(0);return
     
+    ans =0
+    vv =[1]*(36)
+    vv[0]=0
+
+    for i in range(2,36):
+        vv[i] = vv[i-1]+vv[i-2]
+    # print(vv[35])
+    # print(*vv[:15])
+
+    left = vv[k-2]
+    ans=0
+    right = vv[k-1]
+    # print(left,right)
+    for i in range(n+1):
+        if (n-i*left)%right:
+            continue
+        t =(n-i*left)//right
+        if t>=i:
+            ans+=1
+    
+    print(ans)
+
+
+
 
     
     
