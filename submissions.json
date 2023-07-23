@@ -14094,6 +14094,24 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF215256819": {
+    "contest_id": 1853,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1853/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fibonaccharsis",
+    "problem_url": "https://codeforces.com/contest/1853/problem/B",
+    "submission_id": "CF215256819",
+    "submission_url": "https://codeforces.com/contest/1853/submission/215256819",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jul/23/2023 23:29"
+  },
   "CF215313356": {
     "contest_id": 1569,
     "language": "PyPy 3-64",
