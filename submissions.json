@@ -14094,6 +14094,23 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF215324010": {
+    "contest_id": 1795,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1795/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Triangle Coloring",
+    "problem_url": "https://codeforces.com/contest/1795/problem/D",
+    "submission_id": "CF215324010",
+    "submission_url": "https://codeforces.com/contest/1795/submission/215324010",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jul/24/2023 14:00"
+  },
   "CF215327175": {
     "contest_id": 1829,
     "language": "PyPy 3-64",
