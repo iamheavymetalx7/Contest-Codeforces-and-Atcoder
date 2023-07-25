@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43949438": {
+    "contest_id": "abc311",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc311/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Find it!",
+    "problem_url": "https://atcoder.jp/contests/abc311/tasks/abc311_c",
+    "submission_id": "AC43949438",
+    "submission_url": "https://atcoder.jp/contests/abc311/submissions/43949438",
+    "tags": [
+      "AtCoder",
+      "*350"
+    ],
+    "timestamp": "Jul/25/2023 14:10"
+  },
   "AC43950011": {
     "contest_id": "abc311",
     "language": "PyPy3 (7.3.0)",

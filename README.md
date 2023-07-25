@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-698 | [E - NAND repeatedly](https://atcoder.jp/contests/abc310/tasks/abc310_e) | [PyPy3 (7.3.0)](./atcoder/abc310/E.py) | `AtCoder` `*450` | Aug/01/2023 10:49 | 
-697 | [E - Defect-free Squares](https://atcoder.jp/contests/abc311/tasks/abc311_e) | [PyPy3 (7.3.0)](./atcoder/abc311/E.py) | `AtCoder` `*475` | Jul/31/2023 21:20 | 
-696 | [B - TaK Code](https://atcoder.jp/contests/abc312/tasks/abc312_b) | [PyPy3 (7.3.0)](./atcoder/abc312/B.py) | `AtCoder` `*200` | Jul/31/2023 15:03 | 
-695 | [F - Cans and Openers](https://atcoder.jp/contests/abc312/tasks/abc312_f) | [PyPy3 (7.3.0)](./atcoder/abc312/F.py) | `AtCoder` `*500` | Jul/31/2023 13:59 | 
-694 | [D - Count Bracket Sequences](https://atcoder.jp/contests/abc312/tasks/abc312_d) | [PyPy3 (7.3.0)](./atcoder/abc312/D.py) | `AtCoder` `*400` | Jul/31/2023 11:05 | 
-693 | [C - Invisible Hand](https://atcoder.jp/contests/abc312/tasks/abc312_c) | [PyPy3 (7.3.0)](./atcoder/abc312/C.py) | `AtCoder` `*300` | Jul/30/2023 11:34 | 
-692 | [A - Chord](https://atcoder.jp/contests/abc312/tasks/abc312_a) | [PyPy3 (7.3.0)](./atcoder/abc312/A.py) | `AtCoder` `*100` | Jul/30/2023 11:14 | 
-691 | [D - Grid Ice Floor](https://atcoder.jp/contests/abc311/tasks/abc311_d) | [PyPy3 (7.3.0)](./atcoder/abc311/D.py) | `AtCoder` `*400` | Jul/25/2023 14:43 | 
+699 | [E - NAND repeatedly](https://atcoder.jp/contests/abc310/tasks/abc310_e) | [PyPy3 (7.3.0)](./atcoder/abc310/E.py) | `AtCoder` `*450` | Aug/01/2023 10:49 | 
+698 | [E - Defect-free Squares](https://atcoder.jp/contests/abc311/tasks/abc311_e) | [PyPy3 (7.3.0)](./atcoder/abc311/E.py) | `AtCoder` `*475` | Jul/31/2023 21:20 | 
+697 | [B - TaK Code](https://atcoder.jp/contests/abc312/tasks/abc312_b) | [PyPy3 (7.3.0)](./atcoder/abc312/B.py) | `AtCoder` `*200` | Jul/31/2023 15:03 | 
+696 | [F - Cans and Openers](https://atcoder.jp/contests/abc312/tasks/abc312_f) | [PyPy3 (7.3.0)](./atcoder/abc312/F.py) | `AtCoder` `*500` | Jul/31/2023 13:59 | 
+695 | [D - Count Bracket Sequences](https://atcoder.jp/contests/abc312/tasks/abc312_d) | [PyPy3 (7.3.0)](./atcoder/abc312/D.py) | `AtCoder` `*400` | Jul/31/2023 11:05 | 
+694 | [C - Invisible Hand](https://atcoder.jp/contests/abc312/tasks/abc312_c) | [PyPy3 (7.3.0)](./atcoder/abc312/C.py) | `AtCoder` `*300` | Jul/30/2023 11:34 | 
+693 | [A - Chord](https://atcoder.jp/contests/abc312/tasks/abc312_a) | [PyPy3 (7.3.0)](./atcoder/abc312/A.py) | `AtCoder` `*100` | Jul/30/2023 11:14 | 
+692 | [D - Grid Ice Floor](https://atcoder.jp/contests/abc311/tasks/abc311_d) | [PyPy3 (7.3.0)](./atcoder/abc311/D.py) | `AtCoder` `*400` | Jul/25/2023 14:43 | 
+691 | [C - Find it!](https://atcoder.jp/contests/abc311/tasks/abc311_c) | [PyPy3 (7.3.0)](./atcoder/abc311/C.py) | `AtCoder` `*350` | Jul/25/2023 14:10 | 
 690 | [D - Connectivity](https://atcoder.jp/contests/abc049/tasks/arc065_b) | [Python (3.8.2)](./atcoder/abc049/D.py) | `AtCoder` `*400` | Jul/12/2023 18:49 | 
 689 | [D - Restricted Permutation](https://atcoder.jp/contests/abc223/tasks/abc223_d) | [Python (3.8.2)](./atcoder/abc223/D.py) | `AtCoder` `*400` | Jul/12/2023 16:46 | 
 688 | [D - Even Relation](https://atcoder.jp/contests/abc126/tasks/abc126_d) | [Python (3.8.2)](./atcoder/abc126/D.py) | `AtCoder` `*400` | Jul/12/2023 14:40 | 
