@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43948366": {
+    "contest_id": "abc311",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc311/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Vacation Together",
+    "problem_url": "https://atcoder.jp/contests/abc311/tasks/abc311_b",
+    "submission_id": "AC43948366",
+    "submission_url": "https://atcoder.jp/contests/abc311/submissions/43948366",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/25/2023 13:13"
+  },
   "AC43949438": {
     "contest_id": "abc311",
     "language": "PyPy3 (7.3.0)",
