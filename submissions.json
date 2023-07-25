@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43948242": {
+    "contest_id": "abc311",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc311/A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "First ABC",
+    "problem_url": "https://atcoder.jp/contests/abc311/tasks/abc311_a",
+    "submission_id": "AC43948242",
+    "submission_url": "https://atcoder.jp/contests/abc311/submissions/43948242",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/25/2023 13:07"
+  },
   "AC43948366": {
     "contest_id": "abc311",
     "language": "PyPy3 (7.3.0)",
