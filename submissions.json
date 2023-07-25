@@ -14094,6 +14094,23 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF215513825": {
+    "contest_id": 1851,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1851/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Escalator Conversations",
+    "problem_url": "https://codeforces.com/contest/1851/problem/A",
+    "submission_id": "CF215513825",
+    "submission_url": "https://codeforces.com/contest/1851/submission/215513825",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Jul/25/2023 20:14"
+  },
   "CF215519550": {
     "contest_id": 1851,
     "language": "PyPy 3-64",
