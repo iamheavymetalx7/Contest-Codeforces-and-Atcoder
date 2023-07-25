@@ -14094,6 +14094,22 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF215580000": {
+    "contest_id": 1851,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1851/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Prefix Permutation Sums",
+    "problem_url": "https://codeforces.com/contest/1851/problem/D",
+    "submission_id": "CF215580000",
+    "submission_url": "https://codeforces.com/contest/1851/submission/215580000",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jul/25/2023 21:20"
+  },
   "CF215677716": {
     "contest_id": 1851,
     "language": "PyPy 3-64",
