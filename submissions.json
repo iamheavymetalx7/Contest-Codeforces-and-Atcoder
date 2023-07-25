@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC43950011": {
+    "contest_id": "abc311",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc311/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Grid Ice Floor",
+    "problem_url": "https://atcoder.jp/contests/abc311/tasks/abc311_d",
+    "submission_id": "AC43950011",
+    "submission_url": "https://atcoder.jp/contests/abc311/submissions/43950011",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/25/2023 14:43"
+  },
   "AC44100600": {
     "contest_id": "abc312",
     "language": "PyPy3 (7.3.0)",
