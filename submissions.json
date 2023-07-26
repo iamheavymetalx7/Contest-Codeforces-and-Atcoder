@@ -14094,6 +14094,24 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF215677716": {
+    "contest_id": 1851,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1851/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nastya and Potions",
+    "problem_url": "https://codeforces.com/contest/1851/problem/E",
+    "submission_id": "CF215677716",
+    "submission_url": "https://codeforces.com/contest/1851/submission/215677716",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "sortings"
+    ],
+    "timestamp": "Jul/26/2023 10:57"
+  },
   "CF215719000": {
     "contest_id": 1851,
     "language": "PyPy 3-64",
