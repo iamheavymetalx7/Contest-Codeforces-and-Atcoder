@@ -14094,6 +14094,23 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF215719630": {
+    "contest_id": 1851,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1851/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Parity Sort",
+    "problem_url": "https://codeforces.com/contest/1851/problem/B",
+    "submission_id": "CF215719630",
+    "submission_url": "https://codeforces.com/contest/1851/submission/215719630",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ],
+    "timestamp": "Jul/26/2023 16:30"
+  },
   "CF216041193": {
     "contest_id": 20,
     "language": "PyPy 3-64",
