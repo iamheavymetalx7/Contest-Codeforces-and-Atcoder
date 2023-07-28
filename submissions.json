@@ -14093,5 +14093,22 @@
       "math"
     ],
     "timestamp": "Jul/07/2023 21:38"
+  },
+  "CF216135452": {
+    "contest_id": 25,
+    "language": "PyPy 3-64",
+    "path": "codeforces/25/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Roads in Berland",
+    "problem_url": "https://codeforces.com/contest/25/problem/C",
+    "submission_id": "CF216135452",
+    "submission_url": "https://codeforces.com/contest/25/submission/216135452",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Jul/29/2023 00:33"
   }
 }
