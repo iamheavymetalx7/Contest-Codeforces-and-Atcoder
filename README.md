@@ -13,17 +13,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-723 | [E - NAND repeatedly](https://atcoder.jp/contests/abc310/tasks/abc310_e) | [PyPy3 (7.3.0)](./atcoder/abc310/E.py) | `AtCoder` `*450` | Aug/01/2023 10:49 | 
-722 | [E - Defect-free Squares](https://atcoder.jp/contests/abc311/tasks/abc311_e) | [PyPy3 (7.3.0)](./atcoder/abc311/E.py) | `AtCoder` `*475` | Jul/31/2023 21:20 | 
-721 | [B - TaK Code](https://atcoder.jp/contests/abc312/tasks/abc312_b) | [PyPy3 (7.3.0)](./atcoder/abc312/B.py) | `AtCoder` `*200` | Jul/31/2023 15:03 | 
-720 | [F - Cans and Openers](https://atcoder.jp/contests/abc312/tasks/abc312_f) | [PyPy3 (7.3.0)](./atcoder/abc312/F.py) | `AtCoder` `*500` | Jul/31/2023 13:59 | 
-719 | [D - Count Bracket Sequences](https://atcoder.jp/contests/abc312/tasks/abc312_d) | [PyPy3 (7.3.0)](./atcoder/abc312/D.py) | `AtCoder` `*400` | Jul/31/2023 11:05 | 
-718 | [C - Invisible Hand](https://atcoder.jp/contests/abc312/tasks/abc312_c) | [PyPy3 (7.3.0)](./atcoder/abc312/C.py) | `AtCoder` `*300` | Jul/30/2023 11:34 | 
-717 | [A - Chord](https://atcoder.jp/contests/abc312/tasks/abc312_a) | [PyPy3 (7.3.0)](./atcoder/abc312/A.py) | `AtCoder` `*100` | Jul/30/2023 11:14 | 
-716 | [C - Roads in Berland](https://codeforces.com/contest/25/problem/C) | [PyPy 3-64](./codeforces/25/C.py) | `graphs` `shortest paths` `*1900` | Jul/29/2023 00:33 | 
-715 | [B - Greg and Graph](https://codeforces.com/contest/295/problem/B) | [PyPy 3-64](./codeforces/295/B.py) | `dp` `graphs` `shortest paths` `*1700` | Jul/28/2023 23:56 | 
-714 | [D - Jzzhu and Cities](https://codeforces.com/contest/450/problem/D) | [PyPy 3-64](./codeforces/450/D.py) | `graphs` `greedy` `shortest paths` `*2000` | Jul/28/2023 15:56 | 
-713 | [B - Jzzhu and Cities](https://codeforces.com/contest/449/problem/B) | [PyPy 3-64](./codeforces/449/B.py) | `graphs` `greedy` `shortest paths` `*2000` | Jul/28/2023 15:52 | 
+724 | [E - NAND repeatedly](https://atcoder.jp/contests/abc310/tasks/abc310_e) | [PyPy3 (7.3.0)](./atcoder/abc310/E.py) | `AtCoder` `*450` | Aug/01/2023 10:49 | 
+723 | [E - Defect-free Squares](https://atcoder.jp/contests/abc311/tasks/abc311_e) | [PyPy3 (7.3.0)](./atcoder/abc311/E.py) | `AtCoder` `*475` | Jul/31/2023 21:20 | 
+722 | [B - TaK Code](https://atcoder.jp/contests/abc312/tasks/abc312_b) | [PyPy3 (7.3.0)](./atcoder/abc312/B.py) | `AtCoder` `*200` | Jul/31/2023 15:03 | 
+721 | [F - Cans and Openers](https://atcoder.jp/contests/abc312/tasks/abc312_f) | [PyPy3 (7.3.0)](./atcoder/abc312/F.py) | `AtCoder` `*500` | Jul/31/2023 13:59 | 
+720 | [D - Count Bracket Sequences](https://atcoder.jp/contests/abc312/tasks/abc312_d) | [PyPy3 (7.3.0)](./atcoder/abc312/D.py) | `AtCoder` `*400` | Jul/31/2023 11:05 | 
+719 | [C - Invisible Hand](https://atcoder.jp/contests/abc312/tasks/abc312_c) | [PyPy3 (7.3.0)](./atcoder/abc312/C.py) | `AtCoder` `*300` | Jul/30/2023 11:34 | 
+718 | [A - Chord](https://atcoder.jp/contests/abc312/tasks/abc312_a) | [PyPy3 (7.3.0)](./atcoder/abc312/A.py) | `AtCoder` `*100` | Jul/30/2023 11:14 | 
+717 | [C - Roads in Berland](https://codeforces.com/contest/25/problem/C) | [PyPy 3-64](./codeforces/25/C.py) | `graphs` `shortest paths` `*1900` | Jul/29/2023 00:33 | 
+716 | [B - Greg and Graph](https://codeforces.com/contest/295/problem/B) | [PyPy 3-64](./codeforces/295/B.py) | `dp` `graphs` `shortest paths` `*1700` | Jul/28/2023 23:56 | 
+715 | [D - Jzzhu and Cities](https://codeforces.com/contest/450/problem/D) | [PyPy 3-64](./codeforces/450/D.py) | `graphs` `greedy` `shortest paths` `*2000` | Jul/28/2023 15:56 | 
+714 | [B - Jzzhu and Cities](https://codeforces.com/contest/449/problem/B) | [PyPy 3-64](./codeforces/449/B.py) | `graphs` `greedy` `shortest paths` `*2000` | Jul/28/2023 15:52 | 
+713 | [E - Shortest Path](https://codeforces.com/contest/59/problem/E) | [PyPy 3-64](./codeforces/59/E.py) | `graphs` `shortest paths` `*2000` | Jul/28/2023 12:05 | 
 712 | [D - Grid Ice Floor](https://atcoder.jp/contests/abc311/tasks/abc311_d) | [PyPy3 (7.3.0)](./atcoder/abc311/D.py) | `AtCoder` `*400` | Jul/25/2023 14:43 | 
 711 | [C - Find it!](https://atcoder.jp/contests/abc311/tasks/abc311_c) | [PyPy3 (7.3.0)](./atcoder/abc311/C.py) | `AtCoder` `*350` | Jul/25/2023 14:10 | 
 710 | [B - Vacation Together](https://atcoder.jp/contests/abc311/tasks/abc311_b) | [PyPy3 (7.3.0)](./atcoder/abc311/B.py) | `AtCoder` `*200` | Jul/25/2023 13:13 | 
