@@ -14094,6 +14094,24 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF216132224": {
+    "contest_id": 295,
+    "language": "PyPy 3-64",
+    "path": "codeforces/295/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Greg and Graph",
+    "problem_url": "https://codeforces.com/contest/295/problem/B",
+    "submission_id": "CF216132224",
+    "submission_url": "https://codeforces.com/contest/295/submission/216132224",
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Jul/28/2023 23:56"
+  },
   "CF216135452": {
     "contest_id": 25,
     "language": "PyPy 3-64",
