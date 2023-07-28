@@ -14094,6 +14094,24 @@
     ],
     "timestamp": "Jul/07/2023 21:38"
   },
+  "CF216074941": {
+    "contest_id": 449,
+    "language": "PyPy 3-64",
+    "path": "codeforces/449/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Jzzhu and Cities",
+    "problem_url": "https://codeforces.com/contest/449/problem/B",
+    "submission_id": "CF216074941",
+    "submission_url": "https://codeforces.com/contest/449/submission/216074941",
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*2000"
+    ],
+    "timestamp": "Jul/28/2023 15:52"
+  },
   "CF216075333": {
     "contest_id": 450,
     "language": "PyPy 3-64",
