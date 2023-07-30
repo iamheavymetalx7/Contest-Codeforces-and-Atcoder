@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC44101198": {
+    "contest_id": "abc312",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc312/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Invisible Hand",
+    "problem_url": "https://atcoder.jp/contests/abc312/tasks/abc312_c",
+    "submission_id": "AC44101198",
+    "submission_url": "https://atcoder.jp/contests/abc312/submissions/44101198",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/30/2023 11:34"
+  },
   "AC44130529": {
     "contest_id": "abc312",
     "language": "PyPy3 (7.3.0)",
