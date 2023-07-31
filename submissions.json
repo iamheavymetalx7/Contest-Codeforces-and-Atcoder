@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC44136135": {
+    "contest_id": "abc312",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc312/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "TaK Code",
+    "problem_url": "https://atcoder.jp/contests/abc312/tasks/abc312_b",
+    "submission_id": "AC44136135",
+    "submission_url": "https://atcoder.jp/contests/abc312/submissions/44136135",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/31/2023 15:03"
+  },
   "AC44145227": {
     "contest_id": "abc311",
     "language": "PyPy3 (7.3.0)",
