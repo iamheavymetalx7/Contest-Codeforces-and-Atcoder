@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC44130529": {
+    "contest_id": "abc312",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc312/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Count Bracket Sequences",
+    "problem_url": "https://atcoder.jp/contests/abc312/tasks/abc312_d",
+    "submission_id": "AC44130529",
+    "submission_url": "https://atcoder.jp/contests/abc312/submissions/44130529",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/31/2023 11:03"
+  },
   "AC44130565": {
     "contest_id": "abc312",
     "language": "PyPy3 (7.3.0)",

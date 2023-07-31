@@ -5,15 +5,15 @@
         
 
 
-
-
                                                                                                                         
 
 from __future__ import division, print_function
 
 import os,sys
-sys.setrecursionlimit(9*10**8)
 from io import BytesIO, IOBase
+
+import sys
+sys.setrecursionlimit(9*10**8)
 
 if sys.version_info[0] < 3:
     from __builtin__ import xrange as range
@@ -113,30 +113,19 @@ def solve():
     s=si()
     n=len(s)
 
-    # if n%2:
-    #     print(0)
-    #     return
-    
-    # op = s.count("(")
-    # cl = s.count(")")
-    # if op>n//2 or cl>n//2:
-    #     print(0)
-    #     return
-    
 
 
     MOD = 998244353
 
-    dp =[[-1]*(3001) for _ in range(3001)]
-
+    dp =[[-1]*(n*2) for _ in range(n*2)]
 
     def recur(i,cnt):
-        if i==n:
-            if cnt==0:
-                return 1
-            return 0
 
-        if cnt<0:
+        if i==n:
+            # print(i,cnt)
+            if cnt==0:
+
+                return 1
             return 0
         
         if dp[i][cnt]!=-1:
@@ -146,12 +135,12 @@ def solve():
 
         if s[i]=="?":
             ans = (ans+recur(i+1,cnt+1))%MOD
-
-            ans = (ans+recur(i+1,cnt-1))%MOD
-        else:
-            val = 1 if s[i]=="(" else -1
-            ans = (ans+recur(i+1,cnt+val))%MOD
-        
+            if cnt>0:
+                ans = (ans+recur(i+1,cnt-1))%MOD
+        elif s[i]=="(":
+            ans = (ans+recur(i+1,cnt+1))%MOD
+        elif s[i]==")" and cnt>0:
+            ans = (ans+recur(i+1,cnt-1))%MOD        
         dp[i][cnt]=ans
 
         return dp[i][cnt]
