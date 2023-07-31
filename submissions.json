@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC44134660": {
+    "contest_id": "abc312",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc312/F.py",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Cans and Openers",
+    "problem_url": "https://atcoder.jp/contests/abc312/tasks/abc312_f",
+    "submission_id": "AC44134660",
+    "submission_url": "https://atcoder.jp/contests/abc312/submissions/44134660",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jul/31/2023 13:59"
+  },
   "AC44136135": {
     "contest_id": "abc312",
     "language": "PyPy3 (7.3.0)",
