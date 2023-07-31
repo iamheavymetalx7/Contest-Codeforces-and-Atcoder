@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC44145227": {
+    "contest_id": "abc311",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc311/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Defect-free Squares",
+    "problem_url": "https://atcoder.jp/contests/abc311/tasks/abc311_e",
+    "submission_id": "AC44145227",
+    "submission_url": "https://atcoder.jp/contests/abc311/submissions/44145227",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Jul/31/2023 21:20"
+  },
   "AC44153411": {
     "contest_id": "abc310",
     "language": "C++ (GCC 9.2.1)",
