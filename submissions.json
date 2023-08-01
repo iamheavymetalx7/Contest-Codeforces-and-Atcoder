@@ -655,6 +655,22 @@
     ],
     "timestamp": "Jul/12/2023 18:49"
   },
+  "AC44153796": {
+    "contest_id": "abc310",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc310/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "NAND repeatedly",
+    "problem_url": "https://atcoder.jp/contests/abc310/tasks/abc310_e",
+    "submission_id": "AC44153796",
+    "submission_url": "https://atcoder.jp/contests/abc310/submissions/44153796",
+    "tags": [
+      "AtCoder",
+      "*450"
+    ],
+    "timestamp": "Aug/01/2023 10:49"
+  },
   "CF182286832": {
     "contest_id": 1744,
     "language": "PyPy 3-64",

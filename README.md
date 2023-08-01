@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+691 | [E - NAND repeatedly](https://atcoder.jp/contests/abc310/tasks/abc310_e) | [PyPy3 (7.3.0)](./atcoder/abc310/E.py) | `AtCoder` `*450` | Aug/01/2023 10:49 | 
 690 | [D - Connectivity](https://atcoder.jp/contests/abc049/tasks/arc065_b) | [Python (3.8.2)](./atcoder/abc049/D.py) | `AtCoder` `*400` | Jul/12/2023 18:49 | 
 689 | [D - Restricted Permutation](https://atcoder.jp/contests/abc223/tasks/abc223_d) | [Python (3.8.2)](./atcoder/abc223/D.py) | `AtCoder` `*400` | Jul/12/2023 16:46 | 
 688 | [D - Even Relation](https://atcoder.jp/contests/abc126/tasks/abc126_d) | [Python (3.8.2)](./atcoder/abc126/D.py) | `AtCoder` `*400` | Jul/12/2023 14:40 | 
