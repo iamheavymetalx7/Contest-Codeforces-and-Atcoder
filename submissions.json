@@ -14925,6 +14925,24 @@
     ],
     "timestamp": "Jul/29/2023 00:33"
   },
+  "CF216846887": {
+    "contest_id": 510,
+    "language": "PyPy 3-64",
+    "path": "codeforces/510/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fox And Names",
+    "problem_url": "https://codeforces.com/contest/510/problem/C",
+    "submission_id": "CF216846887",
+    "submission_url": "https://codeforces.com/contest/510/submission/216846887",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Aug/02/2023 18:01"
+  },
   "CF217115797": {
     "contest_id": 1328,
     "language": "PyPy 3-64",
