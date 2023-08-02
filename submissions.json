@@ -14925,6 +14925,24 @@
     ],
     "timestamp": "Jul/29/2023 00:33"
   },
+  "CF216825491": {
+    "contest_id": 598,
+    "language": "PyPy 3-64",
+    "path": "codeforces/598/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Igor In the Museum",
+    "problem_url": "https://codeforces.com/contest/598/problem/D",
+    "submission_id": "CF216825491",
+    "submission_url": "https://codeforces.com/contest/598/submission/216825491",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Aug/02/2023 14:59"
+  },
   "CF216846887": {
     "contest_id": 510,
     "language": "PyPy 3-64",
