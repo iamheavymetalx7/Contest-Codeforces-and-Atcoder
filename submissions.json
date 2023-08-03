@@ -1279,6 +1279,22 @@
     ],
     "timestamp": "Aug/01/2023 10:49"
   },
+  "AC44206855": {
+    "contest_id": "abc309",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc309/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Medicine",
+    "problem_url": "https://atcoder.jp/contests/abc309/tasks/abc309_c",
+    "submission_id": "AC44206855",
+    "submission_url": "https://atcoder.jp/contests/abc309/submissions/44206855",
+    "tags": [
+      "AtCoder",
+      "*350"
+    ],
+    "timestamp": "Aug/03/2023 16:07"
+  },
   "AC44214863": {
     "contest_id": "abc309",
     "language": "PyPy3 (7.3.0)",

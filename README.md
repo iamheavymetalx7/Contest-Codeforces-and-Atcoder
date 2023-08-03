@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-759 | [E - Hopscotch Addict](https://atcoder.jp/contests/abc132/tasks/abc132_e) | [PyPy3 (7.3.0)](./atcoder/abc132/E.py) | `AtCoder` `*500` | Aug/09/2023 18:02 | 
-758 | [F - Transportation](https://atcoder.jp/contests/abc270/tasks/abc270_f) | [PyPy3 (7.3.0)](./atcoder/abc270/F.py) | `AtCoder` `*500` | Aug/09/2023 17:02 | 
-757 | [B - Who is Saikyo?](https://atcoder.jp/contests/abc313/tasks/abc313_b) | [PyPy3 (7.3.0)](./atcoder/abc313/B.py) | `AtCoder` `*300` | Aug/07/2023 11:21 | 
-756 | [A - To Be Saikyo](https://atcoder.jp/contests/abc313/tasks/abc313_a) | [PyPy3 (7.3.0)](./atcoder/abc313/A.py) | `AtCoder` `*100` | Aug/07/2023 11:15 | 
-755 | [E - MEX](https://atcoder.jp/contests/abc308/tasks/abc308_e) | [PyPy3 (7.3.0)](./atcoder/abc308/E.py) | `AtCoder` `*475` | Aug/04/2023 13:31 | 
-754 | [E - Family and Insurance](https://atcoder.jp/contests/abc309/tasks/abc309_e) | [PyPy3 (7.3.0)](./atcoder/abc309/E.py) | `AtCoder` `*425` | Aug/04/2023 11:07 | 
-753 | [D - Add One Edge](https://atcoder.jp/contests/abc309/tasks/abc309_d) | [PyPy3 (7.3.0)](./atcoder/abc309/D.py) | `AtCoder` `*400` | Aug/03/2023 21:58 | 
+760 | [E - Hopscotch Addict](https://atcoder.jp/contests/abc132/tasks/abc132_e) | [PyPy3 (7.3.0)](./atcoder/abc132/E.py) | `AtCoder` `*500` | Aug/09/2023 18:02 | 
+759 | [F - Transportation](https://atcoder.jp/contests/abc270/tasks/abc270_f) | [PyPy3 (7.3.0)](./atcoder/abc270/F.py) | `AtCoder` `*500` | Aug/09/2023 17:02 | 
+758 | [B - Who is Saikyo?](https://atcoder.jp/contests/abc313/tasks/abc313_b) | [PyPy3 (7.3.0)](./atcoder/abc313/B.py) | `AtCoder` `*300` | Aug/07/2023 11:21 | 
+757 | [A - To Be Saikyo](https://atcoder.jp/contests/abc313/tasks/abc313_a) | [PyPy3 (7.3.0)](./atcoder/abc313/A.py) | `AtCoder` `*100` | Aug/07/2023 11:15 | 
+756 | [E - MEX](https://atcoder.jp/contests/abc308/tasks/abc308_e) | [PyPy3 (7.3.0)](./atcoder/abc308/E.py) | `AtCoder` `*475` | Aug/04/2023 13:31 | 
+755 | [E - Family and Insurance](https://atcoder.jp/contests/abc309/tasks/abc309_e) | [PyPy3 (7.3.0)](./atcoder/abc309/E.py) | `AtCoder` `*425` | Aug/04/2023 11:07 | 
+754 | [D - Add One Edge](https://atcoder.jp/contests/abc309/tasks/abc309_d) | [PyPy3 (7.3.0)](./atcoder/abc309/D.py) | `AtCoder` `*400` | Aug/03/2023 21:58 | 
+753 | [C - Medicine](https://atcoder.jp/contests/abc309/tasks/abc309_c) | [PyPy3 (7.3.0)](./atcoder/abc309/C.py) | `AtCoder` `*350` | Aug/03/2023 16:07 | 
 752 | [E - NAND repeatedly](https://atcoder.jp/contests/abc310/tasks/abc310_e) | [PyPy3 (7.3.0)](./atcoder/abc310/E.py) | `AtCoder` `*450` | Aug/01/2023 10:49 | 
 751 | [E - Defect-free Squares](https://atcoder.jp/contests/abc311/tasks/abc311_e) | [PyPy3 (7.3.0)](./atcoder/abc311/E.py) | `AtCoder` `*475` | Jul/31/2023 21:20 | 
 750 | [B - TaK Code](https://atcoder.jp/contests/abc312/tasks/abc312_b) | [PyPy3 (7.3.0)](./atcoder/abc312/B.py) | `AtCoder` `*200` | Jul/31/2023 15:03 | 
