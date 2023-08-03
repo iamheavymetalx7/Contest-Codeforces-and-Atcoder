@@ -1279,6 +1279,22 @@
     ],
     "timestamp": "Aug/01/2023 10:49"
   },
+  "AC44214863": {
+    "contest_id": "abc309",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc309/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Add One Edge",
+    "problem_url": "https://atcoder.jp/contests/abc309/tasks/abc309_d",
+    "submission_id": "AC44214863",
+    "submission_url": "https://atcoder.jp/contests/abc309/submissions/44214863",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Aug/03/2023 21:58"
+  },
   "AC44223517": {
     "contest_id": "abc309",
     "language": "PyPy3 (7.3.0)",
