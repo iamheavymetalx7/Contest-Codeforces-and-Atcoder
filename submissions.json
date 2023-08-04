@@ -14925,6 +14925,23 @@
     ],
     "timestamp": "Jul/29/2023 00:33"
   },
+  "CF217115797": {
+    "contest_id": 1328,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1328/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ternary XOR",
+    "problem_url": "https://codeforces.com/contest/1328/problem/C",
+    "submission_id": "CF217115797",
+    "submission_url": "https://codeforces.com/contest/1328/submission/217115797",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Aug/04/2023 18:00"
+  },
   "CF217798081": {
     "contest_id": 1857,
     "language": "PyPy 3-64",
