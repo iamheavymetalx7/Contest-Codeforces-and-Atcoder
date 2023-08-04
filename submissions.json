@@ -1279,6 +1279,22 @@
     ],
     "timestamp": "Aug/01/2023 10:49"
   },
+  "AC44227343": {
+    "contest_id": "abc308",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc308/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "MEX",
+    "problem_url": "https://atcoder.jp/contests/abc308/tasks/abc308_e",
+    "submission_id": "AC44227343",
+    "submission_url": "https://atcoder.jp/contests/abc308/submissions/44227343",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Aug/04/2023 13:31"
+  },
   "AC44355671": {
     "contest_id": "abc313",
     "language": "PyPy3 (7.3.0)",
