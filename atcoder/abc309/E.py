@@ -136,11 +136,13 @@ def solve():
     for i,pp in enumerate(p):
         child[pp].append(i+2)
 
-    safe = [-1]*(n+1)
+    safe = [0]*(n+1)
 
     for _ in range(m):
         x,y = mii()
+        y+=1
         safe[x] = max(safe[x],y)
+    
     @bootstrap
     def dfs(p,prev):
         global ans
@@ -148,7 +150,7 @@ def solve():
         if prev!=-1:
             safe[p] = max(safe[p],safe[prev]-1)
         
-        if safe[p]>=0:
+        if safe[p]:
             ans+=1
 
         for x in child[p]:
@@ -157,10 +159,12 @@ def solve():
             yield dfs(x,p)
 
         yield
+
     global ans
     ans = 0
 
     dfs(1,-1)
+
     print(ans)
     
     

@@ -1279,6 +1279,22 @@
     ],
     "timestamp": "Aug/01/2023 10:49"
   },
+  "AC44223517": {
+    "contest_id": "abc309",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc309/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Family and Insurance",
+    "problem_url": "https://atcoder.jp/contests/abc309/tasks/abc309_e",
+    "submission_id": "AC44223517",
+    "submission_url": "https://atcoder.jp/contests/abc309/submissions/44223517",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Aug/04/2023 10:56"
+  },
   "AC44223763": {
     "contest_id": "abc309",
     "language": "PyPy3 (7.3.0)",
