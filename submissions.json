@@ -1279,6 +1279,22 @@
     ],
     "timestamp": "Aug/01/2023 10:49"
   },
+  "AC44355671": {
+    "contest_id": "abc313",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc313/A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "To Be Saikyo",
+    "problem_url": "https://atcoder.jp/contests/abc313/tasks/abc313_a",
+    "submission_id": "AC44355671",
+    "submission_url": "https://atcoder.jp/contests/abc313/submissions/44355671",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/07/2023 11:15"
+  },
   "AC44355777": {
     "contest_id": "abc313",
     "language": "PyPy3 (7.3.0)",
