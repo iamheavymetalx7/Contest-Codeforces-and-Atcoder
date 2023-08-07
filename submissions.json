@@ -1279,6 +1279,22 @@
     ],
     "timestamp": "Aug/01/2023 10:49"
   },
+  "AC44355777": {
+    "contest_id": "abc313",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc313/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Who is Saikyo?",
+    "problem_url": "https://atcoder.jp/contests/abc313/tasks/abc313_b",
+    "submission_id": "AC44355777",
+    "submission_url": "https://atcoder.jp/contests/abc313/submissions/44355777",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/07/2023 11:21"
+  },
   "AC44412503": {
     "contest_id": "abc270",
     "language": "PyPy3 (7.3.0)",
