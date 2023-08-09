@@ -14925,6 +14925,27 @@
     ],
     "timestamp": "Jul/29/2023 00:33"
   },
+  "CF217990567": {
+    "contest_id": 1618,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1618/F.py",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Reverse",
+    "problem_url": "https://codeforces.com/contest/1618/problem/F",
+    "submission_id": "CF217990567",
+    "submission_url": "https://codeforces.com/contest/1618/submission/217990567",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "implementation",
+      "math",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "Aug/09/2023 14:59"
+  },
   "CF217995505": {
     "contest_id": 369,
     "language": "PyPy 3-64",
