@@ -14924,5 +14924,23 @@
       "*1900"
     ],
     "timestamp": "Jul/29/2023 00:33"
+  },
+  "CF217995505": {
+    "contest_id": 369,
+    "language": "PyPy 3-64",
+    "path": "codeforces/369/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Valera and Elections",
+    "problem_url": "https://codeforces.com/contest/369/problem/C",
+    "submission_id": "CF217995505",
+    "submission_url": "https://codeforces.com/contest/369/submission/217995505",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Aug/09/2023 15:39"
   }
 }

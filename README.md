@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-761 | [E - Hopscotch Addict](https://atcoder.jp/contests/abc132/tasks/abc132_e) | [PyPy3 (7.3.0)](./atcoder/abc132/E.py) | `AtCoder` `*500` | Aug/09/2023 18:02 | 
-760 | [F - Transportation](https://atcoder.jp/contests/abc270/tasks/abc270_f) | [PyPy3 (7.3.0)](./atcoder/abc270/F.py) | `AtCoder` `*500` | Aug/09/2023 17:02 | 
+762 | [E - Hopscotch Addict](https://atcoder.jp/contests/abc132/tasks/abc132_e) | [PyPy3 (7.3.0)](./atcoder/abc132/E.py) | `AtCoder` `*500` | Aug/09/2023 18:02 | 
+761 | [F - Transportation](https://atcoder.jp/contests/abc270/tasks/abc270_f) | [PyPy3 (7.3.0)](./atcoder/abc270/F.py) | `AtCoder` `*500` | Aug/09/2023 17:02 | 
+760 | [C - Valera and Elections](https://codeforces.com/contest/369/problem/C) | [PyPy 3-64](./codeforces/369/C.py) | `dfs and similar` `graphs` `trees` `*1600` | Aug/09/2023 15:39 | 
 759 | [B - Who is Saikyo?](https://atcoder.jp/contests/abc313/tasks/abc313_b) | [PyPy3 (7.3.0)](./atcoder/abc313/B.py) | `AtCoder` `*300` | Aug/07/2023 11:21 | 
 758 | [A - To Be Saikyo](https://atcoder.jp/contests/abc313/tasks/abc313_a) | [PyPy3 (7.3.0)](./atcoder/abc313/A.py) | `AtCoder` `*100` | Aug/07/2023 11:15 | 
 757 | [E - MEX](https://atcoder.jp/contests/abc308/tasks/abc308_e) | [PyPy3 (7.3.0)](./atcoder/abc308/E.py) | `AtCoder` `*475` | Aug/04/2023 13:31 | 
