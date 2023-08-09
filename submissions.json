@@ -14925,6 +14925,24 @@
     ],
     "timestamp": "Jul/29/2023 00:33"
   },
+  "CF217986447": {
+    "contest_id": 1475,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1475/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Advertising Agency",
+    "problem_url": "https://codeforces.com/contest/1475/problem/E",
+    "submission_id": "CF217986447",
+    "submission_url": "https://codeforces.com/contest/1475/submission/217986447",
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Aug/09/2023 14:27"
+  },
   "CF217990567": {
     "contest_id": 1618,
     "language": "PyPy 3-64",
