@@ -1,11 +1,10 @@
-## this users' code gets accepted:e4q2pfnq 
-
-
 # # /**
 # # * author:Hisoka-TheMagician
-# # * created: 09/08/2023 15:18 Chennai, India
+# # * created: 09/08/2023 15:59 Chennai, India
 # # **/
         
+
+
 from collections import defaultdict
 
 class UnionFind():
@@ -105,8 +104,6 @@ for tp in range(4):
 print(ans)
     
     
-
-
 
 
 
@@ -215,77 +212,100 @@ print(ans)
 # from collections import Counter, defaultdict, deque
 
 
-# from types import GeneratorType
-# def bootstrap(f, stack=[]):
-#     def wrappedfunc(*args, **kwargs):
-#         if stack:
-#             return f(*args, **kwargs)
-#         else:
-#             to = f(*args, **kwargs)
-#             while True:
-#                 if type(to) is GeneratorType:
-#                     stack.append(to)
-#                     to = next(to)
-#                 else:
-#                     stack.pop()
-#                     if not stack:
-#                         break
-#                     to = stack[-1].send(to)
-#             return to
-#     return wrappedfunc
+
+# class UnionFind:
+#     # UnionFind　初期化 使う要素の数(n)をここで宣言する。Selfというインスタンスを作って値を入れる
+#     def __init__(self,n):
+#         self.n=n
+#         self.parent_size=[-1]*n
+ 
+#     def leader(self,a):#グループリーダーの確認
+#         if self.parent_size[a]<0: return a
+#         self.parent_size[a]=self.leader(self.parent_size[a])
+#         return self.parent_size[a]
+ 
+#     def merge(self,a,b):#グループの併合を要素aとbで行う
+#         x,y=self.leader(a),self.leader(b)
+#         if x == y: return 
+#         if abs(self.parent_size[x])<abs(self.parent_size[y]):x,y=y,x
+#         self.parent_size[x] += self.parent_size[y]
+#         self.parent_size[y]=x
+#         return 
+ 
+#     def same(self,a,b):#グループが同一が同かa,bで確認
+#         return self.leader(a) == self.leader(b)
+ 
+#     def size(self,a):#所属するグループの要素の数の確認
+#         return abs(self.parent_size[self.leader(a)])
+ 
+#     def groups(self):#グループ全体の確認
+#         result=[[] for _ in range(self.n)]
+#         for i in range(self.n):
+#             result[self.leader(i)].append(i)
+#         return [r for r in result if r != []]
+ 
 
 # def solve():
 #     import sys
 #     input =sys.stdin.buffer.readline
     
-#     n=ii()
-#     g = [[] for _ in range(n)]
+#     n,m=mii()
+#     x=lmii()
+#     y =lmii()
 
-#     white = [0]*(n)
-#     for _ in range(n-1):
-#         a,b,t = mii()
+#     z=[]
+
+#     for _ in range(m):
+#         a,b,c = mii()
 #         a-=1
 #         b-=1
-#         g[a].append(b)
-#         g[b].append(a)
-#         if t==2:
-#             white[a]=1
-#             white[b]=1
-
-#     d = [0]*n
-
-#     @bootstrap
-#     def dfs(node,prev):
-#         # print(node,prev)
-#         d[node]=white[node]
-
-#         for adj in g[node]:
-#             if adj==prev:
-#                 continue
-
-#             yield dfs(adj,node)
-
-#             d[node]+=d[adj]
         
-#         yield
+
+#         z.append([a,b,c])
+
+#     ans = int(1e18)
+
+
+#     def kruskal(edges,sz):
+#         nn=len(edges)
+#         edges.sort()
+#         dsu = UnionFind(sz)
+
+#         total =0
+
+#         for cost,node1,node2 in edges:
+#             if not dsu.same(node1,node2):
     
-#     dfs(0,-1)
+#                 dsu.merge(node1,node2)
+#                 total+=cost
+#         if dsu.size(0)<n:
+#             return int(1e18)
+#         return total
 
-#     ans =[]
+#     for kk in range(4):
+#         edges =[]
+#         hehe = n+1
 
-#     for i in range(n):
-#         if white[i] and d[i]==1:
-#             ans.append(i)
+#         if kk&1:
+#             hehe+=1
+#             for i in range(n):
+#                 edges.append([x[i],i,n])
+
+        
+#         if kk&2:
+#             hehe+=1
+#             for i in range(n):
+#                 edges.append([y[i],i,n+1])
+        
+
+#         for n1,n2,cc in z:
+#             edges.append([cc,n1,n2])
+
+#         val = kruskal(edges,hehe)
+#         ans= min(ans,val)
+#     print(ans)
+
     
-#     # print(d,white)
-#     print(len(ans))
-
-#     for j in ans:
-#         print(j+1,end=" ")
-
-
-    
-
     
         
             
@@ -436,3 +456,6 @@ print(ans)
 #     #dmain()
 
 # # Comment Read()
+
+
+

@@ -1279,6 +1279,22 @@
     ],
     "timestamp": "Aug/01/2023 10:49"
   },
+  "AC44412503": {
+    "contest_id": "abc270",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc270/F.py",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Transportation",
+    "problem_url": "https://atcoder.jp/contests/abc270/tasks/abc270_f",
+    "submission_id": "AC44412503",
+    "submission_url": "https://atcoder.jp/contests/abc270/submissions/44412503",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Aug/09/2023 16:50"
+  },
   "AC44412738": {
     "contest_id": "abc270",
     "language": "PyPy3 (7.3.0)",
