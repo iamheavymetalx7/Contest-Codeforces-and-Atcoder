@@ -15050,5 +15050,22 @@
       "*1600"
     ],
     "timestamp": "Aug/09/2023 15:39"
+  },
+  "CF220012983": {
+    "contest_id": 1303,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1303/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fill The Bag",
+    "problem_url": "https://codeforces.com/contest/1303/problem/D",
+    "submission_id": "CF220012983",
+    "submission_url": "https://codeforces.com/contest/1303/submission/220012983",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Aug/23/2023 15:06"
   }
 }

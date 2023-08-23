@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+769 | [D - Fill The Bag](https://codeforces.com/contest/1303/problem/D) | [PyPy 3-64](./codeforces/1303/D.py) | `bitmasks` `greedy` `*1900` | Aug/23/2023 15:06 | 
 768 | [E - Hopscotch Addict](https://atcoder.jp/contests/abc132/tasks/abc132_e) | [PyPy3 (7.3.0)](./atcoder/abc132/E.py) | `AtCoder` `*500` | Aug/09/2023 18:02 | 
 767 | [F - Transportation](https://atcoder.jp/contests/abc270/tasks/abc270_f) | [PyPy3 (7.3.0)](./atcoder/abc270/F.py) | `AtCoder` `*500` | Aug/09/2023 17:02 | 
 766 | [C - Valera and Elections](https://codeforces.com/contest/369/problem/C) | [PyPy 3-64](./codeforces/369/C.py) | `dfs and similar` `graphs` `trees` `*1600` | Aug/09/2023 15:39 | 
