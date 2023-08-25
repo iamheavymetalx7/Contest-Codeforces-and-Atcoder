@@ -15068,6 +15068,24 @@
     ],
     "timestamp": "Aug/23/2023 15:06"
   },
+  "CF220427704": {
+    "contest_id": 161,
+    "language": "PyPy 3-64",
+    "path": "codeforces/161/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Distance in Tree",
+    "problem_url": "https://codeforces.com/contest/161/problem/D",
+    "submission_id": "CF220427704",
+    "submission_url": "https://codeforces.com/contest/161/submission/220427704",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Aug/26/2023 00:32"
+  },
   "CF220838931": {
     "contest_id": 1036,
     "language": "PyPy 3-64",
