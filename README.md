@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-774 | [D - Strong Vertices](https://codeforces.com/contest/1857/problem/D) | [PyPy 3-64](./codeforces/1857/D.py) | `math` `sortings` `trees` `*1300` | Sep/27/2023 11:32 | 
-773 | [A - Array Coloring](https://codeforces.com/contest/1857/problem/A) | [PyPy 3-64](./codeforces/1857/A.py) | `greedy` `math` `*800` | Sep/27/2023 11:22 | 
-772 | [B - Drazil and His Happy Friends](https://codeforces.com/contest/515/problem/B) | [PyPy 3-64](./codeforces/515/B.py) | `brute force` `dsu` `meet-in-the-middle` `number theory` `*1300` | Sep/20/2023 15:10 | 
-771 | [C - Everyone is a Winner!](https://codeforces.com/contest/1263/problem/C) | [PyPy 3-64](./codeforces/1263/C.py) | `binary search` `math` `meet-in-the-middle` `number theory` `*1400` | Sep/20/2023 14:58 | 
-770 | [C - Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | [PyPy 3-64](./codeforces/1285/C.py) | `brute force` `math` `number theory` `*1400` | Sep/11/2023 17:12 | 
+775 | [D - Strong Vertices](https://codeforces.com/contest/1857/problem/D) | [PyPy 3-64](./codeforces/1857/D.py) | `math` `sortings` `trees` `*1300` | Sep/27/2023 11:32 | 
+774 | [A - Array Coloring](https://codeforces.com/contest/1857/problem/A) | [PyPy 3-64](./codeforces/1857/A.py) | `greedy` `math` `*800` | Sep/27/2023 11:22 | 
+773 | [B - Drazil and His Happy Friends](https://codeforces.com/contest/515/problem/B) | [PyPy 3-64](./codeforces/515/B.py) | `brute force` `dsu` `meet-in-the-middle` `number theory` `*1300` | Sep/20/2023 15:10 | 
+772 | [C - Everyone is a Winner!](https://codeforces.com/contest/1263/problem/C) | [PyPy 3-64](./codeforces/1263/C.py) | `binary search` `math` `meet-in-the-middle` `number theory` `*1400` | Sep/20/2023 14:58 | 
+771 | [C - Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | [PyPy 3-64](./codeforces/1285/C.py) | `brute force` `math` `number theory` `*1400` | Sep/11/2023 17:12 | 
+770 | [A - Greg and Array](https://codeforces.com/contest/295/problem/A) | [PyPy 3-64](./codeforces/295/A.py) | `data structures` `implementation` `*1400` | Aug/30/2023 10:15 | 
 769 | [D - Fill The Bag](https://codeforces.com/contest/1303/problem/D) | [PyPy 3-64](./codeforces/1303/D.py) | `bitmasks` `greedy` `*1900` | Aug/23/2023 15:06 | 
 768 | [E - Hopscotch Addict](https://atcoder.jp/contests/abc132/tasks/abc132_e) | [PyPy3 (7.3.0)](./atcoder/abc132/E.py) | `AtCoder` `*500` | Aug/09/2023 18:02 | 
 767 | [F - Transportation](https://atcoder.jp/contests/abc270/tasks/abc270_f) | [PyPy3 (7.3.0)](./atcoder/abc270/F.py) | `AtCoder` `*500` | Aug/09/2023 17:02 | 

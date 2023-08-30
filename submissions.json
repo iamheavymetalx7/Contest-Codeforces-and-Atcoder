@@ -15068,6 +15068,23 @@
     ],
     "timestamp": "Aug/23/2023 15:06"
   },
+  "CF221041717": {
+    "contest_id": 295,
+    "language": "PyPy 3-64",
+    "path": "codeforces/295/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Greg and Array",
+    "problem_url": "https://codeforces.com/contest/295/problem/A",
+    "submission_id": "CF221041717",
+    "submission_url": "https://codeforces.com/contest/295/submission/221041717",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Aug/30/2023 10:15"
+  },
   "CF222890094": {
     "contest_id": 1285,
     "language": "PyPy 3-64",
