@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC45108882": {
+    "contest_id": "abc164",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc164/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Two Currencies",
+    "problem_url": "https://atcoder.jp/contests/abc164/tasks/abc164_e",
+    "submission_id": "AC45108882",
+    "submission_url": "https://atcoder.jp/contests/abc164/submissions/45108882",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Sep/01/2023 19:52"
+  },
   "AC45540462": {
     "contest_id": "dp",
     "language": "Python (PyPy 3.10-v7.3.12)",
