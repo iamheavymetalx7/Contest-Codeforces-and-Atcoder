@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC45540462": {
+    "contest_id": "dp",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/dp/M.py",
+    "platform": "AtCoder",
+    "problem_index": "M",
+    "problem_name": "Candies",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_m",
+    "submission_id": "AC45540462",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/45540462",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/15/2023 12:10"
+  },
   "AC45747083": {
     "contest_id": "abc125",
     "language": "Python (PyPy 3.10-v7.3.12)",
