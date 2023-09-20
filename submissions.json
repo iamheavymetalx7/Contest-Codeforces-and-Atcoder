@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC45748067": {
+    "contest_id": "abc125",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc125/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Flipping Signs",
+    "problem_url": "https://atcoder.jp/contests/abc125/tasks/abc125_d",
+    "submission_id": "AC45748067",
+    "submission_url": "https://atcoder.jp/contests/abc125/submissions/45748067",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Sep/20/2023 13:58"
+  },
   "AC45765658": {
     "contest_id": "abc126",
     "language": "Python (PyPy 3.10-v7.3.12)",
