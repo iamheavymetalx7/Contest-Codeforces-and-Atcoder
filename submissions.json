@@ -15068,6 +15068,25 @@
     ],
     "timestamp": "Aug/23/2023 15:06"
   },
+  "CF224142372": {
+    "contest_id": 1263,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1263/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Everyone is a Winner!",
+    "problem_url": "https://codeforces.com/contest/1263/problem/C",
+    "submission_id": "CF224142372",
+    "submission_url": "https://codeforces.com/contest/1263/submission/224142372",
+    "tags": [
+      "binary search",
+      "math",
+      "meet-in-the-middle",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Sep/20/2023 14:58"
+  },
   "CF224143615": {
     "contest_id": 515,
     "language": "PyPy 3-64",
