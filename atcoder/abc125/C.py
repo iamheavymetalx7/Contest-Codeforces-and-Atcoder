@@ -112,28 +112,22 @@ def solve():
     input =sys.stdin.buffer.readline
     
     n=ii()
-    a=lmii()
-    l =[0]*(n+1)
-    r =[0]*(n+1)
+    a=[0]+lmii()
+    b=[0]*(n+2)
+    c=[0]*(n+2)
 
-    for i in range(n):
-        l[i+1]=gcd(l[i],a[i])
+    for i in range(1,n+1):
+        b[i] = gcd(b[i-1],a[i])
     
-    for i in range(n-1,-1,-1):
-        r[i]=gcd(r[i+1],a[i])
-    # print(l)
-    # print(r)
-
-    maxgcd =0
-    for i in range(n):
-        # print(gcd(l[i],r[i+1]))
-        maxgcd = max(maxgcd,gcd(l[i],r[i+1]))
+    for i in range(n,0,-1):
+        c[i]=gcd(c[i+1],a[i])
+    # print(b)
+    # print(c)
+    maxgcd=0
+    for i in range(1,n+1):
+        maxgcd = max(maxgcd,gcd(b[i-1],c[i+1]))
     
     print(maxgcd)
-    
-
-
-
 
 
 
