@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC45747083": {
+    "contest_id": "abc125",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc125/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Resale",
+    "problem_url": "https://atcoder.jp/contests/abc125/tasks/abc125_b",
+    "submission_id": "AC45747083",
+    "submission_url": "https://atcoder.jp/contests/abc125/submissions/45747083",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/20/2023 13:17"
+  },
   "AC45747590": {
     "contest_id": "abc125",
     "language": "Python (PyPy 3.10-v7.3.12)",
