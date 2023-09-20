@@ -15068,6 +15068,25 @@
     ],
     "timestamp": "Aug/23/2023 15:06"
   },
+  "CF224143615": {
+    "contest_id": 515,
+    "language": "PyPy 3-64",
+    "path": "codeforces/515/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Drazil and His Happy Friends",
+    "problem_url": "https://codeforces.com/contest/515/problem/B",
+    "submission_id": "CF224143615",
+    "submission_url": "https://codeforces.com/contest/515/submission/224143615",
+    "tags": [
+      "brute force",
+      "dsu",
+      "meet-in-the-middle",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Sep/20/2023 15:10"
+  },
   "CF225464371": {
     "contest_id": 1857,
     "language": "PyPy 3-64",
