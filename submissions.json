@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC45766542": {
+    "contest_id": "abc127",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc127/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Prison",
+    "problem_url": "https://atcoder.jp/contests/abc127/tasks/abc127_c",
+    "submission_id": "AC45766542",
+    "submission_url": "https://atcoder.jp/contests/abc127/submissions/45766542",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/21/2023 10:48"
+  },
   "AC45767040": {
     "contest_id": "abc127",
     "language": "Python (PyPy 3.10-v7.3.12)",
