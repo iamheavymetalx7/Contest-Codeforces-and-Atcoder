@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC45767040": {
+    "contest_id": "abc127",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc127/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Integer Cards",
+    "problem_url": "https://atcoder.jp/contests/abc127/tasks/abc127_d",
+    "submission_id": "AC45767040",
+    "submission_url": "https://atcoder.jp/contests/abc127/submissions/45767040",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Sep/21/2023 11:19"
+  },
   "AC45787693": {
     "contest_id": "abc167",
     "language": "Python (PyPy 3.10-v7.3.12)",
