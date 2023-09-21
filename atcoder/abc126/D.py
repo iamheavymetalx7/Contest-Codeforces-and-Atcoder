@@ -1,6 +1,6 @@
 # /**
 # * author:Hisoka-TheMagician
-# * created: 12/07/2023 14:15 Chennai, India
+# * created: 21/09/2023 09:53 Chennai, India
 # **/
         
 
@@ -12,6 +12,7 @@
 from __future__ import division, print_function
 
 import os,sys
+#sys.setrecursionlimit(9*10**8)
 from io import BytesIO, IOBase
 
 if sys.version_info[0] < 3:
@@ -20,6 +21,7 @@ if sys.version_info[0] < 3:
 
 from bisect import bisect_left as lower_bound, bisect_right as upper_bound 
 
+from math import sqrt
 def lmii():
     return list(map(int,input().split()))
 
@@ -60,13 +62,6 @@ def isprime(n):
             return False
     return True
 
-from math import *
-def npr(n, r):
-    return factorial(n) // factorial(n - r) if n >= r else 0
- 
- 
-def ncr(n, r):
-    return factorial(n) // (factorial(r) * factorial(n - r)) if n >= r else 0
  
  
 def SieveOfEratosthenes(n):
@@ -99,9 +94,12 @@ def primefactors(n):
     return factors
          
     
+from os import path
 def read():
-    sys.stdin  = open('input.txt', 'r')  
-    sys.stdout = open('output.txt', 'w') 
+     if (path.exists('input.txt')):
+        sys.stdin  = open('input.txt', 'r')  
+        sys.stdout = open('output.txt', 'w') 
+ 
 def tr(n):
     return n*(n+1)//2
 
@@ -115,63 +113,46 @@ def solve():
     
     n=ii()
 
-
-    dic=defaultdict(list)
+    gph = [[] for _ in range(n+1)]
 
     for _ in range(n-1):
-        u,v,w =mii()
-        dic[u].append([v,w])
-        dic[v].append([u,w])
-    # print(dic)
-    q=deque()
+        x,y,w = mii()
+        gph[x].append([y,w])
+        gph[y].append([x,w])
+
+    parent =[-1 for _ in range(n+1)]
+    child =[[] for _ in range(n+1)]
+    dist =[0 for _ in range(n+1)]
+    topo =[]
+    q = deque()
     q.append([1,0])
-    parent =[-1]*(n+1)
-    child= [[] for _ in range(n+1)]
-    topo=[]
-    dist=[0 for _ in range(n+1)]
     parent[1]=0
-
-
-    # for ele in dic[1]:
-    #     print(ele)
-    
-
-    # for ele in dic[2]:
-    #     c,dist = ele
-    #     print(c,"*",dist)
-    
     while q:
         node,dd = q.popleft()
         topo.append(node)
 
-        for ele in dic[node]:
-            # print(ele)
-            c,val = ele[0],ele[1]
+        for c,wt in gph[node]:
             if parent[c]!=-1:
-                # print("continue")
                 continue
+
             child[node].append(c)
             parent[c] = node
-            
-            dist[c]+=val+dist[node]
-            # print(dist,c,node,"here")
+
+            dist[c] = wt + dist[node]
             q.append([c,dist[c]])
-    
-    # print(parent, dist)
-    arr=[0]*(n)
+    # print(dist)
+    arr= [-1 for _ in range(n+1)]
 
-    for i in range(n):
-        # print(dist[i+1],"here")
-        if dist[i+1]%2:
-            arr[i]=1
-        else:
+    for i in range(1,n+1):
+        if dist[i]%2:
             arr[i]=0
-
-    for i in range(n):
+        else:
+            arr[i]=1
+    
+    # print(arr)
+    
+    for i in range(1,n+1):
         print(arr[i])
-
-
-
 
 
     
@@ -182,6 +163,7 @@ def solve():
             
             
 def main():
+    # for i in range(ii()):
         solve()
                 
             
@@ -321,7 +303,7 @@ input = lambda: sys.stdin.readline().rstrip("\r\n")
 
 
 if __name__ == "__main__":
-    # read()
+    read()
     main()
     #dmain()
 
