@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC45792511": {
+    "contest_id": "abc167",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc167/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Skill Up",
+    "problem_url": "https://atcoder.jp/contests/abc167/tasks/abc167_c",
+    "submission_id": "AC45792511",
+    "submission_url": "https://atcoder.jp/contests/abc167/submissions/45792511",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/22/2023 15:19"
+  },
   "AC45792810": {
     "contest_id": "abc167",
     "language": "Python (PyPy 3.10-v7.3.12)",
