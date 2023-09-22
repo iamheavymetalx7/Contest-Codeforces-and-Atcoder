@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC45796315": {
+    "contest_id": "abc127",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc127/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Cell Distance",
+    "problem_url": "https://atcoder.jp/contests/abc127/tasks/abc127_e",
+    "submission_id": "AC45796315",
+    "submission_url": "https://atcoder.jp/contests/abc127/submissions/45796315",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Sep/22/2023 18:22"
+  },
   "AC45813530": {
     "contest_id": "abc126",
     "language": "Python (PyPy 3.10-v7.3.12)",
