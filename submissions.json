@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC45794974": {
+    "contest_id": "abc167",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc167/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Colorful Blocks",
+    "problem_url": "https://atcoder.jp/contests/abc167/tasks/abc167_e",
+    "submission_id": "AC45794974",
+    "submission_url": "https://atcoder.jp/contests/abc167/submissions/45794974",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Sep/22/2023 17:30"
+  },
   "AC45796315": {
     "contest_id": "abc127",
     "language": "Python (PyPy 3.10-v7.3.12)",
