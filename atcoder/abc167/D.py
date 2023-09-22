@@ -1,6 +1,6 @@
 # /**
 # * author:Hisoka-TheMagician
-# * created: 22/09/2023 11:35 Chennai, India
+# * created: 22/09/2023 10:45 Chennai, India
 # **/
         
 
@@ -115,31 +115,35 @@ def solve():
     a=lmii()
     for i in range(n):
         a[i]-=1
+    
 
-    table =[[0]*n for _ in range(61)]
+    
+    # print(a)
+
+    table =[[0]*(n) for _ in range(61)]
 
     for i in range(n):
         table[0][i] = a[i]
-    
 
-
+    # print(table[0],"table[0]")
+        
     for i in range(1,61):
         for j in range(n):
             x = table[i-1][j]
-            table[i][j]=table[i-1][x]
-    
-    
+            table[i][j] = table[i-1][x]
 
-    final =[i for i in range(n)]
+    # print(table)
+
+    final_dst = [i for i in range(n)]
+    # print(final_dst)
+
 
     for i in range(60,-1,-1):
-        if k&(1<<i)==0:
+        if (k)&(1<<i)==0:
             continue
         for j in range(n):
-            final[j] =  table[i][final[j]]
-    
-    print(final[0]+1)
-
+            final_dst[j] = table[i][final_dst[j]]
+    print(final_dst[0]+1)
     
         
             
@@ -285,7 +289,7 @@ input = lambda: sys.stdin.readline().rstrip("\r\n")
 
 
 if __name__ == "__main__":
-    # read()
+    read()
     main()
     #dmain()
 
