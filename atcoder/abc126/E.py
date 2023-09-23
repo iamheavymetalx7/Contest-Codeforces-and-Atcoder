@@ -115,18 +115,10 @@ class UnionFind:
     
 
     def find(self,x):
-        # if x!=self.par[x]:
-        #     self.par[x]=self.find(self.par[x])
-        #     return self.par[x]
-        # return x
-    
-        p=self.par[x]
-
-        while p!=self.par[p]:
-            self.par[p] = self.par[self.par[p]]
-            p= self.par[p]
-
-        return p
+        if x!=self.par[x]:
+            self.par[x]=self.find(self.par[x])
+            return self.par[x]
+        return x
 
     def union(self,x,y):
         p1=self.find(x)
