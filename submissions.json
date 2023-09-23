@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC45862182": {
+    "contest_id": "abc321",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc321/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Set Menu",
+    "problem_url": "https://atcoder.jp/contests/abc321/tasks/abc321_d",
+    "submission_id": "AC45862182",
+    "submission_url": "https://atcoder.jp/contests/abc321/submissions/45862182",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Sep/23/2023 18:24"
+  },
   "AC45891074": {
     "contest_id": "abc321",
     "language": "Python (PyPy 3.10-v7.3.12)",
