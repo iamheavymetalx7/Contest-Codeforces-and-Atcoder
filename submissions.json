@@ -15068,6 +15068,23 @@
     ],
     "timestamp": "Aug/23/2023 15:06"
   },
+  "CF225464371": {
+    "contest_id": 1857,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1857/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Coloring",
+    "problem_url": "https://codeforces.com/contest/1857/problem/A",
+    "submission_id": "CF225464371",
+    "submission_url": "https://codeforces.com/contest/1857/submission/225464371",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/27/2023 11:22"
+  },
   "CF225464928": {
     "contest_id": 1857,
     "language": "PyPy 3-64",
