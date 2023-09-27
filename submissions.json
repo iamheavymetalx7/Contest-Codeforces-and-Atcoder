@@ -15067,5 +15067,23 @@
       "*1900"
     ],
     "timestamp": "Aug/23/2023 15:06"
+  },
+  "CF225464928": {
+    "contest_id": 1857,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1857/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Strong Vertices",
+    "problem_url": "https://codeforces.com/contest/1857/problem/D",
+    "submission_id": "CF225464928",
+    "submission_url": "https://codeforces.com/contest/1857/submission/225464928",
+    "tags": [
+      "math",
+      "sortings",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Sep/27/2023 11:32"
   }
 }
