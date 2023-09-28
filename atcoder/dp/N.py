@@ -115,10 +115,11 @@ def solve():
     
     n=ii()
     a=lmii()
-    pref =[0]*(n+1)
+    pref =[0]*(n)
+    pref[0]=a[0]
 
-    for i in range(n):
-        pref[i+1]=pref[i]+a[i]
+    for i in range(1,n):
+        pref[i]=pref[i-1]+a[i]
 
     # print(pref)
     dp=[[-1]*(n+2) for _ in range(n+2)]
@@ -133,7 +134,7 @@ def solve():
 
         ans = int(1e19)
         for k in range(i,j):
-            cost = pref[j+1]-pref[i]
+            cost = pref[j]-(pref[i-1] if i>0 else 0)
             
             
             ans = min(cost+recur(i,k)+recur(k+1,j),ans)
