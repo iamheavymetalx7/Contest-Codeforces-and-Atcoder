@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46058109": {
+    "contest_id": "abc322",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc322/A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "First ABC 2",
+    "problem_url": "https://atcoder.jp/contests/abc322/tasks/abc322_a",
+    "submission_id": "AC46058109",
+    "submission_url": "https://atcoder.jp/contests/abc322/submissions/46058109",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/30/2023 17:31"
+  },
   "AC46067147": {
     "contest_id": "abc322",
     "language": "Python (PyPy 3.10-v7.3.12)",
