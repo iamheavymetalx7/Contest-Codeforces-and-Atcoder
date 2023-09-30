@@ -117,9 +117,7 @@ def solve():
 
     dp = [[[-1]*(k+1) for _ in range(n+1)]for _ in range(n+1)]
 
-    from functools import cache
 
-    @cache
     def recur(l,r,op):
         if l>r:
             return 0
@@ -129,8 +127,8 @@ def solve():
         if op==k:
             return 0
         
-        # if dp[l][r][op]!=-1:
-        #     return dp[l][r][op]
+        if dp[l][r][op]!=-1:
+            return dp[l][r][op]
         ans =0
         
         if a[l]>=0:
@@ -146,9 +144,8 @@ def solve():
             ans = max(ans, recur(l+1,r,op+1)+a[l])
             ans = max(ans, recur(l+1,r,op+2))
         
-        # dp[l][r][op]=ans
-        # return dp[l][r][op]
-        return ans
+        dp[l][r][op]=ans
+        return dp[l][r][op]
 
     val = recur(0,n-1,0)
 
