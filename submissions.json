@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46071211": {
+    "contest_id": "abc322",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc322/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Festival",
+    "problem_url": "https://atcoder.jp/contests/abc322/tasks/abc322_c",
+    "submission_id": "AC46071211",
+    "submission_url": "https://atcoder.jp/contests/abc322/submissions/46071211",
+    "tags": [
+      "AtCoder",
+      "*250"
+    ],
+    "timestamp": "Sep/30/2023 17:39"
+  },
   "AC46137553": {
     "contest_id": "abc322",
     "language": "Python (PyPy 3.10-v7.3.12)",
