@@ -126,24 +126,25 @@ def solve():
         ans = INF
         ans = min(ans, recur(idx+1,x1,x2,x3,x4,x5))
 
+        nx1,nx2,nx3,nx4,nx5 = x1,x2,x3,x4,x5 
 
-        x1+=a[idx][1]
+        nx1+=a[idx][1]
         if k>1:
-            x2+=a[idx][2]
+            nx2+=a[idx][2]
         if k>2:
-            x3+=a[idx][3]
+            nx3+=a[idx][3]
         if k>3:
-            x4+=a[idx][4]
+            nx4+=a[idx][4]
         if k>4:
-            x5+=a[idx][5]
+            nx5+=a[idx][5]
         
-        x1=min(x1,p)
-        x2=min(x2,p)
-        x3=min(x3,p)
-        x4=min(x4,p); x5=min(x5,p)
+        nx1=min(nx1,p)
+        nx2=min(nx2,p)
+        nx3=min(nx3,p)
+        nx4=min(nx4,p); nx5=min(nx5,p)
 
 
-        ans = min(ans, a[idx][0]+recur(idx+1,x1,x2,x3,x4,x5))
+        ans = min(ans, a[idx][0]+recur(idx+1,nx1,nx2,nx3,nx4,nx5))
 
         return ans
 
