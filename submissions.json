@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46138121": {
+    "contest_id": "abc322",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc322/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Product Development",
+    "problem_url": "https://atcoder.jp/contests/abc322/tasks/abc322_e",
+    "submission_id": "AC46138121",
+    "submission_url": "https://atcoder.jp/contests/abc322/submissions/46138121",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Oct/01/2023 13:57"
+  },
   "AC46138134": {
     "contest_id": "abc322",
     "language": "Python (PyPy 3.10-v7.3.12)",

@@ -126,6 +126,7 @@ def solve():
 
 
     def recur(idx,arr):
+        # print(idx,arr)
         if idx>=n:
             for j in range(k):
                 if arr[j]<p:
@@ -151,9 +152,11 @@ def solve():
         ans = min(ans, recur(idx+1,arr))
 
         newarr = arr[:]
+        # print(newarr,"this is new",idx)
         for j in range(k):
             newarr[j]+=a[idx][j+1]
             newarr[j] = min(p,newarr[j])
+        # print(newarr,"after adding",idx)
         ans = min(ans,a[idx][0]+recur(idx+1,newarr))
 
 
@@ -162,6 +165,7 @@ def solve():
         return dp[result]
     
     mini  = recur(0,pdt)
+    # print(dp)
 
 
     print(mini if mini!=int(1e19) else -1)    
@@ -169,6 +173,7 @@ def solve():
 
             
 def main():
+    # for i in range(ii()):
         solve()
                 
             
