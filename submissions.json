@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46146128": {
+    "contest_id": "abc321",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc321/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Complete Binary Tree",
+    "problem_url": "https://atcoder.jp/contests/abc321/tasks/abc321_e",
+    "submission_id": "AC46146128",
+    "submission_url": "https://atcoder.jp/contests/abc321/submissions/46146128",
+    "tags": [
+      "AtCoder",
+      "*450"
+    ],
+    "timestamp": "Oct/01/2023 19:50"
+  },
   "AC46146773": {
     "contest_id": "abc321",
     "language": "Python (PyPy 3.10-v7.3.12)",
