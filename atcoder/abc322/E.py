@@ -1,6 +1,6 @@
 # /**
 # * author:Hisoka-TheMagician
-# * created: 01/10/2023 13:48 Chennai, India
+# * created: 01/10/2023 13:07 Chennai, India
 # **/
         
 
@@ -106,71 +106,62 @@ def tr(n):
 
         
 from collections import Counter, defaultdict, deque
-
+from functools import cache
 def solve():
     import sys
     input =sys.stdin.buffer.readline
-    
-    n,k,p=mii()
-    a=[] ; INF = int(1e19)
+    INF = int(1e19)
+    n,k,p= mii()
+    a= []
     for _ in range(n):
         a.append(lmii())
-    
-    mask = 0
-
-    pdt= [0 for _ in range(k)]
-
-    dp = {}
-
-    
-
-
-    def recur(idx,arr):
-        # print(idx,arr)
-        if idx>=n:
-            for j in range(k):
-                if arr[j]<p:
-                    return int(1e19)
-            
-            return 0
+    @cache
+    def recur(idx,x1,x2,x3,x4,x5):
+        if idx==n:
+            if x1==p and x2==p and x3==p and x4==p and x5==p:
+                return 0
+            else:
+                return INF
         
-        res =  [idx]
-        for i in range(k):
-            res+=[arr[i]]
-        
-        result = tuple(res)
-        # print(result)
-        if result in dp:
-            # print("yes found it")
-            return dp[result]
-        
-            
-        
-
         ans = INF
-
-        ans = min(ans, recur(idx+1,arr))
-
-        newarr = arr[:]
-        # print(newarr,"this is new",idx)
-        for j in range(k):
-            newarr[j]+=a[idx][j+1]
-            newarr[j] = min(p,newarr[j])
-        # print(newarr,"after adding",idx)
-        ans = min(ans,a[idx][0]+recur(idx+1,newarr))
+        ans = min(ans, recur(idx+1,x1,x2,x3,x4,x5))
 
 
-        dp[result]=ans
+        x1+=a[idx][1]
+        if k>1:
+            x2+=a[idx][2]
+        if k>2:
+            x3+=a[idx][3]
+        if k>3:
+            x4+=a[idx][4]
+        if k>4:
+            x5+=a[idx][5]
+        
+        x1=min(x1,p)
+        x2=min(x2,p)
+        x3=min(x3,p)
+        x4=min(x4,p); x5=min(x5,p)
 
-        return dp[result]
+
+        ans = min(ans, a[idx][0]+recur(idx+1,x1,x2,x3,x4,x5))
+
+        return ans
+
+    if k==1:
+        val = recur(0,0,p,p,p,p)
+    elif k==2:
+        val = recur(0,0,0,p,p,p)
+    elif k==3:
+        val = recur(0,0,0,0,p,p)
+    elif k==4:
+        val = recur(0,0,0,0,0,p)
+    else:
+        val = recur(0,0,0,0,0,0)
+
+    print(val if val!=INF else -1)    
     
-    mini  = recur(0,pdt)
-    # print(dp)
-
-
-    print(mini if mini!=int(1e19) else -1)    
-
-
+        
+            
             
 def main():
     # for i in range(ii()):
