@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46149906": {
+    "contest_id": "abc129",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc129/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Typical Stairs",
+    "problem_url": "https://atcoder.jp/contests/abc129/tasks/abc129_c",
+    "submission_id": "AC46149906",
+    "submission_url": "https://atcoder.jp/contests/abc129/submissions/46149906",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/02/2023 01:03"
+  },
   "AC46149931": {
     "contest_id": "abc129",
     "language": "Python (PyPy 3.10-v7.3.12)",

@@ -120,6 +120,7 @@ def solve():
         a[x]=1
     # print(a)
     mod = int(1e9)+7
+    seen = set(a)
 
     @cache
     def recur(idx):
@@ -134,6 +135,7 @@ def solve():
         
         ans+=recur(idx+1)
         ans%=mod
+        
         ans+=recur(idx+2)
         ans%=mod
         return ans
