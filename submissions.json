@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46161519": {
+    "contest_id": "abc129",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc129/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Lamp",
+    "problem_url": "https://atcoder.jp/contests/abc129/tasks/abc129_d",
+    "submission_id": "AC46161519",
+    "submission_url": "https://atcoder.jp/contests/abc129/submissions/46161519",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/02/2023 14:37"
+  },
   "AC46184372": {
     "contest_id": "abc130",
     "language": "Python (PyPy 3.10-v7.3.12)",
