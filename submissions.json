@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46184627": {
+    "contest_id": "abc130",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc130/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Enough Array",
+    "problem_url": "https://atcoder.jp/contests/abc130/tasks/abc130_d",
+    "submission_id": "AC46184627",
+    "submission_url": "https://atcoder.jp/contests/abc130/submissions/46184627",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/03/2023 14:46"
+  },
   "AC46185419": {
     "contest_id": "abc130",
     "language": "Python (PyPy 3.10-v7.3.12)",
