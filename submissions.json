@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46185419": {
+    "contest_id": "abc130",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc130/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Common Subsequence",
+    "problem_url": "https://atcoder.jp/contests/abc130/tasks/abc130_e",
+    "submission_id": "AC46185419",
+    "submission_url": "https://atcoder.jp/contests/abc130/submissions/46185419",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Oct/03/2023 15:27"
+  },
   "AC46220984": {
     "contest_id": "abc131",
     "language": "Python (PyPy 3.10-v7.3.12)",
