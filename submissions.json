@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46220984": {
+    "contest_id": "abc131",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc131/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Anti-Division",
+    "problem_url": "https://atcoder.jp/contests/abc131/tasks/abc131_c",
+    "submission_id": "AC46220984",
+    "submission_url": "https://atcoder.jp/contests/abc131/submissions/46220984",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/05/2023 03:40"
+  },
   "AC46241111": {
     "contest_id": "abc131",
     "language": "Python (PyPy 3.10-v7.3.12)",
