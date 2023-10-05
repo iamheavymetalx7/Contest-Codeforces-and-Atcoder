@@ -1,6 +1,6 @@
 # /**
 # * author:Hisoka-TheMagician
-# * created: 12/07/2023 10:39 Chennai, India
+# * created: 05/10/2023 20:34 Chennai, India
 # **/
         
 
@@ -12,6 +12,7 @@
 from __future__ import division, print_function
 
 import os,sys
+#sys.setrecursionlimit(9*10**8)
 from io import BytesIO, IOBase
 
 if sys.version_info[0] < 3:
@@ -20,6 +21,7 @@ if sys.version_info[0] < 3:
 
 from bisect import bisect_left as lower_bound, bisect_right as upper_bound 
 
+from math import sqrt
 def lmii():
     return list(map(int,input().split()))
 
@@ -60,13 +62,6 @@ def isprime(n):
             return False
     return True
 
-from math import *
-def npr(n, r):
-    return factorial(n) // factorial(n - r) if n >= r else 0
- 
- 
-def ncr(n, r):
-    return factorial(n) // (factorial(r) * factorial(n - r)) if n >= r else 0
  
  
 def SieveOfEratosthenes(n):
@@ -99,9 +94,12 @@ def primefactors(n):
     return factors
          
     
+from os import path
 def read():
-    sys.stdin  = open('input.txt', 'r')  
-    sys.stdout = open('output.txt', 'w') 
+     if (path.exists('input.txt')):
+        sys.stdin  = open('input.txt', 'r')  
+        sys.stdout = open('output.txt', 'w') 
+ 
 def tr(n):
     return n*(n+1)//2
 
@@ -115,26 +113,19 @@ def solve():
     n=ii()
     a=[]
     for _ in range(n):
-        s,e=mii()
-        a.append([s,e])
-    
-    a.sort(key=lambda x:(x[1]))
+        ai,bi =mii()
+        ## units of time , deadline
+        a.append([ai,bi])
+    a.sort(key = lambda x:x[1])
     # print(a)
-
-    t=0
-    cnt=0
+    curr = 0
     for i in range(n):
-        if t+a[i][0]<=a[i][1]:
-            cnt+=1
-            t+=a[i][0]
-        else:
-            break
+        curr+=a[i][0]
+        if curr>a[i][1]:
+            print("No")
+            return
     
-    if cnt==n:
-        print("Yes")
-        return
-    print("No")
-
+    print("Yes")
     
 
     
@@ -283,7 +274,7 @@ input = lambda: sys.stdin.readline().rstrip("\r\n")
 
 
 if __name__ == "__main__":
-    # read()
+    read()
     main()
     #dmain()
 
