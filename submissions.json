@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46418753": {
+    "contest_id": "abc323",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc323/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "World Tour Finals",
+    "problem_url": "https://atcoder.jp/contests/abc323/tasks/abc323_c",
+    "submission_id": "AC46418753",
+    "submission_url": "https://atcoder.jp/contests/abc323/submissions/46418753",
+    "tags": [
+      "AtCoder",
+      "*250"
+    ],
+    "timestamp": "Oct/10/2023 04:02"
+  },
   "AC46422240": {
     "contest_id": "abc323",
     "language": "Python (PyPy 3.10-v7.3.12)",
