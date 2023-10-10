@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46429481": {
+    "contest_id": "abc323",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc323/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Playlist",
+    "problem_url": "https://atcoder.jp/contests/abc323/tasks/abc323_e",
+    "submission_id": "AC46429481",
+    "submission_url": "https://atcoder.jp/contests/abc323/submissions/46429481",
+    "tags": [
+      "AtCoder",
+      "*450"
+    ],
+    "timestamp": "Oct/10/2023 14:28"
+  },
   "AC46948690": {
     "contest_id": "abc324",
     "language": "C++ 20 (gcc 12.2)",
