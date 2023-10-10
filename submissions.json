@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46422240": {
+    "contest_id": "abc323",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc323/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Merge Slimes",
+    "problem_url": "https://atcoder.jp/contests/abc323/tasks/abc323_d",
+    "submission_id": "AC46422240",
+    "submission_url": "https://atcoder.jp/contests/abc323/submissions/46422240",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Oct/10/2023 08:35"
+  },
   "AC46429481": {
     "contest_id": "abc323",
     "language": "Python (PyPy 3.10-v7.3.12)",
