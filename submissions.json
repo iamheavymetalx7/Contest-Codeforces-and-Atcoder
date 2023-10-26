@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46948760": {
+    "contest_id": "abc324",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc324/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "3-smooth Numbers",
+    "problem_url": "https://atcoder.jp/contests/abc324/tasks/abc324_b",
+    "submission_id": "AC46948760",
+    "submission_url": "https://atcoder.jp/contests/abc324/submissions/46948760",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/26/2023 18:26"
+  },
   "AC46950871": {
     "contest_id": "abc324",
     "language": "C++ 20 (gcc 12.2)",
