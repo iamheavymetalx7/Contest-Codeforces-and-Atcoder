@@ -1471,6 +1471,22 @@
     ],
     "timestamp": "Aug/09/2023 18:02"
   },
+  "AC46954651": {
+    "contest_id": "abc325",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc325/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "World Meeting",
+    "problem_url": "https://atcoder.jp/contests/abc325/tasks/abc325_b",
+    "submission_id": "AC46954651",
+    "submission_url": "https://atcoder.jp/contests/abc325/submissions/46954651",
+    "tags": [
+      "AtCoder",
+      "*250"
+    ],
+    "timestamp": "Oct/27/2023 01:21"
+  },
   "CF182286832": {
     "contest_id": 1744,
     "language": "PyPy 3-64",
