@@ -2351,6 +2351,22 @@
     ],
     "timestamp": "Oct/27/2023 01:21"
   },
+  "AC47139758": {
+    "contest_id": "abc326",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc326/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Peak",
+    "problem_url": "https://atcoder.jp/contests/abc326/tasks/abc326_c",
+    "submission_id": "AC47139758",
+    "submission_url": "https://atcoder.jp/contests/abc326/submissions/47139758",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/01/2023 19:23"
+  },
   "AC47147862": {
     "contest_id": "abc326",
     "language": "C++ 20 (gcc 12.2)",
