@@ -2351,6 +2351,22 @@
     ],
     "timestamp": "Oct/27/2023 01:21"
   },
+  "AC47147895": {
+    "contest_id": "abc326",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc326/E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Revenge of \"The Salary of AtCoder Inc.\"",
+    "problem_url": "https://atcoder.jp/contests/abc326/tasks/abc326_e",
+    "submission_id": "AC47147895",
+    "submission_url": "https://atcoder.jp/contests/abc326/submissions/47147895",
+    "tags": [
+      "AtCoder",
+      "*450"
+    ],
+    "timestamp": "Nov/02/2023 09:33"
+  },
   "AC47274496": {
     "contest_id": "abc327",
     "language": "Python (PyPy 3.10-v7.3.12)",

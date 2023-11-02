@@ -13,18 +13,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-832 | [E - Modulo MST](https://atcoder.jp/contests/abc328/tasks/abc328_e) | [C++ 20 (gcc 12.2)](./atcoder/abc328/E.cpp) | `AtCoder` `*475` | Nov/12/2023 01:14 | 
-831 | [D - Take ABC](https://atcoder.jp/contests/abc328/tasks/abc328_d) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/D.py) | `AtCoder` `*425` | Nov/11/2023 18:03 | 
-830 | [C - Consecutive](https://atcoder.jp/contests/abc328/tasks/abc328_c) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/C.py) | `AtCoder` `*300` | Nov/11/2023 17:49 | 
-829 | [B - 11/11](https://atcoder.jp/contests/abc328/tasks/abc328_b) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/B.py) | `AtCoder` `*200` | Nov/11/2023 17:40 | 
-828 | [A - Not Too Hard](https://atcoder.jp/contests/abc328/tasks/abc328_a) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/A.py) | `AtCoder` `*100` | Nov/11/2023 17:31 | 
-827 | [C - Divide the Problems](https://atcoder.jp/contests/abc132/tasks/abc132_c) | [C++ 20 (gcc 12.2)](./atcoder/abc132/C.cpp) | `AtCoder` `*300` | Nov/10/2023 16:14 | 
-826 | [D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d) | [C++ 20 (gcc 12.2)](./atcoder/abc132/D.cpp) | `AtCoder` `*400` | Nov/10/2023 16:03 | 
-825 | [E - Maximize Rating](https://atcoder.jp/contests/abc327/tasks/abc327_e) | [C++ 20 (gcc 12.2)](./atcoder/abc327/E.cpp) | `AtCoder` `*475` | Nov/09/2023 14:16 | 
-824 | [D - Good Tuple Problem](https://atcoder.jp/contests/abc327/tasks/abc327_d) | [C++ 20 (gcc 12.2)](./atcoder/abc327/D.cpp) | `AtCoder` `*400` | Nov/09/2023 13:09 | 
-823 | [C - Number Place](https://atcoder.jp/contests/abc327/tasks/abc327_c) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc327/C.py) | `AtCoder` `*250` | Nov/04/2023 19:22 | 
-822 | [B - A^A](https://atcoder.jp/contests/abc327/tasks/abc327_b) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc327/B.py) | `AtCoder` `*200` | Nov/04/2023 19:15 | 
-821 | [A - ab](https://atcoder.jp/contests/abc327/tasks/abc327_a) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc327/A.py) | `AtCoder` `*100` | Nov/04/2023 19:11 | 
+833 | [E - Modulo MST](https://atcoder.jp/contests/abc328/tasks/abc328_e) | [C++ 20 (gcc 12.2)](./atcoder/abc328/E.cpp) | `AtCoder` `*475` | Nov/12/2023 01:14 | 
+832 | [D - Take ABC](https://atcoder.jp/contests/abc328/tasks/abc328_d) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/D.py) | `AtCoder` `*425` | Nov/11/2023 18:03 | 
+831 | [C - Consecutive](https://atcoder.jp/contests/abc328/tasks/abc328_c) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/C.py) | `AtCoder` `*300` | Nov/11/2023 17:49 | 
+830 | [B - 11/11](https://atcoder.jp/contests/abc328/tasks/abc328_b) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/B.py) | `AtCoder` `*200` | Nov/11/2023 17:40 | 
+829 | [A - Not Too Hard](https://atcoder.jp/contests/abc328/tasks/abc328_a) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/A.py) | `AtCoder` `*100` | Nov/11/2023 17:31 | 
+828 | [C - Divide the Problems](https://atcoder.jp/contests/abc132/tasks/abc132_c) | [C++ 20 (gcc 12.2)](./atcoder/abc132/C.cpp) | `AtCoder` `*300` | Nov/10/2023 16:14 | 
+827 | [D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d) | [C++ 20 (gcc 12.2)](./atcoder/abc132/D.cpp) | `AtCoder` `*400` | Nov/10/2023 16:03 | 
+826 | [E - Maximize Rating](https://atcoder.jp/contests/abc327/tasks/abc327_e) | [C++ 20 (gcc 12.2)](./atcoder/abc327/E.cpp) | `AtCoder` `*475` | Nov/09/2023 14:16 | 
+825 | [D - Good Tuple Problem](https://atcoder.jp/contests/abc327/tasks/abc327_d) | [C++ 20 (gcc 12.2)](./atcoder/abc327/D.cpp) | `AtCoder` `*400` | Nov/09/2023 13:09 | 
+824 | [C - Number Place](https://atcoder.jp/contests/abc327/tasks/abc327_c) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc327/C.py) | `AtCoder` `*250` | Nov/04/2023 19:22 | 
+823 | [B - A^A](https://atcoder.jp/contests/abc327/tasks/abc327_b) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc327/B.py) | `AtCoder` `*200` | Nov/04/2023 19:15 | 
+822 | [A - ab](https://atcoder.jp/contests/abc327/tasks/abc327_a) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc327/A.py) | `AtCoder` `*100` | Nov/04/2023 19:11 | 
+821 | [E - Revenge of "The Salary of AtCoder Inc."](https://atcoder.jp/contests/abc326/tasks/abc326_e) | [C++ 20 (gcc 12.2)](./atcoder/abc326/E.cpp) | `AtCoder` `*450` | Nov/02/2023 09:33 | 
 820 | [B - World Meeting](https://atcoder.jp/contests/abc325/tasks/abc325_b) | [C++ 20 (gcc 12.2)](./atcoder/abc325/B.cpp) | `AtCoder` `*250` | Oct/27/2023 01:21 | 
 819 | [A - Takahashi san](https://atcoder.jp/contests/abc325/tasks/abc325_a) | [C++ 20 (gcc 12.2)](./atcoder/abc325/A.cpp) | `AtCoder` `*100` | Oct/27/2023 01:12 | 
 818 | [C - Error Correction](https://atcoder.jp/contests/abc324/tasks/abc324_c) | [C++ 20 (gcc 12.2)](./atcoder/abc324/C.cpp) | `AtCoder` `*300` | Oct/26/2023 19:57 | 
