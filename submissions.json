@@ -2351,6 +2351,22 @@
     ],
     "timestamp": "Oct/27/2023 01:21"
   },
+  "AC47276352": {
+    "contest_id": "abc327",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc327/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Number Place",
+    "problem_url": "https://atcoder.jp/contests/abc327/tasks/abc327_c",
+    "submission_id": "AC47276352",
+    "submission_url": "https://atcoder.jp/contests/abc327/submissions/47276352",
+    "tags": [
+      "AtCoder",
+      "*250"
+    ],
+    "timestamp": "Nov/04/2023 19:22"
+  },
   "AC47397733": {
     "contest_id": "abc327",
     "language": "C++ 20 (gcc 12.2)",
