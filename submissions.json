@@ -2351,6 +2351,22 @@
     ],
     "timestamp": "Oct/27/2023 01:21"
   },
+  "AC47397733": {
+    "contest_id": "abc327",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc327/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Good Tuple Problem",
+    "problem_url": "https://atcoder.jp/contests/abc327/tasks/abc327_d",
+    "submission_id": "AC47397733",
+    "submission_url": "https://atcoder.jp/contests/abc327/submissions/47397733",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/09/2023 13:09"
+  },
   "AC47399033": {
     "contest_id": "abc327",
     "language": "Python (PyPy 3.10-v7.3.12)",
