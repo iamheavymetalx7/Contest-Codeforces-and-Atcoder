@@ -2351,6 +2351,22 @@
     ],
     "timestamp": "Oct/27/2023 01:21"
   },
+  "AC47399033": {
+    "contest_id": "abc327",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc327/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Maximize Rating",
+    "problem_url": "https://atcoder.jp/contests/abc327/tasks/abc327_e",
+    "submission_id": "AC47399033",
+    "submission_url": "https://atcoder.jp/contests/abc327/submissions/47399033",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Nov/09/2023 13:51"
+  },
   "AC47399803": {
     "contest_id": "abc327",
     "language": "C++ 20 (gcc 12.2)",
