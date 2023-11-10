@@ -2351,6 +2351,22 @@
     ],
     "timestamp": "Oct/27/2023 01:21"
   },
+  "AC47424974": {
+    "contest_id": "abc132",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc132/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Divide the Problems",
+    "problem_url": "https://atcoder.jp/contests/abc132/tasks/abc132_c",
+    "submission_id": "AC47424974",
+    "submission_url": "https://atcoder.jp/contests/abc132/submissions/47424974",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/10/2023 16:14"
+  },
   "AC47454007": {
     "contest_id": "abc328",
     "language": "Python (PyPy 3.10-v7.3.12)",

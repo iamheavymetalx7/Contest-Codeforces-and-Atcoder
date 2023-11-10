@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-824 | [D - Take ABC](https://atcoder.jp/contests/abc328/tasks/abc328_d) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/D.py) | `AtCoder` `*425` | Nov/11/2023 18:03 | 
-823 | [C - Consecutive](https://atcoder.jp/contests/abc328/tasks/abc328_c) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/C.py) | `AtCoder` `*300` | Nov/11/2023 17:49 | 
-822 | [B - 11/11](https://atcoder.jp/contests/abc328/tasks/abc328_b) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/B.py) | `AtCoder` `*200` | Nov/11/2023 17:40 | 
-821 | [A - Not Too Hard](https://atcoder.jp/contests/abc328/tasks/abc328_a) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/A.py) | `AtCoder` `*100` | Nov/11/2023 17:31 | 
+825 | [D - Take ABC](https://atcoder.jp/contests/abc328/tasks/abc328_d) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/D.py) | `AtCoder` `*425` | Nov/11/2023 18:03 | 
+824 | [C - Consecutive](https://atcoder.jp/contests/abc328/tasks/abc328_c) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/C.py) | `AtCoder` `*300` | Nov/11/2023 17:49 | 
+823 | [B - 11/11](https://atcoder.jp/contests/abc328/tasks/abc328_b) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/B.py) | `AtCoder` `*200` | Nov/11/2023 17:40 | 
+822 | [A - Not Too Hard](https://atcoder.jp/contests/abc328/tasks/abc328_a) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/A.py) | `AtCoder` `*100` | Nov/11/2023 17:31 | 
+821 | [C - Divide the Problems](https://atcoder.jp/contests/abc132/tasks/abc132_c) | [C++ 20 (gcc 12.2)](./atcoder/abc132/C.cpp) | `AtCoder` `*300` | Nov/10/2023 16:14 | 
 820 | [B - World Meeting](https://atcoder.jp/contests/abc325/tasks/abc325_b) | [C++ 20 (gcc 12.2)](./atcoder/abc325/B.cpp) | `AtCoder` `*250` | Oct/27/2023 01:21 | 
 819 | [A - Takahashi san](https://atcoder.jp/contests/abc325/tasks/abc325_a) | [C++ 20 (gcc 12.2)](./atcoder/abc325/A.cpp) | `AtCoder` `*100` | Oct/27/2023 01:12 | 
 818 | [C - Error Correction](https://atcoder.jp/contests/abc324/tasks/abc324_c) | [C++ 20 (gcc 12.2)](./atcoder/abc324/C.cpp) | `AtCoder` `*300` | Oct/26/2023 19:57 | 
