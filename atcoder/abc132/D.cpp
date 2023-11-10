@@ -53,7 +53,7 @@ void modfac() {
 int nCr(int n, int r) {
 
     if (n-r>=0&& r>=0){
-    return fac[n] * inv[r] % mod * inv[n - r] % mod;
+    return 1LL * fac[n] * inv[r] % mod * inv[n - r] % mod;
     }
     else{
         return 0;
