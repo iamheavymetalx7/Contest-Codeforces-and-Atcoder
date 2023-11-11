@@ -2351,6 +2351,22 @@
     ],
     "timestamp": "Oct/27/2023 01:21"
   },
+  "AC47479707": {
+    "contest_id": "abc328",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc328/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Take ABC",
+    "problem_url": "https://atcoder.jp/contests/abc328/tasks/abc328_d",
+    "submission_id": "AC47479707",
+    "submission_url": "https://atcoder.jp/contests/abc328/submissions/47479707",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Nov/11/2023 18:03"
+  },
   "CF182286832": {
     "contest_id": 1744,
     "language": "PyPy 3-64",
