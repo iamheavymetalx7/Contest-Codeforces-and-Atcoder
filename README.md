@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+827 | [E - Modulo MST](https://atcoder.jp/contests/abc328/tasks/abc328_e) | [C++ 20 (gcc 12.2)](./atcoder/abc328/E.cpp) | `AtCoder` `*475` | Nov/12/2023 01:14 | 
 826 | [D - Take ABC](https://atcoder.jp/contests/abc328/tasks/abc328_d) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/D.py) | `AtCoder` `*425` | Nov/11/2023 18:03 | 
 825 | [C - Consecutive](https://atcoder.jp/contests/abc328/tasks/abc328_c) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/C.py) | `AtCoder` `*300` | Nov/11/2023 17:49 | 
 824 | [B - 11/11](https://atcoder.jp/contests/abc328/tasks/abc328_b) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/B.py) | `AtCoder` `*200` | Nov/11/2023 17:40 | 
