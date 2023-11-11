@@ -2351,6 +2351,22 @@
     ],
     "timestamp": "Oct/27/2023 01:21"
   },
+  "AC47454007": {
+    "contest_id": "abc328",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc328/A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Not Too Hard",
+    "problem_url": "https://atcoder.jp/contests/abc328/tasks/abc328_a",
+    "submission_id": "AC47454007",
+    "submission_url": "https://atcoder.jp/contests/abc328/submissions/47454007",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/11/2023 17:31"
+  },
   "AC47464312": {
     "contest_id": "abc328",
     "language": "Python (PyPy 3.10-v7.3.12)",
