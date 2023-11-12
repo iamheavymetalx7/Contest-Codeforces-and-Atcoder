@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-842 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [Python (CPython 3.11.4)](./atcoder/abc329/C.py) | `AtCoder` `*300` | Dec/16/2023 12:05 | 
-841 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 20 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Dec/16/2023 11:38 | 
-840 | [A - Spread](https://atcoder.jp/contests/abc329/tasks/abc329_a) | [C++ 20 (gcc 12.2)](./atcoder/abc329/A.cpp) | `AtCoder` `*100` | Dec/16/2023 11:35 | 
-839 | [D - Coloring Dominoes](https://atcoder.jp/contests/abc071/tasks/arc081_b) | [C++ 20 (gcc 12.2)](./atcoder/abc071/D.cpp) | `AtCoder` `*400` | Nov/23/2023 02:14 | 
-838 | [D - Fill The Bag](https://codeforces.com/contest/1303/problem/D) | [GNU C++20 (64)](./codeforces/1303/D.cpp) | `bitmasks` `greedy` `*1900` | Nov/20/2023 15:07 | 
-837 | [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | [C++ 20 (gcc 12.2)](./atcoder/dp/E.cpp) | `AtCoder` `*100` | Nov/20/2023 04:04 | 
-836 | [C - Exception Handling](https://atcoder.jp/contests/abc134/tasks/abc134_c) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc134/C.py) | `AtCoder` `*300` | Nov/15/2023 02:04 | 
-835 | [B - Golden Apple](https://atcoder.jp/contests/abc134/tasks/abc134_b) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc134/B.py) | `AtCoder` `*200` | Nov/14/2023 19:45 | 
-834 | [E - Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e) | [C++ 20 (gcc 12.2)](./atcoder/abc208/E.cpp) | `AtCoder` `*500` | Nov/14/2023 03:55 | 
+843 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [Python (CPython 3.11.4)](./atcoder/abc329/C.py) | `AtCoder` `*300` | Dec/16/2023 12:05 | 
+842 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 20 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Dec/16/2023 11:38 | 
+841 | [A - Spread](https://atcoder.jp/contests/abc329/tasks/abc329_a) | [C++ 20 (gcc 12.2)](./atcoder/abc329/A.cpp) | `AtCoder` `*100` | Dec/16/2023 11:35 | 
+840 | [D - Coloring Dominoes](https://atcoder.jp/contests/abc071/tasks/arc081_b) | [C++ 20 (gcc 12.2)](./atcoder/abc071/D.cpp) | `AtCoder` `*400` | Nov/23/2023 02:14 | 
+839 | [D - Fill The Bag](https://codeforces.com/contest/1303/problem/D) | [GNU C++20 (64)](./codeforces/1303/D.cpp) | `bitmasks` `greedy` `*1900` | Nov/20/2023 15:07 | 
+838 | [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | [C++ 20 (gcc 12.2)](./atcoder/dp/E.cpp) | `AtCoder` `*100` | Nov/20/2023 04:04 | 
+837 | [C - Exception Handling](https://atcoder.jp/contests/abc134/tasks/abc134_c) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc134/C.py) | `AtCoder` `*300` | Nov/15/2023 02:04 | 
+836 | [B - Golden Apple](https://atcoder.jp/contests/abc134/tasks/abc134_b) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc134/B.py) | `AtCoder` `*200` | Nov/14/2023 19:45 | 
+835 | [E - Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e) | [C++ 20 (gcc 12.2)](./atcoder/abc208/E.cpp) | `AtCoder` `*500` | Nov/14/2023 03:55 | 
+834 | [E - Virus Tree 2](https://atcoder.jp/contests/abc133/tasks/abc133_e) | [C++ 20 (gcc 12.2)](./atcoder/abc133/E.cpp) | `AtCoder` `*500` | Nov/13/2023 02:08 | 
 833 | [E - Modulo MST](https://atcoder.jp/contests/abc328/tasks/abc328_e) | [C++ 20 (gcc 12.2)](./atcoder/abc328/E.cpp) | `AtCoder` `*475` | Nov/12/2023 01:14 | 
 832 | [D - Take ABC](https://atcoder.jp/contests/abc328/tasks/abc328_d) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/D.py) | `AtCoder` `*425` | Nov/11/2023 18:03 | 
 831 | [C - Consecutive](https://atcoder.jp/contests/abc328/tasks/abc328_c) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/C.py) | `AtCoder` `*300` | Nov/11/2023 17:49 | 
