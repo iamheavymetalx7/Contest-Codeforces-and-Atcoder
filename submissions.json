@@ -2655,6 +2655,22 @@
     ],
     "timestamp": "Nov/12/2023 01:14"
   },
+  "AC47562299": {
+    "contest_id": "abc208",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc208/E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Digit Products",
+    "problem_url": "https://atcoder.jp/contests/abc208/tasks/abc208_e",
+    "submission_id": "AC47562299",
+    "submission_url": "https://atcoder.jp/contests/abc208/submissions/47562299",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Nov/14/2023 03:55"
+  },
   "AC47580150": {
     "contest_id": "abc134",
     "language": "Python (PyPy 3.10-v7.3.12)",
