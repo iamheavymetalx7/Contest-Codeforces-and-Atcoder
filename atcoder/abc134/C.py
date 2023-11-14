@@ -117,15 +117,16 @@ def solve():
     for i in range(n):
         x=ii()
         a.append(x)
-    b=sorted(a)
-    a1,a2=b[-1],b[-2]
-
+        b.append([x,i])
+    b.sort()
+    # print(b)
     for i in range(n):
-        if a[i]==a1:
-            print(a2)
+        xi = bisect_left(b,[a[i],i])
+        # print(xi,"xii")
+        if xi==n-1:
+            print(b[xi-1][0])
         else:
-            print(a1)
-        
+            print(b[-1][0])
         
 
 
