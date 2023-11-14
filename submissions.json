@@ -2655,6 +2655,22 @@
     ],
     "timestamp": "Nov/12/2023 01:14"
   },
+  "AC47580150": {
+    "contest_id": "abc134",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc134/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Golden Apple",
+    "problem_url": "https://atcoder.jp/contests/abc134/tasks/abc134_b",
+    "submission_id": "AC47580150",
+    "submission_url": "https://atcoder.jp/contests/abc134/submissions/47580150",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/14/2023 19:45"
+  },
   "AC47583916": {
     "contest_id": "abc134",
     "language": "Python (PyPy 3.10-v7.3.12)",
