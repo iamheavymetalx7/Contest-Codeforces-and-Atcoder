@@ -2655,6 +2655,22 @@
     ],
     "timestamp": "Nov/12/2023 01:14"
   },
+  "AC47583946": {
+    "contest_id": "abc134",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc134/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Exception Handling",
+    "problem_url": "https://atcoder.jp/contests/abc134/tasks/abc134_c",
+    "submission_id": "AC47583946",
+    "submission_url": "https://atcoder.jp/contests/abc134/submissions/47583946",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/15/2023 02:04"
+  },
   "AC47771035": {
     "contest_id": "dp",
     "language": "C++ 20 (gcc 12.2)",
