@@ -2655,6 +2655,22 @@
     ],
     "timestamp": "Nov/12/2023 01:14"
   },
+  "AC47832787": {
+    "contest_id": "abc071",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc071/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Coloring Dominoes",
+    "problem_url": "https://atcoder.jp/contests/abc071/tasks/arc081_b",
+    "submission_id": "AC47832787",
+    "submission_url": "https://atcoder.jp/contests/abc071/submissions/47832787",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/23/2023 02:14"
+  },
   "AC48524201": {
     "contest_id": "abc329",
     "language": "C++ 20 (gcc 12.2)",

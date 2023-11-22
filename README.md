@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-837 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [Python (CPython 3.11.4)](./atcoder/abc329/C.py) | `AtCoder` `*300` | Dec/16/2023 12:05 | 
-836 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 20 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Dec/16/2023 11:38 | 
-835 | [A - Spread](https://atcoder.jp/contests/abc329/tasks/abc329_a) | [C++ 20 (gcc 12.2)](./atcoder/abc329/A.cpp) | `AtCoder` `*100` | Dec/16/2023 11:35 | 
+838 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [Python (CPython 3.11.4)](./atcoder/abc329/C.py) | `AtCoder` `*300` | Dec/16/2023 12:05 | 
+837 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 20 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Dec/16/2023 11:38 | 
+836 | [A - Spread](https://atcoder.jp/contests/abc329/tasks/abc329_a) | [C++ 20 (gcc 12.2)](./atcoder/abc329/A.cpp) | `AtCoder` `*100` | Dec/16/2023 11:35 | 
+835 | [D - Coloring Dominoes](https://atcoder.jp/contests/abc071/tasks/arc081_b) | [C++ 20 (gcc 12.2)](./atcoder/abc071/D.cpp) | `AtCoder` `*400` | Nov/23/2023 02:14 | 
 834 | [D - Fill The Bag](https://codeforces.com/contest/1303/problem/D) | [GNU C++20 (64)](./codeforces/1303/D.cpp) | `bitmasks` `greedy` `*1900` | Nov/20/2023 15:07 | 
 833 | [E - Modulo MST](https://atcoder.jp/contests/abc328/tasks/abc328_e) | [C++ 20 (gcc 12.2)](./atcoder/abc328/E.cpp) | `AtCoder` `*475` | Nov/12/2023 01:14 | 
 832 | [D - Take ABC](https://atcoder.jp/contests/abc328/tasks/abc328_d) | [Python (PyPy 3.10-v7.3.12)](./atcoder/abc328/D.py) | `AtCoder` `*425` | Nov/11/2023 18:03 | 
