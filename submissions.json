@@ -2655,6 +2655,22 @@
     ],
     "timestamp": "Nov/12/2023 01:14"
   },
+  "AC48524821": {
+    "contest_id": "abc329",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder/abc329/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Count xxx",
+    "problem_url": "https://atcoder.jp/contests/abc329/tasks/abc329_c",
+    "submission_id": "AC48524821",
+    "submission_url": "https://atcoder.jp/contests/abc329/submissions/48524821",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/16/2023 12:02"
+  },
   "AC48524873": {
     "contest_id": "abc329",
     "language": "Python (CPython 3.11.4)",
