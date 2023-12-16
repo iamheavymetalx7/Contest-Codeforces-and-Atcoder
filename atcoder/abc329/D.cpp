@@ -25,38 +25,23 @@
             cin>>arr[i];
         }
 
-        vector<int> cnt(k+1,0);
-        int ans = 0;
+        priority_queue<pair<int,int>> pq;
+        unordered_map<int,int> mp;
+
+
+        // here pq is max wala, max element at top
+
         for(int i=0;i<n;i++){
-            cnt[arr[i]]++;
-            if (cnt[arr[i]]>cnt[ans]){
-                ans = arr[i];
-            }
-            else if(cnt[ans]==cnt[arr[i]]){
-                ans = min(ans,arr[i]);
-            }
-            cout<<ans<<endl;
+            mp[arr[i]]++;
+            // cout<<"Pushing: "<<mp[arr[i]]<<" "<<-arr[i]<<endl;
+            pq.push({mp[arr[i]],-arr[i]});
+
+            auto x = pq.top();
+            // cout<<x.first<<" "<<x.second<<endl;  
+            cout<<-x.second<<endl;
 
 
-        }
-
-        // priority_queue<pair<int,int>> pq;
-        // unordered_map<int,int> mp;
-
-
-        // // here pq is max wala, max element at top
-
-        // for(int i=0;i<n;i++){
-        //     mp[arr[i]]++;
-        //     // cout<<"Pushing: "<<mp[arr[i]]<<" "<<-arr[i]<<endl;
-        //     pq.push({mp[arr[i]],-arr[i]});
-
-        //     auto x = pq.top();
-        //     // cout<<x.first<<" "<<x.second<<endl;  
-        //     cout<<-x.second<<endl;
-
-
-        // }    
+        }    
 
         // while (!pq.empty()){
         //     auto x = pq.top();
