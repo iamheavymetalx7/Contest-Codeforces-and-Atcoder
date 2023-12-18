@@ -2895,6 +2895,22 @@
     ],
     "timestamp": "Dec/16/2023 12:05"
   },
+  "AC48639609": {
+    "contest_id": "abc330",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc330/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Minimize Abs 2",
+    "problem_url": "https://atcoder.jp/contests/abc330/tasks/abc330_c",
+    "submission_id": "AC48639609",
+    "submission_url": "https://atcoder.jp/contests/abc330/submissions/48639609",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/18/2023 16:20"
+  },
   "AC48646960": {
     "contest_id": "abc330",
     "language": "C++ 20 (gcc 12.2)",
