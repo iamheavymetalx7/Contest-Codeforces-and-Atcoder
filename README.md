@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-854 | [E - Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | [GNU C++20 (64)](./codeforces/1915/E.cpp) | `data structures` `greedy` `math` | Dec/29/2023 22:34 | 
-853 | [D - Unnatural Language Processing](https://codeforces.com/contest/1915/problem/D) | [PyPy 3-64](./codeforces/1915/D.py) | `dp` `greedy` `implementation` `strings` | Dec/29/2023 22:16 | 
-852 | [C - Can I Square?](https://codeforces.com/contest/1915/problem/C) | [GNU C++20 (64)](./codeforces/1915/C.cpp) | `binary search` `implementation` | Dec/29/2023 22:10 | 
-851 | [B - Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | [PyPy 3-64](./codeforces/1915/B.py) | `brute force` `implementation` | Dec/29/2023 22:09 | 
-850 | [A - Odd One Out](https://codeforces.com/contest/1915/problem/A) | [GNU C++20 (64)](./codeforces/1915/A.cpp) | `bitmasks` `implementation` `math` | Dec/29/2023 16:48 | 
-849 | [D - Counting Ls](https://atcoder.jp/contests/abc330/tasks/abc330_d) | [C++ 20 (gcc 12.2)](./atcoder/abc330/D.cpp) | `AtCoder` `*400` | Dec/19/2023 00:50 | 
-848 | [C - Minimize Abs 2](https://atcoder.jp/contests/abc330/tasks/abc330_c) | [C++ 20 (gcc 12.2)](./atcoder/abc330/C.cpp) | `AtCoder` `*300` | Dec/18/2023 16:20 | 
-847 | [B - Minimize Abs 1](https://atcoder.jp/contests/abc330/tasks/abc330_b) | [C++ 20 (gcc 12.2)](./atcoder/abc330/B.cpp) | `AtCoder` `*200` | Dec/18/2023 15:06 | 
+855 | [E - Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | [GNU C++20 (64)](./codeforces/1915/E.cpp) | `data structures` `greedy` `math` | Dec/29/2023 22:34 | 
+854 | [D - Unnatural Language Processing](https://codeforces.com/contest/1915/problem/D) | [PyPy 3-64](./codeforces/1915/D.py) | `dp` `greedy` `implementation` `strings` | Dec/29/2023 22:16 | 
+853 | [C - Can I Square?](https://codeforces.com/contest/1915/problem/C) | [GNU C++20 (64)](./codeforces/1915/C.cpp) | `binary search` `implementation` | Dec/29/2023 22:10 | 
+852 | [B - Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | [PyPy 3-64](./codeforces/1915/B.py) | `brute force` `implementation` | Dec/29/2023 22:09 | 
+851 | [A - Odd One Out](https://codeforces.com/contest/1915/problem/A) | [GNU C++20 (64)](./codeforces/1915/A.cpp) | `bitmasks` `implementation` `math` | Dec/29/2023 16:48 | 
+850 | [D - Counting Ls](https://atcoder.jp/contests/abc330/tasks/abc330_d) | [C++ 20 (gcc 12.2)](./atcoder/abc330/D.cpp) | `AtCoder` `*400` | Dec/19/2023 00:50 | 
+849 | [C - Minimize Abs 2](https://atcoder.jp/contests/abc330/tasks/abc330_c) | [C++ 20 (gcc 12.2)](./atcoder/abc330/C.cpp) | `AtCoder` `*300` | Dec/18/2023 16:20 | 
+848 | [B - Minimize Abs 1](https://atcoder.jp/contests/abc330/tasks/abc330_b) | [C++ 20 (gcc 12.2)](./atcoder/abc330/B.cpp) | `AtCoder` `*200` | Dec/18/2023 15:06 | 
+847 | [A - Counting Passes](https://atcoder.jp/contests/abc330/tasks/abc330_a) | [C++ 20 (gcc 12.2)](./atcoder/abc330/A.cpp) | `AtCoder` `*100` | Dec/18/2023 11:11 | 
 846 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [Python (CPython 3.11.4)](./atcoder/abc329/C.py) | `AtCoder` `*300` | Dec/16/2023 12:05 | 
 845 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 20 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Dec/16/2023 11:38 | 
 844 | [A - Spread](https://atcoder.jp/contests/abc329/tasks/abc329_a) | [C++ 20 (gcc 12.2)](./atcoder/abc329/A.cpp) | `AtCoder` `*100` | Dec/16/2023 11:35 | 
