@@ -2895,6 +2895,22 @@
     ],
     "timestamp": "Dec/16/2023 12:05"
   },
+  "AC48646960": {
+    "contest_id": "abc330",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc330/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Counting Ls",
+    "problem_url": "https://atcoder.jp/contests/abc330/tasks/abc330_d",
+    "submission_id": "AC48646960",
+    "submission_url": "https://atcoder.jp/contests/abc330/submissions/48646960",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/19/2023 00:50"
+  },
   "CF182286832": {
     "contest_id": 1744,
     "language": "PyPy 3-64",
