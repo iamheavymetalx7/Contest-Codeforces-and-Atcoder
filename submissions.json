@@ -16652,6 +16652,24 @@
     ],
     "timestamp": "Nov/20/2023 15:07"
   },
+  "CF239519408": {
+    "contest_id": 1915,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1915/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Unnatural Language Processing",
+    "problem_url": "https://codeforces.com/contest/1915/problem/D",
+    "submission_id": "CF239519408",
+    "submission_url": "https://codeforces.com/contest/1915/submission/239519408",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Dec/29/2023 22:16"
+  },
   "CF239521705": {
     "contest_id": 1915,
     "language": "GNU C++20 (64)",
