@@ -38,7 +38,7 @@
         int cur_sum =0;
         for(int i=0;i<n;i++){
             cur_sum+=a[i];
-            if (mp.count(cur_sum)>0){
+            if (mp.find(cur_sum)!=mp.end()){
                 cout<<"YES"<<endl;
                 return;
             }
