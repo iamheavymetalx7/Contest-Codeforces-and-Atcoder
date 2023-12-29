@@ -16652,6 +16652,23 @@
     ],
     "timestamp": "Nov/20/2023 15:07"
   },
+  "CF239483547": {
+    "contest_id": 1915,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1915/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd One Out",
+    "problem_url": "https://codeforces.com/contest/1915/problem/A",
+    "submission_id": "CF239483547",
+    "submission_url": "https://codeforces.com/contest/1915/submission/239483547",
+    "tags": [
+      "bitmasks",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Dec/29/2023 16:48"
+  },
   "CF239518500": {
     "contest_id": 1915,
     "language": "PyPy 3-64",
