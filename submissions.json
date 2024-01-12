@@ -3007,6 +3007,22 @@
     ],
     "timestamp": "Dec/19/2023 00:50"
   },
+  "AC49227239": {
+    "contest_id": "abc335",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc335/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "202<s>3</s>",
+    "problem_url": "https://atcoder.jp/contests/abc335/tasks/abc335_a",
+    "submission_id": "AC49227239",
+    "submission_url": "https://atcoder.jp/contests/abc335/submissions/49227239",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/12/2024 09:05"
+  },
   "AC49227386": {
     "contest_id": "abc335",
     "language": "Python (PyPy 3.10-v7.3.12)",
