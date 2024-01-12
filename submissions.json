@@ -3007,6 +3007,22 @@
     ],
     "timestamp": "Dec/19/2023 00:50"
   },
+  "AC49227386": {
+    "contest_id": "abc335",
+    "language": "Python (PyPy 3.10-v7.3.12)",
+    "path": "atcoder/abc335/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Tetrahedral Number",
+    "problem_url": "https://atcoder.jp/contests/abc335/tasks/abc335_b",
+    "submission_id": "AC49227386",
+    "submission_url": "https://atcoder.jp/contests/abc335/submissions/49227386",
+    "tags": [
+      "AtCoder",
+      "*150"
+    ],
+    "timestamp": "Jan/12/2024 09:19"
+  },
   "AC49227717": {
     "contest_id": "abc335",
     "language": "C++ 20 (gcc 12.2)",
