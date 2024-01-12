@@ -3007,6 +3007,22 @@
     ],
     "timestamp": "Dec/19/2023 00:50"
   },
+  "AC49227717": {
+    "contest_id": "abc335",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc335/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Loong Tracking",
+    "problem_url": "https://atcoder.jp/contests/abc335/tasks/abc335_c",
+    "submission_id": "AC49227717",
+    "submission_url": "https://atcoder.jp/contests/abc335/submissions/49227717",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/12/2024 09:48"
+  },
   "CF182286832": {
     "contest_id": 1744,
     "language": "PyPy 3-64",

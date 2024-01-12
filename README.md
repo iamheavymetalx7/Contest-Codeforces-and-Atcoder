@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+858 | [C - Loong Tracking](https://atcoder.jp/contests/abc335/tasks/abc335_c) | [C++ 20 (gcc 12.2)](./atcoder/abc335/C.cpp) | `AtCoder` `*300` | Jan/12/2024 09:48 | 
 857 | [E - Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | [GNU C++20 (64)](./codeforces/1915/E.cpp) | `data structures` `greedy` `math` | Dec/29/2023 22:34 | 
 856 | [D - Unnatural Language Processing](https://codeforces.com/contest/1915/problem/D) | [PyPy 3-64](./codeforces/1915/D.py) | `dp` `greedy` `implementation` `strings` | Dec/29/2023 22:16 | 
 855 | [C - Can I Square?](https://codeforces.com/contest/1915/problem/C) | [GNU C++20 (64)](./codeforces/1915/C.cpp) | `binary search` `implementation` | Dec/29/2023 22:10 | 
